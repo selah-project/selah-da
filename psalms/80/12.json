@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Den sendte sine skud ud til havet og til floden sine ranker.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "den sendte ud"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "sine skud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "sine ranker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:46.099111454Z",
+  "model": "glm-5.3"
+}

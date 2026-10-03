@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og denne kvindens søn døde om natten, fordi hun lagde sig over ham.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Og … døde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvindens"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "hun lagde sig"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:24.115811427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Mine øjne er blevet tavse af længslen efter din frelse og efter dit tsedeks ord.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mine øjne"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "er bleven tavse"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "efter din frelse"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "og efter ordet"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "af dit tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:12.457090413Z",
+  "model": "glm-5.3"
+}

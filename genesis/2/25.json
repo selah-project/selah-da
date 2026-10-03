@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og de var begge nøgne, mennesket og hans hustru, og de skammede sig ikke.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "og de var"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "begge"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nøgne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "skammede sig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:46.068330424Z",
+  "model": "glm-5.3"
+}

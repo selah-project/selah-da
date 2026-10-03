@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Et gennemtænkt menneske skjuler viden, men dårenes hjerte råber ⟨ud med⟩ dumhed.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "gennemtænkt"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "skjuler"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "viden"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "men hjerte"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårenes"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "råber"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dumhed"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:17.228326327Z",
+  "model": "glm-5.3"
+}

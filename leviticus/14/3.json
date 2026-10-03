@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal gå ud uden for lejren, og præsten skal se, og se, ⟨om⟩ lidelsen er lægt fra ⟨den⟩ ramte.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og han skal gå ud"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og han skal se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "er lægt"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "lidelsen"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "hudsygdommen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "⟨den⟩ ramte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:51.242385217Z",
+  "model": "glm-5.3"
+}

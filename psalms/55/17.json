@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Jeg vil kalde på Elohim, og Jahve vil frelse mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vil jeg kalde"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "vil frelse mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:08.540129930Z",
+  "model": "glm-5.3"
+}

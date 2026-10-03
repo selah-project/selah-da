@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Jahves engel sagde til hende: Jeg vil ganske vist multiplicere ⟨את⟩ dit afkom, så det ikke kan tælles for sin mangfoldighed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ganske vist multiplicere"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "vil jeg multiplicere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit afkom"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit afkom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kan tælles"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "for sin mangfoldighed"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:19.406159269Z",
+  "model": "glm-5.3"
+}

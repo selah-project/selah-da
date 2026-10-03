@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kongens trælle, som var i kongens port, sagde til Mordekaj: Hvorfor overtræder du ⟨את⟩ kongens befaling?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trællene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "til Mordekaj"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "overtræder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongens befaling"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "befalingen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:46.914600618Z",
+  "model": "glm-5.3"
+}

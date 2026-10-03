@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 150,
+  "translation": "Lovsynger ham med stød i shofar; lovsynger ham med nevel og kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lovsynger ham"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "med stød"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "i shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lovsynger ham"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "med nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "og kinor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:47.917530838Z",
+  "model": "glm-5.3"
+}

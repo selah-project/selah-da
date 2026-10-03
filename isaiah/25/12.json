@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og dit mures høje fæstningsværk bøjer han ned, ydmyger det, fører det ned til jorden, lige til støvet.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "og fæstningsværket"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "høje"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "dine mures"
+    },
+    {
+      "surface": "השח",
+      "gloss": "bøjer ned"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "ydmyger"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "fører ned"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lige til"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støvet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:37.676346014Z",
+  "model": "glm-5.3"
+}

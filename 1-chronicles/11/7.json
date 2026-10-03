@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og David boede i fæstningen; derfor kaldte de den Davids by.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og boede"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "i fæstningen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kaldte de"
+    },
+    {
+      "surface": "לו",
+      "gloss": "den"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:56.313661712Z",
+  "model": "glm-5.3"
+}

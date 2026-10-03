@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Endog fra dagen ⟨af⟩ er jeg ⟨han⟩, og der er ingen, der frelser fra min hånd; jeg handler, og hvem kan vende det tilbage?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "endog"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "fra dagen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨han⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "fra min hånd"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "jeg handler"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "kan vende det tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:41.136525305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Bedre en håndfuld ro end begge næver fulde af møje og kval af ruach.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bedre"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fylde"
+    },
+    {
+      "surface": "כף",
+      "gloss": "håndfuld"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ro"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "end… fulde"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "begge næver"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "og kval"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:57.308757157Z",
+  "model": "glm-5.3"
+}

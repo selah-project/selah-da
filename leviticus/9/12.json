@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han slagtede ⟨את⟩ brændofferet, og Aharons sønner bar ⟨את⟩ blodet frem til ham, og han stænkede det på alteret rundt om.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "og slagtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "og bar frem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "og stænkede det"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:35.529674868Z",
+  "model": "glm-5.3"
+}

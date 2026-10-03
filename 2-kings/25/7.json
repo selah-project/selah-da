@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og ⟨את⟩ Tsidkijahus sønner slagtede de for hans øjne; og Tsidkijahus øjne blindede de, og de bandt ham i kobberlænker og førte ham til Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahus sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "slagtede"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "for hans øjne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahus øjne"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahus"
+    },
+    {
+      "surface": "עור",
+      "gloss": "blindede"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "bandt ham"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "i kobberlænker"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "førte ham"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:11.785145130Z",
+  "model": "glm-5.3"
+}

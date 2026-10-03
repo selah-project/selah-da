@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Kom, lad os vende tilbage til Jahve, for han har flænset ⟨os⟩, og han vil læge os; han har slået ⟨os⟩, og han vil forbinde os.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "lad os vende tilbage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "har flænset"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "og han vil læge os"
+    },
+    {
+      "surface": "יך",
+      "gloss": "har slået"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "og han vil forbinde os"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:51.268821873Z",
+  "model": "glm-5.3"
+}

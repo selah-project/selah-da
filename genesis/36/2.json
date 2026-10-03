@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Esav tog ⟨את⟩ sine hustruer fra døtrene af Kenaan: ⟨את⟩ Ada, datter af Elon hetiten, og ⟨את⟩ Oholivama, datter af Ana, datter af Tsivon hiviten.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine hustruer"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sine hustruer"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "fra døtrene af"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter af"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetiten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Oholivama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter af"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter af"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:16.203887160Z",
+  "model": "glm-5.3"
+}

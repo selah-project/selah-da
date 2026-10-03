@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Da taler han til dem i sin vrede, og i sin harme forskrækker han dem.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Da"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "taler han"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i sin vrede"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "og i sin harme"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "forskrækker han dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.784437830Z",
+  "model": "glm-5.3"
+}

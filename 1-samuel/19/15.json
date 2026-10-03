@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Shaul sendte ⟨את⟩ sendebudene for at se ⟨את⟩ David og sige: Bær ham op til mig i sengen, for at dræbe ham.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sendebudene"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "sendebudene"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sige"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Bær op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "i sengen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "for at dræbe ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:09.540789247Z",
+  "model": "glm-5.3"
+}

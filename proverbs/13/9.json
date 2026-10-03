@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "De retfærdiges lys glæder sig, men de ondes lampe slukkes.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "men lampen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "slukkes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:54.450054856Z",
+  "model": "glm-5.3"
+}

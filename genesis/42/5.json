@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Jisraels sønner kom for at købe ⟨korn⟩ blandt dem, der kom, for hungersnøden var i landet Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "for at købe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "dem der kom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnøden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:06.432678712Z",
+  "model": "glm-5.3"
+}

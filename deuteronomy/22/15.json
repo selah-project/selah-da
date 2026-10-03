@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "så skal faderen til den unge kvinde og hendes moder tage og frembringe den unge kvinders ⟨את⟩ jomfruelighedsbeviser til byens ældste ved byporten.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "og skal tage"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faderen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "til den unge kvinde"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og hendes moder"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "og frembringe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jomfruelighedsbeviserne"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "jomfruelighedsbeviser"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge kvindes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ved byporten"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:19.371358495Z",
+  "model": "glm-5.3"
+}

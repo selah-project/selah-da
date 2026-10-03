@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Par'o vil sige om Bnei Jisraels børn: De er forvirret i landet, ørkenen har lukket sig om dem.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og vil sige"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "om børnene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "forvirret"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "har lukket sig"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "om dem"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:58.540712036Z",
+  "model": "glm-5.3"
+}

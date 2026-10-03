@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og du må ikkegive dig iægteskab med dem; din datter må du ikke give til hans søn, og hans datter må du ikke tage til din søn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "give dig iægteskab"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "din datter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "må du give"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "til hans søn"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "og hans datter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "må du tage"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "til din søn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:14.488950974Z",
+  "model": "glm-5.3"
+}

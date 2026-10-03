@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Godt har du handlet med din træl, Jahve, efter dit ord.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du handlet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "efter dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:10.711816354Z",
+  "model": "glm-5.3"
+}

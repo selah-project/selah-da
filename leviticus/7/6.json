@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Enhver mand blandt præsterne må spise det; på et helligt sted skal det spises; det er højhelligt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mand"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "blandt præsterne"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "må spise det"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på et sted"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal spises"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "hellige (højhelligt)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:45.366690373Z",
+  "model": "glm-5.3"
+}

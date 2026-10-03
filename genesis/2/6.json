@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og en dis steg op fra jorden og vandede ⟨את⟩ hele ⟨det⟩ ansigt af jordbunden.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "og en dis"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "og vandede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele ansigt af jordbunden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "af jordbunden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:14.291250087Z",
+  "model": "glm-5.3"
+}

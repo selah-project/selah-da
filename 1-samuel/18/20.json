@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Mikal, Shauls datter, elskede ⟨את⟩ David; og de fortalte det til Shaul, og sagen var ret i hans øjne.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Og elskede"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "og de fortalte"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og var ret"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:32.080609042Z",
+  "model": "glm-5.3"
+}

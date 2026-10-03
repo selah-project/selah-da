@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 15:13",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Din formue og dine skatte vil jeg give til plyndring, ikke for betaling, og det for alle dine synder, i alle dine grænser.",
+  "tokens": [
+    {
+      "surface": "חילך",
+      "gloss": "din formue"
+    },
+    {
+      "surface": "ואוצרותיך",
+      "gloss": "og dine skatte"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "til plyndring"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vil jeg give"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "for betaling"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og for alle"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "dine synder"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "dine grænser"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:52.697501197Z",
+  "model": "glm-5.3"
+}

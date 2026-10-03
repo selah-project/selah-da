@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "En røst høres på de bare højder, gråd og bønner fra Jisraels børn; thi de har kroket ⟨את⟩ deres vej, de har glemt ⟨את⟩ Jahve, deres Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "En røst"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "de bare højder"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "høres"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "gråd"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "bønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "har kroket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres vej"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "deres vej"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "har glemt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, deres Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:58.231559152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Avraham gav ⟨את⟩ navnet på sin søn, der var født ham, som Sarah fødte ham, Jitschak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "der var født"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:43.146337887Z",
+  "model": "glm-5.3"
+}

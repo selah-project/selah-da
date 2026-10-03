@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 23:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Derfor, se, dage kommer, siger Jahve, og de skal ikke mere sige: Så sandt Jahve lever, som førte ⟨את⟩ Israels børn op fra landet Mitsrajim —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Derfor"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de skal sige"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "førte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:00.503572107Z",
+  "model": "glm-5.3"
+}

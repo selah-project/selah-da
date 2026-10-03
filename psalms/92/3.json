@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "For at forkynde om morgenen din chesed og din trofasthed i nætterne",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "for at forkynde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "og din trofasthed"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "i nætterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:01.722465174Z",
+  "model": "glm-5.3"
+}

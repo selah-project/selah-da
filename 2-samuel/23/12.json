@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han stillede sig midt i parcellen og reddede den og slog ⟨את⟩ filisterne, og Jahve gjorde en stor frelse.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "og han stillede sig"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "parcellen"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "og reddede den"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "en frelse"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:54.851699315Z",
+  "model": "glm-5.3"
+}

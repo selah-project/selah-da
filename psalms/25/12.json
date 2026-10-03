@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Hvem er ⟨det⟩ menneske, der frygter Jahve? Ham vil han lære den vej, ⟨han⟩ skal vælge.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨det⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ham vil han lære"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "den vej"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "skal vælge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:06.801667294Z",
+  "model": "glm-5.3"
+}

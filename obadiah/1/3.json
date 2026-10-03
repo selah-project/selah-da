@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Dit hjertes overmod har ført dig vilde, du som bor i kløfter i klippen, på højden ⟨er⟩ din bolig, du som siger i dit hjerte: Hvem kan bringe mig ned til jorden?",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "overmod"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjertes"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "har ført dig vilde"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "du som bor"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "i kløfter"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "i klippen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "på højden"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "din bolig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "du som siger"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i dit hjerte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "kan bringe mig ned"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "til jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T17:55:45.613679308Z",
+  "model": "glm-5.3"
+}

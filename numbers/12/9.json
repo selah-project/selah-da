@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahves vrede flarede op imod dem, og han gik bort.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "flarede op i vrede"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בם",
+      "gloss": "imod dem"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik bort"
+    }
+  ],
+  "timestamp": "2026-10-03T15:08:32.378722975Z",
+  "model": "glm-5.3"
+}

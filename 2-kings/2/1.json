@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og det skete, da Jahve skulle tage ⟨את⟩ Eliyahu op i stormen til himlene, at Eliyahu gik med Elisha fra Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "da ... skulle tage op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "i stormen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "til himlene"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "med Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:18.393151377Z",
+  "model": "glm-5.3"
+}

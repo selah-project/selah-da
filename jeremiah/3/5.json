@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Vredes ⟨han⟩ evigt, vogter ⟨han det⟩ til evig tid? Se, du har talt, og du gjorde de onde ting og formåede ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "vredes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "du har talt"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "og du gjorde"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "de onde ting"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "og formåede"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:15.347984542Z",
+  "model": "glm-5.3"
+}

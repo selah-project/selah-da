@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og David sagde til Shaul: Hvorfor hører du på ⟨את⟩ menneskers ord, som siger: Se, David søger din ulykke?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hører du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menneskers ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskers"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "som siger"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "din ulykke"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:42.691164168Z",
+  "model": "glm-5.3"
+}

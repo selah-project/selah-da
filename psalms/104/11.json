@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "De vælder alle markens dyr, vildæslerne slukker deres tørst.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "de vælder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "slukker"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "vildæslerne"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "deres tørst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:03.229045201Z",
+  "model": "glm-5.3"
+}

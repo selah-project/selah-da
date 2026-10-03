@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "og du tager af hans døtre til dine sønner, og hans døtre bedriver utugt med deres guder og får dine sønner til at bedrive utugt med deres guder.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "og du tager"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "af hans døtre"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "til dine sønner"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "og de bedriver utugt"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "hans døtre"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "med"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "deres guder"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "og får ... til at bedrive utugt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine sønner"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "med"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "deres guder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:38.355682478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Og han brændte ⟨את⟩ Jahves hus og ⟨את⟩ kongens hus og ⟨את⟩ alle Jerushalajims huse; og ⟨את⟩ hvert stort hus brændte han med ild.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "og han brændte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kongens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle Jerushalajims huse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hvert stort hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    }
+  ],
+  "timestamp": "2026-10-03T17:30:23.919113364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Min Elohim, i dig har jeg sat min tillid; lad mig ikke komme i skam, lad ikke mine fjender juble over mig.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Min Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg sat min tillid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "komme i skam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:36.225158394Z",
+  "model": "glm-5.3"
+}

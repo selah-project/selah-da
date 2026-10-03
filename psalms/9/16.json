@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Folkene er sunket i gruben, de gjorde; i netten, ⟨den⟩ skjulte ⟨de⟩, er deres fod fanget.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "er sunket"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "i gruben"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de gjorde"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "i netten"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨den⟩"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "skjulte ⟨de⟩"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "er fanget"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "deres fod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:54.157792158Z",
+  "model": "glm-5.3"
+}

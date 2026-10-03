@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og kong David var gammel, kommen op i dage, og man dækkede ham med klæder, men han fik ingen varme.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Og kongen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "op i dage"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "og man dækkede ham"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "med klæder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "fik han varme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:16.232388455Z",
+  "model": "glm-5.3"
+}

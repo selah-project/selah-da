@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg vil forlove dig med mig i trofasthed, og du skal kende ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "og jeg vil forlove dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "i trofasthed"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "og du skal kende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:25.607121376Z",
+  "model": "glm-5.3"
+}

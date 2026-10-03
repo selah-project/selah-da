@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Lys går op i mørket for de retfærdige; han er nådig og barmhjertig og retfærdig.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "går op"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "for de retfærdige"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "og barmhjertig"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "og retfærdig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:22.345233994Z",
+  "model": "glm-5.3"
+}

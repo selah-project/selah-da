@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og I skal adskille ⟨את⟩ Jisraels børn fra deres urenhed, så de ikke dør i deres urenhed, når de gør mit Mishkan urent, som er iblandt dem.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "Og I skal adskille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "fra deres urenhed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "dør"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "i deres urenhed"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "når de gør urent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit Mishkan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "mit Mishkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:02.651841061Z",
+  "model": "glm-5.3"
+}

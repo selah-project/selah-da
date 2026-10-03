@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og den, der rører ved den fløgendes kød, skal vaske sine klæder og bade sig i vandet og være uren indtil aftenen.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "Og den, der rører"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ved kødet"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "af den flødende"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal vaske"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og bade sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vandet"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og være uren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:44.283946971Z",
+  "model": "glm-5.3"
+}

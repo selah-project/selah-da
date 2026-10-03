@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Ved dette ved jeg, at du har behag i mig: at min fjende ikke jubler over mig.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ved dette"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ved jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "du har behag"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "jubler"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "min fjende"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:47.735253201Z",
+  "model": "glm-5.3"
+}

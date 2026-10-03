@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og ⟨את⟩ fedtet fra syndofferet skal han gøre røgelse af på alteret.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "fra syndofferet"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "skal han gøre røgelse af"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:38.635502808Z",
+  "model": "glm-5.3"
+}

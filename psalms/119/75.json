@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg ved, Jahve, at tsedek er dine domme, og at du i troskab har ydmyget mig.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Jeg ved"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "er dine domme"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "og i troskab"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "har ydmyget mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.473066763Z",
+  "model": "glm-5.3"
+}

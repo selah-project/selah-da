@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Moshe tog salvingsolien og salvede ⟨את⟩ Mishkanen og ⟨את⟩ alt hvad der var i det, og han helligede ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og Moshe tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salvingsolien"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "salvings-"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "og salvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "der var i det"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "og han helligede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:19.319720105Z",
+  "model": "glm-5.3"
+}

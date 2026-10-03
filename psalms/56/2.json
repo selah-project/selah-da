@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Vær mig nådig, Elohim, for en dødelig snapper efter mig; hele dagen kæmpende trænger han mig.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Vær mig nådig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "snapper efter mig"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "en dødelig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kæmpende"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "trænger han mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:26.723631721Z",
+  "model": "glm-5.3"
+}

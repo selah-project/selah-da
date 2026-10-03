@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jafets sønner: Gomer og Magog og Madaj og Javan og Tuval og Meshek og Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafets"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "og Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "og Madaj"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "og Javan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "og Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "og Meshek"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "og Tiras"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:41.162470772Z",
+  "model": "glm-5.3"
+}

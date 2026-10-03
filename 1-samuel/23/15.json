@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David så, at Saul var draget ud for at søge ⟨את⟩ hans liv. Men David var i Zifs ørken, i skoven.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og David så"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "var draget ud"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "for at søge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans liv"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans liv"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Men David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifs"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "i skoven"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:58.585831731Z",
+  "model": "glm-5.3"
+}

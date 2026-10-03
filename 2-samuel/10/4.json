@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Hanun tog Davids ⟨את⟩ trælle og rak ⟨את⟩ halvdelen af deres skæg og klippede ⟨את⟩ deres klæder af midt på, helt op til deres bagdele, og sendte dem bort.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids trælle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "og rak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halvdelen af deres skæg"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halvdelen af"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "deres skæg"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "og klippede af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres klæder"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "deres klæder"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "midt på"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt op til"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "deres bagdele"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "og sendte dem bort"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:11.656839948Z",
+  "model": "glm-5.3"
+}

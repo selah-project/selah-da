@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og jeg vender skæbnen for Jehudah og ⟨את⟩ skæbnen for Jisrael, og jeg genopbygger dem som i begyndelsen.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "og jeg vender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skæbnen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "skæbnen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skæbnen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "skæbnen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "og jeg genopbygger dem"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "som i begyndelsen"
+    }
+  ],
+  "timestamp": "2026-10-03T17:22:04.926063939Z",
+  "model": "glm-5.3"
+}

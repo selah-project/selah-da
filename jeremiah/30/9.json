@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og de skal tjene ⟨את⟩ Jahve, deres Elohim, og ⟨את⟩ David, deres konge, som jeg vil rejse for dem.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Og de skal tjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, deres Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "David, deres konge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "deres konge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "jeg vil rejse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:19:56.204937410Z",
+  "model": "glm-5.3"
+}

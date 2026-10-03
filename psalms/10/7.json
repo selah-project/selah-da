@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Forbandelse fylder hans mund og svig og undertrykkelse; under hans tunge er møje og ondskab.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Forbandelse"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mund"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fylder"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "og svig"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "og undertrykkelse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "hans tunge"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "og ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:32.411032354Z",
+  "model": "glm-5.3"
+}

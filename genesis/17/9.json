@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Elohim sagde til Avraham: Og du skal holde ⟨את⟩ min pagt, du og dit sæd efter dig, i deres slægter.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "skal holde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "og dit sæd"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "i deres slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:48.826639943Z",
+  "model": "glm-5.3"
+}

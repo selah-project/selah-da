@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Folk, lovprais vor Elohim, og lad stemmen af hans pris lyde.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "lovprais"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Folk"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "og lad lyde"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stemmen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "af hans pris"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:49.263182531Z",
+  "model": "glm-5.3"
+}

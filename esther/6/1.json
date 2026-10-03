@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Den nat flygtede kongens søvn, og han sagde, at man skulle bringe ⟨את⟩ mindesbogen, dagbogens ord, og de blev læst op for kongen.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "den nat"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "flygtede"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "søvn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "at bringe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindesbogen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bogen"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "mindes-"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "af dagene"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de blev"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "læst op"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:37.083788910Z",
+  "model": "glm-5.3"
+}

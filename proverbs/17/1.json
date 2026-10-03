@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Bedre er en tør bid ⟨og⟩ ro dermed end et hus fuldt af slagteofre ⟨med⟩ tvedrang.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "פת",
+      "gloss": "bid"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "tør"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "og ro"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dermed"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "end et hus"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fuldt"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "af slagteofre"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tvedrang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:34.606793203Z",
+  "model": "glm-5.3"
+}

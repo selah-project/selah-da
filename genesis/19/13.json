@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "for vi ødelægger ⟨את⟩ dette sted, for deres skrig er vokset stort for ⟨את⟩ ansigtet af Jahve, og Jahve har sendt os for at ødelægge det.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "ødelægger"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette sted"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "er vokset stort"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "deres skrig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansigtet af Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "har sendt os"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "for at ødelægge det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:46.003620718Z",
+  "model": "glm-5.3"
+}

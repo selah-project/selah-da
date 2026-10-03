@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og de gjorde ⟨את⟩ minchaen klar indtil Yosef kom hjem ved middagstid, for de havde hørt, at de dér skulle spise brød.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "og de gjorde klar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchaen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ved middagstid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "de havde hørt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dé r"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skulle spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:45.532743036Z",
+  "model": "glm-5.3"
+}

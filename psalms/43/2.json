@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Thi du er min Elohim, min borg; hvorfor har du forkastet mig? Hvorfor går jeg mørk ⟨i sorg⟩, under fjendens tryk?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "min borg"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "har du forkastet mig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "går jeg mørk"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "⟨i sorg⟩"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "under tryk"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjendens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:17.327700239Z",
+  "model": "glm-5.3"
+}

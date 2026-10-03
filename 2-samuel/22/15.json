@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og han udsendte pile og spredte dem, lyn, og forvirrede dem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og han udsendte"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "pile"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "og spredte dem"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "lyn"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "og forvirrede dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:46.534659659Z",
+  "model": "glm-5.3"
+}

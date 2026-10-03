@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete, da Achav så ⟨את⟩ Elija, at Achav sagde til ham: Er det dig, du som forstyrrer Jisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "da … så"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elija"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Er det dig"
+    },
+    {
+      "surface": "זה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "forstyrrer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:13.280852688Z",
+  "model": "glm-5.3"
+}

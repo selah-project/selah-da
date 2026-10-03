@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Og de retfærdige skal se det og frygte og le ad ham.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "og skal se"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "og frygte"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "og ad ham"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:37.624915183Z",
+  "model": "glm-5.3"
+}

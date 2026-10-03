@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og ⟨את⟩ glenten og ⟨את⟩ høgen efter dens art,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "glenten"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "glenten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "høgen"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "høgen"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter dens art"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:33.383545657Z",
+  "model": "glm-5.3"
+}

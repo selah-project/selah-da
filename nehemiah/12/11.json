@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jojada avlede ⟨את⟩ Jonatan, og Jonatan avlede ⟨את⟩ Jaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Og Jojada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "og Jonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaddua"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:30.384377301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Jahve bærer de ydmyge; han styrter de gudløse ned til jorden.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "bærer"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ydmyge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "styrter ned"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:09.510976624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "og ⟨את⟩ Kibtsajim og ⟨את⟩ dens græsgange og ⟨את⟩ Beit-Choron og ⟨את⟩ dens græsgange — fire byer",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kibtsajim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:09.637116444Z",
+  "model": "glm-5.3"
+}

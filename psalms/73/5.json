@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "I mødets elende er de ikke, og med mennesker blive de ikke ramt.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "i elende"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dødelige"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "er de ikke"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "blive de ramt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:25.440016048Z",
+  "model": "glm-5.3"
+}

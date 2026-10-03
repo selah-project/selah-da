@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Og Elohim ⟨er⟩ min konge fra fordums tid, han som virker frelse i midten af ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Og Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min konge"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "fra fordums tid"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "virker"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i midten af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.451204098Z",
+  "model": "glm-5.3"
+}

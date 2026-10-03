@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Ingen er hellig som Jahve, for der er ingen uden dig, og der er ingen klippe som vor Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ingen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "er hellig"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "som Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "uden dig"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippe"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "som vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:44.527575214Z",
+  "model": "glm-5.3"
+}

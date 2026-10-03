@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Dine ord, når de åbnes, lyser op; de giver de enfoldige forstand.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "åbnes"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "Dine ord"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "lyser op"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "giver … forstand"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "de enfoldige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:57.728788415Z",
+  "model": "glm-5.3"
+}

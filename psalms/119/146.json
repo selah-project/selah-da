@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg råbte til dig — frels mig, og jeg vil holde dine vidnesbyrd.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "jeg råbte til dig"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "frels mig"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "og jeg vil holde"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:43.383211339Z",
+  "model": "glm-5.3"
+}

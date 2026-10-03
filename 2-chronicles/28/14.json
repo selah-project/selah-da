@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og de væbnede forlod ⟨את⟩ fangerne og ⟨את⟩ byttet foran høvdingene og hele forsamlingen.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "og forlod"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "de væbnede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fangerne"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "fangerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "byttet"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "byttet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "høvdingene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "forsamlingen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:44.161852142Z",
+  "model": "glm-5.3"
+}

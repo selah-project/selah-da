@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Løgn hader jeg og afskyr den, din Tora elsker jeg.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hader jeg"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "og afskyr den"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "elsker jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:45.707238830Z",
+  "model": "glm-5.3"
+}

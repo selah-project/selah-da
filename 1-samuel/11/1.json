@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Nakhash, ⟨den⟩ ammonitt, drog op og slog lejr mod Jabesh i Gilad; og alle mændene i Jabesh sagde til Nakhash: Slut en pagt med os, og vi vil tjene dig.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhash"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "⟨den⟩ ammonitt"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "og slog lejr"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Jabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mændene i"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhash"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "slut"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "med os"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "en pagt"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "og vi vil tjene dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:55.671145538Z",
+  "model": "glm-5.3"
+}

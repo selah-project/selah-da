@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Satan gik ud fra ⟨ansigtet af⟩ Jahve og slog Ijob med slemme bylder, fra fodsålen af hans fod til hans isse.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og gik ud"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ fra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "med bylder"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slemme"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "fra fodsålen"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "af hans fod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "hans isse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:55.356090624Z",
+  "model": "glm-5.3"
+}

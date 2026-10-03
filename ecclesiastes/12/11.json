@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "De vises ord er som prikke og som naglede søm hos samlingsmestrene; de er givet af én hyrde.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vises"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "som prikke"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "og som søm"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "naglede"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mestrene"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "samlinger"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "de er givet"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "af hyrde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:45.061986178Z",
+  "model": "glm-5.3"
+}

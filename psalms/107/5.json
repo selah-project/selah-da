@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Sultne, ja tørstige, deres sjæl svækkedes i dem.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "sultne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "tørstige"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deres sjæl"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "svækkedes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:47.038728121Z",
+  "model": "glm-5.3"
+}

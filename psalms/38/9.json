@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Jeg ⟨er⟩ slappet og dybt knust, ⟨ja⟩ såre; jeg brøler af hjertets jamren.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "slappet"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "og dybt knust"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ja⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "såre"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "jeg brøler"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "af jamren"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjertets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:39.464989739Z",
+  "model": "glm-5.3"
+}

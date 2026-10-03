@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Thi Mordechai var stor i kongens hus, og rygtet om ham gik ud i alle provinserne, thi manden Mordechai gik frem og blev større og større.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "var stor"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "og rygtet om ham"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provinserne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gik frem"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "og blev større og større"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:56.918485808Z",
+  "model": "glm-5.3"
+}

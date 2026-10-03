@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Om ondskab er sød i hans mund, skjuler han den under sin tunge.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "er sød"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "i hans mund"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "skjuler han den"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "sin tunge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:57.650454725Z",
+  "model": "glm-5.3"
+}

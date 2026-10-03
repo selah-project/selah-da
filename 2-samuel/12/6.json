@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "og ⟨את⟩ fåret skal han betale firdobbelt, fordi han gjorde ⟨את⟩ denne ting, og fordi han ikke skånnede.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fåret"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "fåret"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal han betale"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "firdobbelt"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne ting"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "denne ting"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨denne⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "skånnede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:30.715990194Z",
+  "model": "glm-5.3"
+}

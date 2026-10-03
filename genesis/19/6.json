@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Lot gik ud til dem ad døren og lukkede døren efter sig.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ad døren"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "og døren"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "lukkede"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter sig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:29.978998842Z",
+  "model": "glm-5.3"
+}

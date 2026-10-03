@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Menashe ⟨את⟩ Efrajim, og Efrajim ⟨את⟩ Menashe — sammen er de mod Jehuda. Trods alt dette vender hans vrede sig ikke, og hans hånd er stadig strakt ud.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "og Efrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trods alt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שב",
+      "gloss": "venter"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sin vrede"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "og stadig"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "er strakt ud"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:34.633607725Z",
+  "model": "glm-5.3"
+}

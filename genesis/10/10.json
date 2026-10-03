@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og begyndelsen på hans rige var Bavel og Erek og Akkad og Kalne, i landet Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Og … var"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "begyndelsen"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "på hans rige"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "og Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "og Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "og Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:06.221802040Z",
+  "model": "glm-5.3"
+}

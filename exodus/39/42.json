@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Efter alt det, som Jahve havde påbudt ⟨את⟩ Moshe, således gjorde Jisraels sønner ⟨את⟩ hele arbejdet.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Efter alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele arbejdet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "arbejdet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:30.915534471Z",
+  "model": "glm-5.3"
+}

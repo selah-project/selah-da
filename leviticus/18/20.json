@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og med din nærmes hustru må du ikke give dit samleje som sæd, til urenhed med hende.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "og med"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "din nærmes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "må du give"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "dit samleje"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "som sæd"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "til urenhed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "med hende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:37.640400310Z",
+  "model": "glm-5.3"
+}

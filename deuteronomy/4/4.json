@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og I, der holder fast ved Jahve, jeres Elohim — I er alle i live i dag.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Og I"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "der holder fast ved"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i live"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "I alle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:44.716485784Z",
+  "model": "glm-5.3"
+}

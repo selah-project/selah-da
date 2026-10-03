@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Disse er Kams sønner efter deres familier, efter deres tungemål, i deres lande, i deres folk.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter deres familier"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "efter deres tungemål"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "i deres lande"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "i deres folk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:03.548698100Z",
+  "model": "glm-5.3"
+}

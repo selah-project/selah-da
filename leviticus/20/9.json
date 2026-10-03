@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Thi en hver mand, som forbander ⟨את⟩ sin fader og ⟨את⟩ sin moder — døden skal han dø; sin fader og sin moder har han forbandet, hans blod er over ham.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "forbander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin moder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin moder"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal han dø"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "og sin moder"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "har forbandet"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "hans blod"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er over ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:10.187975781Z",
+  "model": "glm-5.3"
+}

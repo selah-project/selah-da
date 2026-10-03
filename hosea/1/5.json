@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det skal ske på den dag, at jeg knækker ⟨את⟩ Jisraels bue i Jizre'el-dalen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "at jeg knækker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels bue"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizre'el"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:58.030273189Z",
+  "model": "glm-5.3"
+}

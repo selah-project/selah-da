@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Jeg blev stum, jeg åbnede ikke min mund, for ⟨det var⟩ du, der gjorde ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "jeg blev stum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "jeg åbnede"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gjorde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:42.159307035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og alt folket gik, hver mand til sit hus; og David vendte tilbage for at velsigne ⟨את⟩ sit hus.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "til sit hus"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "for at velsigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:21.966638738Z",
+  "model": "glm-5.3"
+}

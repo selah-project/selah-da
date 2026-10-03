@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og det skete, så snart som kongeriget var blevet fast i hans hånd, at han slog ⟨את⟩ sine trælle, de der havde slået ⟨את⟩ kongen, hans far.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så snart som"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "var blevet fast"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "slog han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine trælle"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælle"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "de der havde slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:38.113808033Z",
+  "model": "glm-5.3"
+}

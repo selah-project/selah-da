@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Da Elohim stod op til dom, for at frelse alle ydmyge i landet. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "da … stod op"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "til dom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "for at frelse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ydmyge"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.903254903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Jahve, du førte min sjæl op fra Sheol, du holdt mig i live blandt dem, der stiger ned i gruben.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "førte du op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "holdt du mig i live"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "blandt dem der stiger ned"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i gruben"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:45.831715428Z",
+  "model": "glm-5.3"
+}

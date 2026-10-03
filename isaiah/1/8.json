@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og datteren Tzion bliver efterladt som en hytte i en vingård, som en vagterhytte i et agurkebed, som en belejret by.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "og efterladt"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datteren"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "som en hytte"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "i en vingård"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "som en vagterhytte"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "i et agurkebed"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "som en by"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "belejret"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:50.535885395Z",
+  "model": "glm-5.3"
+}

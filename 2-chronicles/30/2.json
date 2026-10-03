@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og kongen holdt råd med sine høvdinger og hele forsamlingen i Jerushalajim om at holde pesach i den anden måned.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "holdt råd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "med sine høvdinger"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "forsamlingen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om at holde"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:27:17.038843113Z",
+  "model": "glm-5.3"
+}

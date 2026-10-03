@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og du skal tage ⟨את⟩ de to shoham-sten, og du skal gravere på dem Jisraels sønners navne.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Og du skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to shoham-sten"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "de to"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "sten"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "og du skal gravere"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:35.053179919Z",
+  "model": "glm-5.3"
+}

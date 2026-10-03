@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Josef bosatte ⟨את⟩ sin far og ⟨את⟩ sine brødre og gav dem en besiddelse i landet Mitsrajim, i det bedste af landet, i landet Raamses, som Farao havde befalet.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Og … bosatte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "en besiddelse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "i det bedste af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befalet"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:09.676216706Z",
+  "model": "glm-5.3"
+}

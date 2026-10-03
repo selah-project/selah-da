@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og solen steg op for ham, da han var gået forbi ⟨את⟩ Penuel, og han haltede på sin hofte.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "Og ... steg op"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "var gået forbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "haltede"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "sin hofte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:11.818479572Z",
+  "model": "glm-5.3"
+}

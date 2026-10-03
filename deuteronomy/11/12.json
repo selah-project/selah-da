@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "et land, som Jahve din Elohim søger ⟨את⟩ ⟨det⟩ bestandigt; Jahve din Elohims øjne ⟨er⟩ på det, fra begyndelsen af året og til enden af året.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (landet), bestandigt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på det"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "fra begyndelsen"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "af året"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "enden"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "af året"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:13.117507904Z",
+  "model": "glm-5.3"
+}

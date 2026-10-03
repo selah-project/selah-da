@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "I, som hader det gode og elsker det onde, I, som flår huden af dem og kødet fra deres knogler —",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "som hader"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "og elsker"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "som flår"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "huden"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "af dem"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "og deres kød"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "deres knogler"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:01.006834069Z",
+  "model": "glm-5.3"
+}

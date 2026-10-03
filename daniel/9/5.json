@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Vi har syndet og gjort uret og handlet gudløst og er-myrdet ⟨os⟩ — og vi har vendt os bort fra dine bud og fra dine domme.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Vi har syndet"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "og gjort uret"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "og handlet gudløst"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "og er-myrdet ⟨os⟩"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "vi har vendt os bort"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "fra dine bud"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "og fra dine domme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:59:41.363481489Z",
+  "model": "glm-5.3"
+}

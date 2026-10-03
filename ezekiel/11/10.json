@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Ved sværd skal I falde; på Jisraels grænse vil jeg dømme ⟨את⟩ jer, og I skal vide, at jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ved sværd"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "skal I falde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "vil jeg dømme"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "og I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:33:06.225560934Z",
+  "model": "glm-5.3"
+}

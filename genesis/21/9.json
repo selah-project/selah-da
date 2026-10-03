@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Sarah så ⟨את⟩ sønnen af Hagar, ægypterinden, som hun havde født til Avraham, spottende.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Og … så"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sønnen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sønnen"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "af Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ægypterinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "havde født"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "spottende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:48.828483140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 29:2",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "efter at Jekonja, kongen, ⟨og⟩ dronningemoderen ⟨og⟩ hofembedsmændene, høvdingerne i Jehuda og Jerushalajim, ⟨og⟩ håndværkerne og smedene var draget ud fra Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "efter at"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "draget ud"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jekonja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "והגבירה",
+      "gloss": "og dronningemoderen"
+    },
+    {
+      "surface": "והסריסים",
+      "gloss": "og hofembedsmændene"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "og Jerushalajim"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "og håndværkerne"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "og smedene"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "fra Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:20:55.891154206Z",
+  "model": "glm-5.3"
+}

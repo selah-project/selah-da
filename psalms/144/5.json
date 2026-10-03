@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Jahve, bøj dine himle, og stig ned; rør ved bjergene, og de skal ryge.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "bøj"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "dine himle"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "og stig ned"
+    },
+    {
+      "surface": "גע",
+      "gloss": "rør ved"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "og de skal ryge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:48.928210455Z",
+  "model": "glm-5.3"
+}

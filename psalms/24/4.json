@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Den med rene hænder og ren hjerte, ⟨han⟩ som ikke har løftet sin sjæl til tomhed og ikke har svoret på bedrag.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Den med rene"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "og ren"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "har løftet"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "til tomhed"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sin sjæl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "på bedrag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:42.957024941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "De onde har lagt en snare for mig, og fra dine bud er jeg ikke veget.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "har lagt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "og fra dine bud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "er jeg veget"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:14.808881187Z",
+  "model": "glm-5.3"
+}

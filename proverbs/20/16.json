@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Tag hans klædebon, for han gik i kaution for en fremmed, og tag pant af ham for fremmede.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hans klædebon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gik i kaution"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en fremmed"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og for"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "tag pant af ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:28.371144713Z",
+  "model": "glm-5.3"
+}

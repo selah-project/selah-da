@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "I din hånd betror jeg min ruach; du har forløst ⟨את⟩ mig, Jahve, El ⟨af⟩ sandhed.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "I din hånd"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "betror jeg"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ruach"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "du har forløst"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:57.584836063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hvis en svøpe pludselig dræber, lees ⟨han⟩ af de uskyldiges prøvelse.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "en svøpe"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "dræber"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "pludselig"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "af prøvelsen"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "de uskyldiges"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "lees han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:32.600521856Z",
+  "model": "glm-5.3"
+}

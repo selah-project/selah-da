@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Jahve, jeg elsker ⟨boligen i⟩ dit hus og stedet for din herligheds Mishkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jeg elsker"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "⟨boligen i⟩"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "og stedet"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "din herligheds"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:06.677173615Z",
+  "model": "glm-5.3"
+}

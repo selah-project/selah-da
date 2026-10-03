@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Dårligheden sættes i høje stillinger ⟨i⟩ mange, og rige sidder i det lave.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "sættes"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "dårligheden"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "i høje stillinger"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨i⟩ mange"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "og rige"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "i det lave"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sidder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:23.238478915Z",
+  "model": "glm-5.3"
+}

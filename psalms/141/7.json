@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Som når én pløjer og sprænger jorden, ⟨så⟩ er vore knogler blevet spredt ved Sheols mund.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "pløjer"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "og sprænger"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "spredt"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "vore knogler"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ved munden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:23.578406606Z",
+  "model": "glm-5.3"
+}

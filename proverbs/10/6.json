@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Velsignelser ⟨er⟩ over den retfærdiges hoved, men de ondes mund skjuler vold.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "velsignelser"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "over hovedet"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men munden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "skjuler"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:35.195677258Z",
+  "model": "glm-5.3"
+}

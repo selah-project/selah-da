@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Fra det land drog han ud til Ashur og byggede ⟨את⟩ Ninive og ⟨את⟩ Rechovot-Ir og ⟨את⟩ Kalach —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "drog han ud"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "til Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:06.222035958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Syng for Jahve en ny sang, syng for Jahve, hele jorden!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.416822310Z",
+  "model": "glm-5.3"
+}

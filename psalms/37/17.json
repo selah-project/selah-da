@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "For de gudløses arme bliver knust, men Jahve opretholder de retfærdige.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "arme"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløses"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bliver knust"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "men opretholder"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:24.663201535Z",
+  "model": "glm-5.3"
+}

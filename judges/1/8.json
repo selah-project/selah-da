@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jhudas sønner kæmpede mod Jerushalajim og indtog ⟨את⟩ hende og slog ⟨hende⟩ med sværdets mund, og ⟨את⟩ byen sendte de ud i ild.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Og … kæmpede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jhuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "mod Jerushalajim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "og indtog"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "hende (Jerushalajim)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med … mund"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sendte de"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ud i ild"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:30.814610448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Menneskets hjerte planlægger hans vej, men Jahve fæster hans skridt.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "planlægger"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hans vej"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "men Jahve"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "fæster"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "hans skridt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:03.227428050Z",
+  "model": "glm-5.3"
+}

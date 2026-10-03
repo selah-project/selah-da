@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Shemuël kaldte ⟨את⟩ folket sammen til Jahve i Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Og … kaldte sammen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "i Mitspa"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:05.787873073Z",
+  "model": "glm-5.3"
+}

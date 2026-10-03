@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og filisteren så sig om og fik øje på ⟨את⟩ David og foragtede ham, for han var ung og rødmosset og desuden skøn af skikkelse.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "og så sig om"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "og fik øje på"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "og foragtede ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ung"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "og rødmosset"
+    },
+    {
+      "surface": "עם",
+      "gloss": "desuden"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "skøn"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "af skikkelse"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:47.730585356Z",
+  "model": "glm-5.3"
+}

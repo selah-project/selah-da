@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Se, deres helte skriger udenfor; shalom-udsendinge græder bitterligt.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "deres helte"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "skriger"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "udenfor"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "udsendinge"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom-"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitterligt"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "græder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:06.553431444Z",
+  "model": "glm-5.3"
+}

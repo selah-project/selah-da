@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 23:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Matzot-højtidens ⟨את⟩ skal du vogte; i syv dage skal du spise matzot, således som jeg bød dig, til fastsat tid i Aviv-måneden, for i den udgik du fra Mitsrajim, og ingen skal se mit ansigt tomhændet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matzot-højtidens"
+    },
+    {
+      "surface": "חג",
+      "gloss": "højtid"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matzot"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "skal du vogte"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal du spise"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matzot"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "jeg bød dig"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "til fastsat tid"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "måneden"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "udgik du"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "skal se"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tomhændet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:32.457470762Z",
+  "model": "glm-5.3"
+}

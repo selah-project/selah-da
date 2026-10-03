@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og Jaakov sagde til Rivka, sin mor: Se, Esav, min bror, er en behåret mand, og jeg er en glat mand.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min bror"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "שער",
+      "gloss": "behåret"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "glat"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:29.119476954Z",
+  "model": "glm-5.3"
+}

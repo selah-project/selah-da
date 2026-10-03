@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og ⟨han ⟩ stod mellem de døde og mellem de levende, og plagen blev standset.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de døde"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "og blev standset"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "plagen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:10:11.003349284Z",
+  "model": "glm-5.3"
+}

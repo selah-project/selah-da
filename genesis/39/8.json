@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Men han nægtede og sagde til sin herres hustru: Se, min herre kender ikke med ⟨את⟩ mig, hvad der er i huset, og alt, hvad han ejer, har han givet i min hånd.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Men han nægtede"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herres"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (Yosef)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יש",
+      "gloss": "han ejer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har han givet"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i min hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:26:57.716107293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten hælder af olien på sin venstre håndflade.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Og af"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "hælder"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כף",
+      "gloss": "håndfladen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præstens"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "venstre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:54.285423715Z",
+  "model": "glm-5.3"
+}

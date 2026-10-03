@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og den dag kom, og Elqana ofrede og gav Peninna, sin hustru, og alle hendes sønner og døtre portioner.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "og ofrede"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "til Peninna"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og til alle"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hendes sønner"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "og hendes døtre"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "portioner"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:42.681795270Z",
+  "model": "glm-5.3"
+}

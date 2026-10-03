@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis solen er gået op over ham, er der blodskyld for ham; fuldt skal han erstatte; hvis han intet har, skal han sælges for sit tyveri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "er gået op"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blodskyld"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "fuldt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal han erstatte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "intet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "har han"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "skal han sælges"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "for sit tyveri"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:46.212562205Z",
+  "model": "glm-5.3"
+}

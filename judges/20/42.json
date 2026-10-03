@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og de vendte sig på flugt foran Israels mænd mod vejen til ødemarken, men slaget indhentede dem, og ⟨de, som kom⟩ fra byerne, tilintetgjorde dem ⟨את⟩ midt iblandt dem.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Og de vendte sig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mændene af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen til"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ødemarken"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "men slaget"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "indhentede dem"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og ⟨de, som⟩"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "fra byerne"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "tilintetgjorde"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dem (i midten af dem)"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "midt iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:25.339475449Z",
+  "model": "glm-5.3"
+}

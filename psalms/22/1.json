@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Til korlederen, over 'Hinden af morgenrøden', en salme af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Hinden"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "af morgenrøden"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:25.334510057Z",
+  "model": "glm-5.3"
+}

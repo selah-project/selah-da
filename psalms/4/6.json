@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Ofre tsedeks-ofre, og stole på Jahve.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Ofre"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "-ofre"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeks"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "og stole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:41.467761738Z",
+  "model": "glm-5.3"
+}

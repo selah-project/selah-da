@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Byg huse og bosæt jer i dem, og plant haver og spis ⟨את⟩ deres frugt.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "byg"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huse"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "og bosæt jer"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "og plant"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "haver"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "og spis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres frugt"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "deres frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:20:34.568958565Z",
+  "model": "glm-5.3"
+}

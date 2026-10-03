@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Se, jeg skriger: Vold! men bliver ikke svaret; jeg råber om hjælp, og der ⟨er⟩ ingen ret.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "jeg skriger"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Vold!"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "bliver svaret"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "jeg råber om hjælp"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der ⟨er⟩ ikke"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nogen ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:35.126914208Z",
+  "model": "glm-5.3"
+}

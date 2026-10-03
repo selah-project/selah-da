@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kong Jehoram gik ud fra Shomron på den dag og mønstrede ⟨את⟩ hele Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og … gik ud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på … dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "fra Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "og mønstrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:06.125308989Z",
+  "model": "glm-5.3"
+}

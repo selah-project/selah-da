@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og navnet på den anden flod ⟨er⟩ Gichon; den er den, der løber rundt om ⟨את⟩ hele landet Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Og navnet"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "på floden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "den, der løber rundt om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele landet Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:21.835126352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Ikke har han gjort således med noget folkeslag; og ⟨med⟩ hans retsregler — slet ikke kender de dem. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "med noget"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "og hans retsregler"
+    },
+    {
+      "surface": "בל",
+      "gloss": "slet ikke"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "kender dem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:58.491237134Z",
+  "model": "glm-5.3"
+}

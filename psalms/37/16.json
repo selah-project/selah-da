@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Bedre er det lille, den retfærdige har, end mangen onds massegods.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "det lille"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "massegods"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onds"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mangen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:09.748015708Z",
+  "model": "glm-5.3"
+}

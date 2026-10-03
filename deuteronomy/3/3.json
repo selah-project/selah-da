@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jahve, vor Elohim, gav også Og, kongen i Bashan ⟨את⟩, og hele hans folk ⟨את⟩, i vor hånd, og vi slog ham, indtil der ikke blev levet ham en eneste tilbage.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "i vor hånd"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og, kongen i Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "i Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele hans folk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "og vi slog ham"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "blev levet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "en eneste tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:32.671092983Z",
+  "model": "glm-5.3"
+}

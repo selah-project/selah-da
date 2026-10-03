@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Har folkenes elohim reddet dem — dem, som mine fædre tilintetgjorde: ⟨את⟩ Gozan og ⟨את⟩ Charan og Retsef og Edens sønner, som var i Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Har … reddet"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "folkenes elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkenes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "tilintetgjorde"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mine fædre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "og Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og sønner"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "af Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "var i Telassar"
+    }
+  ],
+  "timestamp": "2026-10-03T16:58:32.731965152Z",
+  "model": "glm-5.3"
+}

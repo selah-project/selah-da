@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jahve styrkede ⟨את⟩ Faraos hjerte, og han sendte ikke ⟨את⟩ Jisraels børn af sted.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "og styrkede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraos hjerte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendte af sted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:13.816174510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 70,
+  "translation": "Må alle, som søger dig, juble og glæde sig i dig, og de, der elsker din frelse, sige bestandigt: Elohim vorde stor!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "og glæde sig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "som søger dig"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sige"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "vorde stor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "de, der elsker"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "din frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:03.848560009Z",
+  "model": "glm-5.3"
+}

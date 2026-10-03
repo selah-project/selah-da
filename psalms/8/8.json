@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "får og okser, alle sammen, ja også markens dyr.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "får"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "og okser"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja også"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:37.729918004Z",
+  "model": "glm-5.3"
+}

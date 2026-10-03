@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Se, jeg har åbnet min mund, min tunge taler i ⟨min⟩ gane.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nu⟩"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "jeg har åbnet"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "taler"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunge"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "i min gane"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:46.522235910Z",
+  "model": "glm-5.3"
+}

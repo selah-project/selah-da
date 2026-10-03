@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "I skal ikke gøre uret i rettens dom, i længdemål, i vægt og i rummål.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "I skal gøre"
+    },
+    {
+      "surface": "עול",
+      "gloss": "uret"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i rettens dom"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "i længdemål"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "i vægt"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "og i rummål"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:17.614924193Z",
+  "model": "glm-5.3"
+}

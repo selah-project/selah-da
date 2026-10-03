@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Også alle, der håber på dig, skal ikke komme i skam; i skam skal de komme, som handler troløst ⟨uden grund⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Også"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "der håber på dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skal komme i skam"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "i skam skal de komme"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "som handler troløst"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "uden grund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:36.225367236Z",
+  "model": "glm-5.3"
+}

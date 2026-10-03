@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og hun blev frugtbart og fødte en søn, og hun sagde: Elohim har samlet op ⟨את⟩ min skam.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Og hun blev frugtbart"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "har samlet op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min skam"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "min skam"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:07.960112872Z",
+  "model": "glm-5.3"
+}

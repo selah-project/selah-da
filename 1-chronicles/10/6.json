@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Shaul døde, og hans tre sønner og hele hans hus — sammen døde de.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Og … døde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "og hans tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "døde de"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:48.718848679Z",
+  "model": "glm-5.3"
+}

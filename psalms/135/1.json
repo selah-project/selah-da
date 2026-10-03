@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Halleluja! Lovsige ⟨את⟩ Jahves navn, I Jahves trælle, lovsige!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "lovsige"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovsige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovsige"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:21.547450815Z",
+  "model": "glm-5.3"
+}

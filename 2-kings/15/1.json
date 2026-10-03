@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "I det tyvende og syvende år af Jerobeam, kongen af Jisrael, blev Azarja, søn af Amatsja, konge over Jehuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i året"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyvende"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og syvende"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "af Jerobeam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "af Amatsja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "over Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:42.811245554Z",
+  "model": "glm-5.3"
+}

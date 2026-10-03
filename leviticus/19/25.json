@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og i det femte år må I spise ⟨את⟩ dets frugt, så dets udbytte føjes til jer; jeg er Jahve jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Og i det femte år"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "det femte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets frugt"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "dets frugt"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "så … føjes til"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "dets udbytte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:09.941851324Z",
+  "model": "glm-5.3"
+}

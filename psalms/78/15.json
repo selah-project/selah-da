@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Han kløvede klipper i ørkenen og gav dem at drikke som af store dybder.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "kløvede"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "klipper"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "og gav at drikke"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "som af dybder"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "store"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.603730196Z",
+  "model": "glm-5.3"
+}

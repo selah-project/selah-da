@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "En bøn af Moshe, Elohims mand. Adonaj, en bolig har du været for os i slægt og slægt.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "en bøn"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "af Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "en bolig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har været"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "i slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:41.540952678Z",
+  "model": "glm-5.3"
+}

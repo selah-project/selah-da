@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Men jeg, jeg er fyldt med kraft, med ⟨את⟩ Jahves ruach, med ret og styrke, til at kundgøre Jaakov hans oprør og Jisrael hans synd.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "er fyldt"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "med ret"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "og styrke"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "til at kundgøre"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Jaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "hans oprør"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "og for Jisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hans synd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:37.024948787Z",
+  "model": "glm-5.3"
+}

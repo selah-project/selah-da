@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jahve give jer, at I må finde minucha, hver ⟨af jer⟩ i sin mands hus. Og hun kyssede dem, og de løftede deres røst og græd.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "og I må finde"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "minucha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hver ⟨af jer⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "sin mands"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "og hun kyssede"
+    },
+    {
+      "surface": "להן",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "og de løftede"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "deres røst"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "og græd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:06.415673329Z",
+  "model": "glm-5.3"
+}

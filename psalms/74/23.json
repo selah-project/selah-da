@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Glem ikke ⟨røsten af⟩ dine modstandere — larmen fra dem, der rejser sig imod dig, stiger bestandig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "Glem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røsten"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dine modstandere"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "larmen"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "fra dem der rejser sig imod dig"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "stiger"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:40.831599316Z",
+  "model": "glm-5.3"
+}

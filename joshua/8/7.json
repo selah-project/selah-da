@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "så skal I stå op fra bagholdet og indtage byen ⟨את⟩, og Jahve eders Elohim vil give den i eders hånd",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "og I"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "skal I stå op"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "fra bagholdet"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "og indtage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "og vil give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eders Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "i eders hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:15.927223743Z",
+  "model": "glm-5.3"
+}

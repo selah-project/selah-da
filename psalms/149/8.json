@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "For at binde deres konger med lænker og deres ædle med jernlænker.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "for at binde"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deres konger"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "med lænker"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "og deres ædle"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "med jernlænker"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "jern"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.697544310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og ⟨את⟩ hans sønner skal du ført frem, og du skal klæde dem med kjortler.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skal du føre frem"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "og du skal klæde dem"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "med kjortler"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:31.795060498Z",
+  "model": "glm-5.3"
+}

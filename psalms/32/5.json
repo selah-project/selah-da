@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Min synd gør jeg dig bekendt, og min skyld dækkede jeg ikke; jeg sagde: Jeg vil bekende mine overtrædelser for Jahve — og du, du bar din synds skyld. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "gør jeg dig bekendt"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "og min skyld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "dækkede jeg"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "jeg vil bekende"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mine overtrædelser"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "bar du"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:10.824039650Z",
+  "model": "glm-5.3"
+}

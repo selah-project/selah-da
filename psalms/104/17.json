@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "hvor fuglene redebygger; storken har sit hus i cyptræerne.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "fuglene"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "redebygger"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "storken"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "i cyptræerne"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:34.616588846Z",
+  "model": "glm-5.3"
+}

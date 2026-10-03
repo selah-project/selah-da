@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og ⟨את⟩ det andet skal han gøre til brændoffer efter forskriften, og præsten skal skaffe soning for ham for hans synd, som han har syndet, og det skal tilgives ham.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det andet"
+    },
+    {
+      "surface": "השני",
+      "gloss": "det andet"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skal han gøre"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "til brændoffer"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "efter forskriften"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og skal skaffe soning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "for hans synd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "han har syndet"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "og det skal tilgives"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:13.791903708Z",
+  "model": "glm-5.3"
+}

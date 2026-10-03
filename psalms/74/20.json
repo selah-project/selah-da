@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Se til pagten, for jordens mørke steder er fulde af voldens boliger.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Se til"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "er fulde"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "mørke steder"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "boliger"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "af vold"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:03.489439394Z",
+  "model": "glm-5.3"
+}

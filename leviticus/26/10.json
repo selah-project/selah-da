@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og I skal spise gammelt, højt gammelt, og gammelt skal I bære ud for det nydes skyld.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "og I skal spise"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "gammelt"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "højt gammelt"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "og gammelt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "det nye"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "skal I bære ud"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:09.108001578Z",
+  "model": "glm-5.3"
+}

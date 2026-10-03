@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "Ved Babels floder, der sad vi, ja, vi græd, da vi mindedes ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babels"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sad vi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "græd vi"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "da vi mindedes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:14.065446824Z",
+  "model": "glm-5.3"
+}

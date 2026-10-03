@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 124,
+  "translation": "så havde de slugt os levende, da deres vrede blev tændt imod os,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "så"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levende"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "havde de slugt os"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "da blev tændt"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "deres vrede"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "imod os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.935846170Z",
+  "model": "glm-5.3"
+}

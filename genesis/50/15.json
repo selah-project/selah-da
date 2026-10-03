@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og Yosefs brødre så, at deres fader var død, og de sagde: Måske hader Yosef os og betaler os igjen ⟨את⟩ alt det onde, som vi gjorde ⟨את⟩ mod ham.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "og så"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brødre til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var død"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deres fader"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "måske"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "hader os"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "og betaler igjen"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "sikert"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det onde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "vi gjorde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mod ham",
+      "marks": "ham (Yosef)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:20.852675645Z",
+  "model": "glm-5.3"
+}

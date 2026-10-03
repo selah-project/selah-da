@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Fri mig fra alle mine overtrædelser; gør mig ikke til en tåbes spot.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mine overtrædelser"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "fri mig"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "til en spot"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "en tåbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "gør mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:42.159110835Z",
+  "model": "glm-5.3"
+}

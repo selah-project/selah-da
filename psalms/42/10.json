@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Jeg siger til El, min klippe: Hvorfor har du glemt mig? Hvorfor går jeg sørgende ⟨i sort⟩ under fjendens undertrykkelse?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "jeg siger"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "til El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "har du glemt mig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "går jeg sørgende"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jeg går"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "under undertrykkelsen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "af fjenden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.537462249Z",
+  "model": "glm-5.3"
+}

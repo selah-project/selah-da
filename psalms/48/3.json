@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Skøn i sin højde, hele jordens glæde, er Zions bjerg, i nordens yderste egne, den store konges by.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Skøn"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "i sin højde"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "glæde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zions"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "i yderste egne"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nordens"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "by"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konges"
+    },
+    {
+      "surface": "רב",
+      "gloss": "den store"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:21.808476470Z",
+  "model": "glm-5.3"
+}

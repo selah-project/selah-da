@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og himlene forkynder hans tsedek, for Elohim ⟨er⟩ dommer, han ⟨selv⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Og de forkynder"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "hans tsedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dommer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han selv"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:53.788716579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Thi Jahve kender de retfærdiges vej, men de ugudeliges vej skal gå til grunde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "men vejen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ugudeliges"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "skal gå til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:07.017214780Z",
+  "model": "glm-5.3"
+}

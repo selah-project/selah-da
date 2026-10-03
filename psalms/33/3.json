@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Synger for ham en ny sang; spiller godt med klangfanfare.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Synger"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "spiller godt"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "med strengespil"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "med klangfanfare"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.095669982Z",
+  "model": "glm-5.3"
+}

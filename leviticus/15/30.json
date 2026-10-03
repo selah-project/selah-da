@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og præsten skal gøre ⟨את⟩ den ene til syndoffer og ⟨את⟩ den anden til brændoffer, og præsten skal skaffe soning for hende foran Jahve for hendes udflåds urenhed.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og skal gøre"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ene"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syndoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den anden"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og skal skaffe soning"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "for hende"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "udflåds"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "urenhed"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:02.651629844Z",
+  "model": "glm-5.3"
+}

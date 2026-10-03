@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og hvem er manden, som har forlovet sig med en kvinde og ikke har taget hende? Han skal gå og vende tilbage til sit hus, for at han ikke skal dø i krigen, og en anden mand tage hende.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Og hvem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "er manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "har forlovet sig"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "med en kvinde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "har taget hende"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Han skal gå"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og vende tilbage"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "til sit hus"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i krigen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og en anden mand"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "skal tage hende"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:11.386174253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "Den fangnes skrig komme foran dig; efter din arms storhed, ⟨bevar⟩ ⟨de⟩ dødens børn, de der er bestemt til ⟨at dø⟩.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "komme"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "skrig"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "den fange"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "efter storheden af"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "din arm"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "bevar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børnene af"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "døden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:35.127505097Z",
+  "model": "glm-5.3"
+}

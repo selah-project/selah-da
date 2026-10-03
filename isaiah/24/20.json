@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Den vakler og svajer, jorden, som en drukken mand, og den rystes som et våningshus; og dens frafald hviler tungt på den, og den falder og rejser sig ikke mere.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "vakler"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "og svajer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "som en drukken mand"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "og den rystes"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "som et våningshus"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "og tungt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "dens frafald"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "og den falder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "mere"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rejser sig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:07.609040101Z",
+  "model": "glm-5.3"
+}

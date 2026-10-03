@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jahve, jeres Elohim, som går foran jer, han vil kæmpe for jer, ligesom alt det, han gjorde ⟨med⟩ jer i Mitsrajim for jeres øjne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "som går"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "foran jer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "vil kæmpe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ligesom alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "for jeres øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:10.687050209Z",
+  "model": "glm-5.3"
+}

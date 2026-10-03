@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Yehoshua velsignede ham og gav ⟨את⟩ Hevron til Kalev, søn af Yefunne, til arv.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "Og … velsignede ham"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "til Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "til arv"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:46.363538855Z",
+  "model": "glm-5.3"
+}

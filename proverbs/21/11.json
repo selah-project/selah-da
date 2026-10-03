@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Når spotteren straffes, bliver ⟨den⟩ enfoldige vis, og når den vise undervises, tager han imod viden.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "når … straffes"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "spotteren"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "bliver vis"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "⟨den⟩ enfoldige"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "og når … undervises"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "den vise"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tager han imod"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "viden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:10.625367623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Elohim hørte ⟨את⟩ deres stønnen, og Elohim huskede ⟨את⟩ sin pagt, ⟨את⟩ Avraham, ⟨את⟩ Jitschak og ⟨את⟩ Jaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres stønnen"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "deres stønnen"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "og huskede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin pagt"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sin pagt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:35.287963405Z",
+  "model": "glm-5.3"
+}

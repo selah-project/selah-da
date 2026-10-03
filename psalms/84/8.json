@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "De går fra styrke til styrke; de skal ses af Elohim i Zion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "De går"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "fra styrke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "de skal ses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "af"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "i Zion"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:29.444817304Z",
+  "model": "glm-5.3"
+}

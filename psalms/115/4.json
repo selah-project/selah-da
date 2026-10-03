@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Deres gudebilleder ⟨er⟩ sølv og guld, menneskehænders værk.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "deres gudebilleder"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og guld"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:46.744772671Z",
+  "model": "glm-5.3"
+}

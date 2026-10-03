@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Thi til sneen siger han: Bliv på ⟨את⟩ jorden! Og til regnbygen og til regnbygerne af hans styrke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "til sneen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger han"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Bliv"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "Og til regnbygen"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "af regn"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "og til regnbygerne"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "regnbyger"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "af hans styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:54.177018062Z",
+  "model": "glm-5.3"
+}

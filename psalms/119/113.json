@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Tanke-splittede har jeg hatet, og din Tora har jeg elsket.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "tanke-splittede"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "har jeg hatet"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og din Tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "har jeg elsket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:08.785735514Z",
+  "model": "glm-5.3"
+}

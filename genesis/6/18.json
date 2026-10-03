@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og jeg rejser ⟨את⟩ min pagt med dig, og du skal gå ind i arken, du og dine sønner og din hustru og dine sønners hustruer med dig.",
+  "tokens": [
+    {
+      "surface": "והקימתי",
+      "gloss": "Og jeg rejser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "og du skal gå ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "og dine sønner"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "og din hustru"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "og hustruerne til"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:11.078770356Z",
+  "model": "glm-5.3"
+}

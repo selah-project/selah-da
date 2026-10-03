@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det skete i Akhashveroshs dage — han ⟨er⟩ Akhashverosh, kongen, som regerede fra Hodu og helt til Kush, over syv og tyve og hundrede landsdele —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i … dage"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashveroshs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "fra Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og helt til"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyve"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "og hundrede"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "landsdele"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:52.120371724Z",
+  "model": "glm-5.3"
+}

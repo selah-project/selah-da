@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Han skal påkalde mig, og jeg vil svare ham; jeg er med ham i trængsel, jeg vil udfriske ham og ære ham.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Han skal påkalde mig"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "og jeg vil svare ham"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "i trængsel"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "jeg vil udfriske ham"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "og ære ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.676856843Z",
+  "model": "glm-5.3"
+}

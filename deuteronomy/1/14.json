@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og I svarede ⟨את⟩ mig og sagde: Godt er ⟨det⟩ ord, som du har talt, at gøre.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Og I svarede"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Godt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "er ⟨det⟩ ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du har talt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:14.799998766Z",
+  "model": "glm-5.3"
+}

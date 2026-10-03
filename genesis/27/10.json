@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "og du skal bringe det til din far, og han skal spise ⟨det⟩, for at han kan velsigne dig før sin død.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "og du skal bringe"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "til din far"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og han skal spise"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "for at"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "så at"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "han velsigner dig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "før"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sin død"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:29.119264479Z",
+  "model": "glm-5.3"
+}

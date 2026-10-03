@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Når du sidder for at spise ⟨את⟩ en hersker, så forstå vel ⟨את⟩ det, som er foran dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "du sidder"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "for at spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en hersker"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "en hersker"
+    },
+    {
+      "surface": "בין",
+      "gloss": "forstå"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "vel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som er foran dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "er foran dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:38.719850437Z",
+  "model": "glm-5.3"
+}

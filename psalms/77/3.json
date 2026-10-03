@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "På min trængsels dag søgte jeg Adonaj; om natten blev min hånd udstrakt og veg ikke; min sjæl nægtede at lade sig trøste.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "min trængsel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "søgte jeg"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "blev udstrakt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "veg"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "nægtede"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "at lade sig trøste"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:17.539311381Z",
+  "model": "glm-5.3"
+}

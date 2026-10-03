@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Jisraels mænd gik ud fra Mitspa og forfulgte ⟨את⟩ filisterne og slog dem, helt ned til neden under Beit-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Og … gik ud"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "og forfulgte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "og slog dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "neden under"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "-Kar"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:40.859757871Z",
+  "model": "glm-5.3"
+}

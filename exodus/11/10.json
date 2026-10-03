@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Moshe og Aharon gjorde alle disse tegn foran Farao, og Jahve hårdnede ⟨את⟩ Faraos hjerte, og han slap ikke ⟨את⟩ Jisraels børn ud af sit land.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Og Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse tegn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "tegnene"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "Og hårdnede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraos hjerte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "slap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ud af sit land"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:39.160503154Z",
+  "model": "glm-5.3"
+}

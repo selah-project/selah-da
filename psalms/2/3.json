@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Lad os sønderrive ⟨את⟩ deres bånd og kaste deres reb fra os!",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Lad os sønderrive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres bånd"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "deres bånd"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "og kaste"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra os"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "deres reb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:04.965708222Z",
+  "model": "glm-5.3"
+}

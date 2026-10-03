@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Min tåre har været mig til brød, dag og nat, idet de siger til mig hele dagen: Hvor er din Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "har været"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "min tåre"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "til brød"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "idet de siger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hvor er"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:12.377000997Z",
+  "model": "glm-5.3"
+}

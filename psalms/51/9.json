@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Rens mig for synd med issop, og jeg bliver ren; tov mig, og jeg bliver hvidere end sne.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "rens mig for synd"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "med issop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "og jeg bliver ren"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "tov mig"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "og end sne"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "bliver jeg hvidere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:03.351860110Z",
+  "model": "glm-5.3"
+}

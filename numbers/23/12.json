@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han svarede og sagde: Er det ikke ⟨את⟩ det, som Jahve lægger i min mund, ⟨det⟩ skal jeg vogte på at tale?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og han svarede"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Er det ikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Jahve lægger i min mund"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "lægger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i min mund"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (skal jeg vogte på at tale)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "skal jeg vogte på"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "at tale"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:56.567206444Z",
+  "model": "glm-5.3"
+}

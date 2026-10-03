@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 15:21",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Itai svarede ⟨את⟩ kongen og sagde: Så sandt Jahve lever, og så sandt min herre kongen lever — ja, på det sted, hvor min herre kongen vil være, enten til død eller til liv, dér vil din træl være.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og så sandt … lever"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "enten"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vil være"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "til"
+    },
+    {
+      "surface": "למות",
+      "gloss": "død"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller til"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dérsom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "vil være"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T16:16:31.285683533Z",
+  "model": "glm-5.3"
+}

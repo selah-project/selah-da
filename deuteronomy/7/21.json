@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Du skal ikke ryste for dem, for Jahve, din Elohim, ⟨er⟩ i din midte, en El, stor og frygtindgydende.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "skal ryste"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i din midte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "og frygtindgydende"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:46.975714948Z",
+  "model": "glm-5.3"
+}

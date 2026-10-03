@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "For jeg har sagt: Evigt bliver chesed bygget; i himlene grundfæster du din trofasthed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg har sagt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Evigt"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bliver bygget"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "grundfæster du"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthed"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.477081924Z",
+  "model": "glm-5.3"
+}

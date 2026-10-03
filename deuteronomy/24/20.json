@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Når du slår dine oliven, må du ikke gnome kvistene bag dig; det skal være for den fremmede, for den faderløse og for enken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "du slår"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "dine oliven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "må du gnome"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bag dig"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "for den fremmede"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "for den faderløse"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "og for enken"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det skal være"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:10.727679396Z",
+  "model": "glm-5.3"
+}

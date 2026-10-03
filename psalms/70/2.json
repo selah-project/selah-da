@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 70,
+  "translation": "Elohim, ⟨kom⟩ for at fri mig ud, Jahve, ⟨kom⟩ til min hjælp, skynd dig!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "for at fri mig ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "til min hjælp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynd dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:31.040910582Z",
+  "model": "glm-5.3"
+}

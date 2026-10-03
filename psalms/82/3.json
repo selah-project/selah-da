@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "Døm den svage og den faderløse; giv den ynkelige og den fattige ret.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Døm"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "og den faderløse"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den ynkelige"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "og den fattige"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "giv ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:53.424689009Z",
+  "model": "glm-5.3"
+}

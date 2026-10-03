@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og Jisraels børn tog ⟨את⟩ deres prydelse af sig, fra Har Chorev og frem.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "tog de af sig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres prydelse"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "deres prydelse"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fra bjerget"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:07.960718595Z",
+  "model": "glm-5.3"
+}

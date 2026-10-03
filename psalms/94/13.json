@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "at skænke ham ro fra ondskefulde dage, indtil der ⟨er⟩ gravet en grav til den gudløse.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "at skænke ro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "fra dage"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondske"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "der gravet"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "til den gudløse"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "en grav"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:31.941719368Z",
+  "model": "glm-5.3"
+}

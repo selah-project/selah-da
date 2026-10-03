@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Ild bestandig skal brænde på alteret; den må ikke slukkes.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ild"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "skal brænde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "skal slukkes"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:50.211009211Z",
+  "model": "glm-5.3"
+}

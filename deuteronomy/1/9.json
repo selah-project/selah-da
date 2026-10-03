@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og jeg sagde til jer på den tid og sagde: Jeg kan ikke alene bære ⟨את⟩ jer.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den tid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan jeg"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alene"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "bære"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:14.139000991Z",
+  "model": "glm-5.3"
+}

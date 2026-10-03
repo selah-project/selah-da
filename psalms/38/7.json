@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Jeg er blevet vrænget, jeg er bøjet helt ned; hele dagen går jeg sorgkledt.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "jeg er blevet vrænget"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "jeg er bøjet ned"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ned (meget)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sorgkledt"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "går jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:43.737251439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og sine mænd, de som var med ham, lod David gå op, hver mand og sit hus; og de bosatte sig i byerne ved Chevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Og sine mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lod gå op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "og sit hus"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og de bosatte sig"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i byerne"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ved Chevron"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:43.752476960Z",
+  "model": "glm-5.3"
+}

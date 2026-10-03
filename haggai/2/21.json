@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Sig til Zerubabel, stattholderen i Jehudah, og tal: Jeg ryster ⟨את⟩ himlene og ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "stattholderen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og tal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ryster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himlene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:12.964467333Z",
+  "model": "glm-5.3"
+}

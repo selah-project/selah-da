@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Til korlederen; om «den stumte due blandt fjerne»; af David; en Miktam; da filisterne greb ⟨את⟩ ham i Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "den stumte due"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "stum"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "blandt fjerne"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "en Miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "da ... greb"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "i Gat"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:26.723398293Z",
+  "model": "glm-5.3"
+}

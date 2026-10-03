@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "⟨את⟩ deres småkvæg og ⟨את⟩ deres kvæg og ⟨את⟩ deres æsler og ⟨את⟩ det som var i byen og ⟨את⟩ det som var på marken tog de.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres småkvæg"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "deres småkvæg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres kvæg"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "deres kvæg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres æsler"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "deres æsler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som var i byen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det som var på marken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tog de"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:42.696889942Z",
+  "model": "glm-5.3"
+}

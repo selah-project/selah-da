@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "fordi de hører ⟨את⟩ dit store navn og ⟨את⟩ din stærke hånd og din udstrakte arm — og kommer og beder mod dette hus —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "de hører"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit store navn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "store"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "din stærke hånd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "stærke"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "og din arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "udstrakte"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og kommer"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "og beder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:27.924511545Z",
+  "model": "glm-5.3"
+}

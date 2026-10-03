@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han målte ⟨את⟩ portens forhal, ind mod templet, ét rør.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Og han målte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "portens forhal"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "forhal"
+    },
+    {
+      "surface": "השער",
+      "gloss": "af porten"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ind mod templet"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rør"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    }
+  ],
+  "timestamp": "2026-10-03T17:46:33.524536713Z",
+  "model": "glm-5.3"
+}

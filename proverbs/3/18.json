@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et livets træ er hun for dem, der griber hende ⟨fast⟩, og de, der holder hende, ⟨er⟩ velsignede.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "for dem der griber"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "og de der holder hende"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "velsignede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:18.381751980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Thi Ijob har sagt: Jeg er tsedek — men Elohim har vendt ⟨min ret⟩ bort fra mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "jeg er tsedek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men Elohim"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "har vendt bort"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:13.278406327Z",
+  "model": "glm-5.3"
+}

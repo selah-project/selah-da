@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "at fuldbyrde iblandt dem ⟨den⟩ dom, ⟨som⟩ er skrevet; ⟨det⟩ er en ære for alle hans fromme. Lovpriser I Jah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "at fuldbyrde"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iblandt dem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "skrevet"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ære"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨det er⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans fromme"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovpriser I"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:41.434289090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Achaz sagde: Jeg vil ikke bede, og jeg vil ikke sætte Jahve ⟨את⟩ på prøve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagde"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "vil jeg bede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "vil jeg sætte på prøve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:28.708309232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Glæd jer, retfærdige, i Jahve, og takke ⟨ham⟩ for minde om hans hellighed!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Glæd jer"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "retfærdige"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "og takke"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "for minde om"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:02.948146020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "De retfærdiges tanker ⟨er⟩ ret, men de ondskabsfuldes rådslagninger ⟨er⟩ bedrag.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "tanker"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "rådslagninger"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondskabsfuldes"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:07.688927495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Bedre er det at søge ly hos Jahve end at stole på høvdinger.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bedre"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "at søge ly"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "hos Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "end at stole"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "på høvdinger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:02.373713443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Elleve dage ⟨fra⟩ Chorev ad vejen over Har Seir, indtil Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Elleve"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(elleve)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "fra Chorev"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ad vejen"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:19.888200380Z",
+  "model": "glm-5.3"
+}

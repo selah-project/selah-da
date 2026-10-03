@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Urija kom til ham, og David spurgte til Joabs fred og til folkets fred og til krigens fred.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "og spurgte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "til … fred"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabs"
+    },
+    {
+      "surface": "ו לשלום",
+      "gloss": "og til … fred"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ו לשלום",
+      "gloss": "og til … fred"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:05.110776286Z",
+  "model": "glm-5.3"
+}

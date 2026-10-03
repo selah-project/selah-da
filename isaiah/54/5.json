@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Thi din ægtemand er din skaber — Jahve Tsevaot er hans navn — og din genløser er Jisraels Hellige; hele jordens Elohim kaldes han.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "din ægtemand"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "din skaber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "er hans navn"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "og din genløser"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Hellige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kaldes han"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:20.723827872Z",
+  "model": "glm-5.3"
+}

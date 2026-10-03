@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og nu, sværg for mig ved Jahve, at du ikke skal udrydde ⟨את⟩ mit afkom efter mig, og at du ikke skal udrydde ⟨את⟩ mit navn fra min fars hus.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sværg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ved Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "at"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "du skal udrydde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit afkom"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mit afkom"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter mig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og at"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "du skal udrydde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit navn"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mit navn"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fars hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:10.973604096Z",
+  "model": "glm-5.3"
+}

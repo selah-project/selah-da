@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve talte til mig og sagde: Jeg har set ⟨את⟩ dette folk, og se, det er et folk med hård nakke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Jeg har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette folk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hård"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nakke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:59.220525100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og en tiendedel til ⟨den⟩ ene lam, for ⟨de⟩ fjorten lam.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "Og en tiendedel"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "tiendedel"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "til ⟨den⟩ ene lam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨den⟩ ene"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "for"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fjorten"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lam"
+    }
+  ],
+  "timestamp": "2026-10-03T15:16:04.629009971Z",
+  "model": "glm-5.3"
+}

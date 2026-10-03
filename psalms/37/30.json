@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Den retfærdiges mund mumler visdom, og hans tunge taler ret.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mumler"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "og hans tunge"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:23.556350746Z",
+  "model": "glm-5.3"
+}

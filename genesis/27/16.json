@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og ⟨את⟩ skindene af killingene, gedene, svøbte hun om hans hænder og om det glatte af hans hals.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "skindene"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "skindene"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "killingene"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "gedene"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "svøbte hun"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans hænder"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og om"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "det glatte"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "hans hals"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:48.303754085Z",
+  "model": "glm-5.3"
+}

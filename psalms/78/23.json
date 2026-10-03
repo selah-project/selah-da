@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han bød skyerne ovenfra og himlenes døre åbnede ⟨han⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og han bød"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovenfra"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "og døre"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlenes"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "åbnede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.872142478Z",
+  "model": "glm-5.3"
+}

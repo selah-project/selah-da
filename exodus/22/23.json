@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og min vrede skal brænde, og jeg vil dræbe jer ⟨אתכם⟩ med sværdet, og jeres hustruer skal blive enker og jeres sønner faderløse.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "og … brænde"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "min vrede"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "og jeg vil dræbe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med sværdet"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og skal blive"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jeres hustruer"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "enker"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "og jeres sønner"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "faderløse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:01.891150697Z",
+  "model": "glm-5.3"
+}

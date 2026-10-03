@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Men Haman beherskede sig og kom til sit hus; og han sendte bud og hentede ⟨את⟩ sine venner og ⟨את⟩ Zeresh, sin hustru.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "beherskede sig"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte bud"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og hentede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine venner"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "sine venner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:32.206820907Z",
+  "model": "glm-5.3"
+}

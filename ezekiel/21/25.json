@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Du skal gøre ⟨את⟩ vejen, for at sværdet kan komme til ⟨את⟩ Rabba, Børnenes af Ammons ⟨by⟩, og ⟨את⟩ Juda ⟨som bor⟩ i det befæstede Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "skal du gøre"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "for at komme"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabba, ammonitternes by"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Børn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "af Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "befæstet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:37:00.878175971Z",
+  "model": "glm-5.3"
+}

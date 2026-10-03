@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve talte til Moshe og sagde: Jeg er Jahve; tal til Paroh, kongen af Mitsrajim, ⟨את⟩ alt det, jeg taler til dig.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "af Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det, jeg taler til dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:17.967351888Z",
+  "model": "glm-5.3"
+}

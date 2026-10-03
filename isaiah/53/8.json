@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Fra fængsel og fra dom blev han taget, og ⟨את⟩ hans slægt — hvem lægger mærke til den? For han blev skåret bort fra de levendes land; for mit folks misgerning, et slag, ⟨der ramte dem⟩.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "fra fængsel"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "og fra dom"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "blev han taget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans slægt"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "hans slægt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "lægger mærke til"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "blev skåret bort"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "de levendes"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "for misgerning"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folks"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "et slag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨der ramte dem⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:57.009803745Z",
+  "model": "glm-5.3"
+}

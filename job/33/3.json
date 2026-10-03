@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Mine ord ⟨kommer fra⟩ et oprigtigt hjerte, og mine læbers kundskab taler klart.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "oprigtighed"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "og kundskab"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mine læbers"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "klart"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "taler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:46.522387128Z",
+  "model": "glm-5.3"
+}

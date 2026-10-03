@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Den dobbeltglades krav dræber ham, for hans hænder nægter at arbejde.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "krav"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den dobbeltglades"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "dræber ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nægter"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans hænder"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at arbejde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:34.564538936Z",
+  "model": "glm-5.3"
+}

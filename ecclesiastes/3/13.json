@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og også hvert menneske, som spiser og drikker og ser det gode i al sin møje — det er Elohimsgave.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Og også"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "som spiser"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "og drikker"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og ser"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i al"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "sin møje"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "gave"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:23.580205010Z",
+  "model": "glm-5.3"
+}

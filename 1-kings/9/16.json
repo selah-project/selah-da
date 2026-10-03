@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Farao, Mitsrajims konge, var gået op og erobrede ⟨את⟩ Gezer og brændte den med ild og ⟨את⟩ kanaanæeren, der boede i byen, dræbte han; og han gav den som medgift til sin datter, Shlomos hustru.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "var gået op"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og erobrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "og brændte den"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kanaanæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "der boede"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "og han gav den"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "som medgift"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "til sin datter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomos"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:06.193029884Z",
+  "model": "glm-5.3"
+}

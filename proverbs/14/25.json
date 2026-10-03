@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Et sandheds vidne redder sjæle, men den som puster løgne ⟨er⟩ bedrag.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "redder"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "sjæle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vidne"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandheds"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "men den som puster"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "løgne"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:53.895408331Z",
+  "model": "glm-5.3"
+}

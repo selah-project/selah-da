@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og indbyggerne i Javesh i Gilad hørte om det, ⟨את⟩ som filistrene havde gjort mod Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "og de hørte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "om det"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne i"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som filistrene havde gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistrene"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "mod Shaul"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:44.321736524Z",
+  "model": "glm-5.3"
+}

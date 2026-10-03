@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 20:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Hizkijahu sagde: Det er en let ting for skyggen at svinge ti trin; nej, men lad skyggen vende ti trin baglæns.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "er en let ting"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "for skyggen"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "at svinge"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "trin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "lad … vende"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "skyggen"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "baglæns"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "trin"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:08.725914076Z",
+  "model": "glm-5.3"
+}

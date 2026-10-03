@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Jahve vogter dig mod alt ondt, han vogter ⟨את⟩ din sjæl.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "vogter dig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mod alt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "han vogter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din sjæl"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:30.975002652Z",
+  "model": "glm-5.3"
+}

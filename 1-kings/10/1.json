@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Shebas dronning hørte ⟨את⟩ rygtet om Shlomo — for Jahves navns skyld — og hun kom for at prøve ham med gåder.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Og … dronning"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebas"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rygtet"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "rygtet"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "for … navns skyld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "og hun kom"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "for at prøve ham"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "med gåder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:37.353654648Z",
+  "model": "glm-5.3"
+}

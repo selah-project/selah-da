@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og du skal indprente dem dine børn og tale om dem, når du sidder i dit hus, og når du går på vejen, og når du lægger dig, og når du står op.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Og du skal indprente"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "dem dine børn"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "og tale"
+    },
+    {
+      "surface": "בם",
+      "gloss": "om dem"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "når du sidder"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i dit hus"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "og når du går"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "og når du lægger dig"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "og når du står op"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:58.313906348Z",
+  "model": "glm-5.3"
+}

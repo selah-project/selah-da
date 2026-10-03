@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Med sin fjer dækker han dig, og under sine vinger søger du ly; skjold og mur ⟨er⟩ hans trofasthed.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Med sin fjer"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "dækker han"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "og under"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sine vinger"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "søger du ly"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "skjold"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "og mur"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "hans trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.860082438Z",
+  "model": "glm-5.3"
+}

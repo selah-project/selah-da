@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "For deres ejendom var for stor til, at de kunne bo sammen, og landet i deres indvandrerophold kunne ikke bære dem ⟨את⟩ på grund af deres kvæg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "deres ejendom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "for stor"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "at bo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "i deres indvandrerophold"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "bære"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "deres kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:46.778749373Z",
+  "model": "glm-5.3"
+}

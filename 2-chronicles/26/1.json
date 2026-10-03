@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og hele folket i Jehuda tog ⟨את⟩ Uzzija — og han var seksten år gammel — og de gjorde ⟨את⟩ ham til konge i stedet for hans far Amatsja.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "og de tog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzija"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzzija"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var… gammel (søn af)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sekst"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-en"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "og de gjorde ham til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsja"
+    }
+  ],
+  "timestamp": "2026-10-03T19:26:21.045557151Z",
+  "model": "glm-5.3"
+}

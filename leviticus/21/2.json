@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "undtagen for sin slægtning, den der er nær ham: for sin mor og for sin far og for sin søn og for sin datter og for sin bror.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "for sin slægtning"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "den der er nær"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "for sin mor"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "og for sin far"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "og for sin søn"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "og for sin datter"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "og for sin bror"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:30.922915446Z",
+  "model": "glm-5.3"
+}

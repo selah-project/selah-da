@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Aharon skal kaste lod over de to bukke: ét lod for Jahve og ét lod for Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Og Aharon skal give"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bukke"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "lod"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ét lod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "og ét lod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "for Azazel"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:59.173873680Z",
+  "model": "glm-5.3"
+}

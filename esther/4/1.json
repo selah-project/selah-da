@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Mordochaj fik at vide ⟨את⟩ alt, hvad der var gjort, og Mordochaj sønderrev ⟨את⟩ sine klæder og iførte sig sæk og aske og gik ud midt i byen og råbte et stort og bittert skrig.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "Og Mordochaj"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "fik at vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "var gjort"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "og sønderrev"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordochaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "og iførte sig"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sæk"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "og aske"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "og råbte"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "skrig"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "og bittert"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:55.664154630Z",
+  "model": "glm-5.3"
+}

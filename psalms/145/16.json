@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Du åbner ⟨את⟩ din hånd og mætter alt levende ⟨med⟩ velbehag.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "du åbner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hånd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "og mætter"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "velbehag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:11.631385732Z",
+  "model": "glm-5.3"
+}

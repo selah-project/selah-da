@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Jorden åbnede sig og slugte Datán, og den dækkede over Avírams forsamling.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "åbnede sig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "og slugte"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datán"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "og den dækkede"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "forsamling"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Avírams"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:36.969985649Z",
+  "model": "glm-5.3"
+}

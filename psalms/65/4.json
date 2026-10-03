@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Ordogerninger af misgerninger blev mig for stærke; ⟨om⟩ vore overtrædelser — du dækker dem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ordogerninger"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "af misgerninger"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "blev for stærke"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "vore overtrædelser"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "dækker dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:52.646302770Z",
+  "model": "glm-5.3"
+}

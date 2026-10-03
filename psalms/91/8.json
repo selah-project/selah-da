@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Kun med dine øjne skal du skue, og de ondes løn skal du se.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "med dine øjne"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "skal du skue"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "og ... løn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "skal du se"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:13.217264714Z",
+  "model": "glm-5.3"
+}

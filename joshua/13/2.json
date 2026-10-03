@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Dette er landet, der er tilbage: alle filisternes egne og hele Geshur.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "der er tilbage"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "egne"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filisternes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshur"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:59.818144466Z",
+  "model": "glm-5.3"
+}

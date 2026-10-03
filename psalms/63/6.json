@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Som med fedt og fedme mættes min sjæl, og med jubelråb lovpriser min mund — dig.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "som med"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fedt"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "og fedme"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "og med læber"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "jubelråb"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "lovpriser"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:14.626175281Z",
+  "model": "glm-5.3"
+}

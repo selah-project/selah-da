@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og han hånte ⟨את⟩ Jisrael, og Jehonatan, søn af Shimi, Davids bror, slog ham ihjel.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "hånte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "slog ham ihjel"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "af Shimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T16:17:15.800611696Z",
+  "model": "glm-5.3"
+}

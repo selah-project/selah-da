@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Se, ham har jeg givet som vidne for folkene, som fyrste og befaler for folkene.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vidne"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "for folkene"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "har jeg givet ham"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "fyrste"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "og befaler"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "for folkene"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:52.290832477Z",
+  "model": "glm-5.3"
+}

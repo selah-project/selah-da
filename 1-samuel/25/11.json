@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og skulle jeg tage ⟨את⟩ mit brød og ⟨את⟩ mit vand og ⟨את⟩ mit slagtningkød, som jeg slagtede til mine klippere, og give det til mænd, som jeg ikke ved, hvor de er fra?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Og skulle jeg tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit brød"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mit brød"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mit vand"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mit vand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mit slagtningkød"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mit slagtningkød"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "jeg slagtede"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "til mine klippere"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og give"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "til mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg ved"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de er"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:56.677441321Z",
+  "model": "glm-5.3"
+}

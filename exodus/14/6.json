@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han spændte ⟨את⟩ sin stridsvogn for og tog ⟨את⟩ sit folk med sig.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "Og han spændte for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin stridsvogn"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "sin stridsvogn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sit folk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med sig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:50.872947479Z",
+  "model": "glm-5.3"
+}

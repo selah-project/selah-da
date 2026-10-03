@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "for at landet ikke skal udspy jer, når I gør ⟨את⟩ det urent, ligesom det udspyede ⟨את⟩ det folk, som ⟨var⟩ foran jer.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "skal udspy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "når I gør urent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (landet)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ligesom"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "udspyede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det folk"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "det folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "foran jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:42.629671442Z",
+  "model": "glm-5.3"
+}

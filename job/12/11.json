@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Mon ikke øret prøver ord, og ganen smager mad for sig selv?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mon ikke"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "øret"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ord"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "prøver"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "og ganen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "smager"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for sig selv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:31.876126549Z",
+  "model": "glm-5.3"
+}

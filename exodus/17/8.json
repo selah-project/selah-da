@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Amalek kom og kæmpede mod Jisrael i Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "i Refidim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:44.919885760Z",
+  "model": "glm-5.3"
+}

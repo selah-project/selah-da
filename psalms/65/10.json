@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Du gæster ⟨את⟩ jorden og vælder den; rigeligt gør du den rig. Elohims bæk er fuld af vand; du gør deres korn rede — ja, således gør du den rede.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Du gæster"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "og vælder den"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "rigeligt"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "gør du den rig"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "bæk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fuld"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vand"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "du gør rede"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "deres korn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "gør du den rede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:29.321668493Z",
+  "model": "glm-5.3"
+}

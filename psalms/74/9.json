@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Vore tegn ser vi ikke; der er ikke længere nogen profet, og der er hos ⟨את⟩ os ingen, der ved, hvor længe.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "vore tegn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ser vi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nogen profet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "hos os"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ved"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "מה",
+      "gloss": "længe"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.450559410Z",
+  "model": "glm-5.3"
+}

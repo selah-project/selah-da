@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Har guderne blandt folkeslagene overhovedet frelst ⟨את⟩ hver sit land ud af kongen af Ashurs hånd?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "overhovedet"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "frelste"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guderne"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "blandt folkeslagene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sit land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashur"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:07.842567800Z",
+  "model": "glm-5.3"
+}

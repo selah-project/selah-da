@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og løberne stod, hver mand med sit udstyr i sin hånd, fra husets højre skulder til husets venstre skulder, ved alteret og ved huset, omkring kongen rundt om.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "løberne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "med sit udstyr"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hånd"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "fra skulderen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "højre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "skulderen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "venstre"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ved alteret"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "og ved huset"
+    },
+    {
+      "surface": "על",
+      "gloss": "omkring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:21.666067645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Jeg har ventet, ja ventet på Jahve, og han bøjede sig til mig og hørte mit råb.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ventet"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ja ventet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "og han bøjede sig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mit råb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:57.176476022Z",
+  "model": "glm-5.3"
+}

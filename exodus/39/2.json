@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og han lavede ⟨את⟩ efoden: guld, blå og purpur og skarlagenrød uld og tvunget hvidt lærred.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han lavede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efoden"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blå"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "og purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "og skarlagenrød"
+    },
+    {
+      "surface": "שני",
+      "gloss": "uld"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og hvidt"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tvunget lærred"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:46.218158069Z",
+  "model": "glm-5.3"
+}

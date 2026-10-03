@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Jaakov fortalte Rakhel, at han var hendes fars broder, og at han var Rivkas søn; og hun løb og fortalte det til sin far.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Og fortalte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broder"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "hendes fars"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han ⟨er⟩"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og at"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han ⟨er⟩"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "og hun løb"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "sin far"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:58.449831834Z",
+  "model": "glm-5.3"
+}

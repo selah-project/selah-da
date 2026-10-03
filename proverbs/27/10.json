@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Din ven og din fars ven må du ikke forlade, og ind gå ikke i din brors hus på din ulykkes dag; bedre er en nabo, der er nær, end en bror, der er fjern.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "din ven"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "og ven"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "må du forlade"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og hus"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din brors"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "af din ulykke"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "en nabo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nær"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "end en bror"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fjern"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:12.596965040Z",
+  "model": "glm-5.3"
+}

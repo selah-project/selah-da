@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Udvis underfuldt dine chesed, du som frelser dem, der søger ly hos dig, ved din højre hånd ⟨fra⟩ dem, der rejser sig imod ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "udvis underfuldt"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "dine chesed"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "de der søger ly"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "fra dem der rejser sig imod"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ved din højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:09.423870896Z",
+  "model": "glm-5.3"
+}

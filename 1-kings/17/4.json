@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og det skal ske: Af bækken skal du drikke, og ⟨את⟩ ravnene har jeg befalet at forsørge dig dér.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "af bækken"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "skal du drikke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ravnene"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ravnene"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "har jeg befalet"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "at forsørge dig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:30.887054174Z",
+  "model": "glm-5.3"
+}

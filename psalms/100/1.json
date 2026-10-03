@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 100,
+  "translation": "En salme til takoffer. Råb til Jahve, hele jorden!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "til takoffer"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "råb"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:26.098988640Z",
+  "model": "glm-5.3"
+}

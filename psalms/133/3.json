@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 133,
+  "translation": "Som Hermon-duggen, der løber ned over Tsijons bjerge; for dér befalede Jahve ⟨את⟩ velsignelsen — liv til evig tid.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "som duggen"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "der løber ned"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befalede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velsignelsen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "velsignelsen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:49.728384458Z",
+  "model": "glm-5.3"
+}

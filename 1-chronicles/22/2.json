@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og David sagde, at man skulle samle ⟨את⟩ de fremmede, som var i Jisraels land, og han opstillede stenhuggere til at hugge tilhuggne sten til at bygge Elohim hus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "at samle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fremmede"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "de fremmede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og han opstillede"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "stenhuggere"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "til at hugge"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "sten"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "tilhuggne"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "til at bygge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T19:16:05.968641903Z",
+  "model": "glm-5.3"
+}

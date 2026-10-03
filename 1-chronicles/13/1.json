@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og David rådslog med høvdingerne over tusinderne og hundredene, for hver anfører.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "rådslog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tusinderne"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "og hundredene"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for hver"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "anfører"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:00.973901622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "⟨Han⟩ som læger hjertesårne og forbinder deres smerte.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "læger"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "sårne"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "og forbinder"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "deres smerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.631090903Z",
+  "model": "glm-5.3"
+}

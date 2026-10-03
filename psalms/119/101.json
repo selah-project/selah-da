@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Fra enhver ond vej har jeg holdt mine fødder tilbage, for at jeg skulle bevare dit ord.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "fra enhver"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "vej"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "har jeg holdt tilbage"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mine fødder"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "jeg skulle bevare"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:40.719211134Z",
+  "model": "glm-5.3"
+}

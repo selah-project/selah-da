@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og du tog ⟨את⟩ dine sønner og ⟨את⟩ dine døtre, som du fødte til mig, og ofrede dem til dem som mad. Var din utugt en lille ting?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Og du tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine sønner"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dine døtre"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "dine døtre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "du fødte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "og ofrede dem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "som mad"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Var det en lille ting"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "din utugt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:58.712416860Z",
+  "model": "glm-5.3"
+}

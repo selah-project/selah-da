@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "For en jøbel er den; hellig skal den være for jer; af marken skal I spise ⟨את⟩ dens afgrøde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "en jøbel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "marken"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens afgrøde"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dens afgrøde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:48.977316315Z",
+  "model": "glm-5.3"
+}

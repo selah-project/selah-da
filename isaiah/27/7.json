@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Har ⟨Han⟩ slået ham, som ⟨man⟩ slog dem der slog ham? Eller ⟨er⟩ han dræbt, som ⟨man⟩ dræbte hans dræbte?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "som slaget af"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "dem der slog ham"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "har ⟨Han⟩ slået ham"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "som drab af"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "hans dræbte"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dræbte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:38.531394551Z",
+  "model": "glm-5.3"
+}

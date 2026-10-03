@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og de greb ⟨את⟩ kongen og førte ham op til kongen af Bavel, til Rivla; og de fældede dom over ham.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "greb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "førte op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "talte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med ham"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:11.784959547Z",
+  "model": "glm-5.3"
+}

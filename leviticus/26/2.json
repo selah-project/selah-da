@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "⟨את⟩ mine Shabbatter skal I holde, og min helligdom skal I frygte; jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine Shabbatter"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mine Shabbatter"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skal I holde"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "og min helligdom"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skal I frygte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:09.760144033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og for sin søster, jomfruen, den der er nær ham, som ikke har været ⟨gift⟩ med en mand — for hende må han gøre sig uren.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "og for sin søster"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "jomfruen"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "den der er nær"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har været"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "for en mand"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for hende"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "må han gøre sig uren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:30.923067922Z",
+  "model": "glm-5.3"
+}

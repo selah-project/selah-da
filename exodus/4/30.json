@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Aharon talte ⟨את⟩ alle de ord, som Jahve havde talt til Moshe, og han gjorde tegnene for folkets øjne.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tegnene"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for øjnene af"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:51.738540966Z",
+  "model": "glm-5.3"
+}

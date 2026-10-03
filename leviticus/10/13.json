@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og I skal spise den ⟨את⟩ på et helligt sted, for din ret og dine sønners ret er den, af Jahves ildofre; for så er jeg blevet befalet.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Og I skal spise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på et sted"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "din ret"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "og ret"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine sønners"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "af ildofre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "er jeg blevet befalet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:25.114458367Z",
+  "model": "glm-5.3"
+}

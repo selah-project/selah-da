@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Jahve, min Elohim, ⟨er⟩ du; jeg vil ophøje dig, jeg vil takke dit navn, for du har gjort et vidunder, råd fra fjern fortid, i trofasthed — ⟨og⟩ sandhed.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "jeg vil ophøje dig"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "jeg vil takke"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du har gjort"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "et vidunder"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "råd"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fra fjern fortid"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "i trofasthed"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:11.653046213Z",
+  "model": "glm-5.3"
+}

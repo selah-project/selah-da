@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og drengen Shmuel tjente ⟨את⟩ Jahve foran Eli, og Jahves ord var sjældent i de dage — intet syn var brudt frem.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Og drengen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "og ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "sjældent"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i de dage"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "אין",
+      "gloss": "intet"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "brudt frem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:14.228048127Z",
+  "model": "glm-5.3"
+}

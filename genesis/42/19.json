@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Hvis I er ærlige, skal én af jeres brødre bindes i jeres fængsels hus, og I — gå, bring korn til hungersnøden i jeres huse.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ærlige"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jeres brødre"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "skal bindes"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "jeres fængsel"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "og I"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gå"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bring"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "hungersnød"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "jeres huse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:06.504950075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "også mørket mørkner ikke fra dig, og natten lyser som dagen; som mørket, så lyset.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "mørkner"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "fra dig"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og natten"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som dagen"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "lyser"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "som mørket"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "så lyset"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:53.880454192Z",
+  "model": "glm-5.3"
+}

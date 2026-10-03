@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og han løftede sin håd imod dem, til at fælde dem i ørkenen.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "og han løftede"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "להם",
+      "gloss": "imod dem"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "til at fælde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:44.935171127Z",
+  "model": "glm-5.3"
+}

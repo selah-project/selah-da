@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Hvor mange ⟨er⟩ din træls dage? Hvornår vil du gøre dom over dem, der forfølger mig?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hvor mange"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hvornår"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vil du gøre"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "over dem der forfølger mig"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:55.843360444Z",
+  "model": "glm-5.3"
+}

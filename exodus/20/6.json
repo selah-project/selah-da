@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "og som gør chesed mod tusinder, mod dem der elsker mig og holder mine bud.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "mod tusinder"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "mod dem der elsker mig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "og mod dem der holder"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:25.708197955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 12:1",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Retfærdig er du, Jahve, når jeg fører retssag med dig; alligevel vil jeg tale domme med dig: Hvorfor lykkes de ondes vej, hvorfor har alle forrædere det godt, der handler så troløst?",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "jeg fører retssag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alligevel"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "domme"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vil jeg tale"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ med dig",
+      "marks": "med dig"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "צלחה",
+      "gloss": "lykkes"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "har det godt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "forrædere"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "handler troløst"
+    }
+  ],
+  "timestamp": "2026-10-03T17:13:16.901076020Z",
+  "model": "glm-5.3"
+}

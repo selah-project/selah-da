@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Skamme sig og gå til grunde skal de, som anklager min sjæl; med hån og vanære skal de dækkes, de som søger min ondskab.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Skamme sig"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gå til grunde"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "anklager"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "skal dækkes"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hån"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "og vanære"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som søger"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "min ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:26.864832721Z",
+  "model": "glm-5.3"
+}

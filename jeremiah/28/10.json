@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Chanania profeten tog ⟨את⟩ remmen fra Jirmeja profetens hals og brød den.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chanania"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "remmen"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "remmen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "hals"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmejas"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profetens"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "og brød den"
+    }
+  ],
+  "timestamp": "2026-10-03T17:19:54.925091178Z",
+  "model": "glm-5.3"
+}

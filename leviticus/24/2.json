@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Befal ⟨את⟩ Israels børn, at de skal bringe dig olivenolie, ren, stødt, til lampen, for at lade et lys gå op bestandigt.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Befal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at de skal bringe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliven-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ren"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "stødt"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "til lampen"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "for at lade gå op"
+    },
+    {
+      "surface": "נר",
+      "gloss": "et lys"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:47.175887790Z",
+  "model": "glm-5.3"
+}

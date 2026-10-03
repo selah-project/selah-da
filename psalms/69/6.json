@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Elohim, du kender min dårskab, og mine skyldbrøde ⟨er⟩ ikke skjulte for dig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kender"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "min dårskab"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "og mine skyldbrøde"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "skjulte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:11.546535221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og en datter af en præst, når hun vanærer sig ved at bedrive utugt, vanærer hun ⟨את⟩ sin far; i ild skal hun brændes.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Og en datter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "af en mand"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "vanærer hun sig"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ved at bedrive utugt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "vanærer"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "skal hun brændes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:46.728229823Z",
+  "model": "glm-5.3"
+}

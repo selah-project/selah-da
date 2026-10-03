@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og en kvinde, når hun aflægger et løfte over for Jahve og binder sig med et bånd, i sin fars hus, i sin ungdom —",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Og en kvinde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "aflægger"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "et løfte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "over for Jahve"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "og binder"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "et bånd"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i ⟨huset⟩"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "i sin ungdom"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:23.840305463Z",
+  "model": "glm-5.3"
+}

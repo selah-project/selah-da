@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og det skete ved årets vendepunkt, at Ben-Hadad mønstrede ⟨את⟩ Aram, og han drog op til Afek til kamp mod Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ved vendepunktet"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "af året"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mønstrede"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og han drog op"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "til Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "til kamp"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:34:07.590598236Z",
+  "model": "glm-5.3"
+}

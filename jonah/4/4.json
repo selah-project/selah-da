@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Jahve sagde: Er det godt, at det brænder i dig?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Er det godt"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "det brænder"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i dig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:39.003664860Z",
+  "model": "glm-5.3"
+}

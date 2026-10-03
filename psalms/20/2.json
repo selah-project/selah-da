@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Jahve svare dig på trængselens dag! Jaakobs Elohims navn sætte dig i sikkerhed!",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "svare dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på"
+    },
+    {
+      "surface": "צרha",
+      "gloss": "trængselens dag",
+      "notes": null
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "sætte dig i sikkerhed"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:37.152442204Z",
+  "model": "glm-5.3"
+}

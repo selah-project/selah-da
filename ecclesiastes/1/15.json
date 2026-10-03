@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Det krogede kan ikke gøres ret, og det manglende kan ikke optælles.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "det krogede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "gøres ret"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "og det manglende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "optælles"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:22.316135395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Shmuel talte ⟨את⟩ alle Jahves ord til folket, de som bad ⟨את⟩ ham om en konge.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og talte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Jahves ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "de som bad"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ham om ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:03.829002701Z",
+  "model": "glm-5.3"
+}

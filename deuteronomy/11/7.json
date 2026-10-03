@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "for det er jeres øjne, som har set ⟨את⟩ hele Jahves store værk, som han gjorde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "jeres øjne"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jahves store værk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "store"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:44.420589662Z",
+  "model": "glm-5.3"
+}

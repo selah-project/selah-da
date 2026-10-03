@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Afgrunden — som en klædning dækkede du ⟨den⟩; over bjergene stod vandene.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Afgrunden"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "som en klædning"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "dækkede du"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stod"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:25.876324994Z",
+  "model": "glm-5.3"
+}

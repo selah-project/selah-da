@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og de gav Jaakov ⟨את⟩ alle de fremmede guder, som var i deres hænder, og ⟨את⟩ ringene, som var i deres ører; og Jaakov skjulte ⟨את⟩ dem under ⟨den⟩ terebint, som er ved Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Og de gav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de fremmede guder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de fremmede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i deres hænder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ringene"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "ringene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "i deres ører"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "og skjulte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (guderne og ringene)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨den⟩ terebint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ved"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:47.620049907Z",
+  "model": "glm-5.3"
+}

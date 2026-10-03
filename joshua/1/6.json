@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Vær stærk og modig, for du skal lade dette folk arve ⟨את⟩ landet, som jeg svor deres fædre at give dem.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "vær stærk"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "og modig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "skal lade arve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette folk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "svor jeg"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "at give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:55.046936365Z",
+  "model": "glm-5.3"
+}

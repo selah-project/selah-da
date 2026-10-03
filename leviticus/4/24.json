@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han skal lægge sin hånd på bukkens hoved og slagte den ⟨את⟩ på det sted, hvor man slagter brændofferet ⟨את⟩ foran Jahve; det er et syndoffer.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "og han skal lægge"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bukkens"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "og slagte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "bukken"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "man slagter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "et syndoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:06.017574315Z",
+  "model": "glm-5.3"
+}

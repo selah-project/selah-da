@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Yosef sagde til dem: Det ⟨er⟩ det, jeg talte til jer og sagde: I er spejdere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Det"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jeg talte"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spejdere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:03.722618263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Thi du prøvede os, Elohim, du smeltede os, som sølv smeltes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "prøvede du os"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "smeltede du os"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "som smeltes"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:06.798493840Z",
+  "model": "glm-5.3"
+}

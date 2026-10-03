@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "Hvor længe, Jahve? Vredes du for evigt? Skal din nidkærhed brænde som ild?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hvor længe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "længe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Vredes du"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Skal … brænde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "din nidkærhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:22.849840875Z",
+  "model": "glm-5.3"
+}

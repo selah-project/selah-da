@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Jahve, i himlene ⟨er⟩ dit chesed, din trofasthed indtil skyerne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dit chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:56.834436479Z",
+  "model": "glm-5.3"
+}

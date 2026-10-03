@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Ben-Hadad, kongen af Aram, samlede ⟨את⟩ hele sin hær, og to og tredive konger var med ⟨את⟩ ham, og hest og vogn; og han gik op og belejrede Shomron og kæmpede mod ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Og Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen af"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele sin hær"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sin hær"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konger"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "og hest"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "og vogn"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og han gik op"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "og belejrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mod ⟨den⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:16.453656226Z",
+  "model": "glm-5.3"
+}

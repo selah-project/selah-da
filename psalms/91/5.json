@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Du skal ikke frygte for skrækken om natten, for pilen der flyver om dagen,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skal du frygte"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "for skrækken"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "for pilen"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "der flyver"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:13.216744074Z",
+  "model": "glm-5.3"
+}

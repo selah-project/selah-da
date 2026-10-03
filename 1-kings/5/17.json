@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Du ved, at David, min far, ikke kunne bygge et hus til Jahve sin Elohims navn på grund af de krige, der omgav ham på alle sider, indtil Jahve lagde dem ⟨את⟩ under sine fødders såler.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ved"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David, min far"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "bygge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "til navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "omgav ham"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "תת",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (krigene\/fjenderne)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "såler"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "af hans fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:25.730662065Z",
+  "model": "glm-5.3"
+}

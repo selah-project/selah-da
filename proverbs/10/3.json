@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Jahve lader ikke den retfærdiges sjæl sulte, men de ondes begær støder han væk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "lader ... sulte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "והות",
+      "gloss": "men begæret"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "støder væk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:31.942842966Z",
+  "model": "glm-5.3"
+}

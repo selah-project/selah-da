@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 100,
+  "translation": "Kom ind i hans porte med tak, i hans forgårde med lovsang; bekend ham, lovpris hans navn!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "kom ind"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "i hans porte"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tak"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "i hans forgårde"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "med lovsang"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bekend ham"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "lovpris"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:26.099523319Z",
+  "model": "glm-5.3"
+}

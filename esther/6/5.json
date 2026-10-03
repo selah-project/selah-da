@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og kongens unge svarede ham: Se, Haman står i gården. Og kongen sagde: Lad ham komme ind.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og … svarede"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "kongens unge"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "står"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "i gården"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Lad ham komme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:29.950738821Z",
+  "model": "glm-5.3"
+}

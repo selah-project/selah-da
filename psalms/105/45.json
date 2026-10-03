@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "For at de skulle holde hans vedtagelser og vogte hans Toraer. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "For at"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "skulle holde"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hans vedtagelser"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "og hans Toraer"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "vogte"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:02.136732441Z",
+  "model": "glm-5.3"
+}

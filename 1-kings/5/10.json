@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Shlomos visdom var større end visdommen hos alle Kedems sønner og end al Mitsrajims visdom.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "Og var større"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomos"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "end visdommen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedems"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "og end al"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:42.808635661Z",
+  "model": "glm-5.3"
+}

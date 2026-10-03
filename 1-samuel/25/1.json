@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Shmuel døde, og hele Jisrael samledes, og de holdt dødsklage over ham, og de begravede ham i hans hus i Rama. Og David stod op og gik ned til Parans ørken.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Og … døde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "samledes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "holdt dødsklage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "og de begravede ham"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Og … stod op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og gik ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ørken"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parans"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:33.278027351Z",
+  "model": "glm-5.3"
+}

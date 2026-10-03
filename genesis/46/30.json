@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Og Jisrael sagde til Joesef: Måtte jeg dø denne gang, efter at jeg har set ⟨את⟩ dit ansigt, for du er endnu i live.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joesef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "måtte jeg dø"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "denne gang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter at"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "du er endnu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "i live"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:30.543352654Z",
+  "model": "glm-5.3"
+}

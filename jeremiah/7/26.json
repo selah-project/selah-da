@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Men de hørte ikke på mig og bøjede ikke ⟨את⟩ deres øre, men gjorde ⟨את⟩ deres nakke hård; de gjorde ondt mere end deres fædre.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Men … ikke"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "bøjede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres øre"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "deres øre"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "gjorde hård"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres nakke"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "deres nakke"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "de gjorde ondt"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "mere end deres fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T17:12:06.291958240Z",
+  "model": "glm-5.3"
+}

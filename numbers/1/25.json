@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Deres optalte, for stammen Gad: fem og fyrre tusind og seks hundrede og halvtreds.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "deres optalte"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "for stammen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "og halvtreds"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:28.440257725Z",
+  "model": "glm-5.3"
+}

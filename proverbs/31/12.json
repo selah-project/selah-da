@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Hun gengælder ham med godt og ikke ondt, alle sine livsdage.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "gengælder ham"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "sine livs"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:43.808469719Z",
+  "model": "glm-5.3"
+}

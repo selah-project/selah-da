@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Så vask dig og salve dig og læg din klædning på dig, og gå ned til Tærsken; lad dig ikke kendes af manden, før han er færdig med at spise og drikke.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "så vask dig"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "og salve dig"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "og læg"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "din klædning"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "og gå ned"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "til Tærsken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "lad dig kendes"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "af manden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "før"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "han er færdig"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "med at spise"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "og drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:48.621990494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Thi de som samler det, skal spise det og love ⟨את⟩ Jahve, og de som har høstet det, skal drikke det i mine hellige forgårde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "de som samler det"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skal spise det"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "og love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "og de som har høstet det"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "skal drikke det"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "i forgårdene"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mine hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:54.706767419Z",
+  "model": "glm-5.3"
+}

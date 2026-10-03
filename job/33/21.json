@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 33:21",
+  "book": "job",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Hans kød fortæres ⟨af⟩ syne, og hans knogler, ⟨som⟩ ikke var set, stikker frem.",
+  "tokens": [
+    {
+      "surface": "יכל",
+      "gloss": "fortæres"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans kød"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "af syne"
+    },
+    {
+      "surface": "ושפי",
+      "gloss": "og stikker frem"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "hans knogler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "var set"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:01.535089139Z",
+  "model": "glm-5.3"
+}

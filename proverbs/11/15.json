@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Ondt skal det gå den, der stiller kaution for en fremmed, men den, der hader håndslag, er tryg.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "skal det gå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "den, der"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "stiller kaution"
+    },
+    {
+      "surface": "זר",
+      "gloss": "for en fremmed"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "men den, der hader"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "håndslag"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "er tryg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:20.079767431Z",
+  "model": "glm-5.3"
+}

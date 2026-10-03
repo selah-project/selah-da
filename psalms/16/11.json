@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Du kundgør mig livets vej; mæthed af glæder ⟨er⟩ ⟨את⟩ dit ansigt, lystheder i din højre hånd for evigt.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "du kundgør mig"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "vej"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mæthed"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "af glæder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "lystheder"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "i din højre hånd"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:52.427169862Z",
+  "model": "glm-5.3"
+}

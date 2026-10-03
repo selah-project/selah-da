@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "De brød Elohims pagt og nægtede at vandre i hans Tora.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "og i hans Tora"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nægtede"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "at vandre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:10.613940018Z",
+  "model": "glm-5.3"
+}

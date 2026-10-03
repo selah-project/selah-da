@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "En ende kommer, enden kommer — den er vågnet mod dig; se, den kommer!",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "En ende"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "enden"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "er vågnet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "באה",
+      "gloss": "den kommer"
+    }
+  ],
+  "timestamp": "2026-10-03T17:31:31.458135874Z",
+  "model": "glm-5.3"
+}

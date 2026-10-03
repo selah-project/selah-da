@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "Hvor længe vil I dømme uret og løfte de ondes ansigt? Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hvor"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "længe"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "vil I dømme"
+    },
+    {
+      "surface": "עול",
+      "gloss": "uret"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "og ansigt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "løfte I"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:53.424530735Z",
+  "model": "glm-5.3"
+}

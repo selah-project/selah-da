@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og jorden frembragte grønt græs, urt, der bærer frø efter sit slags, og træ, der gør frugt, hvis frø er i det, efter sit slags. Og Elohim så, at det var godt.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "Og frembragte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "grønt græs"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "urt"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "der bærer"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "frø"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sit slags"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "og træ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der gør"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "frø"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i det"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sit slags"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:41.192760989Z",
+  "model": "glm-5.3"
+}

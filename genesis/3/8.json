@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de hørte ⟨את⟩ lyden af Jahve Elohim, som vandrede i haven ved dagens ruach; og mennesket skjulte sig og hans hustru for Jahve Elohims ansigt, midt iblandt træerne i haven.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Og de hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyden af Jahve Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "som vandrede"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i haven"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ved"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagens ruach"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "og skjulte sig"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træerne"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "i haven"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:53.627405767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Hvorfor raster folkeslagene, og hvorfor grubler ⟨de⟩ folkene på tomhed?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "raster"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og folkene"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "grubler"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "på tomhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:04.965365971Z",
+  "model": "glm-5.3"
+}

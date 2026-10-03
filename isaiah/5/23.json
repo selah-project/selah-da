@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "⟨Dem⟩ der frikender den skyldige for bestikkelsens skyld og tager retten fra de retfærdige fra ham!",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "frikender"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den skyldige"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "for skyld"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bestikkelsen"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "og retten fra"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "tager"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:21.055472203Z",
+  "model": "glm-5.3"
+}

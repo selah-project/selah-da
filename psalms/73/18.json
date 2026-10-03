@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Sandelig, på glatte steder sætter du dem, du styrter dem ned til ødeleggelse.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "på glatte steder"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "sætter du"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "styrtede du dem"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "til ødeleggelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:28.734052327Z",
+  "model": "glm-5.3"
+}

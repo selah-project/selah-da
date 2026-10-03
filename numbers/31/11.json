@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og de tog ⟨את⟩ alt byttet og ⟨את⟩ alt rovet, både af mennesker og af kvæg.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt byttet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "byttet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt rovet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "rovet"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "af mennesker"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "og af kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:10.774473898Z",
+  "model": "glm-5.3"
+}

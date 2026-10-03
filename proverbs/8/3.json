@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Ved siden af portene, ved byens munding, ved indgangen til dørene råber hun højt",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ved siden af"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "portene"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ved munding af"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "byen"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "til dørene"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "råber hun højt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:12.994103817Z",
+  "model": "glm-5.3"
+}

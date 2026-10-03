@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Kun folket ofrede på højsederne, for ⟨der⟩ var ikke bygget et hus for Jahves navn indtil de dage.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ofrede"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "på højsederne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "var bygget"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "for navnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:51.318319485Z",
+  "model": "glm-5.3"
+}

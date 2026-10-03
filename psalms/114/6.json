@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "I bjerge, at I sprang som væddere, I højder, som lam?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "I bjerge"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "I sprang"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "som væddere"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "I højder"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "som"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lam ⟨af småkvæg⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:28.365175195Z",
+  "model": "glm-5.3"
+}

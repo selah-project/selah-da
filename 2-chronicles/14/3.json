@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han sagde til Judah: De skal søge ⟨את⟩ Jahve, deres fædres Elohim, og gøre Toraen og budet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "til Judah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "at søge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim af"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "og at gøre"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "og budet"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:13.342413443Z",
+  "model": "glm-5.3"
+}

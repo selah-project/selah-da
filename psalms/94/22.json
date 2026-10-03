@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Og Jahve blev mig til højborg, og min Elohim til klippe, min tilfluggt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og … blev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "til højborg"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og min Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "til klippe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tilflugt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.653614470Z",
+  "model": "glm-5.3"
+}

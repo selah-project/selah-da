@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Achab fortalte Isibel ⟨את⟩ alt, hvad Elia havde gjort, og ⟨את⟩ alt, hvordan han havde dræbt ⟨את⟩ alle profeterne med sværdet.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "til Isibel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "havde dræbt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle profeterne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterne"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med sværdet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:40.553659866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og en mand gik fra Levis hus, og han tog ⟨את⟩ en datter af Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra huset"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en datter af Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "en datter"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:46.507847806Z",
+  "model": "glm-5.3"
+}

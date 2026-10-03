@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og os førte han ud derfra for at føre os ind, for at give os ⟨את⟩ landet, som han svor vore fædre.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ os",
+      "marks": "os (objekt for הוציא)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "førte ud"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "føre ind"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ os",
+      "marks": "os (objekt for הביא)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "give"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "vore fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:18.040959692Z",
+  "model": "glm-5.3"
+}

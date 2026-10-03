@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 124,
+  "translation": "hvis ikke Jahve havde været for os, da mennesker stod op imod os,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "hvis ikke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "havde været"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "da stod op"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "imod os"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.935725544Z",
+  "model": "glm-5.3"
+}

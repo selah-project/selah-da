@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og alle de vise, som udførte ⟨את⟩ alt helligdommens arbejde, kom, hver enkelt fra sit arbejde, som de gjorde.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "de vise"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "som udførte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt helligdommens arbejde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "arbejdet"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helligdommens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enkelt"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "fra sit arbejde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gjorde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:37.566802036Z",
+  "model": "glm-5.3"
+}

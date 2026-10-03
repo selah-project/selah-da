@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Han byggede ⟨את⟩ den øvre port i Jahves hus, og på muren af Ofel byggede han meget.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den øvre port"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "den øvre"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "og på muren"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "af Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:24.322650166Z",
+  "model": "glm-5.3"
+}

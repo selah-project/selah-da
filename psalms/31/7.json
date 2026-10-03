@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Jeg hader dem, der vogter tomme løgne; men jeg — til Jahve har jeg sat min lid.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Jeg hader"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "dem der vogter"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "tomme"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "løgne"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg sat min lid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:57.584963324Z",
+  "model": "glm-5.3"
+}

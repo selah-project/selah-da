@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David spurgte Jahve og sagde: Skal jeg gå og slå disse filistere? Og Jahve sagde til David: Gå, og slå filisterne, og frels ⟨את⟩ Keila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "og David spurgte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "skal jeg gå"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "og slå"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "og slå"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "og frels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:23.730556230Z",
+  "model": "glm-5.3"
+}

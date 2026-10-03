@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "Ve mig, for jeg har boet som fremmed hos Mesjek, jeg har boet ved Kedars telte.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "har jeg boet som fremmed"
+    },
+    {
+      "surface": "משך",
+      "gloss": "hos Mesjek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "jeg har boet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ved"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "telte"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedars"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:58.127547837Z",
+  "model": "glm-5.3"
+}

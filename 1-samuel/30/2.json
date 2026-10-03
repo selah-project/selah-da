@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og de førte kvinderne ⟨את⟩, som var i den, bort som fanger, fra den mindste til den største; de dræbte ikke et eneste menneske, men drev dem bort og gik deres vej.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Og de førte … bort som fanger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinderne"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinderne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "fra den mindste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "til"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "den største"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "de dræbte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et eneste menneske"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "men drev dem bort"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "deres vej"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:39.421783256Z",
+  "model": "glm-5.3"
+}

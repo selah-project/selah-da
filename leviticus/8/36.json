@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Aharon og hans sønner gjorde ⟨את⟩ alle de ting, som Jahve havde befalet ved Moshes hånd.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle tingene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tingene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befalet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånden"
+    },
+    {
+      "surface": "משה",
+      "gloss": "af Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:14.439637357Z",
+  "model": "glm-5.3"
+}

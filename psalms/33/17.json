@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Et bedrag ⟨er⟩ hesten til frelse, og i sin store styrke redder den ikke.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "et bedrag"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hesten"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "til frelse"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "og i sin store"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "redder den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:36.917740813Z",
+  "model": "glm-5.3"
+}

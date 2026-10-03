@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og da jomfruerne blev samlet anden gang, sad Mordekaj i kongens port.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "Og da ... blev samlet"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jomfruerne"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "anden gang"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sad"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:09.951832057Z",
+  "model": "glm-5.3"
+}

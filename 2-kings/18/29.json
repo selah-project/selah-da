@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Således siger kongen: Lad ikke Chizkijahu føre jer vilde, for han kan ikke frelse ⟨את⟩ jer ud af hans hånd.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "føre vilde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ud af hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:27.259439965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Bedre er ⟨den⟩ fattige, som vandrer i sin uskyld, end ⟨den⟩ som er kroget i sine læber og ⟨er⟩ en tåbe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "רש",
+      "gloss": "fattige"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "vandrer"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "i sin uskyld"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "end ⟨den⟩ krogede"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "i sine læber"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en tåbe"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:32.185108018Z",
+  "model": "glm-5.3"
+}

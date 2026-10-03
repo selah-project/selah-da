@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Et menneskes hovmod knuser det ned, men den ydmyge i ruach opnår ære.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "hovmod"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneskes"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "knuser det ned"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "men ydmyg"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "opnår"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:32.526942250Z",
+  "model": "glm-5.3"
+}

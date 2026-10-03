@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og de fandt en mand, en Mitsri, ude på marken, og de tog ⟨את⟩ ham til David og gav ham brød, og han spiste, og de gav ham vand at drikke.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "og de fandt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "en Mitsri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og de tog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "en mand, en Mitsri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "og de gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og han spiste"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "og lod ham drikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:41.530559413Z",
+  "model": "glm-5.3"
+}

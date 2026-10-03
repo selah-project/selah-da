@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Knus armen på den onde og onde mand; kræv hans ondskab til regnskab — ⟨den⟩ findes slet ikke.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Knus"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "armen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "og onde mand"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "kræv til regnskab"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "hans ondskab"
+    },
+    {
+      "surface": "בל",
+      "gloss": "slet ikke"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "findes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:07.110342788Z",
+  "model": "glm-5.3"
+}

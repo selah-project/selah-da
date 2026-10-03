@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 125,
+  "translation": "Gør godt, Jahve, mod de gode og mod de oprigtige i deres hjerter.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "gør godt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "mod de gode"
+    },
+    {
+      "surface": "ו לישרים",
+      "gloss": "og mod de oprigtige"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "i deres hjerter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:23.868461650Z",
+  "model": "glm-5.3"
+}

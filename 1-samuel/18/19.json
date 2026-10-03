@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete, på den tid ⟨את⟩ Merav, Shauls datter, skulle gives til David, blev hun givet til Adriel fra Mechola til hustru.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på den tid"
+    },
+    {
+      "surface": "תת",
+      "gloss": "skulle gives"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "blev hun"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "givet"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "til Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "fra Mechola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:32.080465157Z",
+  "model": "glm-5.3"
+}

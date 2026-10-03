@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "For Josefs sønner: for Efrajim, Elishama, søn af Ammihud; for Menashe, Gamliel, søn af Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "For sønnerne af"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "for Efrajim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "af Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "for Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "af Pedatsur"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:56.149348292Z",
+  "model": "glm-5.3"
+}

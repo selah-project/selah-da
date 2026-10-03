@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Aharon rakte sin hånd ud over Mitsrajims vande, og frøerne steg op og dækkede Mitsrajims land.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Og rakte ud"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "og steg op"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "frøerne"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "og dækkede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajims land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:35.136738300Z",
+  "model": "glm-5.3"
+}

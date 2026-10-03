@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han førte ud ⟨את⟩ kongesønnen og satte på ham ⟨את⟩ kronen og ⟨את⟩ vidnesbyrdet, og de gjorde ham til konge og salvede ham, og de klappede i hænderne og sagde: Kongen leve!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "og han førte ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongesønnen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sønnen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kronen"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "kronen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "vidnesbyrdet"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "vidnesbyrdet"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "og de gjorde til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "og salvede ham"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og de klappede"
+    },
+    {
+      "surface": "כף",
+      "gloss": "i hænderne"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "leve"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:21.666327895Z",
+  "model": "glm-5.3"
+}

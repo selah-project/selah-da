@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Alle sammen bliver varme som en ovn og fortærer ⟨את⟩ deres dommere; alle deres konger er faldet, der er ingen blandt dem, som kalder til mig.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "bliver varme"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "som en ovn"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "og fortærer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres dommere"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "deres dommere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deres konger"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "er faldet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "som kalder"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "blandt dem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:31.217710686Z",
+  "model": "glm-5.3"
+}

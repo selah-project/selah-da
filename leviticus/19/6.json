@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "På dagen for jeres slagtning skal det spises, og dagen efter; men det som er tilbage indtil den tredje dag, skal brændes i ilden.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På dagen"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "for jeres slagtning"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal det spises"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "og dagen efter"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "men det som er tilbage"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "skal brændes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:21.466552639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og hele folket gik over ⟨את⟩ Jordan, og kongen gik over; og kongen kyssede Barzillaj og velsignede ham, og han vendte tilbage til sit sted.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Og gik over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gik over"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "og kyssede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzillaj"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "og velsignede ham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "til sit sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:17:27.209146611Z",
+  "model": "glm-5.3"
+}

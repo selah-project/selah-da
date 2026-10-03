@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Støbte guder skal du ikke lave dig.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "støbte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du lave"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:53.501036348Z",
+  "model": "glm-5.3"
+}

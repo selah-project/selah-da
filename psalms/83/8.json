@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Geval og Ammon og Amalek, Filistrea sammen med Tsors indbyggere.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Geval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "og Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "og Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistrea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggere"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsors"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:26.952638819Z",
+  "model": "glm-5.3"
+}

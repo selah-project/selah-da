@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og jeg vil fri dig og ⟨את⟩ denne by fra hånden af Ashurs konge, og jeg vil skærme denne by.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "og fra hånden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "vil jeg fri dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denne by"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denne by"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "og jeg vil skærme"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denne by"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:00.089883953Z",
+  "model": "glm-5.3"
+}

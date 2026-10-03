@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Avimelech tog får og kvæg, trælle og trælkvinder, og han gav ⟨את⟩ Avraham dem og gav ham ⟨את⟩ Sarah, hans hustru, tilbage.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og … tog"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "og kvæg"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "og trælle"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "og trælkvinder"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han gav"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og gav tilbage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:21.823027561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han førte Jahves ark rundt om ⟨את⟩ byen én gang, og de kom til lejren og overnattede i lejren.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Og han førte rundt"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "gang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "til lejren"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "og overnattede"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:01.897580212Z",
+  "model": "glm-5.3"
+}

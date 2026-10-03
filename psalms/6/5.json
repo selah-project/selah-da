@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Vend tilbage, Jahve, fri min sjæl, frels mig for din cheseds skyld.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "fri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "frels mig"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:45.103964664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal tage ⟨את⟩ klæderne og klæde ⟨את⟩ Aharon med ⟨את⟩ kjortlen og ⟨את⟩ kappen under efoden og ⟨את⟩ efoden og ⟨את⟩ brystpladen, og du skal binde ham med efodens vævede bælte.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "og du skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klæderne"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "klæderne"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "og klæde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kjortlen"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kjortlen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kappen under efoden"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kappen"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "efoden"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "brystpladen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brystpladen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "og du skal binde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "med det vævede bælte"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodens"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:31.794492646Z",
+  "model": "glm-5.3"
+}

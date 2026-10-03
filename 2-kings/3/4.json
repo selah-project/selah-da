@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Mesha, Moavs konge, var fåreavler, og han betalte til Israels konge hundrede tusinde væddere og hundrede tusinde brik med ulden.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Og Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavs"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "fåreavler"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "og han betalte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "vær"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "og hundrede"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "brik"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "med ulden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:24.153666014Z",
+  "model": "glm-5.3"
+}

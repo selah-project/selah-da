@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Men du ⟨er⟩ den samme, og dine år skal ikke få ende.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩ den samme"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "og dine år"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "skal få ende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:25.277312558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og kongen sagde: Træd til side, og stil dig her. Og han trådte til side og stod ⟨stille⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "סב",
+      "gloss": "træd til side"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "stil dig"
+    },
+    {
+      "surface": "כה",
+      "gloss": "her"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "og han trådte til side"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og stod"
+    }
+  ],
+  "timestamp": "2026-10-03T16:17:30.139855133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og de sagde: Skulle man gøre ⟨את⟩ vor søster som en skøge?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "skøge"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skulle gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor søster"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "vor søster"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:49.257170163Z",
+  "model": "glm-5.3"
+}

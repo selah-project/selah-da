@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Du må ikke bøje retten for den fremmede og den faderløse, og du må ikke tage en enkes klædebon i pant.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "bøje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "retten"
+    },
+    {
+      "surface": "גר",
+      "gloss": "den fremmede"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "den faderløse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "tage i pant"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "klædebon"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "enkes"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:10.727036733Z",
+  "model": "glm-5.3"
+}

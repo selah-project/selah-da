@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Da skal du gå trygt ad din vej, og din fod skal ikke støde mod noget.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skal du gå"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "trygt"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ad din vej"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "og din fod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "skal støde mod noget"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:39.185353621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og de unge mænds synd var meget stor ⟨foran⟩ Jahves ⟨את⟩ ansigt, for mændene foragtede Jahves ⟨את⟩ mincha.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "de unge mænds"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "foragtede"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves mincha"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:01.946832414Z",
+  "model": "glm-5.3"
+}

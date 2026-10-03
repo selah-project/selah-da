@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "For han huskede ⟨את⟩ sit hellige ord, ⟨את⟩ Avraham sin træl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit hellige ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sit hellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.328291175Z",
+  "model": "glm-5.3"
+}

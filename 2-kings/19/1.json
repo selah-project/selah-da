@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og det skete, da kong Chizkija hørte det, sønderrev han ⟨את⟩ sine klæder og svøbte sig i sæk og gik ind i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da han hørte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkija"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "sønderrev han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "og svøbte sig"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "i sæk"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og gik ind"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:18.466782139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Pris Jahve, alle hans værker, på alle steder i hans herredømme! Pris, min sjæl, ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans værker"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på alle"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "steder"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "i hans herredømme"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Pris"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:55.684848974Z",
+  "model": "glm-5.3"
+}

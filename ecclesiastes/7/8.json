@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Bedre ⟨er⟩ en sags ende end dens begyndelse; bedre ⟨er⟩ lang ruach end høj ruach.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ende"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sag"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "end dens begyndelse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "end høj"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:10.515364021Z",
+  "model": "glm-5.3"
+}

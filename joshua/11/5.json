@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og alle disse konger mødtes, og de kom og slog lejr sammen ved Meroms vande for at kæmpe mod Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "mødtes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "disse konger"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "og slog lejr"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vande"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Meroms"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "for at kæmpe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:31.398914018Z",
+  "model": "glm-5.3"
+}

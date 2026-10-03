@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Du har forkastet ⟨את⟩ alle dem, der farer vild fra dine chukkim, thi løgn er deres svig.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Du har forkastet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "dem, der farer vild"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "fra dine chukkim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "er deres svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:02.549127044Z",
+  "model": "glm-5.3"
+}

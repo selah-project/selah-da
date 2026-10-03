@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og der blev fortalt Lavan på den tredje dag, at Jaakov var flygtet.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "og der blev fortalt"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "til Lavan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "var flygtet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:52.370726970Z",
+  "model": "glm-5.3"
+}

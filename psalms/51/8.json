@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Se, sandhed ønsker du i det inderste, og i det skjulte lader du mig kende visdom.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ønsker du"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "i det inderste"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "og i det skjulte"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "lader du mig kende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:58.291114950Z",
+  "model": "glm-5.3"
+}

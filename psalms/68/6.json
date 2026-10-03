@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "En fader for de faderløse og en dommer for enker — Elohim — i sin hellige bolig.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "En fader"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "for de faderløse"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "og en dommer"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "for enker"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "i bolig"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sin hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:06.856114853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Salig er manden, som ikke vandret i de ondes råd, og på synderes vej ikke står, og i spotteres sæde ikke sidder.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vandret"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "i rådet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "af de onde"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "og på vej"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "af synderne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "står"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "og i sæde"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "af spottene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sidder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:07.085666722Z",
+  "model": "glm-5.3"
+}

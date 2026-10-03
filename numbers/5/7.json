@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "skal de bekende ⟨את⟩ deres synd, som de har gjort, og han skal gengælde ⟨את⟩ sin skyld i fuldt beløb og føje en femtedel dertil og give den til den, han har forbrudt sig mod.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "skal bekende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres synd"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "deres synd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "gengælde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin skyld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sin skyld"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "i fuldt beløb"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "en femtedel"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "føje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dereto"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "til den"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "har forbrudt sig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mod ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:21.493716263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og Josef sagde til Farao: Faraos drøm er én ⟨er den⟩; det, Elohim gør, har han kundgjort for Farao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "drøm"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "har kundgjort"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "for Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:36.276618306Z",
+  "model": "glm-5.3"
+}

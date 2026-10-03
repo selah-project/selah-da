@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "De har omgivet mig som vandet hele dagen, de har lukket sig sammen om mig.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "de har omgivet mig"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vandet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "de har lukket sig om"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:46.969542973Z",
+  "model": "glm-5.3"
+}

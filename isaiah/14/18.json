@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Alle folkens konger, dem alle, hviler i herlighed, hver i sit hus.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger af"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dem alle"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "hviler (ligger)"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "i herlighed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i sit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:55.207894036Z",
+  "model": "glm-5.3"
+}

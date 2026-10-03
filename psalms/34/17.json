@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Jahves ansigt ⟨er⟩ imod dem, der gør ondt, for at udrydde deres ihukommelse fra ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "imod dem, der gør"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "for at udrydde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra jorden"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deres ihukommelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.271199751Z",
+  "model": "glm-5.3"
+}

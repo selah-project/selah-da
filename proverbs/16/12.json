@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Grusom værdiløshed for konger er at gøre ondskab, for ved tsedek fastnes tronen.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "grusom værdiløshed"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "for konger"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ved tsedek"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "fastnes"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:03.227954208Z",
+  "model": "glm-5.3"
+}

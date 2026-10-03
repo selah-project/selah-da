@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Måtte hans sønner blive faderløse, og hans hustru enke.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "måtte de blive"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "faderløse"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "enke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.553347057Z",
+  "model": "glm-5.3"
+}

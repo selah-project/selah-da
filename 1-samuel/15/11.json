@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Det fortryder mig, at jeg gjorde ⟨את⟩ Sha'ul til konge; thi han vendte sig fra mig, og ⟨את⟩ mine ord opfyldte han ikke. Og det vredede Shemuel, og han råbte til Jahve hele natten.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Det fortryder mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "jeg gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til konge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sig fra mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mine ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "opfyldte"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "og det vredede"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "og han råbte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:59.663364353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Du skal knuse dem med et septer af jern; som en pottemagers kar skal du smadre dem.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "skal du knude dem"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "med et septer"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "af jern"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "som et kar"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "af en pottemager"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "skal du smadre dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:25.944894878Z",
+  "model": "glm-5.3"
+}

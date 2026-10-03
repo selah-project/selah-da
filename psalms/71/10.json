@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Thi mine fjender har talt imod mig, og de som vogter på min sjæl, rådslår ⟨med hinanden⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "og de som vogter på"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "rådslår"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:11.012106470Z",
+  "model": "glm-5.3"
+}

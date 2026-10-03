@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Af lyden af min sukning klæber min knogle til mit kød.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Af lyden af"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "min sukning"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "klæber"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "min knogle"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "til mit kød"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:02.873903434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og han gav ⟨את⟩ sin røst i gråd, og Mitsrajim hørte ⟨det⟩, og Parohs hus hørte ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og han gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin røst"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sin røst"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "i gråd"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "og de hørte"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim (egypternes)"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hørde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:51.633050278Z",
+  "model": "glm-5.3"
+}

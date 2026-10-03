@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han husker til evigt tid sin pagt, ⟨det⟩ ord, som han befalede til tusind slægter.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Han husker"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigt tid"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sin pagt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "som han befalede"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "til tusind"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.558911177Z",
+  "model": "glm-5.3"
+}

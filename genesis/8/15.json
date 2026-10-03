@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Elohim talte til Noach og sagde:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:45.318708464Z",
+  "model": "glm-5.3"
+}

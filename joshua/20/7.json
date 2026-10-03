@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og de helligede ⟨את⟩ Kedesh i Galil i Naftalis bjergland og ⟨את⟩ Shekhem i Efrajims bjergland og ⟨את⟩ Kirjat-Arba — det er Chevron — i Jehudas bjergland.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Og de helligede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "i Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalis bjergland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims bjergland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas bjergland"
+    }
+  ],
+  "timestamp": "2026-10-03T15:45:10.945535835Z",
+  "model": "glm-5.3"
+}

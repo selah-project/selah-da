@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Spises noget vammelt uden salt? Er der nogen smag i slimet af en æggehvide?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "spises"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "noget vammelt"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er der"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "smag"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "i slimet"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "af en æggehvide"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:16.699682722Z",
+  "model": "glm-5.3"
+}

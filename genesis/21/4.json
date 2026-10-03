@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Avraham omskar ⟨את⟩ Jitschak, sin søn, da han var otte dage gammel, således som Elohim havde påbudt ham ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Og omskar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "otte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:43.146495043Z",
+  "model": "glm-5.3"
+}

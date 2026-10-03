@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og i den første måned, på den fjortende dag i måneden, ⟨er⟩ Pesach for Jahve.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Og i måneden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på den fjortende"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fjortende"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:29.921633216Z",
+  "model": "glm-5.3"
+}

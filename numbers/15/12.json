@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Efter det tal, I gør, således skal I gøre for hvert enkelt efter deres tal.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "efter tallet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "I gør"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "således"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skal I gøre"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "for hvert enkelt"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "efter deres tal"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:28.521142979Z",
+  "model": "glm-5.3"
+}

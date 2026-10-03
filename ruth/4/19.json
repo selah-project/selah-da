@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Chetsron avlede ⟨את⟩ Ram, og Ram avlede ⟨את⟩ Amminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Og Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "og Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:28.973726618Z",
+  "model": "glm-5.3"
+}

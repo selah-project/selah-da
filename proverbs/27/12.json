@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Den kløgtige ser ulykken og skjuler sig; de enfoldige går videre og bliver straffet.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "den kløgtige"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ulykken"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "skjuler sig"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "de enfoldige"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "går videre"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "blir straffet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:12.597231855Z",
+  "model": "glm-5.3"
+}

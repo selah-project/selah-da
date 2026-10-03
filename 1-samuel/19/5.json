@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Han satte ⟨את⟩ sit liv i sin hånd og slog ⟨את⟩ filisteren, og Jahve virkede en stor frelse for hele Jisrael; du så det og glædede dig — hvorfor vil du da synde med uskyldigt blod, ved at dræbe ⟨את⟩ David uden grund?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit liv"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sit liv"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "i sin hånd"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteren"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og virkede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du så"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "og glædede dig"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "vil du synde"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "med blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldigt"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ved at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "uden grund"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:49.081976979Z",
+  "model": "glm-5.3"
+}

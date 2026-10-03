@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Noach gjorde det; efter alt ⟨את⟩ ham — Elohim havde påbudt — således gjorde han.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjorde"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "efter alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨som⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "Noach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:13.550154693Z",
+  "model": "glm-5.3"
+}

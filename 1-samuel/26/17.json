@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Saul kendte Davids røst og sagde: Er det din røst, min søn David? Og David sagde: Det er min røst, min herre kongen.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids røst"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "din røst"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:51.530375494Z",
+  "model": "glm-5.3"
+}

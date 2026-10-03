@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og det skete, da kong Chizkijahu hørte ⟨det⟩, sønderrev han ⟨את⟩ sine klæder og hyllede sig i sæk og gik ind i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da … hørte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "sønderrev han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "og hyllede sig"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "i sæk"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og gik ind"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:41.846696262Z",
+  "model": "glm-5.3"
+}

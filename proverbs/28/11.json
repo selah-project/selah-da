@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den rige mand ⟨er⟩ vis i sine egne øjne, men den fattige med forstand gennemsøger ham.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sine egne øjne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rig"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "men den fattige"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "med forstand"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "gennemsøger ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:06.476142693Z",
+  "model": "glm-5.3"
+}

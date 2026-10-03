@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og han opstillede dér et alter og kaldte det El Elohei Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "og han opstillede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "déр"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "det"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:28.461082227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Stød i shofar ved nymånedagen, ved fuldmånen, på dagen for vor fest!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Stød i"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ved nymånedagen"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ved fuldmånen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "på dagen for"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "vor fest"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:58.824312841Z",
+  "model": "glm-5.3"
+}

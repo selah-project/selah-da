@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Kongen af Eglon, én; kongen af Gezer, én;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:31.731084358Z",
+  "model": "glm-5.3"
+}

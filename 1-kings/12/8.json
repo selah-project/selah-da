@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Men han forlod ⟨את⟩ de ældstes råd, som de havde givet ham, og rådslog med ⟨את⟩ de unge mænd, som var vokset op ⟨את⟩ hos ham, som stod foran ham.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "men han forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ældstes råd"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rådet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "af de ældste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "de havde givet ham"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "og han rådslog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de unge mænd"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de unge mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "var vokset op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hos ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stod"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:21.926944646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Shacharajim avlede ⟨børn⟩ i Moavs land, efter at han havde sendt ⟨את⟩ dem bort — Chushim og ⟨את⟩ Ba'ara, hans hustruer.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Og Shacharajim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "i Moavs land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מן",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "at han havde sendt dem bort"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "Chushim og Ba'ara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ba'ara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Ba'ara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hans hustruer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:47.054703692Z",
+  "model": "glm-5.3"
+}

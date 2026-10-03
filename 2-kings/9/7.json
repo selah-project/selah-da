@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og du skal slå ⟨את⟩ Ahabs hus, din herres, og jeg vil hævne blodet af mine trælle, profeterne, og blodet af alle Jahves trælle af Izabels hånd.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "og du skal slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabs hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "og jeg vil hævne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "af mine trælle"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterne"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "og blodet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånd"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:18.156414600Z",
+  "model": "glm-5.3"
+}

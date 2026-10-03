@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og de sagde til Moshe og ⟨fortalte⟩: Folket frembringer meget, mere end nok til arbejdet med det håndværk, som Jahve har påbudt at gøre ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og ⟨fortalte⟩"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "frembringer meget"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "at bringe"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mere end nok"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "arbejdet"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "til håndværket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (håndværket)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:15.472100012Z",
+  "model": "glm-5.3"
+}

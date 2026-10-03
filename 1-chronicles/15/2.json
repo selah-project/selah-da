@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Da sagde David: Det er ikke tilladt at bære ⟨את⟩ Elohims ark, undtagen levitterne; for dem har Jahve udvalgt til at bære ⟨את⟩ Jahves ark og til at tjene ham til evig tid.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "at bære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אם",
+      "gloss": "undtagen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "har udvalgt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "til at bære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "og til at tjene ham"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:38.575155499Z",
+  "model": "glm-5.3"
+}

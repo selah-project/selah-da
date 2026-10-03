@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "giv ikke søvn til dine øjne og ikke døs til dine øjenlåg.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "søvn"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "til dine øjne"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "og døs"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "til dine øjenlåg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:31.998381497Z",
+  "model": "glm-5.3"
+}

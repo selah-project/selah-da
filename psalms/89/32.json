@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "hvis de vanhelliger mine chukkot og ikke holder mine mitzvot,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mine chukkot"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "de vanhelliger"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "og mine mitzvot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "de holder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:22.001484518Z",
+  "model": "glm-5.3"
+}

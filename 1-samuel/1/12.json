@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det skete, da hun havde tiltaget meget i bøn foran Jahve, at Eli vogtede ⟨את⟩ hendes mund.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "hun havde tiltaget meget"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "i bøn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "at Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes mund"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hendes mund"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:56.299847636Z",
+  "model": "glm-5.3"
+}

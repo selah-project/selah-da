@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Jered levede to og tresindstyve år og et hundrede år, og han avlede ⟨את⟩ Chanok.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "levede"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "to"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "og tres"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "og et hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:14.054076468Z",
+  "model": "glm-5.3"
+}

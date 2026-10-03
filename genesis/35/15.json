@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og Jaakov gav ⟨את⟩ navnet til ⟨det⟩ sted hvor Elohim havde talt med ⟨את⟩ ham dér: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:20.297012064Z",
+  "model": "glm-5.3"
+}

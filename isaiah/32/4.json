@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og de hastiges hjerte skal forstå at kende, og de stammendes tunge skal haste med at tale klart.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Og hjerte"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "de hastiges"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "skal forstå"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "at kende"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "og tunge"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "de stammende"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "skal haste"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "med at tale"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "klart"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:19.828804736Z",
+  "model": "glm-5.3"
+}

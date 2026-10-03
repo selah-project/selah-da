@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "I brogede klæder føres hun til kongen; jomfruer bag hende, hendes veninder, føres til dig.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "I brogede klæder"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "føres hun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jomfruer"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "bag hende"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "hendes veninder"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "føres"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:02.053340684Z",
+  "model": "glm-5.3"
+}

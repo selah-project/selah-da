@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Hold op med vrede, og forlad harme; bliv ikke vred — det fører kun til ondt.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "hold op med"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "og forlad"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "harme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bliv vred"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "til at gøre ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:08.530574550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han tog ⟨את⟩ kalven, som de havde lavet, og brændte den i ilden og malede den, indtil den ⟨var⟩ støvfint, og strøede den ud over vandenes overflade og gav Jisraels sønner at drikke ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalven"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "kalven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de havde lavet"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "og brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "og malede"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "דק",
+      "gloss": "den var støvfint"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "og strøede ud"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "overfladen af"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "og gav at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:52.257896762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han sagde: Velsignet ⟨er⟩ Jahve, Jisraels Elohim, som talte med sin mund ⟨את⟩ David, min fader, og med sin hånd opfyldte ⟨det⟩, idet han sagde:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "med sin mund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David, min fader"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "og med sin hånd"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "opfyldte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idet han sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:43.272367633Z",
+  "model": "glm-5.3"
+}

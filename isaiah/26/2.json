@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Åbn ⟨portene⟩, og lad et retfærdigt folk komme ind, et folk der vogter trofasthed.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Åbn"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "portene"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og lad komme ind"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdigt"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "der vogter"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:55.504387711Z",
+  "model": "glm-5.3"
+}

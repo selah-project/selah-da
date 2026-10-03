@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og ⟨את⟩ mit folk skal de undervise mellem hellig og almindeligt, og mellem urent og rent skal de lære dem at skelne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "skal undervise"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "og almindeligt"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urent"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "og rent"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "skal lære dem at skelne"
+    }
+  ],
+  "timestamp": "2026-10-03T17:47:38.229177714Z",
+  "model": "glm-5.3"
+}

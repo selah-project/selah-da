@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Shaul slyngede ⟨את⟩ spydet og sagde: Jeg vil gennem bore David ind i muren. Men David vendte sig bort fra hans ansigt to gange.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "og slyngede"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spydet"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "spydet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "jeg vil slå"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "gennem David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "og ind i muren"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "og vendte sig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "bort fra hans ansigt"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "to gange"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:04.435775046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Gør dig en ark af gofertræ; reder skal du gøre ⟨את⟩ arken, og du skal beklæde den ⟨את⟩ indefra og udefra med bek.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træ af"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "reder"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "og du skal beklæde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "indefra"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "og udefra"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "med bek"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:57.775233843Z",
+  "model": "glm-5.3"
+}

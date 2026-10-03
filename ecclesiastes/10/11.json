@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Hvis slangen bider, fordi der ikke hvisles besværgelse, så er der ingen fordel for den, der ⟨ejer⟩ tungen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "bider"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "slangen"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "fordi der ikke"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "hvisles besværgelse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "så er der ingen"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "fordel"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "for den, der ⟨ejer⟩"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "tungen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:10.943712035Z",
+  "model": "glm-5.3"
+}

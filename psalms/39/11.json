@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Fjern dit slag fra mig; jeg er fortæret af din hands strid.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "fjern"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "dit slag"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "af strid"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "er fortæret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:42.159426124Z",
+  "model": "glm-5.3"
+}

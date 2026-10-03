@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de fandt Adoni-Bezek i Bezek og kæmpede mod ham, og de slog kanaanæeren og perizzæeren.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Og de fandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "i Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mod ham"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "perizzæeren"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizzæeren"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:27.106829782Z",
+  "model": "glm-5.3"
+}

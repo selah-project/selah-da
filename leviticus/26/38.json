@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og I skal gå tabt blandt folkeslagene, og eders fjenders land skal fortære ⟨את⟩ jer.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Og I skal gå tabt"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "blandt folkeslagene"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og skal fortære"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "eders fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:41.748703127Z",
+  "model": "glm-5.3"
+}

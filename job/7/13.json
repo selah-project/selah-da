@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Når jeg siger: Min leje skal trøste mig, min seng skal bære min klage bort —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg siger"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "skal trøste mig"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "min leje"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal bære bort"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "min klage"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "min seng"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:16.933670871Z",
+  "model": "glm-5.3"
+}

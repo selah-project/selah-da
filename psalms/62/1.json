@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Til korlederen, efter Jedutun; en salme af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:24.582198054Z",
+  "model": "glm-5.3"
+}

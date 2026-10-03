@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "Han lader den barnløse kvinde i huset sidde ⟨som⟩ en glad mor til børn. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Han lader … sidde"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "den barnløse kvinde"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "til børn"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "en glad"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:50.773632977Z",
+  "model": "glm-5.3"
+}

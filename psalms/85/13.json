@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Ja, Jahve vil give det gode, og vor jord vil give sin afgrøde.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vil give"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "og vor jord"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vil give"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sin afgrøde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:43.669453208Z",
+  "model": "glm-5.3"
+}

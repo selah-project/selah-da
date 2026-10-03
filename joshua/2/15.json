@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun lod dem ned med et reb ud gennem vinduet, for hendes hus ⟨lå⟩ i bymuren, og i muren boede hun.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "Og hun lod dem ned"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "med et reb"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ud gennem"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "vinduet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hendes hus"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "i muren"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "bymuren"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "og i muren"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "boede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:36:57.002784061Z",
+  "model": "glm-5.3"
+}

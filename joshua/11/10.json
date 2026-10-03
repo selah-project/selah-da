@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Josua vendte tilbage på den tid og erobrede ⟨את⟩ Chatzor og ⟨את⟩ dens konge slog han med sværdet, for Chatzor var før i tiden hovedet over alle disse kongeriger.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på tiden"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og erobrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens konge"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "dens konge"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med sværdet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "før i tiden"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "disse kongeriger"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:49.869023756Z",
+  "model": "glm-5.3"
+}

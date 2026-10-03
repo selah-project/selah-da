@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han havde to hustruer; den enes navn var Channa, og den andens navn Peninna; og Peninna havde børn, men Channa havde ingen børn.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Og han havde"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "den enes"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og navn"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den andens"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og der var"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "til Peninna"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "men til Channa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "børn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:42.681470970Z",
+  "model": "glm-5.3"
+}

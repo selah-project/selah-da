@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Mange hyrder har ødelagt min vingård, de har tramplet min lod ⟨under foden⟩, min lækre lod har de gjort til en øde ødemark.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "hyrder"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "har ødelagt"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "min vingård"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "har tramplet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min lod"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "min lod"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min lækre lod"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "lod"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "min lækre"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "til ørken"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "øde"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:17.033802675Z",
+  "model": "glm-5.3"
+}

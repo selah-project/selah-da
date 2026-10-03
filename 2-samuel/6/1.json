@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og David samlede atter ⟨את⟩ alle udvalgte mænd i Jisrael, tredive tusinde.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "samlede atter"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atter"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle udvalgte mænd i Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "udvalgte mænd"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:56.952245889Z",
+  "model": "glm-5.3"
+}

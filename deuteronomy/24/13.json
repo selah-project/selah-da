@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Du skal visseligen give ham ⟨את⟩ panteren tilbage inden solnedgang, og han skal ligge i sin kappe og velsigne dig, og det skal være dig til tsedek for ansigtet af Jahve, din Elohim.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "visseligen give tilbage"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "skal du give tilbage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panteren"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "panteren"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ved (solens) nedgang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solnedgang"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "og han skal ligge"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "i sin kappe"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "og velsigne dig"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "og dig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal det være"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:41.783865375Z",
+  "model": "glm-5.3"
+}

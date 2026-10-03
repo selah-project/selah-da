@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Jahve har behag i dem, der frygter ham, ⟨את⟩ dem, der venter på hans chesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "har behag i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem, der frygter ham"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "der frygter ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem, der venter på hans chesed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "der venter"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "på hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.312656786Z",
+  "model": "glm-5.3"
+}

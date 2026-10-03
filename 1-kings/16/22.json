@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og folket, der fulgte Omri, blev stærkere end ⟨את⟩ folket, der fulgte Tivni, søn af Ginat; så døde Tivni, og Omri blev konge.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og…blev stærkere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "fulgte"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket, der fulgte Tivni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "fulgte"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "så døde"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og…blev konge"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:35.080424477Z",
+  "model": "glm-5.3"
+}

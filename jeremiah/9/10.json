@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og jeg vil gøre Jerushalajim ⟨את⟩ til stenhobe, til en bolig for sjakaler, og Jehudas byer ⟨את⟩ vil jeg gøre til ødemark, uden en indbygger.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "til stenhobe"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "til en bolig"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "for sjakaler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudas byer"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vil jeg gøre"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "til ødemark"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "en indbygger"
+    }
+  ],
+  "timestamp": "2026-10-03T17:12:34.733131641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og det skete ved aftenstid, at vagtlerne steg op og dækkede ⟨את⟩ lejren; og om morgenen var der et lag af dug rundt om lejren.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ved aftenstid"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "vagtlerne"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dækkede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lejren"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "og om morgenen"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lag"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "dug"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:08.848184542Z",
+  "model": "glm-5.3"
+}

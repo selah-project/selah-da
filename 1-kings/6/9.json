@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han byggede ⟨את⟩ huset og fuldendte det, og han beklædte ⟨את⟩ huset med bjælker og rækker af cedertræ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "og han byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "og fuldendte det"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "og han beklædte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "med bjælker"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "og rækker"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "af cedertræ"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:49.970272620Z",
+  "model": "glm-5.3"
+}

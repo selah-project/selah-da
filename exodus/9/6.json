@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve gjorde ⟨את⟩ dette ord dagen efter, og al kvæg fra Mitsrajim døde; men af Jisraels børns kvæg døde ikke ét.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dette ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dagen efter"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "kvæg"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "men af kvæg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "døde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:57.381875928Z",
+  "model": "glm-5.3"
+}

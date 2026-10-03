@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Blodshævneren selv skal dræbe morderen; når han møder ham, skal han selv dræbe ham ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Blodshævneren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blods-"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "selv"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "skal dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morderen"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "morderen"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "når han møder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han selv"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "skal dræbe ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:19:11.510157615Z",
+  "model": "glm-5.3"
+}

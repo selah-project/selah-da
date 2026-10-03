@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Hør dette, I ældste, og lyt, alle I som bor i landet: Er ⟨der⟩ sket noget som dette i jeres dage, eller i jeres fædres dage?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "I ældste"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "og lyt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "I som bor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "Er sket"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "som dette"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "i jeres dage"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "jeress fædres dage"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:58.495300204Z",
+  "model": "glm-5.3"
+}

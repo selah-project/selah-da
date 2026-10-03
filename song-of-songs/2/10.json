@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Min elskede svarede og sagde til mig: Rejs dig, min veninde, min smukke, og kom, gå med mig!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "svarede"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "min elskede"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "rejs dig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "min"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "veninde"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "min smukke"
+    },
+    {
+      "surface": "ו לכי",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå med"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:21.063005644Z",
+  "model": "glm-5.3"
+}

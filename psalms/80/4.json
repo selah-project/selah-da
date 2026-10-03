@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Elohim, vend os tilbage, og lad dit ansigt skinne, og vi bliver frelst!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vend os tilbage"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "og lad skinne"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "og vi bliver frelst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:29.475338014Z",
+  "model": "glm-5.3"
+}

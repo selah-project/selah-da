@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Mine løfter til Jahve vil jeg indfri, nu, i påsynet af hele hans folk ⟨venligst⟩.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "mine løfter"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "vil jeg indfri"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "i påsynet af"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨venligst⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:07.821400767Z",
+  "model": "glm-5.3"
+}

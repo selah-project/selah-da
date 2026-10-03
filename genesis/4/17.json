@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Kajin kendte ⟨את⟩ sin hustru, og hun blev frugtsommelig og fødte ⟨את⟩ Hanokh; og han var ved at bygge en by og kaldte byens navn efter sin søn Hanokhs navn.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "og hun blev frugtsommelig"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hun fødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han var"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ved at bygge"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en by"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "efter navnet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:58.552246188Z",
+  "model": "glm-5.3"
+}

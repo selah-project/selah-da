@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Den af Achav, som dør i byen, skal hundene æde; og den, som dør på marken, skal himlenes fugle æde.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "den som dør"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "af Achav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundene"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "og den som dør"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fuglene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "af himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:07.497235266Z",
+  "model": "glm-5.3"
+}

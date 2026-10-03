@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 36:35",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Chusham døde, og Hadad, søn af Bedad, han der slog ⟨את⟩ Midjan på Moabs mark, blev konge i hans sted; og hans bys navn var Avvit.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Og ... døde"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Chusham"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "af Bedad"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "han der slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på Moabs mark"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og ... navn"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "hans by"
+    },
+    {
+      "surface": "עוית",
+      "gloss": "Avvit"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:55.086899578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Den som vandrer i sin retskaffenhed, frygter Jahve, men den som er kroget i sine veje, foragter ham.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "den som vandrer"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "i sin retskaffenhed"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "men den som er kroget"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "i sine veje"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "foragter ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:03.215984669Z",
+  "model": "glm-5.3"
+}

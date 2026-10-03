@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og du skal kalde på Yishaj ved ofringen, og jeg vil kendtgøre for dig ⟨את⟩ det, du skal gøre; og du skal salve til mig ⟨את⟩ den, jeg navner for dig.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Og du skal kalde"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "på Yishaj"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ved ofringen"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "vil kendtgøre for dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, du skal gøre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, du skal gøre"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skal gøre"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "og du skal salve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, jeg navner for dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den, jeg navner"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jeg navner"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "for dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:51.679105811Z",
+  "model": "glm-5.3"
+}

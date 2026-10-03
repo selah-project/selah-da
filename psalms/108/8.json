@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Elohim har talt i sin hellighed: Jeg vil juble, jeg vil skifte Shekem, og Sukkots dal vil jeg opmåle.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "i sin hellighed"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Jeg vil juble"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "jeg vil skifte"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "og Sukkots dal"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "vil jeg opmåle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:35.847221581Z",
+  "model": "glm-5.3"
+}

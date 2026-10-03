@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Brud for brud, øje for øje, tand for tand; som han påfører et menneske en skade, således skal det gøres mod ham.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Brud"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "brud"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "påfører"
+    },
+    {
+      "surface": "מום",
+      "gloss": "en skade"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "skal det gøres"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mod ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:48.099772257Z",
+  "model": "glm-5.3"
+}

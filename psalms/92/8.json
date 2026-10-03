@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Når de gudløse skyder op som græs, og alle ondskabs gerningsmænd blomstrer — ⟨det er⟩ for at de skal tilintetgøres til evig tid.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "når … skyder op"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "græs"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "og … blomstrer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gerningsmænd"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskabs"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "for at de skal tilintetgøres"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "til"
+    },
+    {
+      "surface": "עד",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.775427094Z",
+  "model": "glm-5.3"
+}

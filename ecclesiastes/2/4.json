@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jeg gjorde mine gerninger store, jeg byggede mig huse, jeg planted mig vingårde.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Jeg gjorde … store"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mine gerninger"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "jeg byggede"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huse"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "jeg planted"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vingårde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:48.953705382Z",
+  "model": "glm-5.3"
+}

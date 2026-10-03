@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og I skal ikke undertrykke nogen ⟨את⟩ sin næste, og du skal frygte din Elohim; for jeg er Jahve jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "skal I undertrykke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "og du skal frygte"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:56.701541169Z",
+  "model": "glm-5.3"
+}

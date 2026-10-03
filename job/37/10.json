@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Ved Els ånde gives frost, og vandsviddet indsnævres.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "ved ... ånde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gives"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "frost"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "og ... svidde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "indsnævres"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:10.063252926Z",
+  "model": "glm-5.3"
+}

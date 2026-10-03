@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Og folkeslag skal vandre mod dit lys, og konger mod glansen af din opgang.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Og … skal vandre"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "mod dit lys"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "og konger"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "mod glansen"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "af din opgang"
+    }
+  ],
+  "timestamp": "2026-10-03T17:06:45.289252470Z",
+  "model": "glm-5.3"
+}

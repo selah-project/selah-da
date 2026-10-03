@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Efrajms sønner, ⟨der var⟩ bueskytter med spændte buer, vendte om på kampens dag.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "⟨der var⟩ skytter"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "spændte"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "buer"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "vendte om"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kampens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:10.613689687Z",
+  "model": "glm-5.3"
+}

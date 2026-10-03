@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahve sendte ⟨את⟩ Natan til David, og han kom til ham og sagde til ham: To mænd var der i én by; den ene var rig og den anden fattig.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og han kom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var der"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i by"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rig"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "og den anden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fattig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:14:27.151073620Z",
+  "model": "glm-5.3"
+}

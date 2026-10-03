@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Hvis de siger: Kom ⟨את⟩ med os, lad os lægge os i baghold for blod, løbe på lur efter ⟨den⟩ skyldfrie uden årsag,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de siger"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ med",
+      "marks": "med os"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "lad os lægge os i baghold"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "for blod"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "løbe på lur"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "efter den skyldfrie"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "uden årsag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:25.065085887Z",
+  "model": "glm-5.3"
+}

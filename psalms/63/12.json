@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Men kongen skal glæde sig i Elohim; enhver, som sværger ved ham, skal rose sig, thi løgneres mund skal lukkes.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "men kongen"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "skal glæde sig"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "skal rose sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "som sværger"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ved ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "skal lukkes"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "af dem der taler"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:13.509691506Z",
+  "model": "glm-5.3"
+}

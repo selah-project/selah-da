@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og et hulhjernet menneske får hjerte, når et vildæselsføl fødes som menneske.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "og et menneske"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "hulhjernet"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "får hjerte"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "og et føl"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "vildæsels"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "fødes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:34.545478057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Shem levede efter at have avlet ⟨את⟩ Arpakhshad fem hundrede år og avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og levede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "at have avlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:19.559207053Z",
+  "model": "glm-5.3"
+}

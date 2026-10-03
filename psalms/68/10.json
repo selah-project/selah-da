@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Et skybrud af frivillige gaver svinger Elohim ud; i din arvelod — selv da den var udmattet — grundvoldede du den.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "et skybrud"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "frivillige gaver"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "svinger ud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "din arvelod"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "selv da den var udmattet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "grundvoldede den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:07.650726480Z",
+  "model": "glm-5.3"
+}

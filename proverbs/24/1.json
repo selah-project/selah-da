@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Vær ikke misundelig på onde mænd, og ønsk ikke at være ⟨את⟩ sammen med dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "vær misundelig"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "på mænd"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "onde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ønsk"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "at være"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sammen med dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:28.126831203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Og gå ikke i ret ⟨med⟩ ⟨את⟩ din træl, for ingen levende bliver kendt tsedek for dit ansigt.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gå"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i ret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din træl"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "bliver kendt tsedek"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit ansigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:59.771436346Z",
+  "model": "glm-5.3"
+}

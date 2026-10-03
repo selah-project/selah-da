@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Han ligner en løve, der hungrer efter at flænse, og som en ung løve sidder han på lur i skjulene.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "han ligner"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "en løve"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "hungrer"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "efter at flænse"
+    },
+    {
+      "surface": "ויככפיר",
+      "gloss": "og som en ung løve"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sidder på lur"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "i skjulene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:55.474856468Z",
+  "model": "glm-5.3"
+}

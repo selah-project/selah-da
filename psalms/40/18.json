@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Men jeg ⟨er⟩ arm og fattig; Adonaj regner det for mig — min hjælp og min befrier ⟨er⟩ du, min Elohim, tøv ikke!",
+  "tokens": [
+    {
+      "surface": "וואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og fattig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "regner"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "min hjælp"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og min befrier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tøv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:39.230548049Z",
+  "model": "glm-5.3"
+}

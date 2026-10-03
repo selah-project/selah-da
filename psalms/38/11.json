@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Mit hjerte hamrer, min kraft har forladt mig, og lyset i mine øjne — også det er ikke ⟨את⟩ hos mig.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "hamrer"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "har forladt mig"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "og lyset"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "i mine øjne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הם",
+      "gloss": "det"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ hos mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:39.465491868Z",
+  "model": "glm-5.3"
+}

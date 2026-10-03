@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jehonatan sagde til David: Hvad din sjæl siger, det vil jeg gøre for dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din sjæl"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "vil jeg gøre"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:52.720258242Z",
+  "model": "glm-5.3"
+}

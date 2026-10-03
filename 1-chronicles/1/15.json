@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "og ⟨את⟩ hivviteren og ⟨את⟩ arkiteren og ⟨את⟩ siniten,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hivviteren"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivviteren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "arkiteren"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkiteren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "siniten"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "siniten"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:22.787210579Z",
+  "model": "glm-5.3"
+}

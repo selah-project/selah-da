@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve blir et højt værn for den undertrykte, et værn i trængselens tider.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og han blir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "et højt værn"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "for den undertrykte"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "et værn"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "i tider"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "i trængsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:47.717441292Z",
+  "model": "glm-5.3"
+}

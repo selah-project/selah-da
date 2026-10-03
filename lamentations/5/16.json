@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Faldet har kronen fra vort hoved. Ve nu os, forvi vi har syndet!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "faldet har"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kronen"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "fra vort hoved"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "כי",
+      "gloss": "forvi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vi har syndet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:50:57.561577553Z",
+  "model": "glm-5.3"
+}

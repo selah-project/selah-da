@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Husk ⟨את⟩ det, Amalek gjorde imod dig på vejen, da I gik ud af Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Husk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, Amalek gjorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "da I gik ud"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "af Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:54.210129579Z",
+  "model": "glm-5.3"
+}

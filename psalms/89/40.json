@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Du har brudt pagten med din træl, du har vanhelliget hans krone ⟨ved at kaste den⟩ til jorden.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "har brudt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "med din træl"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "du har vanhelliget"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hans krone"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:52.134174636Z",
+  "model": "glm-5.3"
+}

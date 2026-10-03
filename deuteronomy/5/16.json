@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Ær ⟨את⟩ din far og ⟨את⟩ din mor, som Jahve din Elohim har påbudt dig, for at dine dage kan blive lange, og for at det kan gå dig vel på den jord, som Jahve din Elohim giver dig.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ær"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din far"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "din mor"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har påbudt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "kan blive lange"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dine dage"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og for at"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "kan gå vel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "den jord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:07.230919599Z",
+  "model": "glm-5.3"
+}

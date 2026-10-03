@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "En ond mands sjæl ønsker ⟨את⟩ ondt; hans næste finder ingen nåde i hans øjne.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en ond mands"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "ønsker ⟨את⟩",
+      "marks": "ondt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "finder nåde"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hans næste"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:10.625198942Z",
+  "model": "glm-5.3"
+}

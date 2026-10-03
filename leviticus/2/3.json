@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og det, der er tilbage af minchaen, tilhører Aharon og hans sønner; højhellig ⟨er det⟩ af Jahves ildofre.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Og det som er tilbage"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tilhører Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "højhellig"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "af ildofrene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:12.193513270Z",
+  "model": "glm-5.3"
+}

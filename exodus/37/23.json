@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han gjorde ⟨את⟩ dens lamper, syv, og dens malm og dens askebakker af rent guld.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens lamper"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dens lamper"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "og dens malm"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "og dens askebakker"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:52.576487632Z",
+  "model": "glm-5.3"
+}

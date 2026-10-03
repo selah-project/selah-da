@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Paroh bød hele sit folk og sagde: Hver søn, der fødes, skal I kaste i floden, men hver datter skal I lade leve.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og bød"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sitt folk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "der fødes"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "i floden"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "skal I kaste ham"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "men hver"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "skal I lade leve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:09.978148518Z",
+  "model": "glm-5.3"
+}

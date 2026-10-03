@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Dette er de ord, som Moshe talte til hele Jisrael på den anden side af Jordan, i ørkenen, i Araba, over for Suf, mellem Paran og Tofel og Lavan og Chatserot og Di-Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dette er"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på den anden side af"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "i Araba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "over for"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "og Lavan"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "og Chatserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "og Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:19.887923715Z",
+  "model": "glm-5.3"
+}

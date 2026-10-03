@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete efter dette, at David slog ⟨את⟩ filisterne og kued dem, og han tog ⟨את⟩ Gat og dets datterbyer ud af filisternes hånd.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "slog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "og kued dem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "og dets datterbyer"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånd"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:16:21.361684334Z",
+  "model": "glm-5.3"
+}

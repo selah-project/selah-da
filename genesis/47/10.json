@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Jaakov velsignede ⟨את⟩ Farao og gik ud fra Faraos ansigt.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Og … velsignede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fra ansigtet af"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:09.675992496Z",
+  "model": "glm-5.3"
+}

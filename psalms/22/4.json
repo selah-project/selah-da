@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Men du er hellig, du som troner på Jisraels lovsange.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "er hellig"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "troner"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "på ... lovsange"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:25.335098938Z",
+  "model": "glm-5.3"
+}

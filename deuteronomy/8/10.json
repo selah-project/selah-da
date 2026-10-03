@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og du skal spise og blive mæt og lovprise ⟨את⟩ Jahve, din Elohim, for det gode land, som han har givet dig.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Og du skal spise"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "og blive mæt"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "og lovprise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "han har givet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:45.237483384Z",
+  "model": "glm-5.3"
+}

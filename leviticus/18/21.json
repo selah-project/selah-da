@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og af din sæd skal du ikke give nogen til at lade ⟨den⟩ gå over til Molok, og du skal ikke vanhellige ⟨את⟩ din Elohims navn; jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "og af din sæd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skal du give"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "til at lade gå over"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til Molok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "skal du vanhellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din Elohims navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:36.065814737Z",
+  "model": "glm-5.3"
+}

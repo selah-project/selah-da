@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "og ⟨את⟩ hivvitten og ⟨את⟩ arkvitten og ⟨את⟩ sinitten",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hivvitten"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivvitten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arkvitten"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkvitten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinitten"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "sinitten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:03.548077997Z",
+  "model": "glm-5.3"
+}

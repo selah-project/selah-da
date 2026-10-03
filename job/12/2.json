@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Sandt, ⟨at⟩ I ⟨er⟩ folket, og med eder skal visdommen dø!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sandt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨at⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "og med eder"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdommen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:09.329331392Z",
+  "model": "glm-5.3"
+}

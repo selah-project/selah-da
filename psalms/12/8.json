@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Du, Jahve, vil bevare dem; du vil beskytte ⟨os⟩ fra denne slægt til evig tid.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "vil bevare dem"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "vil beskytte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "denne slægt"
+    },
+    {
+      "surface": "זו",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:11.821853718Z",
+  "model": "glm-5.3"
+}

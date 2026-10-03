@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Menneskenes sønner, hvor længe skal min ære vendes til skam? I elsker tomhed, I søger løgn. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menneskenes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hvor længe … endnu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "min ære"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "til skam"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "I elsker"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tomhed"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "I søger"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:56.738346964Z",
+  "model": "glm-5.3"
+}

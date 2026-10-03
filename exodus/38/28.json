@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og af ⟨את⟩ de tusinde og syv hundrede og fem og halvfjerds ⟨shekel⟩ gjorde han kroge til søjlerne og overtrak deres toppe og bandt ⟨את⟩ dem sammen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de tusinde … shekel"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "de tusinde"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og syv"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "og halvfjerds"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "ואים",
+      "gloss": "kroge"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "til søjlerne"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "og overtrak"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "deres toppe"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "og bandt sammen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (søjlerne)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:09.977363073Z",
+  "model": "glm-5.3"
+}

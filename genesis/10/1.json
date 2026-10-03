@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og dette er afkommet fra Noachs sønner: Shem, Cham og Jafet; og der blev født sønner til dem efter flommen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "afkommet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "og Jafet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "og der blev født"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "flommen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:05.154471495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Skal de ved ondskab slippe fri? I vrede, Elohim, styrt folkeslagene ned.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "slippe fri"
+    },
+    {
+      "surface": "למו",
+      "gloss": "de"
+    },
+    {
+      "surface": "באף",
+      "gloss": "i vrede"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "styrt ned"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:28.513929819Z",
+  "model": "glm-5.3"
+}

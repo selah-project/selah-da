@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Elohim, drag ikke langt væk fra mig; min Elohim, il til min hjælp!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "drag langt væk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "til min hjælp"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:11.012469464Z",
+  "model": "glm-5.3"
+}

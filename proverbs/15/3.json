@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "På ethvert sted er Jahves øjne, de skuer ⟨på⟩ de onde og de gode.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "på ethvert"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sted"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "de skuer"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "og de gode"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:26.614743227Z",
+  "model": "glm-5.3"
+}

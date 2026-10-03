@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Jahve, dit navn ⟨er⟩ til evig tid; Jahve, dit minde til slægt og slægt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "dit minde"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:07.634345329Z",
+  "model": "glm-5.3"
+}

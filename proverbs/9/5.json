@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Kom, spis af mit brød, og drik af ⟨את⟩ vinen, som jeg har blandet.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "spis"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "af mit brød"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "og drik"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "af vinen"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "som jeg har blandet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:25.900572142Z",
+  "model": "glm-5.3"
+}

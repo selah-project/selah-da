@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jehosjua bød ⟨את⟩ folkets forstandere og sagde:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og bød"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkets forstandere"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "forstandere"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:36:58.236262828Z",
+  "model": "glm-5.3"
+}

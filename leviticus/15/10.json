@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og enhver, der rører ved noget, som har været under ham, skal være urent indtil aftenen; og den, der bærer ⟨את⟩ dem, skal vaske sine klæder og bade sig i vandet og være uren indtil aftenen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og enhver"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "der rører ved"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "noget"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "har været"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under ham"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skal være urent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "og den, der bærer"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal vaske"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og bade sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vandet"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og være uren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:00.541294090Z",
+  "model": "glm-5.3"
+}

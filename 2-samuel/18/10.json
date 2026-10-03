@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og en mand så det og meldte det til Joav, og han sagde: Se, jeg har set ⟨את⟩ Avshalom hænge i terebinten.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "meldte"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "til Joav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hænge"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "i terebinten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:16:40.058105350Z",
+  "model": "glm-5.3"
+}

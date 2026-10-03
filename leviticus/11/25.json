@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og enhver, som bærer noget af deres ådsel, skal vaske sine klæder og være uren indtil aften.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og enhver"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "som bærer"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "noget af deres ådsel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal vaske"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og være uren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aften"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:59.176103891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Juda gik op, og Jahve gav ⟨את⟩ kana'anæeren og ⟨את⟩ perizzitterne i deres hånd; og de slog dem i Bezek, ti tusind mænd.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "og gik op"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kana'anæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kana'anæeren"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "og perizzitterne"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i deres hånd"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "og de slog dem"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "i Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:27.771591577Z",
+  "model": "glm-5.3"
+}

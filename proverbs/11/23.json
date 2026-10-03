@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "De retfærdiges længsel er kun godt, men de ondes håb er raseri.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "længsel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "håb"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "raseri"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:55.528476784Z",
+  "model": "glm-5.3"
+}

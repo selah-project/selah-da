@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Thi ikke fred taler de, og mod landets stille udtænker de svigefulde ord.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taler de"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "landets stille"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "svigefulde"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "udtænker de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.827812342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Den retfærdige slå mig ⟨i⟩ chesed, og revs mig ⟨med⟩ hovedets olie — mit hoved nægter det ikke, for endnu er min bøn ved deres ulykker.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "slå mig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "og revs mig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יני",
+      "gloss": "nægter"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mit hoved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "og min bøn"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "ved deres ulykker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:23.578035578Z",
+  "model": "glm-5.3"
+}

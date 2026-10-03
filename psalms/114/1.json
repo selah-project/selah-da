@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "Da Jisrael gik ud af Mitsrajim, Jaakovs hus af et folk med fremmed tunge,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "da … gik ud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "af Mitsrajim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "af et folk"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "med fremmed tunge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:35.876872397Z",
+  "model": "glm-5.3"
+}

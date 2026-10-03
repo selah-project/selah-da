@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Er ikke hele landet foran dig? Skil dig nu fra mig; hvis ⟨du går⟩ til venstre, så ⟨går jeg⟩ til højre, og hvis til højre, så ⟨går jeg⟩ til venstre.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Er ikke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Skil dig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "til venstre"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "så til højre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "til højre"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "så til venstre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:29.994099810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Ære for et mandligt menneske ⟨er⟩ at holde op med trætte, men hver tåbe blander sig i alt.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ære"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "for et menneske"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "at holde op"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "med trætte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "men hver"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "tåbe"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "blander sig i alt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:41.121582915Z",
+  "model": "glm-5.3"
+}

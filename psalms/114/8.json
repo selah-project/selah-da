@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "Han, som vendte klippen til en vanddam, flinten til en vandkilde!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Han, som vendte"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "til en vanddam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "flinten"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "til en vandkilde"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:28.365499634Z",
+  "model": "glm-5.3"
+}

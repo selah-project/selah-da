@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og ⟨את⟩ alle disse kongers byer og ⟨את⟩ alle deres konger erobrede Josua og slog dem med sværdets æg; ⟨han⟩ bandlyste dem, som Moshe, Jahves tjener, havde påbudt ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle disse kongers byer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kongers"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle deres konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deres konger"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "erobrede"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "og slog dem"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æggen af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "bandlyste"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:49.869344773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Aharon skal frembære ⟨את⟩ bukken, som lodden for Jahve faldt på, og gøre den til syndoffer.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "og skal frembære"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukken"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bukken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "faldt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "lodden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "og gøre den"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "til syndoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:04.146946571Z",
+  "model": "glm-5.3"
+}

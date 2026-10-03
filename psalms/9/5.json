@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Thi du gjorde min ret og min sag; du sad på ⟨en⟩ trone, dommer i tsedek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du gjorde"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min ret"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "og min sag"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "du sad"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "på trone"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "dommer"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "i tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:49.675972998Z",
+  "model": "glm-5.3"
+}

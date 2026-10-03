@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Vær mig nådig, Adonaj, for til dig råber jeg hele dagen.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "råber jeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:31.510367654Z",
+  "model": "glm-5.3"
+}

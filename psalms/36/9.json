@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "De mættes ⟨af⟩ fedmen i dit hus, og af bækken med dine lækkerier giver du dem at drikke.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "de mættes"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "fedmen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "og af bækken"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "dine lækkerier"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "giver du dem at drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:24.699278924Z",
+  "model": "glm-5.3"
+}

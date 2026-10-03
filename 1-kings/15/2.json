@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Tre år regerede ⟨han⟩ i Jerushalajim, og hans moders navn ⟨var⟩ Maacha, datter af Avishalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerede"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og navn"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans moder"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:13.008008658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den, der står tidligt op efter det gode, søger velvilje; men den, der søger efter ondt — det skal komme over ham.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "står tidligt op efter"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "velvilje"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "men den, der søger efter"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "det skal komme over ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:35.679143835Z",
+  "model": "glm-5.3"
+}

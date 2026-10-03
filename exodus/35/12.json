@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "⟨את⟩ arken og ⟨את⟩ dens stænger, ⟨את⟩ nådestolen og ⟨את⟩ forhænget foran skærmen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens stænger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dens stænger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nådestolen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nådestolen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "forhænget"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "forhænget"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "foran skærmen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:20.770444127Z",
+  "model": "glm-5.3"
+}

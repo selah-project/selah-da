@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "En salme af David. Jahve, hvem skal gæste i dit telt? Hvem skal bo på dit hellige bjerg?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "skal gæste"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "i dit telt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "skal bo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjerg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dit hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:36.630750425Z",
+  "model": "glm-5.3"
+}

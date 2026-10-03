@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Som syndofferet, således skyldofferet: én Tora gælder for dem; præsten, der sker soning med det, ham skal det tilhøre.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "som syndofferet"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "således skyldofferet"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora (forskrift)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "sker soning"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med det"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal det tilhøre (være)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:45.366899704Z",
+  "model": "glm-5.3"
+}

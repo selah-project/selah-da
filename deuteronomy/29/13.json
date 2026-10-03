@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og ikke ⟨את⟩ jer alene — jeg skærer ⟨את⟩ denne pagt og ⟨את⟩ denne ed.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "alene"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "skærer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne pagt"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pagt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "denne ed"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ed"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:22.778536043Z",
+  "model": "glm-5.3"
+}

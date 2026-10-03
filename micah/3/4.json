@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Da vil de skrige til Jahve, men han vil ikke svare ⟨את⟩ dem; og han vil skjule sit ansigt fra dem på den tid, fordi de har handlet ondt i deres gjerninger.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Da"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "vil de skrige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "vil han svare"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "og han vil skjule"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "fra dem"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den tid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "de har handlet ondt"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "i deres gjerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:01.007463671Z",
+  "model": "glm-5.3"
+}

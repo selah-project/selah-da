@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Tung er en sten, og sandet ⟨er⟩ en byrde, men en dåres vrede er tungere end dem begge.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "tung"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "er en sten"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "og en byrde"
+    },
+    {
+      "surface": "החול",
+      "gloss": "er sandet"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "men vreden"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "af en dåre"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "er tungere"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "end dem begge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:30.433780042Z",
+  "model": "glm-5.3"
+}

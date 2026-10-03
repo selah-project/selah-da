@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Paroh kaldte på Moshe og sagde: Gå, tjener ⟨את⟩ Jahve — kun jeres småkvæg og jeres kvæg skal blive tilbage; også jeres børn skal gå med jer.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tjener"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "jeres småkvæg"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "og jeres kvæg"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "skal blive tilbage"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "jeres børn"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "skal gå"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:50.810068338Z",
+  "model": "glm-5.3"
+}

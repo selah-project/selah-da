@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den retfærdiges læber kender, hvad der behager, men de gudløses mund ⟨er⟩ forvending.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "læber"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "kender"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "hvad der behager"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men mund"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløses"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "forvending"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:48.523559789Z",
+  "model": "glm-5.3"
+}

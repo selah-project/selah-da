@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Joab stod op og gik til Geshur og bragte ⟨את⟩ Avshalom til Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Og stod op"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "til Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og bragte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:09.203000041Z",
+  "model": "glm-5.3"
+}

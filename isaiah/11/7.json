@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og koen og bjørnen skal græsse sammen, deres killinger lægger sig i fællesskab, og løven æder halm som oksen.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "Og koen"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "og bjørnen"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "skal græsse"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "lægger sig"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "deres killinger"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "og løven"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "som oksen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "æder"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "halm"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:11.873427502Z",
+  "model": "glm-5.3"
+}

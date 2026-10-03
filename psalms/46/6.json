@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Elohim ⟨er⟩ i dens midte — den skal ikke rokkes; Elohim hjælper den, når morgen gryr.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i dens midte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skal rokkes"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "hjælper den"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "når gryr"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.626381503Z",
+  "model": "glm-5.3"
+}

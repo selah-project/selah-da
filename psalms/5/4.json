@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Jahve, om morgenen hører du min røst; om morgenen stiller jeg ⟨den⟩ for dig og venter.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hører du"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "stiller jeg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "og venter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.781514451Z",
+  "model": "glm-5.3"
+}

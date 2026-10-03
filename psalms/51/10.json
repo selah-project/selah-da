@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Lad mig høre ⟨את⟩ fryd og glæde; lad ⟨את⟩ knoglerne, du har knust, juble.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "lad mig høre"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "fryd"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "og glæde"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "lad … juble"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "knoglerne"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "du har knust"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:03.352112467Z",
+  "model": "glm-5.3"
+}

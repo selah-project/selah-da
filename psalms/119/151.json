@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Nær ⟨er⟩ du, Jahve, og alle dine bud ⟨er⟩ sandhed.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nær"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:40.701753785Z",
+  "model": "glm-5.3"
+}

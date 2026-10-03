@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Yosef sagde: Giv jeres kvæg, så vil jeg give jer ⟨brød⟩ for jeres kvæg, hvis sølvet er slippet op.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "jeres kvæg"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "så vil jeg give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "for jeres kvæg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "er slippet op"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølvet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:23.170062674Z",
+  "model": "glm-5.3"
+}

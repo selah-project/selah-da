@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Prøv ⟨את⟩ dine trælle i ti dage, og lad dem give os af grøntsagerne, så vi kan spise, og vand, så vi kan drikke.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "prøv"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine trælle"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "og lad dem give"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "grøntsagerne"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "så vi kan spise"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vand"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "så vi kan drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:42.404867115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "God ⟨er⟩ visdom sammen med arv, og ⟨der er⟩ fordel for dem, der ser solen.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "god"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "arv"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "og ⟨der er⟩ fordel"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "for dem, der ser"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:13.330517382Z",
+  "model": "glm-5.3"
+}

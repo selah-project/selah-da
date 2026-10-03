@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Vor skjold, se, Elohim, og skue ansigtet på din salvede.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "vor skjold"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "og skue"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "på din salvede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:52.794798747Z",
+  "model": "glm-5.3"
+}

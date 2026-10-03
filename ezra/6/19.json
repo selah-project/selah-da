@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og landflygtighedens sønner holdt ⟨את⟩ pesach på den fjortende ⟨dag⟩ i den første måned.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og holdt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "landflygtighedens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på den fjortende"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(fjortende)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i den"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "første måned"
+    }
+  ],
+  "timestamp": "2026-10-03T19:02:59.447245005Z",
+  "model": "glm-5.3"
+}

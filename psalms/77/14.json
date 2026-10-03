@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Elohim, i hellighed ⟨er⟩ din vej; hvem er en stor El som Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i hellighed"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din vej"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "som Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:48.951616910Z",
+  "model": "glm-5.3"
+}

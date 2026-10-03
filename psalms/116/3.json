@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Dødens reb omsluttede mig, og Sheols trange steder fandt mig; nød og sorg fandt jeg.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omsluttede mig"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "reb"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dødens"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "og trange steder"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheols"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "fandt mig"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nød"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "og sorg"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "fandt jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:16.474854653Z",
+  "model": "glm-5.3"
+}

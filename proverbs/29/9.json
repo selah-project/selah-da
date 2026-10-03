@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "En vis strider med ⟨את⟩ en tåbe, og han raser og ler, og der er ingen ro.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "strider"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en tåbe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "tåbe"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "og han raser"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "og ler"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ro"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:10.621013773Z",
+  "model": "glm-5.3"
+}

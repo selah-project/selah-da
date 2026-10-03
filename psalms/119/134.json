@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Løskøb mig fra menneskers undertrykkelse, så vil jeg holde dine bud.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "løskøb mig"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "fra undertrykkelse"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskers"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "så vil jeg holde"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:32.111896090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og de gik gennem ødemarken og gik uden om ⟨את⟩ Edoms land og ⟨את⟩ Moabs land, og de kom fra solens opgang til Moabs land og slog lejr på den anden side af Arnon, og de kom ikke ind i Moabs grænse, for Arnon er Moabs grænse.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "gennem ødemarken"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "og gik uden om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edoms land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Moabs land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "fra opgangssiden"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "af solen"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til landet"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "og slog lejr"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på den anden side af"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom de"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "inden for grænsen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænse"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:59.030010689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han gjorde det, som var ret i Jahves øjne, efter alt det, som David, hans fader, havde gjort.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det som var ret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjnene af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "efter alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:54.592110466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og han hånte ⟨את⟩ Jisrael, og Jehonatan, søn af Shima, Davids bror, slog ham.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "og han hånte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "og han slog ham"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror til"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:44.280779372Z",
+  "model": "glm-5.3"
+}

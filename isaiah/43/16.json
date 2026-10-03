@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Således siger Jahve, han der giver en vej i havet og en sti i de mægtige vande —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "han der giver"
+    },
+    {
+      "surface": "בים",
+      "gloss": "i havet"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "en vej"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "og i vande"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mægtige"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "en sti"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:41.137056773Z",
+  "model": "glm-5.3"
+}

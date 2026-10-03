@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Græsset visner, blomsten bortvisner, men vor Elohims ord står til evig tid.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "visner"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græsset"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bortvisner"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "blomsten"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men ord"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohims"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "står"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:19.393640737Z",
+  "model": "glm-5.3"
+}

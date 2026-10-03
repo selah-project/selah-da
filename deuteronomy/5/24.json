@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 5:24",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og I sagde: Se, Jahve vor Elohim har vist os ⟨את⟩ sin herlighed og ⟨את⟩ sin storhed, og ⟨את⟩ hans røst har vi hørt ud af ilden. I dag har vi set, at Elohim taler med ⟨את⟩ mennesket — og han lever.",
+  "tokens": [
+    {
+      "surface": "ותאמרו",
+      "gloss": "Og I sagde"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "har vist os"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin herlighed"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "sin herlighed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin storhed"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "sin storhed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans røst"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "hans røst"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "har vi hørt"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ud af"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    },
+    {
+      "surface": "היום",
+      "gloss": "I dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "har vi set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og han lever"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:19.379532438Z",
+  "model": "glm-5.3"
+}

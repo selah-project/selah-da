@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal lave dens syv lamper, og ⟨man⟩ skal sætte dens lamper op, så de lyser ud mod dens forside.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens syv lamper"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dens lamper"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "og skal sætte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens lamper"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dens lamper"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "så de lyser"
+    },
+    {
+      "surface": "על",
+      "gloss": "ud mod"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "siden af"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "dens forside"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:07.850495744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og du skal vende tilbage og lyde til Jahves røst og gøre ⟨את⟩ alle hans bud, som jeg pålægger dig i dag.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "skal vende tilbage"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "og lyde"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "til røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle hans bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "pålægger dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:05.605663937Z",
+  "model": "glm-5.3"
+}

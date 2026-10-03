@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 24:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Syv år gammel var Joash, da han blev konge, og fyrre år regerede han i Jerushalajim; og hans mor hed Tsivja fra Be'er-Sheva.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "gammel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "יאש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "da han blev konge"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerede han"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og hans mor hed"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans mor"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsivja"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "fra Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-10-03T19:24:33.950064590Z",
+  "model": "glm-5.3"
+}

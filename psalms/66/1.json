@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Til korlederen. En sang, en mizmor. Råb til Elohim, hele jorden!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Råb"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.162568921Z",
+  "model": "glm-5.3"
+}

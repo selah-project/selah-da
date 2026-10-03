@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og David sagde: I må ikke gøre sådan, mine brødre, med ⟨det⟩, som Jahve har givet os, og som har bevogtet os og givet ⟨את⟩ den trop, som kom imod os, i vor hånd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "må I gøre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mine brødre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "og har bevogtet"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ os"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den trop"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "den trop"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "som kom"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "imod os"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "i vor hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:55.522798528Z",
+  "model": "glm-5.3"
+}

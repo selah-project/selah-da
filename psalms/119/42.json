@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Og jeg kan svare den, der håner mig, ⟨med⟩ et ord, for jeg sætter min lid til dit ord.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "og jeg svarer"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "den der håner mig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jeg sætter min lid til"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "til dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:16.858297269Z",
+  "model": "glm-5.3"
+}

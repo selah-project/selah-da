@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Bliv ⟨את⟩ hos mig, frygt ikke, for den der søger ⟨את⟩ mit liv, søger ⟨את⟩ dit liv; for i varetægt er du hos mig.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Bliv"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ hos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den der"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit liv"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mit liv"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit liv"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dit liv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "i varetægt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:23.587754370Z",
+  "model": "glm-5.3"
+}

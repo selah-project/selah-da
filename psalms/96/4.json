@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Thi stor ⟨er⟩ Jahve og højtl lovet, frygtindgydende ⟨er⟩ han over alle guder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "og højtl lovet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i høj grad"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "frygtindgydende"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.417406720Z",
+  "model": "glm-5.3"
+}

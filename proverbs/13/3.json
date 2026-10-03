@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Den der vogter sin mund, vogter sit liv; den der spærrer sine læber — undergang for ham.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sin mund"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sit liv"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "spærrer"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "sine læber"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "undergang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:41.770905832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Ødelæggelser ramme dem; de stige ned til Sheol, levende; thi ondskab er i deres bolig, midt iblandt dem.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ødelæggelser"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ramme dem"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "de stige ned"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "til Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "i deres bolig"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "midt iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:04.888892341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Yehu hvilede hos sine fædre, og de begravede ⟨את⟩ ham i Shomron; og Yehoachaz, hans søn, blev konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hvilede"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sine fædre"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og de begravede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og blev konge"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:34.366466522Z",
+  "model": "glm-5.3"
+}

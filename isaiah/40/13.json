@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Hvem har udmaalt ⟨את⟩ Jahves ruach, og hvilken mand af hans råd har kundgjort ham?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "har udmaalt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hvilken mand"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "hans råd"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "har kundgjort ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:42.525871099Z",
+  "model": "glm-5.3"
+}

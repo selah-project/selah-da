@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og dommerne skal granske ⟨det⟩ grundigt, og se, hvis vidnet ⟨er⟩ et falskt vidne, som har vidnet falsk imod sin broder,",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "skal granske"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "dommerne"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "grundigt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vidnet"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsk"
+    },
+    {
+      "surface": "העד",
+      "gloss": "har vidnet"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsk"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "imod"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "sin broder"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:54.833910090Z",
+  "model": "glm-5.3"
+}

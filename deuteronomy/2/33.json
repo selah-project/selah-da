@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve vor Elohim gav ham foran os ⟨i vore hænder⟩, og vi slog ham og hans sønner og hele hans folk.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "og gav ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "foran os"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "og vi slog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele hans folk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:09.984208870Z",
+  "model": "glm-5.3"
+}

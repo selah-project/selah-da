@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "De ondes hus bliver ødelagt, men de retfærdiges telt springer i blomst.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "bliver ødelagt"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "men teltet"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "springer i blomst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:06.140290388Z",
+  "model": "glm-5.3"
+}

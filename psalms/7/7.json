@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Rejs dig, Jahve, i din vrede, løft dig mod raseriet hos mine fjender, og vågn op for mig — ⟨til⟩ den ret, du har budt.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "rejs dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "løft dig"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "mod raseriet"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "hos mine fjender"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "og vågn op"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du har budt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:44.113354774Z",
+  "model": "glm-5.3"
+}

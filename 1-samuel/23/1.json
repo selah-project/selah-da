@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og de fortalte det til David og sagde: Se, filisterne kæmper mod Keila og plyndrer ⟨את⟩ tærskepladserne.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "og de fortalte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "kæmper"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "mod Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "og de"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plyndrer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tærskepladserne"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "tærskepladserne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:23.730182129Z",
+  "model": "glm-5.3"
+}

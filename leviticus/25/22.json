@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og I skal så ⟨את⟩ det ottende år og spise af den gamle afgrøde indtil det niende år; indtil dens afgrøde kommer ind, skal I spise det gamle.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "og I skal så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ottende år"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "året"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "det ottende"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "og spise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "afgrøden"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "den gamle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "året"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "det niende"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kommer ind"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dens afgrøde"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I spise"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "det gamle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:09.612575833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Du har påbudt ⟨os⟩ dine bud, at ⟨vi⟩ skulle vogte dem omhyggeligt.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "har påbudt"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "at vogte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "omhyggeligt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.345095868Z",
+  "model": "glm-5.3"
+}

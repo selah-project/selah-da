@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jisraels sønner råbte til Jahve og sagde: Vi har syndet mod dig, for vi har forladt ⟨את⟩ vor Elohim og tjent ⟨את⟩ Ba'alerne.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Og råbte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Vi har syndet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "vi har forladt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "וונעבד",
+      "gloss": "og tjent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'alerne"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'alerne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:49:50.255520300Z",
+  "model": "glm-5.3"
+}

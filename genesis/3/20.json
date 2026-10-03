@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Adam gav sin hustru navnet Chava, for hun var moder til alt levende.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "til alt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:27.291945236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Gennemgrund mig, El, og kend mit hjerte; prøv mig og kend mine bekymrede tanker —",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Gennemgrund mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "og kend"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "prøv mig"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "og kend"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mine bekymrede tanker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:56.910277425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Avraham bøjede sig ned for folket i landet,",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "og bøjede sig ned"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:35.882768001Z",
+  "model": "glm-5.3"
+}

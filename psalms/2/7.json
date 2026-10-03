@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jeg vil fortælle ⟨om⟩ bestemmelsen: Jahve sagde til mig: Du er min søn, i dag har jeg avlet dig.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Jeg vil fortælle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨om⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "bestemmelsen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "har jeg avlet dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.784781827Z",
+  "model": "glm-5.3"
+}

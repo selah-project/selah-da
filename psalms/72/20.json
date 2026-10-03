@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Der er endt ⟨—⟩ Davids bønner, Jishajs søn.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "er endt"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "bønner ⟨—⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishajs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:48.704279516Z",
+  "model": "glm-5.3"
+}

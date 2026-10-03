@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Før bjergene blev født, og før du fødte ⟨את⟩ jorden og ⟨את⟩ verden, fra evighed til evighed, er du El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "før"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "blev født"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "og før du fødte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "og verden"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "fra evighed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:41.541219563Z",
+  "model": "glm-5.3"
+}

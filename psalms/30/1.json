@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "En mizmor, en sang ved indvielsen af huset, af David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ved indvielsen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "af huset"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:45.831247245Z",
+  "model": "glm-5.3"
+}

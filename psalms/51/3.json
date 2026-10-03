@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Vær mig nådig, Elohim, efter dit chesed; efter din rigdom af barmhjertighed udslet mine overstridelser.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter dit chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "efter din rigdom"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "af barmhjertighed"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "udslet"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mine overstridelser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:22.771575679Z",
+  "model": "glm-5.3"
+}

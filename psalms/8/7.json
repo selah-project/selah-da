@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Du lader ham herske over dine hænders gerninger; alt har du lagt under hans fødder —",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Du lader ham herske"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "over"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dine hænders gerninger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "har du lagt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:37.729757356Z",
+  "model": "glm-5.3"
+}

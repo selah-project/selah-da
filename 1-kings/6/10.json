@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han byggede ⟨את⟩ sidebygningen mod hele huset, fem alen var dens højde, og den blev bundet til huset med cedertræ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "og han byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sidebygningen"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "sidebygningen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "var dens højde"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "og den blev bundet til"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "med træ af"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:49.970573312Z",
+  "model": "glm-5.3"
+}

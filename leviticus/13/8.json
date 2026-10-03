@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og præsten skal se, og se, har skælafskalningen bredt sig i huden, så skal præsten erklære ham uren — det er tsaraat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "og skal se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "har bredt sig"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "skælafskalningen"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "i huden"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "så skal erklære ham uren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:24.565412897Z",
+  "model": "glm-5.3"
+}

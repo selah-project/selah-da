@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "De mætte er blevet lejet for brød, og de sultne holder op ⟨med at sulte⟩; den barnløse har født syv, og hun med mange sønner er visnet.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "de mætte"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "for brød"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "er blevet lejet"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "og de sultne"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "holder op"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨til⟩"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "den barnløse"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "har født"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "og hun med mange"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "er visnet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:33.993616532Z",
+  "model": "glm-5.3"
+}

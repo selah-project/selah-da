@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og hun så, at hun var fast besluttet på at gå med ⟨את⟩ hende, og hun holdt op med at tale til hende.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "og hun så"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "fast besluttet"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "på at gå"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "med ⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "og hun holdt op"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "med at tale"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:51.088393751Z",
+  "model": "glm-5.3"
+}

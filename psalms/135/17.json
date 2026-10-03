@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Ører har de, men de hører ikke; ja, der er ingen ruach i deres mund.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ører"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hører de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "i deres mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:11.406927696Z",
+  "model": "glm-5.3"
+}

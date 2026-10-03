@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Kun ⟨את⟩ stammen Levi skal du ikke tælle, og ⟨את⟩ deres hoveder skal du ikke optage midt blandt Jisraels børn.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stammen Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "skal du tælle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres hoveder"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "deres hoveder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "skal du optage"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:39.321828434Z",
+  "model": "glm-5.3"
+}

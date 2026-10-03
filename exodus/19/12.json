@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og du skal sætte en grænse for folket ⟨את⟩ rundt om og sige: Vogt jer for at stige op på bjerget eller røre ved dets kant — enhver som rører ved bjerget, skal visseligen dø.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Og du skal sætte en grænse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sige"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Vogt jer"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "at stige op"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjerget"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "eller røre"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "ved dets kant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "som rører"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ved bjerget"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dø"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal visseligen dø"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:00.234077156Z",
+  "model": "glm-5.3"
+}

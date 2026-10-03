@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Hvad er vindes ved mit blod, når jeg stiger ned til gruben? Kan støvet love dig? Kan det forkynde din trofasthed?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "er vindes"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "ved mit blod"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "når jeg stiger ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gruben"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "kan støvet love dig"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støvet"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "kan det forkynde"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:19.146220318Z",
+  "model": "glm-5.3"
+}

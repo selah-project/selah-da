@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og da jeg vaklede, glædede de sig og samlede sig; slagsmænd samlede sig mod mig — og jeg kendte ⟨dem⟩ ikke; de sønderrev og holdt ikke op.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "da jeg vaklede"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "glædede de sig"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "og samlede de sig"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "samlede de sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "slagsmænd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kendte jeg"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "sønderrev de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "holdt de op"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:53.203611495Z",
+  "model": "glm-5.3"
+}

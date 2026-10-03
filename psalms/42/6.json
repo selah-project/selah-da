@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Hvorfor er du nedbøjet, min sjæl, og hvorfor er du urolig i mig? Vent på Elohim, for jeg skal endnu takke ham — frelsen fra hans ansigt.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "er du nedbøjet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "og hvorfor er du urolig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "vent"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "på Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "skal jeg takke ham"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frelsen"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "fra hans ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.528482478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Som en ild der antender skoven, og som en flamme der sætter bjergene i brand,",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "som en ild"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "antender"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skoven"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "og som en flamme"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "sætter i brand"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:05.655421251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og jeg — se, jeg styrker ⟨את⟩ hjertet hos mitsriterne, og de skal gå ind efter dem, og jeg vil herliggøres på Farao og på hele hans hær, på hans stridsvogne og på hans ryttere.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "styrker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjertet"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "hos mitsriterne"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de skal gå ind"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "efter dem"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "og jeg vil herliggøres"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "på Farao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og på hele"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hans hær"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "på hans stridsvogne"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "og på hans ryttere"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:57.608970053Z",
+  "model": "glm-5.3"
+}

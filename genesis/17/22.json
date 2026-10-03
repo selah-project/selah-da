@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og han holdt op med at tale ⟨את⟩ med ham, og Elohim steg op fra Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "og han holdt op"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "med at tale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ med ham"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og steg op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:04.694460942Z",
+  "model": "glm-5.3"
+}

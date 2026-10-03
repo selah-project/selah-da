@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jehoshafat sagde: Jahves ord er hos ham. Og kongen af Jisrael og Jehoshafat og kongen af Edom gik ned til ham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "og gik ned"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "og Jehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:48.731708839Z",
+  "model": "glm-5.3"
+}

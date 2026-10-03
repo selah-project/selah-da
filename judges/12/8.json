@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og efter ham dømte ⟨את⟩ Jisrael Ivtsan fra Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dømte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lechem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:28.998521878Z",
+  "model": "glm-5.3"
+}

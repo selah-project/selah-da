@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og det skete, da Moshe var færdig med at skrive ⟨את⟩ ordene i denne Tora på en bog, helt til de var fuldendt —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "da … var færdig"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "at skrive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordene i denne Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "en bog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "de var fuldendt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:35:33.203239687Z",
+  "model": "glm-5.3"
+}

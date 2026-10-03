@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og Josed kom ind til dem om morgenen og så ⟨את⟩ dem, og se, de var nedtrykte.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom ind"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josed"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "og se"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "de var nedtrykte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:31.490044042Z",
+  "model": "glm-5.3"
+}

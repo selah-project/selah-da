@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og du skal påbyde ⟨את⟩ Jisraels børn, at de skal bringe dig ren, stødt olivenolie til lampen, til at få lyset til at brænde bestandigt.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "skal påbyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "at de skal bringe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliven-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ren"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "stødt"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "til lampen"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "til at få til at brænde"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lyset"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:07.074365663Z",
+  "model": "glm-5.3"
+}

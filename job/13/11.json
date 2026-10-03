@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Skal hans ophøjelse ikke forskrække ⟨את⟩ jer, og hans rædsel falde over jer?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Skal ... ikke"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "hans ophøjelse"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "forskrække"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "og hans rædsel"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "falde"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over jer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:57.669711164Z",
+  "model": "glm-5.3"
+}

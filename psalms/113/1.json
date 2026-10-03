@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "Lovsyng Jah! Lovsyng, I Jahves trælle, lovsyng ⟨את⟩ Jahves navn!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lovsyng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lovsyng"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "I trælle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovsyng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.987472225Z",
+  "model": "glm-5.3"
+}

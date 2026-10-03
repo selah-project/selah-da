@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Den dag jeg frygter — jeg, på dig fortrøster jeg mig.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Den dag"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "jeg frygter"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "fortrøster jeg mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:26.723884567Z",
+  "model": "glm-5.3"
+}

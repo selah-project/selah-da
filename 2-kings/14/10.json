@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Du har slået ⟨את⟩ Edom, og det har løftet dit hjerte; bliv æret og sid i dit hus — hvorfor vil du udfordre til ulykke, så du falder, du og Yehuda med dig?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "vist nok slået"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "har du slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "og løftet dig"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "bliv æret"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og sid"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i dit hus"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "vil du udfordre"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "til ulykke"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "så du falder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:59.746534914Z",
+  "model": "glm-5.3"
+}

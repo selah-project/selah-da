@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Azarja avlede ⟨את⟩ Chelets, og Chelets avlede ⟨את⟩ Elasa.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Og Azarja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Chelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "og Chelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasa"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:21.496367210Z",
+  "model": "glm-5.3"
+}

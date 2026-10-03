@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Jeg vil gøre dit navn ihukommet i alle slægter; derfor skal folkene lovprise dig til evig tid og for evigt.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "jeg vil ihukomme"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "דר",
+      "gloss": "slægter"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægter"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(af den grund)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "skal lovprise dig"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:38.867299884Z",
+  "model": "glm-5.3"
+}

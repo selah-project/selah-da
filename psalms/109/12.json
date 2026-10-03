@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Ingen må strække chesed ud mod ham, og ingen være nådig mod hans faderløse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "måtte være"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "משך",
+      "gloss": "der strækker ud"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "måtte være"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "mod hans faderløse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.553982595Z",
+  "model": "glm-5.3"
+}

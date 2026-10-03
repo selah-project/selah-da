@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og Jahve sagde til Moshe: Hug dig to stentavler lig ⟨med⟩ de første, og jeg vil skrive på tavlerne ⟨את⟩ ordene, som var på de første tavler, dem du knuste.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "Hug"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tavler"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten-"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "lig de første"
+    },
+    {
+      "surface": "וכתבתי",
+      "gloss": "og jeg vil skrive"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavlerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordene"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavlerne"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de første"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "du knuste"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:09.965708268Z",
+  "model": "glm-5.3"
+}

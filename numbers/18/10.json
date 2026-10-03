@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "I det højhellige skal du spise det; enhver hanmand må spise ⟨את⟩ det; helligt skal det være for dig.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "I det højhellige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "helligste"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "skal du spise det"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hanmand"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:33.087153528Z",
+  "model": "glm-5.3"
+}

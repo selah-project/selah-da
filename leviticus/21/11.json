@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og ved nogen død skal han ikke komme; for sin far og sin mor skal han ikke gøre sig uren.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Og ved"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "מת",
+      "gloss": "død"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skal han komme"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "for sin far"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "og sin mor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skal han gøre sig uren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:46.728767295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Derfor skal en mand forlade ⟨את⟩ sin far og ⟨את⟩ sin mor og holde sig til sin hustru, og de skal blive ét kød.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "skal forlade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin mor"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "og holde sig til"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og de skal blive"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ét kød"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:10.034250959Z",
+  "model": "glm-5.3"
+}

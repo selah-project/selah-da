@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og ⟨han⟩ blottede ⟨את⟩ Jehudas dække, og du så på ⟨den⟩ dag til våbnene i Skovens Hus.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Og blottede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudas dække"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "dække"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "og du så"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dag"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "til våbnene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i Hus"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Skovens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:15.136694041Z",
+  "model": "glm-5.3"
+}

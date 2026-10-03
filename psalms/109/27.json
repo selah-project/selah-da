@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og de skal vide, at din hånd ⟨er⟩ dette — du, Jahve, har gjort det.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Og de skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "har gjort det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.693422720Z",
+  "model": "glm-5.3"
+}

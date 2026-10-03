@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "For Jahves del er hans folk; Jaakov er hans arvedels målesnor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "del"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "målesnor"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arvedel"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:58.397586018Z",
+  "model": "glm-5.3"
+}

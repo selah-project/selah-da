@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Thi i ham glæder vor hjerte sig, thi i hans hellige navn har vi betroet os.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i ham"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "vores hjerte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellige"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "har vi betroet os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:15.755044476Z",
+  "model": "glm-5.3"
+}

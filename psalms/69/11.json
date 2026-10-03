@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Og jeg græd med faste for min sjæl, og det blev til hån for mig.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "og jeg græd"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "med faste"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "for min sjæl"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "til hån"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:23.745325979Z",
+  "model": "glm-5.3"
+}

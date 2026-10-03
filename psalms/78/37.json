@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og deres hjerte var ikke fast ⟨med⟩ ham, og de blev ikke troet i hans pagt.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "og deres hjerte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "var fast"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "blev de troet"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "i hans pagt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:25.610740234Z",
+  "model": "glm-5.3"
+}

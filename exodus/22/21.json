@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Enhver enke og faderløs skal I ikke undertrykke.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "enke"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "og faderløs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "skal I undertrykke"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:01.890720788Z",
+  "model": "glm-5.3"
+}

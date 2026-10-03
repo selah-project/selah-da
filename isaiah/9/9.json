@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Murstenene er faldet, men med tilhuggede sten vil vi bygge; sykomorerne er fældet, men cedre vil vi sætte i stedet.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "Murstenene"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "er faldet"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "men med tilhuggede sten"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "vil vi bygge"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sykomorerne"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "er fældet"
+    },
+    {
+      "surface": "ו ארזים",
+      "gloss": "men cedre"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "vil vi sætte i stedet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:30.270036898Z",
+  "model": "glm-5.3"
+}

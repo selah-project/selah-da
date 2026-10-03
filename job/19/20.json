@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Mit ben hænger fast ved min hud og ved mit kød, og jeg er undsluppet med mine tænders hud.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "ved min hud"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "og ved mit kød"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "hænger fast"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mit ben"
+    },
+    {
+      "surface": "וידברו ואתמלטה",
+      "gloss": "og jeg er undsluppet"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "med hud"
+    },
+    {
+      "surface": "שני",
+      "gloss": "af mine tænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:45.102550607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og de skal brede et klæde af karmoisinrødt over dem og dække det med et overtække af tachash-skind og sætte dens stænger i.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "Og de skal brede"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "et klæde"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "karmoisin- (orm-)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rødt"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "og dække"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "med et overtække"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skind"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachash-"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "og sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens stænger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dens stænger"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:42.901240732Z",
+  "model": "glm-5.3"
+}

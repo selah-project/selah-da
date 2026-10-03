@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Jeg har set trælle ride på heste og høvdinger gå som trælle på jorden.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "heste"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "og høvdinger"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gå"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "som trælle"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:23.238661705Z",
+  "model": "glm-5.3"
+}

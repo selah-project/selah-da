@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "For nu kommer det ind over dig, og du bliver træt; det rammer dig, og du bliver bestyrtet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kommer det"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ind over dig"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "og du bliver træt"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "det rammer"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "og du bliver bestyrtet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:29.969430942Z",
+  "model": "glm-5.3"
+}

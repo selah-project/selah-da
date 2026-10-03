@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Lemuels ord, kongen, en byrde, som hans mor tugtede ham med.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "משא",
+      "gloss": "en byrde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "tugtede ham med"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans mor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:23.733459956Z",
+  "model": "glm-5.3"
+}

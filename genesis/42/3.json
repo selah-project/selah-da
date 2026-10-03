@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Josefs ti brødre drog ned for at købe korn fra Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Og drog ned"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brødre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "for at købe korn"
+    },
+    {
+      "surface": "בר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:25.262954784Z",
+  "model": "glm-5.3"
+}

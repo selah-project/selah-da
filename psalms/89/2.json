@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Jahves chesed vil jeg synge evigt, fra slægt til slægt vil jeg gøre din trofasthed kendt med min mund.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "vil jeg synge"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fra slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "vil jeg gøre kendt"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthed"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "med min mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.476934477Z",
+  "model": "glm-5.3"
+}

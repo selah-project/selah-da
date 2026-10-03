@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "et land med hvede og byg, vin og figen og granatæble, et land med oliven af olie og honning.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "hvede"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "og byg"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "og figen"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "og granatæble"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliven"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "af olie"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "og honning"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:47.528354745Z",
+  "model": "glm-5.3"
+}

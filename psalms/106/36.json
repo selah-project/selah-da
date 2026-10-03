@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de tjente deres billedstøtter ⟨את⟩, og de blev dem til en snare.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "og de tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres billedstøtter"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "deres billedstøtter"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de blev"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "til en snare"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:38.291217602Z",
+  "model": "glm-5.3"
+}

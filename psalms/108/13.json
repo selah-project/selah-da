@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Giv os hjælp mod trængsel, og forgæves er menneskets redning.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hjælp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mod trængsel"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "og forgæves"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "redning"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:02.842419741Z",
+  "model": "glm-5.3"
+}

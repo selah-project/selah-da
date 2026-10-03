@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og de tog ⟨את⟩ Lot, Avrams brors søn, og ⟨את⟩ hans ejendom, og gik bort; og ⟨han⟩ boede i Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans ejendom"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "hans ejendom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brors"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrams"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og gik bort"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og ⟨han⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "i Sedom"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:26.772202951Z",
+  "model": "glm-5.3"
+}

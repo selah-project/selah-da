@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "For din skyld dræbes vi hele dagen, vi regnes som slagtningens småkvæg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "din skyld"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "dræbes vi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "regnes vi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som småkvæg"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "slagtningens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:28.405324051Z",
+  "model": "glm-5.3"
+}

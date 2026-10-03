@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Eli svarede og sagde: Gå i fred, og Jisraels Elohim give dig ⟨את⟩ din bøn, som du har bedt ham om.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din bøn"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "din bøn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "du har bedt"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ham om"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:32.060555645Z",
+  "model": "glm-5.3"
+}

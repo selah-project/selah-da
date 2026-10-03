@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Vær blot stærk på ikke at spise blodet, for blodet ⟨er⟩ sjælen, og du må ikke spise sjælen sammen med kødet.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "blot"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "vær stærk"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "på ikke at"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spise"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sjælen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "må du spise"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sjælen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kødet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:05.300983307Z",
+  "model": "glm-5.3"
+}

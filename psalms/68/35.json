@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Giv Elohim styrke — over Jisrael ⟨er⟩ hans majestæt, og hans styrke ⟨er⟩ i skyerne.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "giv"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "hans majestæt"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "og hans styrke"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "i skyerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:25.036451849Z",
+  "model": "glm-5.3"
+}

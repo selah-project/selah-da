@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 122,
+  "translation": "Jerushalajim, ⟨du⟩ som ⟨er⟩ bygget som en by, der ⟨er⟩ samlet sammen til ét.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "som ⟨er⟩ bygget"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "som en by"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "der ⟨er⟩ samlet sammen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til sig selv"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "til ét"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:53.068548565Z",
+  "model": "glm-5.3"
+}

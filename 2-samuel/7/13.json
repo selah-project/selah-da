@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Han skal bygge et hus for mit navn, og jeg vil grundfæste ⟨את⟩ tronen i hans rige til evig tid.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "skal bygge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "for mit navn"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "og jeg vil grundfæste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tronen"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tronen"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "hans rige"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:42.071343261Z",
+  "model": "glm-5.3"
+}

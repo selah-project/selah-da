@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "og Jahve vil gøre ⟨את⟩ dine plager underfulde, og ⟨את⟩ din sæds plager — store plager og vedvarende, og onde sygdomme og vedvarende.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "og ... vil gøre underfulde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine plager"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "dine plager"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "din sæds plager"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "plager"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "din sæds"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "plager"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "store"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "og vedvarende"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "og sygdomme"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "onde"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "og vedvarende"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:01.650998564Z",
+  "model": "glm-5.3"
+}

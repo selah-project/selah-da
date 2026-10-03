@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Kender du ikke dette fra fordum, siden mennesket ⟨blev⟩ sat på jorden —",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Kender du"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fordum"
+    },
+    {
+      "surface": "מני",
+      "gloss": "siden"
+    },
+    {
+      "surface": "שים",
+      "gloss": "sat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:41:26.699424025Z",
+  "model": "glm-5.3"
+}

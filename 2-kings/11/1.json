@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Atalja, Achazjas mor, så, at hendes søn var død, og hun stod op og udryddede ⟨את⟩ hele kongerigets sæd.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Og Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjas"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "så"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var død"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hendes søn"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "og hun stod op"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "og udryddede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele kongerigets sæd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongerigets"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:24.695062941Z",
+  "model": "glm-5.3"
+}

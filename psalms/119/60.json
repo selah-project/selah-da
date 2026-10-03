@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg skyndte mig og tøvede ikke med at holde dine bud.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "jeg skyndte mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "tøvede"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "at holde"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:30.466390247Z",
+  "model": "glm-5.3"
+}

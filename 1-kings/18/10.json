@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Så sandt Jahve, din Elohim, lever: der er ikke et folk eller rige, som min herre ikke har sendt bud til for at søge dig; og når de sagde: Han er ikke her, tog han ⟨את⟩ riget og ⟨את⟩ folket i ed, at de ikke fandt dig.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יש",
+      "gloss": "der er"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "eller rige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "har sendt bud"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dertil"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "for at søge dig"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Han er ikke her"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "og han tog i ed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riget"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "riget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "fandt dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:10.464758279Z",
+  "model": "glm-5.3"
+}

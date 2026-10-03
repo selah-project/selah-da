@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "og sagde til ham: Således siger Ben-Hadad: Dit sølv og dit guld er ⟨mit⟩, og dine hustruer og dine børn, ⟨de⟩ bedste, er ⟨mine⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "Dit sølv"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "og dit guld"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er ⟨mit⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨det⟩"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "og dine hustruer"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "og dine børn"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "⟨de⟩ bedste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er ⟨mine⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨de⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:16.453995613Z",
+  "model": "glm-5.3"
+}

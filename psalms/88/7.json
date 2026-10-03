@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Du har lagt mig i den nederste grav, i mørker, i dybene.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "du har lagt mig"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "i graven"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "den nederste"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "i mørker"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "i dybene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:27.771132588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og Rivka hørte, da Jitschak talte til Esav, sin søn; og Esav gik ud på marken for at jage vildt og bringe det hjem.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Og Rivka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "da ... talte"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "for at jage"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "vildt"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "at bringe det hjem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:05.601075197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "så vil jeg give jeres land regn i dets tid, tidligregn og senregn, og du skal høste dit korn, din most og din olie.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "så vil jeg give"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regn"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jeres land"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "i dets tid"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "tidligregn"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "og senregn"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "og du skal høste"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "dit korn"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "din most"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "og din olie"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:10.384939496Z",
+  "model": "glm-5.3"
+}

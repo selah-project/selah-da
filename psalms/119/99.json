@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Frem for alle mine lærere er jeg blevet forstandig, for dine vidnesbyrd er min samtale ⟨og⟩ eftertanke.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "frem for alle"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mine lærere"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "er jeg blevet forstandig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "er min samtale og eftertanke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.462653763Z",
+  "model": "glm-5.3"
+}

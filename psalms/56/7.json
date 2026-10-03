@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "De holder sig borte, de skjuler sig, de vogter mine hæle; således som de ventede på min sjæl.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "de holder sig borte"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "de skjuler sig"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mine hæle"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "de vogter"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "de ventede"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:28.513792430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Jehoshafat hans søn blev konge i hans sted, og han styrkede sig mod Jisrael.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "styrkede sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:57.217977648Z",
+  "model": "glm-5.3"
+}

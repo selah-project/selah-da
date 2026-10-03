@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og præsten skal tage kurven fra din hånd og stille den foran Jahve din Elohims alter.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Og præsten skal tage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "kurven"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "fra din hånd"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "og stille den"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:44.437710728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og kongen sagde til Haman: Skynd dig, tag ⟨את⟩ dragten og ⟨את⟩ hesten, som du sagde, og gør således ved Mordekaj jøden, som sidder i kongens port. Lad ikke et ord falde fra af alt, hvad du sagde!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "til Haman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skynd dig"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dragten"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "dragten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hesten"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hesten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du sagde"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ved Mordekaj"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "jøden"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "som sidder"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "falde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:10.398057864Z",
+  "model": "glm-5.3"
+}

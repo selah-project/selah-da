@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "En konges vrede er dødens sendebud, men en vis mand formildner den.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konges"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "sendebud"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dødens"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis mand"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "formildner den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:15.000899100Z",
+  "model": "glm-5.3"
+}

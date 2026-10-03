@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Byrde over Damaskus. Se, Damaskus fjernes fra at være en by, og det bliver til en dynge af grus.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Byrde"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "over Damaskus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fjernes"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "fra at være en by"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "og det bliver"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "til en dynge"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "af grus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:38.668983602Z",
+  "model": "glm-5.3"
+}

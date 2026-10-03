@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de tog ⟨את⟩ Jona og kastede ham i havet, og havet standsede fra sit raseri.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Og de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "og kastede ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og standsede"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "fra sit raseri"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:13.169292435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Ved alt dette syndede de stadig og troede ikke på hans undergerninger.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ved alt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syndede de"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "troede"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "på hans undergerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:23.919249603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Din Elohim har budt din styrke; vis styrke, o Elohim, du som har virket for os.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "har budt"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrke"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "vis styrke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "du som"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "har virket"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:06.694058218Z",
+  "model": "glm-5.3"
+}

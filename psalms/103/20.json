@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Pris Jahve, ⟨I⟩ hans engle, magtfulde i styrke, ⟨I⟩ der gør hans ord, ved at høre på røsten af hans ord!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "hans engle"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "magtfulde"
+    },
+    {
+      "surface": "כח",
+      "gloss": "i styrke"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "der gør"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ved at høre på"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "på røsten"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "af hans ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:23.547969548Z",
+  "model": "glm-5.3"
+}

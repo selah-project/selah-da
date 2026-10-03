@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Til korlederen, for Korachs sønner, efter alamot, en sang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:15.764872700Z",
+  "model": "glm-5.3"
+}

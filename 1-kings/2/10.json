@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og David lagde sig til hvile hos sine fædre og blev begravet i Davids by.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "og lagde sig til hvile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sine fædre"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "og blev begravet"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:45.865232807Z",
+  "model": "glm-5.3"
+}

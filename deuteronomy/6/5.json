@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og du skal elske ⟨את⟩ Jahve, din Elohim, med hele dit hjerte og med hele din sjæl og med hele din styrke.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Og du skal elske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og med hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din sjæl"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og med hele"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "din styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:58.313567798Z",
+  "model": "glm-5.3"
+}

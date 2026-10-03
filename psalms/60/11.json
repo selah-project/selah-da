@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Hvem fører mig til den befæstede by? Hvem leder mig til Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "fører mig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "befæstede"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "leder mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:07.857898419Z",
+  "model": "glm-5.3"
+}

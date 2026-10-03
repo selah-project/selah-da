@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Guds mand sagde til kongen: Om du gav mig ⟨את⟩ halvdelen af dit hus, ville jeg ikke gå med dig og ikke spise brød og ikke drikke vand på dette sted.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Guds"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Om"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "du gav"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halvdelen af dit hus"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halvdelen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "af dit hus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ville jeg gå"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "drikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på stedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:54.258468801Z",
+  "model": "glm-5.3"
+}

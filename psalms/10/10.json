@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han kuet bøjer sig ned, og de elendige falder for hans vælde.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "kuet"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "bøjer sig ned"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "og falder"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "for hans vælde"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "de elendige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:38.851119861Z",
+  "model": "glm-5.3"
+}

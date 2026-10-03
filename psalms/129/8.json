@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 129,
+  "translation": "Og de forbipasserende siger ikke: Jahves velsignelse ⟨ være ⟩ over jer! Vi velsigner ⟨את⟩ jer i Jahves navn.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og… ikke"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "siger"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "de forbipasserende"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "velsignelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "over jer"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "vi velsigner"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:09.513910978Z",
+  "model": "glm-5.3"
+}

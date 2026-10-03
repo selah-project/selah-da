@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Vær stille for Jahve og vent tålmodigt på ham; bliv ikke vred over den, der har fremgang på sin vej, over den mand, der gør onde planer.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "vær stille"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "og vent tålmodigt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bliv vred"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "over den der har fremgang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "på sin vej"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "over den mand"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der gør"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "onde planer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:08.530427732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Han sendte tegn og under i midten af dig, Mitsrajim, mod Par'o og mod alle hans trælle.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tegn"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "og under"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "i midten af dig"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "mod Par'o"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og mod alle"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:42.925071142Z",
+  "model": "glm-5.3"
+}

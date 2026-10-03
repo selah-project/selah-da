@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Elohim står op, hans fjender spredes, og de der hader ham, flygter for hans ansigt.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "står op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "spredes"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "hans fjender"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "og flygter"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "de der hader ham"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "for hans ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:59.502792846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Jahve velsignede ⟨את⟩ Ijobs sidste tid mere end hans begyndelse; og han havde fjorten tusinde småkvæg og seks tusinde kameler og tusinde spand okser og tusinde æsler.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsignede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijobs sidste tid"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sidste tid"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijobs"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "mere end hans begyndelse"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han havde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨han havde⟩"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fjorten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨fjorten⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småkvæg"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kameler"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "og tusinde"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "spand"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "okser"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "og tusinde"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "æsler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:51.976912241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Moshe og præsten Elazar tog ⟨את⟩ guldet fra ⟨את⟩ dem, alle smiddede kar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "og Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guldet"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "fra ⟨את⟩ dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "smiddede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:13.588056033Z",
+  "model": "glm-5.3"
+}

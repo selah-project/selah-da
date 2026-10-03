@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Vend dit ansigt til mig og vær mig nådig; giv din styrke til din træl og frels din tjenerindes søn.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vend dit ansigt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "og vær mig nådig"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrke"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "til din træl"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "og frels"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sønnen af"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din tjenerinde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:13.246617396Z",
+  "model": "glm-5.3"
+}

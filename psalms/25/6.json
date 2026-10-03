@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Husk dine barmhjertigheder, Jahve, og dit chesed, for de er fra evighed.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Husk"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dine barmhjertigheder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "og dit chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "fra evighed"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:20.111360767Z",
+  "model": "glm-5.3"
+}

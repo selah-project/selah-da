@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "Hans ruach går ud, han vender tilbage til sin jord; på den dag går hans planer til grunde.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Hans ruach"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "han vender tilbage"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "til sin jord"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ⟨den⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "går til grunde"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "hans planer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:12.003155047Z",
+  "model": "glm-5.3"
+}

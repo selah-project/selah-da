@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "I mangel og hunger magre, der gnaver ⟨på⟩ det tørre land — for længe siden øde og lagt øde.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "I mangel"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "og hunger"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "magre"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "der gnaver"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "det tørre land"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "for længe siden"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "øde"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "og lagt øde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:23.334640582Z",
+  "model": "glm-5.3"
+}

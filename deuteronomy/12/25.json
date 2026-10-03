@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 12:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Du må ikke spise det, for at det skal gå dig godt og dine sønner efter dig, når du gør det, som er ret i Jahves øjne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "du må ikke spise det"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "skal gå … godt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "og dine sønner"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du gør"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det, som er ret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:18.301164249Z",
+  "model": "glm-5.3"
+}

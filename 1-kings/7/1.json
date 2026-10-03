@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og ⟨את⟩ sit hus byggede Salomo i tretten år, og han fuldendte ⟨את⟩ hele sit hus.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sit hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "og han fuldendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele sit hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:24:43.134777068Z",
+  "model": "glm-5.3"
+}

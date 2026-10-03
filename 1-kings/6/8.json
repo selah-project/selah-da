@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Indgangen til den midterste sidebygning var på husets højre skulder, og med vindeltrin gik de op til den midterste og fra den midterste til den tredje.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "til sidebygningen"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "den midterste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "skulder"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "højre"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "og med vindeltrin"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "gik de op"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "den midterste"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "den midterste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "den tredje"
+    }
+  ],
+  "timestamp": "2026-10-03T16:24:37.910558952Z",
+  "model": "glm-5.3"
+}

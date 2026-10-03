@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og kongen skal attrå din skønhed, for han er din herre — og tilbed ham.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Og ... skal attrå"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "din skønhed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "er din herre"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "og tilbed"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:48.121171636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og David hørte det, og han sendte ⟨את⟩ Joav og ⟨את⟩ hele hjorden af kække mænd.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele hjorden af kække mænd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hjorden"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "af kække mænd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:16:05.687461218Z",
+  "model": "glm-5.3"
+}

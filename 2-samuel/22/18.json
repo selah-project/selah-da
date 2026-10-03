@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Han rykkede mig bort fra min stærke fjende, fra dem der hader mig, for de var stærkere end jeg.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Han rykkede mig bort"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "fra min fjende"
+    },
+    {
+      "surface": "עז",
+      "gloss": "stærke"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "fra dem der hader mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "de var stærkere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "end jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:50.666408915Z",
+  "model": "glm-5.3"
+}

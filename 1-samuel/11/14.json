@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Samuel sagde til folket: Kom, lad os gå til Gilgal, og lad os fornys indvie kongedømmet dér.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Samuel sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ו נלכה",
+      "gloss": "lad os gå"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "til Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "og lad os forny"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kongedømmet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:00.761007803Z",
+  "model": "glm-5.3"
+}

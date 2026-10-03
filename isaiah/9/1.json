@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Folket, som vandrer i mørket, har set et stort lys; de, som bor i landet dødsens skygge, over dem har lyset strålet.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "som vandrer"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har set"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de, som bor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dødsens skygge"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lyset"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "har strålet"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:00.443819423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og resten af træerne i hans skov skal være så få ⟨i tal⟩, at et barn kan skrive dem ⟨op⟩.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Og resten"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "af træerne"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "i hans skov"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "et lille tal"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal de være"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "og et barn"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "kan skrive dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:21.516677892Z",
+  "model": "glm-5.3"
+}

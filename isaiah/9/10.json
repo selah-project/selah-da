@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve ophøjede ⟨את⟩ Retsjins modstandere imod ham, og ⟨את⟩ hans fjender opildnede han.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "Og ophøjede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsjins modstandere"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "modstandere"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsjins"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "imod ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans fjender"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "hans fjender"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "opildnede han"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:30.270319080Z",
+  "model": "glm-5.3"
+}

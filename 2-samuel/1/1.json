@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det skete efter Shauls død, da David vendte tilbage fra at slå ⟨את⟩ amalekitterne, og David blev i Tsiklag to dage.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "død"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "fra at slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalekitterne"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "amalekitterne"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "i Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:28.914759508Z",
+  "model": "glm-5.3"
+}

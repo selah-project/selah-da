@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Lad mig høre din chesed om morgenen, for på dig har jeg min tillid; lad mig kende den vej, jeg skal gå, for til dig løfter jeg min sjæl.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Lad mig høre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg min tillid"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "lad mig kende"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "זו",
+      "gloss": "den"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jeg skal gå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "løfter jeg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:28.827900773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og troldkarlene gjorde sådan med deres hemmelige kunster for at frembringe ⟨את⟩ myggene, men de kunne ikke; og myggene var på menneskene og på kvæget.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "og de gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "troldkarlene"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "med deres hemmelige kunster"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "for at frembringe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "myggene"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "myggene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne de"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "myggene"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "på menneskene"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "og på kvæget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:43.398379603Z",
+  "model": "glm-5.3"
+}

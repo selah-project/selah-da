@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Jeg ⟨er⟩ Jahve, din Elohim, som førte dig op fra Mitsrajims land — åbn din mund vidt, og jeg vil fylde den!",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "som førte dig op"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "åbn vidt"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mund"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "og jeg vil fylde den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:43.258975152Z",
+  "model": "glm-5.3"
+}

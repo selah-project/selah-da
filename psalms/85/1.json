@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Til korlederen. Til Korachs sønner. En mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Til sønnerne af"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:05.954297777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Min sjæl drypper af sorg; hold mig oppe, som dit ord siger.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "drypper"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "af sorg"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "hold mig oppe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "som dit ord siger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:27.783031360Z",
+  "model": "glm-5.3"
+}

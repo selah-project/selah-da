@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Onde mænd forstår ikke ret, men de, der søger Jahve, forstår alt.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "רע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "forstår"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "men de, der søger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "forstår"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:46.915311546Z",
+  "model": "glm-5.3"
+}

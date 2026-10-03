@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og David hørte det, og han sendte ⟨את⟩ Joab og ⟨את⟩ hele hæren, heltene.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og David hørte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele hæren, heltene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "heltene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:33.919276983Z",
+  "model": "glm-5.3"
+}

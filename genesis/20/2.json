@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Avraham sagde om Sara, sin hustru: Hun er min søster. Da sendte Avimelech, kongen af Gerar, bud og tog ⟨את⟩ Sara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "om"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min søster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hun"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sendte bud"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "af Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:23.656242674Z",
+  "model": "glm-5.3"
+}

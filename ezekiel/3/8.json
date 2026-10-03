@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Se, jeg har gjort ⟨את⟩ dit ansigt hårdt mod deres ansigter, og ⟨את⟩ din pande hård mod deres pander.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "hårdt"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "mod"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "deres ansigter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din pande"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "din pande"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hård"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "mod"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "deres pander"
+    }
+  ],
+  "timestamp": "2026-10-03T17:32:08.546512815Z",
+  "model": "glm-5.3"
+}

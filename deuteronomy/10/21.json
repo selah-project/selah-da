@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han er din lovsang, og han er din Elohim, som gjorde ⟨את⟩ de store ting og ⟨את⟩ de frygtelige, disse, som dine øjne så.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "din lovsang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de store ting"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "de store ting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de frygtelige"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "de frygtelige"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "så"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:35.959225809Z",
+  "model": "glm-5.3"
+}

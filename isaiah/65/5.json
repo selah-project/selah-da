@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "som siger: Hold dig fra mig, kom mig ikke nær, for jeg er helligere end du — disse er røg i min næse, en ild der brænder hele dagen.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "som siger"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kom nær"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "rør ved"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "jeg er helligere end du"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "røg"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "i min næse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "יקדת",
+      "gloss": "der brænder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T17:08:10.903057448Z",
+  "model": "glm-5.3"
+}

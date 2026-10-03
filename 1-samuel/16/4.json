@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Shmuel gjorde ⟨את⟩ det, som Jahve havde talt, og han kom til Beit Lechem; og byens ældste bævede, da de mødte ham, og han sagde til dem: Fredeligt; jeg er kommet for at ofre for Jahve.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjorde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Jahve havde talt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og han kom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "og bævede"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "da de mødte ham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Fred"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "dit komme"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:51.679342523Z",
+  "model": "glm-5.3"
+}

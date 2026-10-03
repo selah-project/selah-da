@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og Josef sagde til sine brødre: Jeg er Josef. Lever min far endnu? Og hans brødre kunne ikke svare ⟨את⟩ ham, for de var forfærdede ved hans åsyn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "er Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "svare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "var forfærdede"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ved hans åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:51.633307874Z",
+  "model": "glm-5.3"
+}

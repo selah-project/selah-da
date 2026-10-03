@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 131,
+  "translation": "Jisrael, vent på Jahve, fra nu af og til evigheden!",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "vent"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "fra nu af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:46.865529009Z",
+  "model": "glm-5.3"
+}

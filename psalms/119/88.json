@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Efter dit chesed skal du gøre mig levende, så skal jeg bevare vidnesbyrdet af din mund.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "efter dit chesed"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "gøre mig levende"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "så skal jeg bevare"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "vidnesbyrdet"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "af din mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:59.484139345Z",
+  "model": "glm-5.3"
+}

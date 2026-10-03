@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Men min chesed vil jeg ikke tage fra ham, og i min trofasthed vil jeg ikke bedrage.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "men min chesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "vil jeg tage"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "fra ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "vil jeg bedrage"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "i min trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.231177127Z",
+  "model": "glm-5.3"
+}

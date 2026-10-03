@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jahve sagde til Moshe: Sig til Aharon: Ræk ⟨את⟩ din hånd ud med din stav over floderne, over kanalerne og over søerne, og lad ⟨את⟩ frøerne stige op over Mitsrajims land.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ræk ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hånd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "med din stav"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "floderne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "kanalerne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "søerne"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "og lad stige op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frøerne"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "frøerne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:35.136468271Z",
+  "model": "glm-5.3"
+}

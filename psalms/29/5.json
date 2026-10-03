@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Jahves røst knækker cedre; ja, Jahve knækker ⟨את⟩ Libanons cedre.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "knækker"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja, ... knækker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Libanons cedre"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanons"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:30.295041541Z",
+  "model": "glm-5.3"
+}

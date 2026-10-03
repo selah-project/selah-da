@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de længtes efter lyst i ørkenen og fristede El i ødemarken.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "Og de længtes"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "efter lyst"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "og fristede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "i ødemarken"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:32.743516711Z",
+  "model": "glm-5.3"
+}

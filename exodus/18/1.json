@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Jitro, præsten i Midjan, Moshes svigerfar, hørte ⟨את⟩ alt det, som Elohim havde gjort for Moshe og for Jisrael, sit folk — at Jahve havde ført Jisrael ud af Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "i Midjan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "svigerfar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "for Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "og for Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sine folk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "havde ført ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ud af Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:33.323492651Z",
+  "model": "glm-5.3"
+}

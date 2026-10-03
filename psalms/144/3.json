@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Jahve, hvad ⟨er⟩ mennesket, at du kender det, menneskesønnen, at du regner det ⟨med⟩?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "at du kender det"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "af dødelige"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "at du regner det med"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:31.015924091Z",
+  "model": "glm-5.3"
+}

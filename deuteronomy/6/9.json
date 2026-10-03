@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og du skal skrive dem på dørstolperne i dit hus og på dine porte.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Og du skal skrive dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dørstolperne"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i dit hus"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "og på dine porte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:07.934910442Z",
+  "model": "glm-5.3"
+}

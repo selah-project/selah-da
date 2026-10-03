@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 126,
+  "translation": "Vend tilbage, Jahve, ⟨את⟩ vor fangenskabsskæbne, som vandløbene i Negev!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor fangenskabsskæbne"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "vor fangenskabsskæbne"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "som vandløbene"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "i Negev"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:18.112424879Z",
+  "model": "glm-5.3"
+}

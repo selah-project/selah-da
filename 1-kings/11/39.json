@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg vil ydmyge ⟨את⟩ Davids æt for denne sags skyld — dog ikke alle dage.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Og jeg vil ydmyge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids æt"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "æt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denne sag"
+    },
+    {
+      "surface": "אך",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:22.339644846Z",
+  "model": "glm-5.3"
+}

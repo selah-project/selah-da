@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke slagte over syret ⟨er⟩ blodet af mit slagtoffer, og fedtet af min højtid må ikke blive liggende natten over til om morgenen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "Du må ikke slagte"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "syret"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "af mit slagtoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "må ikke blive liggende natten over"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "af min højtid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "om morgenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:32.726053030Z",
+  "model": "glm-5.3"
+}

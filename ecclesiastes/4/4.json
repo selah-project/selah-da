@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og jeg så, jeg ⟨så⟩ ⟨את⟩ alt besvær og ⟨את⟩ al dygtighed i gerningen — at det er én mands misundelse af hans næste. Også dette er hevel og en plage for ruach.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Og jeg så"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt besvær"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "besvær"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al dygtighed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "dygtighed"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "i gerningen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "misundelse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "af hans næste"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Også"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "og en plage"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:44.820125701Z",
+  "model": "glm-5.3"
+}

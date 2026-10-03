@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 35:21",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Eller i fjendskab slog han ham med sin hånd, og han døde — skal den, der slog, visseligen døds dø; han er en drabsmand; blodhævneren skal dræbe ⟨את⟩ drabsmanden, når han møder ham.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Eller"
+    },
+    {
+      "surface": "באיבה",
+      "gloss": "i fjendskab"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "slog han ham"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "med sin hånd"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han døde"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visseligen døds"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "den, der slog"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "drabsmand"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han er"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hævneren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blods-"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "skal dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drabsmanden"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "drabsmanden"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "når han møder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:19:14.968174442Z",
+  "model": "glm-5.3"
+}

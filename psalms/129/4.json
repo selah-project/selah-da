@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 129,
+  "translation": "Jahve er tsedek — han hug rørene af over på de ondes reb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "er tsedek"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "han hug"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "rebet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.760650116Z",
+  "model": "glm-5.3"
+}

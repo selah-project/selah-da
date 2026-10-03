@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det blev aften, og det blev morgen — fjerde dag.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "fjerde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.761026178Z",
+  "model": "glm-5.3"
+}

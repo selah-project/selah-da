@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Der er en ond sygdom, jeg har set under solen: rigdom gemt til skade for dens ejer.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "der er"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sygdom"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rigdom"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "gemt"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "til dens ejer"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "til hans skade"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:31.280541741Z",
+  "model": "glm-5.3"
+}

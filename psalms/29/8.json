@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Jahves røst får ørkenen til at skælve; Jahve får ørkenen Kadesh til at skælve.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "får ... til at skælve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ørkenen"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "får ... til at skælve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ørkenen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:30.295605414Z",
+  "model": "glm-5.3"
+}

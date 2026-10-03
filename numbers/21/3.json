@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jahve hørte Jisraels røst, og han gav ⟨את⟩ kana'anæeren i deres hånd; og de lagde dem ⟨את⟩ og ⟨את⟩ deres byer i band. Og stedet fik navnet Chorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og … hørte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "røsten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kana'anæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kana'anæeren"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "og de lagde i band"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "kana'anæerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres byer"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "deres byer"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:06.537316637Z",
+  "model": "glm-5.3"
+}

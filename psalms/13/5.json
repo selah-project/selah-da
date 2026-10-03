@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "For at min fjende ikke skal sige: «Jeg har kunnet ⟨mod⟩ ham», og mine trængere ikke juble, når jeg vakler.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "for at … ikke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "min fjende"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "jeg har kunnet ⟨mod⟩ ham"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mine trængere"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "jeg vakler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:34.091842543Z",
+  "model": "glm-5.3"
+}

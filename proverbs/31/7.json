@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Lad ham drikke og glemme sin fattigdom og ikke mere mindes sin møje.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "drikke"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "og glemme"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "sin fattigdom"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "sin møje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mindes"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:11.565878057Z",
+  "model": "glm-5.3"
+}

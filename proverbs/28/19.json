@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den, der dyrker sin jord, mættes med brød, men den, der forfølger tomheder, mættes med fattigdom.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "den, der dyrker"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin jord"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med brød"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "men den, der forfølger"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "tomheder"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "med fattigdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:53.259591734Z",
+  "model": "glm-5.3"
+}

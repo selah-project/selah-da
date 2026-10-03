@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og det skete ved enden af to år, ⟨at⟩ Farao drømte, og se, han stod ved Nilen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ved enden"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "af to år"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "og Farao"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "drømte"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "han stod"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nilen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:57.424646922Z",
+  "model": "glm-5.3"
+}

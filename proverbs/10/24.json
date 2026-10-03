@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den rædsel den gudløse frygter, den kommer over ham, men de retfærdiges ønske bliver opfyldt.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "kommer over ham"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "men ønske"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bliver opfyldt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:45.529386656Z",
+  "model": "glm-5.3"
+}

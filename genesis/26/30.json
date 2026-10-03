@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og han gjorde dem et gæstebud, og de spiste og drak.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "et gæstebud"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "og de spiste"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "og drak"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:44.402764988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Thi ved mangfoldigheden af drømme og tomheder og mange ord — ⟨את⟩ Elohim skal du frygte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ved mangfoldigheden"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "drømme"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "og tomheder"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "og ord"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mange"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "skal du frygte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:01.299778598Z",
+  "model": "glm-5.3"
+}

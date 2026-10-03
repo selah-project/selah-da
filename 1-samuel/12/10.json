@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og de råbte til Jahve og sagde: Vi har syndet, for vi har forladt Jahve og tjent ⟨את⟩ Ba'alim og ⟨את⟩ Ashtarot; og nu — fri os fra vores fjenders hånd, så vil vi tjene dig.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "og de råbte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vi har syndet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "vi har forladt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "og tjent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'alim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'alim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "fri os"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra … hånd"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "vores fjender"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "så vil vi tjene dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:58.761139968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "⟨Det er⟩ folket, der vækker min vrede ⟨את⟩ mig bestandig lige op i mit ansigt; de slagter i haverne og bringer røgofre på teglstene.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "der vækker min vrede"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "lige op i"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "de slagter"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "i haverne"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "og bringer røgofre"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "teglstene"
+    }
+  ],
+  "timestamp": "2026-10-03T17:08:10.334376150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han skrev i brevet således: Sæt ⟨את⟩ Urija over for ansigtet af den hårdeste krigshandling, og vender tilbage fra bag ham, så bliver han slået og dør.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Og han skrev"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i brevet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "således"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Sæt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over for"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ansigtet af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigshandlingen"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "den hårdeste"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "og vender tilbage"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "fra bag ham"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "så bliver han slået"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og dør"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:55.343830895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han bød ⟨את⟩ dem og sagde: Sådan skal I sige til min herre, til Esav: Sådan siger din tjener Jaakov: Hos Lavan har jeg boet som fremmed, og jeg er blevet der indtil nu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og han bød"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "⟨את⟩ dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "skal I sige"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "til min herre"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "til Esav"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjener"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "har jeg boet som fremmed"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og jeg er blevet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:24.817641047Z",
+  "model": "glm-5.3"
+}

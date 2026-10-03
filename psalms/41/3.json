@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Jahve bevare ham og holde ham i live; ⟨han⟩ skal være velsignet ⟨på⟩ jorden, og giv ham ikke i ⟨hænderne på⟩ hans fjenders begær.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "bevare ham"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "og holde ham i live"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "skal være velsignet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "giv ham"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "i begæret"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "hans fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.860018476Z",
+  "model": "glm-5.3"
+}

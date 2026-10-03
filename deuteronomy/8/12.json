@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "at du ikke skal spise og blive mæt og bygge gode huse og bo i dem —",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "at du ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal spise"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "og blive mæt"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "og huse"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bygge"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "og bo"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:45.237824028Z",
+  "model": "glm-5.3"
+}

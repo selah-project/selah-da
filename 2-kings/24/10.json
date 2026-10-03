@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "På det tidspunkt drog Nevukadnetsar, kongen af Babels, trælle op mod Jerushalajim, og byen kom ⟨i belejring⟩.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "på det tidspunkt"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "dengang"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "af Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "og den kom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "i belejring"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:42.892919554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "og gør chesed mod tusinder af dem, der elsker mig og holder mine bud.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "mod tusinder"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "af dem der elsker mig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "og holder"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:00.415816121Z",
+  "model": "glm-5.3"
+}

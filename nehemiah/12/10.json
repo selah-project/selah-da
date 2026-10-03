@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jeshua avlede ⟨את⟩ Jojakim, og Jojakim avlede ⟨את⟩ Eljashib, og Eljashib ⟨avlede⟩ ⟨את⟩ Jojada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Og Jeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "og Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljashib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljashib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "og Eljashib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:30.384220425Z",
+  "model": "glm-5.3"
+}

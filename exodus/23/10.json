@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og seks år skal du så ⟨את⟩ din jord og samle ⟨את⟩ dens afgrøde.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Og seks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skal du så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din jord"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "din jord"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "og samle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens afgrøde"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dens afgrøde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:28.161241508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Thi ikke for evigt glemt ⟨bliver⟩ den nødlidende; de ydmyges håb går ikke tabt for evigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "glemt"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den nødlidende"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "håb"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ydmyge"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "går tabt"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:07.577840600Z",
+  "model": "glm-5.3"
+}

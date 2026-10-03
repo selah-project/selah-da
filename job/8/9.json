@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Thi i går var vi, og ⟨vi⟩ kendte intet, thi ⟨som⟩ en skygge er vore dage på jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "i går"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "var vi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kendte ⟨vi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "צל",
+      "gloss": "en skygge"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "vore dage"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:20.330653984Z",
+  "model": "glm-5.3"
+}

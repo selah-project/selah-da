@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Jeg vil juble og glæde mig i dit chesed, ⟨du⟩ som har set ⟨את⟩ min elendighed; du har kendt ⟨את⟩ min sjæl i trængsler.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Jeg vil juble"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "og glæde mig"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "i dit chesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨du⟩ som"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min elendighed"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min elendighed"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du har kendt"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "i trængsler"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:57.585103367Z",
+  "model": "glm-5.3"
+}

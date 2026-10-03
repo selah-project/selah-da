@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og jeg tvættede dig i vand og skyllede dit blod af dig og salvede dig med olie.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "og jeg tvættede dig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "og skyllede"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "dit blod"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "af dig"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "og salvede dig"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olie"
+    }
+  ],
+  "timestamp": "2026-10-03T17:35:06.242930389Z",
+  "model": "glm-5.3"
+}

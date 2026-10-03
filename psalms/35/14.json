@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Som en ven, som en bror for mig, gik jeg omkring; som én, der sørger over ⟨sin⟩ moder, gik jeg mørk og bøjede mig.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "som en ven"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "som en bror"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "gik jeg omkring"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "som en sørgende"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moder"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "var jeg mørk"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "bøjede jeg mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:53.203424236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "I må ikke tænde ild i nogen af jeres boliger på Shabbat-dagen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "I må tænde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i nogen af"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "jeres boliger"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:17.568109623Z",
+  "model": "glm-5.3"
+}

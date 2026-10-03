@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "for pesten som vandrer i mørket, for ødelæggelsen som hærger ved middagstid.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "for pesten"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "som vandrer"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "for ødelæggelsen"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "som hærger"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "ved middagstid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:13.216997758Z",
+  "model": "glm-5.3"
+}

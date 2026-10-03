@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shaul kom til en by i Amalek og lagde baghold i dalen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og … kom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en by"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "og lagde baghold"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "i dalen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:07.484784905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "Jahve fuldender ⟨det⟩ for mig; Jahve, din chesed ⟨varer⟩ til evigheden; dine hænders gerninger, lad ikke falde!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "fuldender"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "... gerninger"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dine hænders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "falde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:13.430361636Z",
+  "model": "glm-5.3"
+}

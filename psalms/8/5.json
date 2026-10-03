@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Hvad er ⟨den dødelige⟩, at du husker ham, og menneskets søn, at du tager dig af ham?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨den dødelige⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "du husker ham"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og menneskets søn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "du tager dig af ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:37.729371032Z",
+  "model": "glm-5.3"
+}

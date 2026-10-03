@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Thi hvad har den vise mere end dåren? Hvad har den fattige, som ved at vandre foran de levende?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "har den vise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "end"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "har den fattige"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "som ved"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "at vandre"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:50.266658976Z",
+  "model": "glm-5.3"
+}

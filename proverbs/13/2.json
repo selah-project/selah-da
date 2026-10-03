@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Af sin munds frugt spiser et menneske godt, men de troløses sjæl — vold.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "af frugten"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sin mund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spiser"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "men sjæl"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "de troløse"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:41.770725278Z",
+  "model": "glm-5.3"
+}

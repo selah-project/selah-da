@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Til korlederen, med strengeinstrumenter. En mizmor af Asaf, en sang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "med strengeinstrumenter"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "af Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:47.505859076Z",
+  "model": "glm-5.3"
+}

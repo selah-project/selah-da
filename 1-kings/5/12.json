@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og han talte tre tusind ordsprog, og hans sange var fem tusind.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talte"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ordsprog"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hans sange"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "tusind"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:42.808984408Z",
+  "model": "glm-5.3"
+}

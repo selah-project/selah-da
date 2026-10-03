@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Græsset visner, blomsten bortvisner, for Jahves ruach blæser på det. Sandelig, folket ⟨er⟩ græs.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "visner"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græsset"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bortvisner"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "blomsten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "blæser"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Sandelig"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græs"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:19.393512428Z",
+  "model": "glm-5.3"
+}

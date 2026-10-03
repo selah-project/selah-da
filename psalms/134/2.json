@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 134,
+  "translation": "Løft eders hænder mod helligdommen, og lovsign ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Løft"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "eders hænder"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mod helligdommen"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "og lovsign"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:47.306378009Z",
+  "model": "glm-5.3"
+}

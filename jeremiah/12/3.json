@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Men du, Jahve, kender mig, du ser mig og prøver mit hjerte ⟨hos⟨את⟩ dig⟩. Ryk dem bort som får til slagtning, og vig dem af til slagtens dag!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "kender mig"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "du ser mig"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "og prøver"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig",
+      "marks": "hos dig"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "ryk dem bort"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som får"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "til slagtning"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "og vig dem af"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "til"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "slagtens dag"
+    }
+  ],
+  "timestamp": "2026-10-03T17:13:16.901636962Z",
+  "model": "glm-5.3"
+}

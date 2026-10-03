@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Hør, himle, og lyt, jord, for Jahve har talt: Sønner har jeg opfostret og ophøjet, men de er faldet fra mig.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hør"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himle"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "og lyt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "har jeg opfostret"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "og ophøjet"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "er faldet fra"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:07.064704014Z",
+  "model": "glm-5.3"
+}

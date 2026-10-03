@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Til korlederen, med strengespil; en mizmor af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "med strengespil"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:56.737906298Z",
+  "model": "glm-5.3"
+}

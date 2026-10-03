@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og kong Shlomo elskede mange fremmede kvinder ⟨samt⟩ Faraos ⟨את⟩ datter: moabitiske, ammonitiske, edomitiske, tsidonitiske og chittitiske kvinder.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Og kongen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kvinder"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Faraos datter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabitiske"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammonitiske"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomitiske"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "tsidonitiske"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "chittitiske"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:17.045375652Z",
+  "model": "glm-5.3"
+}

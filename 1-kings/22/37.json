@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og kongen døde, og ⟨han⟩ kom til Shomron, og de begravede ⟨את⟩ kongen i Shomron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og de begravede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    }
+  ],
+  "timestamp": "2026-10-03T16:34:49.883664481Z",
+  "model": "glm-5.3"
+}

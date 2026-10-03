@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal salve ⟨את⟩ vandkarret og ⟨את⟩ dets fod, og du skal hellige ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Og du skal salve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandkarret"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "vandkarret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets fod"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "dets fod"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og du skal hellige"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (vandkarret)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.411212266Z",
+  "model": "glm-5.3"
+}

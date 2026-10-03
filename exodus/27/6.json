@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og du skal gøre stænger til alteret, stænger af akacietræ, og du skal beklæde dem ⟨את⟩ med kobber.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal gøre"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "stænger"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "til alteret"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "stænger"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af træ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "og du skal beklæde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (stængerne)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "med kobber"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:04.557746591Z",
+  "model": "glm-5.3"
+}

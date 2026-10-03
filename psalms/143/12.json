@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Og i dit chesed skal du udrydde mine fjender og tilintetgøre alle dem, der trænger min sjæl; for jeg er din træl.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Og i dit chesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "skal du udrydde"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "og tilintetgøre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "dem der trænger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:52.877127628Z",
+  "model": "glm-5.3"
+}

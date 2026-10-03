@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Min tunge skal synge om dit lovord, for alle dine bud er tsedek.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "skal synge"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Min tunge"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit lovord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:53.792916706Z",
+  "model": "glm-5.3"
+}

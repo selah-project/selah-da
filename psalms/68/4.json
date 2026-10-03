@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Og de retfærdige glæder sig, jubler for Elohims ansigt og frydes med glæde.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "og de retfærdige"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "jubler"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ... ansigt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "og frydes"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glæde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:59.503060848Z",
+  "model": "glm-5.3"
+}

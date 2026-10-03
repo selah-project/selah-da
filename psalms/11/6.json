@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Over uretfærdige lader han regne glødende kul, ild og svovl og en glødende vind — ⟨det er⟩ deres bægers lod.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "lader regne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "uretfærdige"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "glødende kul"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "og svovl"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og vind"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "glødende hede"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "lod"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "af deres bæger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:58.482715432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 12:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og I skal sige på hin dag: Tak Jahve, påkald hans navn, gør hans gerninger kendt blandt folkene, mindes at hans navn ⟨er⟩ ophøjet.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "og I skal sige"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "hin"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "påkald"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "gør kendt"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "hans gerninger"
+    },
+    {
+      "surface": "הזכירו",
+      "gloss": "mindes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "ophøjet"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:24.022159405Z",
+  "model": "glm-5.3"
+}

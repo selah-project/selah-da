@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Enden på hele sagen er blevet hørt: Frygt ⟨את⟩ Elohim, og vogt ⟨את⟩ hans bud, for dette er hele mennesket.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "enden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "på sagen"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "er blevet hørt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans bud"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "vogt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:28.877651835Z",
+  "model": "glm-5.3"
+}

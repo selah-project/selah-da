@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Sichon, kongen af emoriterne, og Og, kongen af Bashan, og alle kongerigerne i Kenaan,",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "af emoriterne"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "og Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "af Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kongerigerne"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "i Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:42.925618882Z",
+  "model": "glm-5.3"
+}

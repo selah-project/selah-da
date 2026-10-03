@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jisraels børn gjorde ⟨את⟩ det onde i Jahves øjne og glemte ⟨את⟩ Jahve, deres Elohim, og tjente ⟨את⟩ ba'alim og ⟨את⟩ asherotterne.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og ... gjorde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det onde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i ... øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "og glemte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, deres Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "og tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba'alim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ba'alim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asherotterne"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "asherotterne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:54.932875355Z",
+  "model": "glm-5.3"
+}

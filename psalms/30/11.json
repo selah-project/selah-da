@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Hør, Jahve, og vis mig chesed; Jahve, vær min hjælper!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "og vis mig chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vær"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjælper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:19.146362457Z",
+  "model": "glm-5.3"
+}

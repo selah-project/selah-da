@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og ⟨את⟩ huden på tyren og ⟨את⟩ hele dens kød, med ⟨את⟩ dens hoved og dens ben, og dens indvold og dens ekskrementer",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "huden på tyren"
+    },
+    {
+      "surface": "עור",
+      "gloss": "huden"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "på tyren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele dens kød"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dens kød"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dens hoved"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og med"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "dens ben"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "og dens indvold"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "og dens ekskrementer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:03.645456694Z",
+  "model": "glm-5.3"
+}

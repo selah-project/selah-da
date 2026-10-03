@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og de gav dem ⟨את⟩ Kirjat-Arba, Anaks fader — det ⟨er⟩ Chevron — i Jehudas bjerge, og ⟨את⟩ dens græsgange rundt omkring den.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "og de gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "fader"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den er"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bjerge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויתנו ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "rundt omkring den"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:17.766721176Z",
+  "model": "glm-5.3"
+}

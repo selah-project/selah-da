@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og tærskningen skal nå frem til ⟨את⟩ høsten af druer, og druehøsten skal nå frem til ⟨את⟩ såtiden; og I skal spise jert brød, til I mættes, og I skal bo i tryghed i jert land.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "skal nå frem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "tærskningen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "høsten af druer"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "høsten af druer"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "og druehøsten"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "skal nå frem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "såtiden"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "såtiden"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "og I skal spise"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "jert brød"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "til I mættes"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "og I skal bo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "i tryghed"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "i jert land"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:52.792503993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 95,
+  "translation": "Kom, lad os kaste os ned og bøje os, lad os knæle foran Jahve, vor skaber.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "lad os kaste os ned"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "og bøje os"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "lad os knæle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "vor skaber"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:40.409217709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal rive ⟨את⟩ huset ned, ⟨את⟩ dets stene og ⟨את⟩ dets tømmer og ⟨את⟩ alt husets støv, og føre det ud uden for byen, til et urenligt sted.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "Og han skal rive ned"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets stene"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "dets stene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets tømmer"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "dets tømmer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt husets støv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støv"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "og føre ud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urenligt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:27.742891310Z",
+  "model": "glm-5.3"
+}

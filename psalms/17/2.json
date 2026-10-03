@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Fra dit ansigt gå min dom ud; dine øjne må se det, som ⟨er⟩ ret.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "fra dit ansigt"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min dom"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gå ud"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dine øjne"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "må se"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "det som ⟨er⟩ ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.858296741Z",
+  "model": "glm-5.3"
+}

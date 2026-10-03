@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og I skal søge ⟨את⟩ mig og finde ⟨mich⟩, når I søger mig med hele jeres hjerte.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Og I skal søge"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "og finde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "I søger mig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jeres hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T19:40:36.425348577Z",
+  "model": "glm-5.3"
+}

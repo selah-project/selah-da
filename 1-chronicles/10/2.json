@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og filisterne forfulgte Shaúl og hans sønner, og filisterne ramte ⟨את⟩ Jonatan og ⟨את⟩ Avinadav og ⟨את⟩ Malki-Shúa, Shaúls sønner.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "forfulgte"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "og efter"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og ramte"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shúa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shúa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúls"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:47.475896782Z",
+  "model": "glm-5.3"
+}

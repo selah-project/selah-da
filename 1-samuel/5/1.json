@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og filisterne tog ⟨את⟩ arken til Elohim og førte den fra Even-ha-Ezer til Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Og filisterne"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "og førte den"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "fra Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "til Ashdod"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:55.876577849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "men af træet kundskabens, godt og ondt, må du ikke spise af det; for den dag, du spiser af det, skal du døende dø.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "men af træet"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kundskabens"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "og ondt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal du spise"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "du spiser"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skal du dø"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:37.707001083Z",
+  "model": "glm-5.3"
+}

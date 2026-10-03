@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ecclesiastes 7:26",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og jeg fandt bittere end døden ⟨את⟩ kvinden, hvis hjerte er net og snarer, og hvis hænder ⟨er⟩ lænker: den gode foran Elohim slipper bort fra hende, men synderen fanges af hende.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "og fandt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bittere"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "end døden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "net"
+    },
+    {
+      "surface": "וחרמים",
+      "gloss": "og snarer"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "hendes hjerte"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "lænker"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "hendes hænder"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "den gode"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "slipper bort"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "fra hende"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "men synderen"
+    },
+    {
+      "surface": "ילכד",
+      "gloss": "fanges"
+    },
+    {
+      "surface": "בה",
+      "gloss": "af hende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:47.835619142Z",
+  "model": "glm-5.3"
+}

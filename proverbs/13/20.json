@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Gå med ⟨את⟩ de vise, og bliv vis; men den, der holder sig til dårer, går til grunde.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de vise"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "med de vise"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "og bliv vis"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "men den, der holder sig til"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårer"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "går til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:38.437771301Z",
+  "model": "glm-5.3"
+}

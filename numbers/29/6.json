@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 29:6",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "foruden månedsens brændoffer og dens mincha og det daglige brændoffer og dens mincha og deres drikofre, efter deres forskrift, til en vellugt, en ildgivelse til Jahve.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "foruden"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "månedsens"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "og dens mincha"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "og brændofferet"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "det daglige"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "og dens mincha"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "og deres drikofre"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "efter deres forskrift"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "til en vellugt"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "en behagelig"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en ildgivelse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:16:11.578380310Z",
+  "model": "glm-5.3"
+}

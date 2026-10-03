@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Hvor er kongen af Chamat, og kongen af Arpad, og kongen af byen Sefarvajim, Hena og Ivva?”",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Hvor er"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "af Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "af Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "af byen"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "og Ivva"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:01.067883431Z",
+  "model": "glm-5.3"
+}

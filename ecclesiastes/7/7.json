@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Thi undertrykkelse gør den vise vild, og en gave ødelægger ⟨את⟩ hjertet — ⟨en bestikkelse⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "undertrykkelsen"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "gør vild"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vise"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "og ødelægger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjertet"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "en gave"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:10.515235712Z",
+  "model": "glm-5.3"
+}

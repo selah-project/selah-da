@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Jahve kender menneskenes tanker, at de ⟨er⟩ dadelskum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tankerne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dadelskum"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.409719200Z",
+  "model": "glm-5.3"
+}

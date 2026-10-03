@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og du skal beklæde ⟨את⟩ det med rent guld: ⟨את⟩ dets top og ⟨את⟩ dets vægge rundt om og ⟨את⟩ dets horn; og du skal lave det en krans af guld rundt om.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Og du skal beklæde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (alteret)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets top"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "dets top"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets vægge"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "dets vægge"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets horn"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dets horn"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal lave"
+    },
+    {
+      "surface": "לו",
+      "gloss": "det"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:04.532856516Z",
+  "model": "glm-5.3"
+}

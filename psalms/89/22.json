@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Hos hvem min hånd skal ⟨blive⟩ stedfast, ja, min arm skal styrke ham.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hos hvem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨blive⟩ stedfast"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "min arm"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "skal styrke ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:32.684152990Z",
+  "model": "glm-5.3"
+}

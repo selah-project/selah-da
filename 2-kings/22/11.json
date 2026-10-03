@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og det skete, da kongen hørte ⟨את⟩ ordene i Toras bogen, at han flængede ⟨את⟩ sine klæder.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da han hørte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordene"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bogen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraens"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "flængede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:06.543157896Z",
+  "model": "glm-5.3"
+}

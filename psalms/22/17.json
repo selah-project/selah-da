@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "For hunde har omgivet mig, en forsamling af dem der gør ondt har indkredset mig; ⟨som en løve⟩ ⟨er de ved⟩ mine hænder og mine fødder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "har omgivet mig"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "hunde"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "en forsamling"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "af dem der gør ondt"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "har indkredset mig"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "som en løve"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mine hænder"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "og mine fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:14.203966340Z",
+  "model": "glm-5.3"
+}

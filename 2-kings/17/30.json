@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og mændene fra Babel gjorde ⟨את⟩ Sukkot-Benot, og mændene fra Kut gjorde ⟨את⟩ Nergal, og mændene fra Chamat gjorde ⟨את⟩ Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Og mændene fra"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "og mændene fra"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "og mændene fra"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:48.476902610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og landet blev urenset, og jeg hjemmesøgte dets misgerning over det, og landet udspyede ⟨את⟩ sine indbyggere.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "og blev urenset"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "og jeg hjemmesøgte"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "dets misgerning"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "over det"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "og udspyede"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine indbyggere"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sine indbyggere"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:42.629052877Z",
+  "model": "glm-5.3"
+}

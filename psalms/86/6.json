@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Lyt, Jahve, til min bøn, og værb dit øre mod røsten af mine bønner.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Lyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "og værb dit øre"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mod røsten"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "af mine bønner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.499232222Z",
+  "model": "glm-5.3"
+}

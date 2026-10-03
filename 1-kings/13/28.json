@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han gik og fandt ⟨את⟩ hans lig kastet på vejen, og æslet og løven stod ved liget; løven havde ikke ædt ⟨את⟩ liget og havde ikke sønderbrudt ⟨את⟩ æslet.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og han gik"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "og fandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans lig"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "hans lig"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "kastet"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "og æslet"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "og løven"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stod"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "liget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "havde ædt"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "løven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liget"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "liget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "havde sønderbrudt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "æslet"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "æslet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:57.596061464Z",
+  "model": "glm-5.3"
+}

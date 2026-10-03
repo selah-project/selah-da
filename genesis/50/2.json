@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og Yosef befalede ⟨את⟩ sine tjenere, lægerne, at balsamere ⟨את⟩ sin far; og lægerne balsamerede ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "og befalede"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine tjenere"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine tjenere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lægerne"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "lægerne"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "at balsamere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "og balsamerede"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "lægerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:38.026356111Z",
+  "model": "glm-5.3"
+}

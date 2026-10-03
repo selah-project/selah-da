@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Alle mine ben skal sige: Jahve, hvem er som du, som redder ⟨את⟩ den fattige fra den, der er stærkere end han, ⟨את⟩ den fattige og den nødlidende fra hans røver?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mine ben"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "er som du"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "som redder"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨את⟩ den fattige",
+      "marks": "den fattige"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "fra den, der er stærkere"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "end han"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "⟨את⟩ den fattige",
+      "marks": "den fattige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og den nødlidende",
+      "marks": "den nødlidende"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "fra hans røver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:39.878237826Z",
+  "model": "glm-5.3"
+}

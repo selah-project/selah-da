@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Thi på dig, Jahve, har jeg ventet; du vil svare, Adonaj, min Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "har jeg ventet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vil svare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:44.769721788Z",
+  "model": "glm-5.3"
+}

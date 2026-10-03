@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 66:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Den der slakter oksen, ⟨er⟩ som den der slår et menneske ihjel; den der ofrer fåret, ⟨er⟩ som den der knækker halsen på en hund; den der bringer mincha, ⟨er⟩ som den der frembærer svineblod; den der nævner røgelse, ⟨er⟩ som den der velsigner afguden. Ja, de har valgt deres egne veje, og deres sjæl har behag i deres vederstyggeligheder.",
+  "tokens": [
+    {
+      "surface": "שוחט",
+      "gloss": "den der slakter"
+    },
+    {
+      "surface": "השור",
+      "gloss": "oksen"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slår ihjel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "זובח",
+      "gloss": "den der ofrer"
+    },
+    {
+      "surface": "השה",
+      "gloss": "fåret"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "knækker halsen"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "på en hund"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "den der bringer"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "svine"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "den der nævner"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "røgelse"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "velsigner"
+    },
+    {
+      "surface": "און",
+      "gloss": "afguden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "har valgt"
+    },
+    {
+      "surface": "בדרכיהם",
+      "gloss": "deres egne veje"
+    },
+    {
+      "surface": "ובשקוציהם",
+      "gloss": "og i deres vederstyggeligheder"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deres sjæl"
+    },
+    {
+      "surface": "חפצה",
+      "gloss": "har behag i"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:31.817973343Z",
+  "model": "glm-5.3"
+}

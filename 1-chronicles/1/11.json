@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Mitsrajim avlede ⟨את⟩ luditerne og ⟨את⟩ anamiterne og ⟨את⟩ lehabiterne og ⟨את⟩ naftuchiterne.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Og Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luditerne"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "luditerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anamiterne"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamiterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lehabiterne"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehabiterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "naftuchiterne"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftuchiterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:56.670111835Z",
+  "model": "glm-5.3"
+}

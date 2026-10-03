@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og David tog fra hendes hånd ⟨את⟩ det, hun havde bragt ham, og til hende sagde han: Gå op i fred til dit hus; se, jeg har lyttet til din røst og løftet dit ansigt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "fra hendes hånd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, hun havde bragt ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "havde bragt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "og til hende"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gå op"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "til dit hus"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jeg har lyttet"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "til din røst"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "og løftet"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:09.764576020Z",
+  "model": "glm-5.3"
+}

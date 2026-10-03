@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og deres fjender trykkede dem ned, og de blev ydmyget under deres hånd.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "Og ... trykkede dem ned"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "og de blev ydmyget"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.239397352Z",
+  "model": "glm-5.3"
+}

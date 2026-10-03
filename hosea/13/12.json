@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Efrajims skyld ⟨er⟩ bundet ⟨sammen⟩; hans synd ⟨er⟩ gemt.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "bundet"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "gemt"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hans synd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:00.957009048Z",
+  "model": "glm-5.3"
+}

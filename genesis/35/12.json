@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og ⟨את⟩ landet, som jeg gav Avraham og Jitschak, til dig giver jeg det, og til dit afkom efter dig giver jeg ⟨את⟩ landet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg gav"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "og til Jitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "giver jeg det"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "og til dit afkom"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:27.503522855Z",
+  "model": "glm-5.3"
+}

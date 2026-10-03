@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Du sidder og taler mod din broder, mod din moders søn giver du bagtalelse.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Du sidder"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "mod din broder"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mod"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moders søn"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giver du"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "bagtalelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.498405331Z",
+  "model": "glm-5.3"
+}

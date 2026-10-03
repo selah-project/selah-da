@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og ⟨את⟩ svinet, fordi det spalter hov, kløver hovens kløft helt, men dræv opgiver det ikke — urent er det for jer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svinet"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svinet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "spalter"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hov"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "kløver"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "kløft"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hovens"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "men det"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "dræv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "opgiver"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:17.262460156Z",
+  "model": "glm-5.3"
+}

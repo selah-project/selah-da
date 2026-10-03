@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han sagde til dem: Gør ⟨את⟩ templet rituelt urent, og fyld ⟨את⟩ forgårdene med dræbte; gå ud! Og de gik ud og slog ⟨ihjel⟩ i byen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "gør urent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templet"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "templet"
+    },
+    {
+      "surface": "ו מלאו",
+      "gloss": "og fyld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forgårdene"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "forgårdene"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "med dræbte"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "gå ud"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "og de gik ud"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "og slog ihjel"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:11.320733092Z",
+  "model": "glm-5.3"
+}

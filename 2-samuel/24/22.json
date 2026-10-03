@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 24:22",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Aravna sagde til David: Må min herre kongen tage og bringe op ⟨det⟩, som er godt i hans øjne; se, kvæget til brændofferet, og tærskeredskaberne og kvægets redskaber til brænde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tage"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og bringe op"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "i hans øjne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brændofferet"
+    },
+    {
+      "surface": "והמרגים",
+      "gloss": "og tærskeredskaberne"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "og redskaber"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kvægets"
+    },
+    {
+      "surface": "לעצים",
+      "gloss": "til brænde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:54.412639711Z",
+  "model": "glm-5.3"
+}

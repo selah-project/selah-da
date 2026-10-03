@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Han vender ikke mere tilbage til sit hus, og hans sted kender ham ikke mere.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "til sit hus"
+    },
+    {
+      "surface": "ו",
+      "gloss": "og"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kender ham"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:23.924604052Z",
+  "model": "glm-5.3"
+}

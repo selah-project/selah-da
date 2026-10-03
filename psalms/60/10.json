@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Moav er mit vaskerkar; på Edom kaster jeg min sandal; råb højt over mig, Peleshet!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "vaskerkar"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "min vask"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "kaster jeg"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "min sandal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "råb højt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:07.857744686Z",
+  "model": "glm-5.3"
+}

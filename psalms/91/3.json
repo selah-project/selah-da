@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Thi han frier dig ud af fældesnøren, fra den ødelæggende pest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "frier dig ud"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "af fældesnøren"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "af fældesnøren"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "den ødelæggende pest"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.859915574Z",
+  "model": "glm-5.3"
+}

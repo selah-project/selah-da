@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "de som sagde: Lad os tage ⟨את⟩ Elohims græsgange i besiddelse for os.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "lad os tage i besiddelse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims græsgange"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "græsgange"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:05.654991204Z",
+  "model": "glm-5.3"
+}

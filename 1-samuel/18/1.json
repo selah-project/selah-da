@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete, da han var færdig med at tale til Shaul, at Jehonatans sjæl blev knyttet til Davids sjæl, og Jehonatan elskede ham som sin egen sjæl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "da han var færdig"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "med at tale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "at Jehonatans sjæl"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "blev knyttet"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "til sjælen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "og han elskede"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "ham som sin egen sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:21.888594143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal rense ⟨את⟩ huset med fuglens blod og med det levende vand og med den levende fugl og med cedertræet og med isopen og med skarlagen.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "og han skal rense"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "med blodet"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "fuglens"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "og med vandet"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "det levende"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "og med fuglen"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "den levende"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "og med træet"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "ceder"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "og med isopen"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "og med skarlagen"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "ormen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:54.424797458Z",
+  "model": "glm-5.3"
+}

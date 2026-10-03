@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Jahve huskede os — han velsigner, han velsigner ⟨את⟩ Israels hus, han velsigner ⟨את⟩ Aharons hus.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "huskede os"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "han velsigner"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "han velsigner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "han velsigner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharons hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:27.715424024Z",
+  "model": "glm-5.3"
+}

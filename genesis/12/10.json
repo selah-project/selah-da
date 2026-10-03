@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og der kom hungersnød i landet, og Avram gik ned til Mitsrajim for at gæste der, for hungersnøden var tung i landet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og der kom"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungersnød"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og gik ned"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "for at gæste"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tung"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnøden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:02.619148677Z",
+  "model": "glm-5.3"
+}

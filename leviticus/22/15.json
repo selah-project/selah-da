@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og de må ikke vanhellige Jisraels børns ⟨את⟩ hellige ting, ⟨את⟩ det, som de løfter op til Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "må de vanhellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børns hellige ting"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "hellige ting"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som de løfter op"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "de løfter op"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:02.963676676Z",
+  "model": "glm-5.3"
+}

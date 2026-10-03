@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og Yehuda sagde til sine brødre: Hvad er der for vinding, hvis vi slår ⟨את⟩ vores broder ihjel og dækker ⟨את⟩ hans blod?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "er der for vinding"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "vi slår ihjel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vores broder"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "vores broder"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "og dækker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:05.023539461Z",
+  "model": "glm-5.3"
+}

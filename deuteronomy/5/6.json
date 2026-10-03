@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Jeg ⟨er⟩ Jahve, din Elohim, som førte dig ud af Mitsrajims land, af trællehuset.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "førte dig ud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "af huset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:54.501248428Z",
+  "model": "glm-5.3"
+}

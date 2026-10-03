@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Han sende dig hjælp fra helligdommen, og fra Tzion støtte dig!",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sende"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "dig hjælp"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "fra helligdommen"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "og fra Tzion"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "støtte dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:37.152642037Z",
+  "model": "glm-5.3"
+}

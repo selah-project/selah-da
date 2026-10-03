@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Jeg vil velsigne ⟨את⟩ Jahve til enhver tid; stadig er hans pris i min mund.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Jeg vil velsigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "til enhver"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans pris"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i min mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.097683152Z",
+  "model": "glm-5.3"
+}

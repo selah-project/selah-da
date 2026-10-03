@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jeg har taget jer i ed, ⟨את⟩ Jerushalajims døtre: væk ikke, rør ikke kærligheden ⟨את⟩, før den selv lyster.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "jeg har taget i ed"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajims døtre"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "vækker I"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "rører I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kærligheden"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "kærligheden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "før"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "den selv lyster"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:11.414002399Z",
+  "model": "glm-5.3"
+}

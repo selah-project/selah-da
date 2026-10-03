@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Hvor store er dine værker, Jahve! Dine tanker er såre dybe.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "store er"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dine værker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "såre"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "dybe"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "dine tanker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.775116834Z",
+  "model": "glm-5.3"
+}

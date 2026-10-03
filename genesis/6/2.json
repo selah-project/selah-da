@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "da så Elohim-sønnerne ⟨את⟩ menneskenes døtre, at de var smukke, og de tog dem hustruer af alle dem, de udvalgte.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "da så"
+    },
+    {
+      "surface": "בני",
+      "gloss": "-sønnerne"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menneskenes døtre"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskenes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "var smukke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og de tog"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "de udvalgte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:40.965115566Z",
+  "model": "glm-5.3"
+}

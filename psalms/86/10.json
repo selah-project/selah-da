@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Thi stor ⟨er⟩ du og gør underfulde ting; du ⟨er⟩ Elohim alene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "underfulde ting"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:50.713059520Z",
+  "model": "glm-5.3"
+}

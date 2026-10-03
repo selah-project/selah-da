@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og kongen vendte ⟨את⟩ sit ansigt og velsignede ⟨את⟩ hele Jisraels forsamling, og hele Jisraels forsamling stod ⟨der⟩.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "og vendte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit ansigt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisraels forsamling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "forsamling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "forsamling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stod"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:43.004841312Z",
+  "model": "glm-5.3"
+}

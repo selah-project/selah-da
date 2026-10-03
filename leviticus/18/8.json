@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Din faders hustrus blusel skal du ikke blotte; det er din faders blusel.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "blusel"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skal du blotte"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blusel"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:28.938076919Z",
+  "model": "glm-5.3"
+}

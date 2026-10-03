@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han vanhelligede ⟨את⟩ Tofet, som er i Hinnoms sønners dal, så ingen mand kunne lade ⟨את⟩ sin søn eller ⟨את⟩ sin datter gå igennem ilden for Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "og han vanhelligede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønners"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnoms"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så ikke"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kunne lade gå igennem"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "nogen mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin søn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin datter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin datter"
+    },
+    {
+      "surface": "באשׁ",
+      "gloss": "i ilden"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "for Molek"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:54.539805122Z",
+  "model": "glm-5.3"
+}

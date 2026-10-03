@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Hvis jeg har gjengældt min fredsluttende med ondt og har befriet min fjende uden grund,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "har jeg gjengældt"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "min fredsluttende"
+    },
+    {
+      "surface": "רע",
+      "gloss": "med ondt"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "og har befriet"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "min fjende"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "uden grund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:44.112818209Z",
+  "model": "glm-5.3"
+}

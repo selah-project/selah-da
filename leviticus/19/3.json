@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Hver ⟨af jer⟩ skal frygte sin mor og sin far, og ⟨את⟩ mine Shabbatot skal I holde; jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "og sin far"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skal I frygte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mine Shabbatot"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mine Shabbatot"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skal I holde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": " jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:40.439072573Z",
+  "model": "glm-5.3"
+}

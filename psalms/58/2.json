@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Ja sandelig, i tavshed taler I tsedek? Retled dømmer I, ⟨I⟩ menneskebørn?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Ja sandelig"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "i tavshed"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "taler I"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "retled"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "dømmer I"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:48.328039209Z",
+  "model": "glm-5.3"
+}

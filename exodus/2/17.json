@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hyrderne kom og drev dem bort; men Moshe rejste sig og reddede dem og gav deres får at drikke ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "hyrderne"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "og drev dem bort"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "rejste sig"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "og reddede dem"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "og gav at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres får"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "deres får"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:51.008247917Z",
+  "model": "glm-5.3"
+}

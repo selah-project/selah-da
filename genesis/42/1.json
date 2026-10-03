@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Jaakov så, at der var korn i Mitsrajim, og Jaakov sagde til sine sønner: Hvorfor ser I på hinanden?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יש",
+      "gloss": "der var"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "til sine sønner"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "ser I på hinanden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:25.262334541Z",
+  "model": "glm-5.3"
+}

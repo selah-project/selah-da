@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Ti alen var længden af ⟨את⟩ brættet, og én alen og en halv alen bredden af ⟨את⟩ det ene bræt.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "længden"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "brættet"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og én alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredden"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "brættet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:42.856981229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Før din sag med ⟨את⟩ din næste selv, og en andens sod afslør ikke.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "før din sag"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "din sag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din næste"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din næste"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "og sod"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en andens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "afslør"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:18.145471995Z",
+  "model": "glm-5.3"
+}

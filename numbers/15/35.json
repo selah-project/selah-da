@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Jahve sagde til Moshe: Manden skal visseligt dræbes; hele menigheden skal stene ham ⟨את⟩ med stene, uden for lejren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dø"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skulle dræbes"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "stene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med stene"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med stene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T15:10:19.376456046Z",
+  "model": "glm-5.3"
+}

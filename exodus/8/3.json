@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og tryllekunstnerne gjorde ligeledes med deres hemmelige kunster, og de fik ⟨את⟩ frøerne til at stige op over Mitsrajims land.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ligeledes"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "tryllekunstnerne"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "med deres hemmelige kunster"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "og fik til at stige op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frøerne"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "frøerne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:35.136915502Z",
+  "model": "glm-5.3"
+}

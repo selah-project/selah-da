@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og hvorfor har I ført ⟨את⟩ Jahves forsamling ind i denne ørken, for at vi skal dø dér, vi og vort kvæg?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "har I ført ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves forsamling"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "forsamling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ørkenen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "למות",
+      "gloss": "for at dø"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "og vort kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:04.339255945Z",
+  "model": "glm-5.3"
+}

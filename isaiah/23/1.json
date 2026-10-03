@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Byrde over Tsor. Hyl, I skibe fra Tarshish, for ⟨den⟩ er hærget, uden hus, uden indsejling; fra landet Kitim er det åbenbaret for dem.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Byrde"
+    },
+    {
+      "surface": "צר",
+      "gloss": "over Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Hyl"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "I skibe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "fra Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "er hærget"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uden hus"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "uden indsejling"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "er det åbenbaret"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:20.214988494Z",
+  "model": "glm-5.3"
+}

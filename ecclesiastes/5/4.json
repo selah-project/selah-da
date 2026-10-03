@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Bedre er det, at du ikke lover, end at du lover og ikke indfrir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du lover"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "end at love"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "indfrir"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:52.377032932Z",
+  "model": "glm-5.3"
+}

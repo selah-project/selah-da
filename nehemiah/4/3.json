@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og vi bad til vor Elohim og satte en vagt imod dem dag og nat på grund af dem.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "Og vi bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "en vagt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "imod dem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "på grund af dem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:06:09.555767017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Josef forsørgede ⟨את⟩ sin far og ⟨את⟩ sine brødre og ⟨את⟩ hele sin fars hus med brød, efter småbørnenes mund.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Og … forsørgede"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med brød"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "efter … mund"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "småbørnenes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:09.676404455Z",
+  "model": "glm-5.3"
+}

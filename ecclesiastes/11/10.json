@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og fjern vrede fra dit hjerte, og lad det onde fjernes fra dit kød, for ungdom og sort hår ⟨er⟩ forgængelighed.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Og fjern"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "fra dit hjerte"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "og lad … fjernes"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "fra dit kød"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ungdom"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "sort hår"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "forgængelighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:34.986048635Z",
+  "model": "glm-5.3"
+}

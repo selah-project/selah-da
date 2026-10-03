@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jehu spændte sin hånd med buen og ramte ⟨את⟩ Jehoram mellem hans arme, og pilen gik ud gennem hans hjerte, og han sank sammen i sin vogn.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Og Jehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "spændte … fuldt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "med buen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og ramte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "hans arme"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "pilen"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "gennem hans hjerte"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "og han sank sammen"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "i sin vogn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:28.343685738Z",
+  "model": "glm-5.3"
+}

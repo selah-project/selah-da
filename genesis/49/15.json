@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Og han så, at hvilen var god, og ⟨את⟩ landet, at det var behageligt; og han bøjede sin skulder til at bære og blev til tvangsarbejdende træl.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og han så"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "hvilen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "var god"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "var behageligt"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "og han bøjede"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sin skulder"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "til at bære"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "למס",
+      "gloss": "til træl under tvang"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "arbejdende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:39.916847321Z",
+  "model": "glm-5.3"
+}

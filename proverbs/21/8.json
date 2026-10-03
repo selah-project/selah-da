@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Kroget og skyldigt er en mands vej, men ⟨ren og⟩ ret er den renes handling.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "kroget"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "skyldigt"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "men ⟨ren og⟩"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ret"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "handling"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:15.491228983Z",
+  "model": "glm-5.3"
+}

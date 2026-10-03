@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 9:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Irettesæt ikke en spotter, for at han ikke skal hade dig; irettesæt en vis, og han skal elske dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תוכח",
+      "gloss": "irettesæt"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "en spotter"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "ישנאך",
+      "gloss": "skal hade dig"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "irettesæt"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "en vis"
+    },
+    {
+      "surface": "ויאהבך",
+      "gloss": "og han skal elske dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:25.901133363Z",
+  "model": "glm-5.3"
+}

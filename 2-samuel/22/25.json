@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Jahve gjengældte mig efter min tsedek, efter min renhed foran hans øjne.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "gjengældte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "efter min tsedek"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "efter min renhed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hans øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:02.478668797Z",
+  "model": "glm-5.3"
+}

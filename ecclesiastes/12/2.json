@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "inden solen mørknes, og lyset, og månen og stjernerne, og skyerne vender tilbage efter regnen,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "inden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "når"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "mørknes"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "og lyset"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "og månen"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "og stjernerne"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "og vender tilbage"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "regnen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:52.626586466Z",
+  "model": "glm-5.3"
+}

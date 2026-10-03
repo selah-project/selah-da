@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og jeg vil vende ⟨את⟩ mit ansigt mod den mand og udrydde ⟨את⟩ ham af hans folks midte, fordi han gav af sit sæd til Molech, for at besmitte ⟨את⟩ min helligdom og vanhellige mit hellige ⟨את⟩ navn.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vil vende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mod den mand"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "og udrydde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "af midten af"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "af sit sæd"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til Molech"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "besmitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min helligdom"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "min helligdom"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "og vanhellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit hellige navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mit hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:06.150871891Z",
+  "model": "glm-5.3"
+}

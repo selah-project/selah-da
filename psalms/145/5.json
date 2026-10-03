@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Pragten af din majestæts herlighed og dine undergerningers ord vil jeg besinde mig på og tale om.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "pragten"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "din majestæt"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "og ordene om"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dine undergerninger"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "vil jeg besinde mig på og tale om"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.260522400Z",
+  "model": "glm-5.3"
+}

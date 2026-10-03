@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet er den, der ringeagter sin far og sin mor. Og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ringeagter"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "og sin mor"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:44.592596592Z",
+  "model": "glm-5.3"
+}

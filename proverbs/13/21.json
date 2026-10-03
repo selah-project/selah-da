@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Ond[dom] forfølger syndere, men ⟨את⟩ de retfærdige gengælder han med godt.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "syndere"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "forfølger"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond[dom]"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de retfærdige"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "gengælder han"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:06.754487999Z",
+  "model": "glm-5.3"
+}

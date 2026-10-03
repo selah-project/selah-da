@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Er jeg havet, eller et havuhyre, siden du sætter en vagt over mig?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "havuhyre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siden"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "du sætter"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "en vagt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:23.924937223Z",
+  "model": "glm-5.3"
+}

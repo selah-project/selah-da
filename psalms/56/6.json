@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Hele dagen fordrejer de mine ord; alle deres tanker er imod mig til ondt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "fordrejer de"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "deres tanker"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "til ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:28.513642399Z",
+  "model": "glm-5.3"
+}

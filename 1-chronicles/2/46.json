@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Eifa, Kalevs medhustru, fødte ⟨את⟩ Charan og ⟨את⟩ Motsa og ⟨את⟩ Gazez; og Charan avlede ⟨את⟩ Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Og Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "medhustru"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevs"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "og Charan"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:53.271277045Z",
+  "model": "glm-5.3"
+}

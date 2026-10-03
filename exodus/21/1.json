@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og dette er de retsregler ⟨som⟩ du skal sætte frem for dem.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "de retsregler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨som⟩"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "du skal sætte frem"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:47.629093357Z",
+  "model": "glm-5.3"
+}

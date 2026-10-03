@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og han gjorde det onde i Jahves øjne, som Menashsheh hans far havde gjort.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:46.121995043Z",
+  "model": "glm-5.3"
+}

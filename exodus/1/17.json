@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Men jordemødrene frygtede Elohim ⟨את⟩ og gjorde ikke, som Mitsrajims konge havde talt til dem, men lod drengene leve.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "frygtede"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "jordemødrene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "men lod … leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drengene"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "drengene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:15.749885574Z",
+  "model": "glm-5.3"
+}

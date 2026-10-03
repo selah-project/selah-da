@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Du gør dem som en brændende ovn på dit ansigts tid, Jahve; i sin vrede sluger han dem, og ild fortærer dem.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "du gør dem"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "som en ovn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "på ... tid"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i sin vrede"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "sluger han dem"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "og fortærer dem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:50.921226954Z",
+  "model": "glm-5.3"
+}

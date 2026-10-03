@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Jahve kender de helhjertedes dage, og deres arv skal være til evig tid.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "de helhjertedes"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "og deres arv"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:24.663460108Z",
+  "model": "glm-5.3"
+}

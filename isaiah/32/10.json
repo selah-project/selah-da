@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Om dage, over ⟨et⟩ ⟨år⟩, skal I skælve, I selvsikre; thi høsten er endt, indsamlingen kommer ikke.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "skælve"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "selvsikre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "er endt"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "høst"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "indsamling"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:57.239689156Z",
+  "model": "glm-5.3"
+}

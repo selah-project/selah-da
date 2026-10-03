@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han lagde ⟨את⟩ brændet i orden og stykkede ⟨את⟩ oksen og lagde den på brændet.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "lagde i orden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændet"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "brændet"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "stykkede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oksen"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "oksen"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "brændet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:27.730177594Z",
+  "model": "glm-5.3"
+}

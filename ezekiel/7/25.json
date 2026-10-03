@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Skræk kommer, og de søger fred — men der ⟨er⟩ intet.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "skræk"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "og de søger"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der er intet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:30:56.835817420Z",
+  "model": "glm-5.3"
+}

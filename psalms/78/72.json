@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han vogtede dem efter sin hjertes fuldkommenhed, og med sine hænders klogskab ledede han dem.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "og han vogtede dem"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "efter fuldkommenheden"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sit hjerte"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "og med klogskab"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "sine hænder"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ledede han dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:35.096205914Z",
+  "model": "glm-5.3"
+}

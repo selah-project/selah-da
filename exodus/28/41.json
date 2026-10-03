@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 28:41",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og du skal klæde ⟨את⟩ dem på ⟨את⟩ Aharon, din bror, og ⟨את⟩ hans sønner ⟨את⟩ sammen med ham, og du skal salve ⟨את⟩ dem og fylde ⟨את⟩ deres hænder og hellige ⟨את⟩ dem, og de skal tjene som præster for mig.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "og du skal klæde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem — Aharon og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sammen med ham"
+    },
+    {
+      "surface": "ו משחת",
+      "gloss": "og du skal salve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "og fylde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og hellige"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "og de skal tjene som præster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:49.768465110Z",
+  "model": "glm-5.3"
+}

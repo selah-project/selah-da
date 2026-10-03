@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Bevar min sjæl, for fromm er jeg; frels din træl — du er min Elohim — ⟨den⟩ som sætter sin lid til dig.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "bevar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "fromm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "frels"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "⟨den⟩ som sætter sin lid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:31.510241510Z",
+  "model": "glm-5.3"
+}

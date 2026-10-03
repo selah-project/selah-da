@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 3:15",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg vil slå vinterhuset sammen med sommerhuset, og elfenbenhusene skal gå til grunde, og mange huse skal omkomme, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Og jeg vil slå"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "vinter-"
+    },
+    {
+      "surface": "על",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "sommer-"
+    },
+    {
+      "surface": "ואבדו",
+      "gloss": "og … skal gå til grunde"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "husene"
+    },
+    {
+      "surface": "השן",
+      "gloss": "elfenben-"
+    },
+    {
+      "surface": "וספו",
+      "gloss": "og … skal omkomme"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:30.172171048Z",
+  "model": "glm-5.3"
+}

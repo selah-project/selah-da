@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og det skete efter dette, at kongen over ammonitternes børn døde, og Hanun, hans søn, blev konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dette"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "døde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:49.685316806Z",
+  "model": "glm-5.3"
+}

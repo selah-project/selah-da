@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Råber visdom ikke, og giver forstand ikke sin røst?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mon ikke"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "råber"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "og forstand"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sin røst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:12.993735094Z",
+  "model": "glm-5.3"
+}

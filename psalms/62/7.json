@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Kun ⟨er⟩ han min klippe og min frelse, mit høje værn; jeg skal ikke rokkes.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "og min frelse"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mit høje værn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "skal jeg rokkes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:27.198345091Z",
+  "model": "glm-5.3"
+}

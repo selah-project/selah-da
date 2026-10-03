@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Når grundvoldene ⟨bliver⟩ ødelagt — hvad kan den retfærdige da gøre?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "grundvoldene"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ødelagt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "kan gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.012719627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Og jeg vil sætte hans hånd ⟨på⟩ havet og hans højre hånd på floderne.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "og jeg vil sætte"
+    },
+    {
+      "surface": "בים",
+      "gloss": "på havet"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "og på floderne"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hans højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:10.979589873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og hvis han slår ham med et redskab af jern, så han dør, ⟨er⟩ han en morder; manden, der myrder, skal visseligt dræbes.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "med et redskab"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "af jern"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "slår ham"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "så han dør"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "en morder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dø"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dræbes"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "manden, der myrder"
+    }
+  ],
+  "timestamp": "2026-10-03T15:18:31.464383283Z",
+  "model": "glm-5.3"
+}

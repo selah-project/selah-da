@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Den rige skal ikke give mere, og den fattige skal ikke give mindre end en halv shekel, når de giver ⟨את⟩ Jahves gave for at skaffe soning for jeres sjæle.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "den rige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "skal give mere"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "og den fattige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "skal give mindre"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "end en halv"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "når de giver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves gave"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "gave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "for at skaffe soning"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jeres sjæle"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:24.080632873Z",
+  "model": "glm-5.3"
+}

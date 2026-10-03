@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Således siger kongen: Lad ikke Chiskija føre jer vilde, for han kan ikke redne jer.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "føre vilde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chiskija"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "redde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:29.615854742Z",
+  "model": "glm-5.3"
+}

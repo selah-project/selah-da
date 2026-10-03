@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Når du lægger dig, skal du ikke forskrækkes, og når du har lagt dig, skal din søvn være sød.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "når"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "du lægger dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "skal du ikke forskrækkes"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "og når du har lagt dig"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "skal være sød"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "din søvn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:39.185503443Z",
+  "model": "glm-5.3"
+}

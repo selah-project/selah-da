@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og han førte os til dette sted og gav os ⟨את⟩ dette land, et land der flyder med mælk og honning.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "og han førte os"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "der flyder"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "med mælk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "og honning"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:29.594973057Z",
+  "model": "glm-5.3"
+}

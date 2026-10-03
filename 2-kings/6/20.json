@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og det skete, da de kom til Shomron, at Elisja sagde: Jahve, luk ⟨את⟩ øjnene på disse op, så de kan se. Og Jahve lukkede ⟨את⟩ deres øjne op, og de så, og se, ⟨de var⟩ midt i Shomron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "da de kom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": " sagde"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "luk op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "øjnene på disse"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjnene"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "på disse"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "så de kan se"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "Og Jahve lukkede op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres øjne"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "deres øjne"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "og de så"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:52.353612313Z",
+  "model": "glm-5.3"
+}

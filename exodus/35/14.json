@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "og ⟨את⟩ lysestagen til lampen og ⟨את⟩ dens kar og ⟨את⟩ dens lamper og ⟨את⟩ olien til lampen,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lysestagen"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "lysestagen"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "til lampen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens kar"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dens kar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens lamper"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dens lamper"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "olien"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "til lampen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:18.501175410Z",
+  "model": "glm-5.3"
+}

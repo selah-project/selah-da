@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Min sjæl er blandt løver; jeg ligger blandt flammer, menneskenes sønner, hvis tænder er spyd og pile, og deres tunge en skarp sværdklinge.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "løver"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "jeg ligger"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "flammer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "deres tænder"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spyd"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "og pile"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "og deres tunge"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "skarp"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:42.793286072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Tørstet har min sjæl efter Elohim, efter den levende El — hvornår skal jeg komme og se Elohims ansigt?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "tørstet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "efter Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "efter El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "den levende"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hvornår"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "skal jeg komme"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:12.376865495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Da glæder de sig, fordi ⟨det⟩ stilner af, og han fører dem til ⟨den⟩ havn, de ønsker.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Da glæder de sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "stilner af"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "og han fører"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "havn"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "de ønsker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:55.671151103Z",
+  "model": "glm-5.3"
+}

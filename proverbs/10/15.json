@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den riges formue er hans styrkes by, de fattiges undergang er deres fattigdom.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "formue"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den riges"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "by"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hans styrke"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "undergang"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de fattiges"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "deres fattigdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:44.302638861Z",
+  "model": "glm-5.3"
+}

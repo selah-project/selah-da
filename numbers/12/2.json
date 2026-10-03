@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og de sagde: Har Jahve kun talt med Moshe? Har han ikke også talt med os? Og Jahve hørte det.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Har … kun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "med Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Har … ikke"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "med os"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talt"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Og … hørte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:09:15.939640224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 122,
+  "translation": "For Beth Jahves, vor Elohims, hus vil jeg søge det gode for dig.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "vil jeg søge"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:24.034516387Z",
+  "model": "glm-5.3"
+}

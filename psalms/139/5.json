@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Bagved og foran indgærdede du mig, og du lagde din hånd på mig.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "bagved"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "og foran"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "indgærdede du mig"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "og du lagde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "din hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:51.623890706Z",
+  "model": "glm-5.3"
+}

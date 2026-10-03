@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg klænger til dine vidnesbyrd, Jahve − lad mig ikke komme i skam.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "jeg klænger til"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "mig komme i skam"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:27.075923481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Noach gik ud, og hans sønner og hans hustru og hans sønners hustruer ⟨את⟩ med ham.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og gik ud"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "og hustruer"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønners"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:25.961448384Z",
+  "model": "glm-5.3"
+}

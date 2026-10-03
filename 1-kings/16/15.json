@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 16:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "I Asas, Judas konges, syv og tyvende år blev Zimri konge i Tirtsa i syv dage; og folket lejrede sig mod Givton, som hørte filisterne til.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "I ... år"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyvende"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og syv"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "i Tirtsa"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "og folket"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "lejrede sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "hørte filisterne til"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:45.772093510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Jeg har forladt ⟨את⟩ mit hus, jeg har forkastet ⟨את⟩ min arvedel; jeg gav ⟨את⟩ kæresten af min sjæl i ⟨את⟩ ⟨hendes⟩ fjenders hånd.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Jeg har forladt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit hus"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mit hus"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "jeg har forkastet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min arvedel"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "min arvedel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kæresten"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "kæresten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "af min sjæl"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "i hånden"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "hendes fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T17:15:13.268720660Z",
+  "model": "glm-5.3"
+}

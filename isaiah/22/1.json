@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Byrde over dalen af syn. Hvad fejer dig nu, eftersom du er gået helt op på tagene?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Byrde"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dal"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "af syn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fejer dig"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "er gået op"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "helt"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "på tagene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:41.526245710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Hvem vil give fra Tzion frelse for Jisrael? Når Elohim vender sit folks fangenskab, skal Jaakov juble, Jisrael glæde sig.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vil give"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "fra Tzion"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "når... vender"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fangenskab"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæde sig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:10.680176896Z",
+  "model": "glm-5.3"
+}

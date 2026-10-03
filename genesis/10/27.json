@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og ⟨את⟩ Hadoram og ⟨את⟩ Uzal og ⟨את⟩ Dikla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Uzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Dikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:08.169605866Z",
+  "model": "glm-5.3"
+}

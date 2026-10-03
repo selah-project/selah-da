@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Når du kommer ind i din næstes vingård, må du spise druer efter din sjæl, til din mætte — men i dit kar må du ikke lægge noget.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "du kommer ind"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "i vingård"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din næstes"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "må du spise"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druer"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "efter din sjæl"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "til din mætte"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men i"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "dit kar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "må du lægge"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:44.777689341Z",
+  "model": "glm-5.3"
+}

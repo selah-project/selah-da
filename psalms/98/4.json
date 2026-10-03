@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "Jubler for Jahve, hele jorden; bryd ud og råb af glæde og syng!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Jubler"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "bryd ud"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "og råb af glæde"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "og syng"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:23.545947478Z",
+  "model": "glm-5.3"
+}

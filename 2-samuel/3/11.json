@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han kunne ikke længere svare ⟨את⟩ Avner et ord, af frygt for ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "svare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner et ord"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "af frygt for ham"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:05.376236627Z",
+  "model": "glm-5.3"
+}

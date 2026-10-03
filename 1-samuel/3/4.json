@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Da kaldte Jahve på Shmuel, og han sagde: Her er jeg.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Da kaldte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Her er jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:14.228605298Z",
+  "model": "glm-5.3"
+}

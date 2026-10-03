@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og folket troede, og de hørte, at Jahve havde set til Jisraels ⟨את⟩ børn, og at han havde set deres ⟨את⟩ nød; og de bøjede sig og tilbad.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "og troede"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "og de hørte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "havde set til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og at"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "havde set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres nød"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "nød"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "og bøjede sig"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og tilbad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:51.738742335Z",
+  "model": "glm-5.3"
+}

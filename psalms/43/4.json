@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og jeg vil gå ind til Elohims alter, til El, min glædes jubel, og jeg vil takke dig med knyttelharpens strenge, Elohim, min Elohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "og jeg vil gå ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "min glædes"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "og jeg vil takke dig"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med knytterharpe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:17.328018880Z",
+  "model": "glm-5.3"
+}

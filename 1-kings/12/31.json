@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og han gjorde ⟨את⟩ et hus afofferhøjder, og han gjorde præster fra folkets yderste kanter, som ikke var af Levis sønner.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "et hus af offerhøjder"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "במות",
+      "gloss": "af offerhøjder"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "præster"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "fra kanterne af"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sønnerne af"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:03.138240486Z",
+  "model": "glm-5.3"
+}

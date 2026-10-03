@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Da talte overmundskjenkeren med ⟨את⟩ Paroh og sagde: ⟨את⟩ mine syndev gør jeg ihukomme i dag.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Da talte"
+    },
+    {
+      "surface": "שר",
+      "gloss": "over"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mundskjenkeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine synder"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "mine synder"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "gør ihukomme"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:16.277659422Z",
+  "model": "glm-5.3"
+}

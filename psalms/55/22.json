@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Glattere end smør er hans munds ord, og hans hjerte ⟨er⟩ krig; hans ord er blødere end olie, og de er dragne sværd.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "Glattere"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "end smør"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hans munds"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "og hans hjerte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "(hans hjerte)"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "blødere"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "end olie"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "og de"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "dragne sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:21.123162554Z",
+  "model": "glm-5.3"
+}

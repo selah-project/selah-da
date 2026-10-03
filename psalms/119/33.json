@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Lær mig, Jahve, ⟨vejen⟩ ⟨til⟩ dine chukkim, og jeg vil bevare den indtil enden.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "lær mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dine chukkim"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "og jeg vil bevare den"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "indtil enden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:21.513776845Z",
+  "model": "glm-5.3"
+}

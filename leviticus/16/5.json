@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og af menigheden af Jisraels børn skal han tage to bukke af geder til syndoffer og én vædder til brændoffer.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "af ⟨את⟩",
+      "marks": "menigheden"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "skal han tage"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "bukke"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "af geder"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "til syndoffer"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "og én vædder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brændoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:59.173361702Z",
+  "model": "glm-5.3"
+}

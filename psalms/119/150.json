@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "De nærmer sig, de forfølger ondskab; fra din Tora er de fjerne.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "de nærmer sig"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "de forfølger"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "fra din Tora"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "er de fjerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:40.701626803Z",
+  "model": "glm-5.3"
+}

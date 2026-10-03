@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "God og retfærdig er Jahve; derfor underviser han syndere på vejen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "God"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og retfærdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "underviser han"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndere"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:20.111616546Z",
+  "model": "glm-5.3"
+}

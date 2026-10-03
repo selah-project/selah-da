@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Til dirigenten. Nedriv ikke. Af David, en miktam, da han flygtede for Shauls ansigt, i hulen.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til dirigenten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nedriv"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "en miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "da han flygtede"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ansigtet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "i hulen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:54.256801995Z",
+  "model": "glm-5.3"
+}

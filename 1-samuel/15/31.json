@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shemuel vendte tilbage bag efter Shaul, og Shaul tilbad Jahve.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bag efter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og tilbad"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:54.883769505Z",
+  "model": "glm-5.3"
+}

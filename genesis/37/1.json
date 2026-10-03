@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og Jaakov boede i landet hvor hans far havde boet som fremmed, i landet Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og boede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "hvor ⟨han havde boet som fremmed ⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:42.529804180Z",
+  "model": "glm-5.3"
+}

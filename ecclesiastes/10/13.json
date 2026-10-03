@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Begyndelsen af ordene af hans mund er dårskab, og enden på hans mund er ond vanvid.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Begyndelsen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "af ordene"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mund"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "er dårskab"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "og enden"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mund"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "vanvid"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:21.330513022Z",
+  "model": "glm-5.3"
+}

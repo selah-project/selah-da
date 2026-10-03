@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og når en fremmed bor ⟨את⟩ hos dig som gæst i jeres land, skal I ikke undertrykke ham.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og når"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bor som gæst"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig"
+    },
+    {
+      "surface": "גר",
+      "gloss": "en fremmed"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "i jeres land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "skal I undertrykke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:17.614438687Z",
+  "model": "glm-5.3"
+}

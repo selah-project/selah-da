@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke bøje din fattiges ret i hans sag.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "du må ikke bøje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "din fattiges"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "i hans sag"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:28.788524255Z",
+  "model": "glm-5.3"
+}

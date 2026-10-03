@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og vi råbte til Jahve, vores fædres Elohim, og Jahve hørte ⟨את⟩ vores røst og så ⟨את⟩ vår nød og ⟨את⟩ vores slid og ⟨את⟩ vor trængsel.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Og vi råbte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "vores fædres"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vores røst"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "vores røst"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og han så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vår nød"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "vår nød"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vores slid"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "vores slid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vor trængsel"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "vor trængsel"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:46.696687003Z",
+  "model": "glm-5.3"
+}

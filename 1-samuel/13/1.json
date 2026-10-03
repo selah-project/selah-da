@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "En søn af ét år ⟨var⟩ Sha'ul, da han blev konge, og to år regerede han over Jisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "af ét år"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "da han blev konge"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "og to"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerede han"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:46.453408239Z",
+  "model": "glm-5.3"
+}

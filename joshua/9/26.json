@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og ⟨Josua⟩ gjorde således mod dem og frelste dem af Jisraels sønners hånd, og de dræbte dem ikke.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og ⟨Josua⟩ gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "og frelste"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "dræbte dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:10.496602880Z",
+  "model": "glm-5.3"
+}

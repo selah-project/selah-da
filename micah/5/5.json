@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og de skal hærge ⟨את⟩ landet Ashur med sværdet og ⟨את⟩ landet Nimrod ved dets porte; og han skal fri ⟨os⟩ fra Ashur, når han kommer ind i vort land, og når han træder inden for vor grænse.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "og de skal hærge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med sværdet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "landet Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "ved dets porte"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "og han skal fri"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "fra Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "han kommer"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ind i vort land"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og når"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "han træder"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "inden for vor grænse"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:08.357837102Z",
+  "model": "glm-5.3"
+}

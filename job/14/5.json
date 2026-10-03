@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Er hans dage ikke fastsat, tallet på hans måneder ⟨את⟩ hos dig? Hans grænse har du sat, og han går ikke forbi den.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Er… ikke"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "fastsat"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hans dage"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tallet"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "på hans måneder"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig",
+      "marks": "tallet på hans måneder"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "hans grænse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du sat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "går han forbi"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:21.254913156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Sværd har de onde draget og spændt deres bue for at fælde den arme og fattige, for at slagte de retfærdige på vejen.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "har de draget"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "og spændt"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "deres bue"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "for at fælde"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og fattige"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "for at slagte"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:09.747781791Z",
+  "model": "glm-5.3"
+}

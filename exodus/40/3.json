@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal stille ⟨את⟩ videns ark der, og du skal brede ⟨את⟩ forhænget ud over arken.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "og du skal stille"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "videns ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "vidnesbyrdets"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "og du skal brede ud"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forhænget"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "forhænget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:03.579940438Z",
+  "model": "glm-5.3"
+}

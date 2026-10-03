@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og hun sagde til Elia: Hvad har jeg med dig at gøre, du Guds mand? Er du kommet til mig for at minde om ⟨את⟩ min synd og for at dræbe ⟨את⟩ min søn?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "har jeg"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "באת",
+      "gloss": "Er du kommet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "for at minde om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min synd"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "min synd"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "og for at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min søn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:59.799049843Z",
+  "model": "glm-5.3"
+}

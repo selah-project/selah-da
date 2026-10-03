@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Jeg har taget ⟨את⟩ min kjortel af — hvordan skal jeg tage den på igen? Jeg har tvættet ⟨את⟩ mine fødder — hvordan skal jeg besudle dem?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "har taget af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min kjortel"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "min kjortel"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "skal jeg tage den på"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "har tvættet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine fødder"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mine fødder"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "skal jeg besudle dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:47:09.026005481Z",
+  "model": "glm-5.3"
+}

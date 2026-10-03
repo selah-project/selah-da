@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Jahve, jeres Elohim, han skal drive dem bort foran jer og fordrive ⟨את⟩ dem fra jeres ansigt, og I skal arve ⟨את⟩ deres land, således som Jahve, jeres Elohim, har talt til jer.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "skal drive dem bort"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "foran jer"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "og fordrive"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "fra jeres ansigt"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "og I skal arve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:23.196701395Z",
+  "model": "glm-5.3"
+}

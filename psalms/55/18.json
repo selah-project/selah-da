@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Aften, morgen og middag vil jeg betro mig og stønne, og han hører min røst.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "og morgen"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "og middag"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "vil jeg betro mig"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "og stønne"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og han hører"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:08.540473507Z",
+  "model": "glm-5.3"
+}

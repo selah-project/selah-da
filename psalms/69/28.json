@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Læg skyld på deres skyld, og lad dem ikke komme ind i din tsedek.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "læg"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "deres skyld"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "lad dem komme"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ind i din tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:46.114950121Z",
+  "model": "glm-5.3"
+}

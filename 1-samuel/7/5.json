@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Shemuel sagde: Saml ⟨את⟩ hele Jisrael i Mitspa, og jeg vil bede for jer til Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Saml"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "i Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "og jeg vil bede"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:40.955069683Z",
+  "model": "glm-5.3"
+}

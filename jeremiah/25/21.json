@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edom og ⟨את⟩ Moav og ⟨את⟩ Ammons børn.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ammons børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:51.489291590Z",
+  "model": "glm-5.3"
+}

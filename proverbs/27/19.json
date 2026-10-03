@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Som vand ⟨er⟩ det ene ansigt mod det andet, således ⟨er⟩ menneskets hjerte mod et andet menneske.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "det ene ansigt"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "mod det andet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "mod et andet menneske"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:24.594549306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Jahve rejste en modstander mod Shlomo: ⟨את⟩ Hadad edoméeren, af kongens sæd — han ⟨var⟩ i Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Og rejste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "en modstander"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "mod Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edoméeren"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "af sæden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:12.164819898Z",
+  "model": "glm-5.3"
+}

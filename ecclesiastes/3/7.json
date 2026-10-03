@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et tidspunkt at flænge og et tidspunkt at sy; et tidspunkt at tie og et tidspunkt at tale.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "at flænge"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "at sy"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "at tie"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "at tale"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:04.254346237Z",
+  "model": "glm-5.3"
+}

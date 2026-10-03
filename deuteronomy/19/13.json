@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Dit øje skal ikke skåne ham, og du skal udrydde ⟨det⟩ uskyldige blod fra Jisrael, så går det dig godt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skåne"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "dit øje"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "og du skal udrydde"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "det uskyldige"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "fra Jisrael"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "så går det godt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:26.164839308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Thi I ved ⟨את⟩ det, som vi boede i landet Mitsrajim, og ⟨את⟩ det, som vi gik igennem midt iblandt folkeslagene, som I gik igennem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ved"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som vi boede i Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "vi boede"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det, som vi gik igennem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "vi gik igennem"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "I gik igennem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:22.778932565Z",
+  "model": "glm-5.3"
+}

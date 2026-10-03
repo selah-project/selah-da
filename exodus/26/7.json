@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og du skal gøre duge af gedehår til et telt over Mishkan; elleve duge skal du gøre ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal gøre"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "duge"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "af gede"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "til et telt"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "elleve"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…ten"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "duge"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du gøre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (de elleve duge)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:12.955859380Z",
+  "model": "glm-5.3"
+}

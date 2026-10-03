@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Kys mig med kys fra hans mund, for dine kærtegn er bedre end vin.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "kys mig"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "med kys"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "fra hans mund"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "er bedre"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "dine kærtegn"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "end vin"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:30.746299856Z",
+  "model": "glm-5.3"
+}

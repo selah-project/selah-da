@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Således forfølg dem med din storm, og skræm dem med din hvirvelvind.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "forfølg dem"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "med din storm"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "og med din hvirvelvind"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "skræm dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:05.655540969Z",
+  "model": "glm-5.3"
+}

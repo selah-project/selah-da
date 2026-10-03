@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Bøj dit øre, Jahve, og hør; åbn dine øjne, Jahve, og se; og hør ⟨את⟩ ordene af Sancherib, som han sendte for at håne den levende Elohim.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Bøj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "og hør"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "åbn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dine øjne"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "og hør"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordene"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "af Sancherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "han sendte"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "for at håne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "den levende"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:01.068667325Z",
+  "model": "glm-5.3"
+}

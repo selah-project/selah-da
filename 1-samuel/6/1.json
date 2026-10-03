@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahves ark var i filisternes land i syv måneder.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og … var"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "i … land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisternes"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "måneder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:30.650989019Z",
+  "model": "glm-5.3"
+}

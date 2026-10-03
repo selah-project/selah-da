@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Ve dem, der siger om ⟨det⟩ onde, at ⟨det⟩ er godt, og om ⟨det⟩ gode, at ⟨det⟩ er ondt; som sætter mørke for lys og lys for mørke, som sætter bittert for sødt og sødt for bittert!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "dem, der siger"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "om ⟨det⟩ onde"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "og om ⟨det⟩ gode"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "som sætter"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "for lys"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "og lys"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "for mørke"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "som sætter"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bittert"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "for sødt"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "og sødt"
+    },
+    {
+      "surface": "למר",
+      "gloss": "for bittert"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:08.085133049Z",
+  "model": "glm-5.3"
+}

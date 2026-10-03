@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og alle høvdingerne og hele folket glædede sig, og de bar ⟨penge⟩ frem og kastede ⟨dem⟩ i arken, indtil der var slut.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "glædede sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bar frem"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "kastede"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "i arken"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "der var slut"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:04.634567629Z",
+  "model": "glm-5.3"
+}

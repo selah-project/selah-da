@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Bileam løftede ⟨את⟩ sine øjne og så ⟨את⟩ Jisrael boende efter sine stammer, og ruach Elohim kom over ham.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Og løftede"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine øjne"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sine øjne"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "boende"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "efter sine stammer"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T15:14:45.160774236Z",
+  "model": "glm-5.3"
+}

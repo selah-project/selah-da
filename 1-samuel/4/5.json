@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og det skete, da arken for Jahves pagt kom ind i lejren, da jublede hele Jisrael med et stort jubelråb, og jorden skjalv.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "da … kom"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "da jublede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jubelråb"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "og skjalv"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:20.843731045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 1:12",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Men dronningen Vashti nægtede at komme ved kongens ord, ⟨som var givet⟩ ved evnukkernes hånd; da blev kongen meget vred, og hans vrede brændte i ham.",
+  "tokens": [
+    {
+      "surface": "ותמאן",
+      "gloss": "men ... nægtede"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "dronningen"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "at komme"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ved ord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "evnukkernes"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "da blev ... vred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "וחמתו",
+      "gloss": "og hans vrede"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:07.135374702Z",
+  "model": "glm-5.3"
+}

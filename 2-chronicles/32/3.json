@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han holdt råd med sine høvdinger og sine væbnere om at stoppe ⟨את⟩ kildevandene, som var uden for byen, og de hjalp ham.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Og han holdt råd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sine høvdinger"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "og sine væbnere"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "om at stoppe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kildevandene"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "kilderne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "og de hjalp ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:27:40.865990473Z",
+  "model": "glm-5.3"
+}

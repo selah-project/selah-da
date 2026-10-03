@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve sagde til ⟨den⟩ Satan: Se, han er i din hånd; kun ⟨את⟩ hans sjæl skal du vogte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "⟨den⟩ Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Se, han"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans sjæl"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans sjæl"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "skal du vogte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:55.355896380Z",
+  "model": "glm-5.3"
+}

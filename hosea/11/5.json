@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Han skal ikke vende tilbage til landet Mitsrajim, og Ashshur — han ⟨er⟩ hans konge, for de nægtede at vende om.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "skal han vende tilbage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "og Ashshur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "⟨er⟩ hans konge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nægtede de"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "at vende om"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:42.864062853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "til at drive ⟨את⟩ alle dine fjender ud fra dit ansigt, således som Jahve har talt.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "til at drive ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dine fjender"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fra dit ansigt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:10.418050478Z",
+  "model": "glm-5.3"
+}

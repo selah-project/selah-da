@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Jahve, hør min bøn, og lad mit råb komme til dig!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hør"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "og mit råb"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "komme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:27.037452713Z",
+  "model": "glm-5.3"
+}

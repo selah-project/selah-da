@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Han vogter alle hans knogler; ikke én af dem er brudt.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "hans knogler"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "af dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "er brudt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:17.586843166Z",
+  "model": "glm-5.3"
+}

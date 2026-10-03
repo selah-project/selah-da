@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og det skal ske, når I er gået over ⟨את⟩ Yarden, skal I rejse ⟨את⟩ disse sten, som jeg byder ⟨את⟩ jer i dag, på bjærget Eival, og du skal kalkstrø dem med kalk.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "når I er gået over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "skal I rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse sten"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenene"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "byder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjærget"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "og du skal kalkstrø"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "med kalk"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "med kalk"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:11.613420814Z",
+  "model": "glm-5.3"
+}

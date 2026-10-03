@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han gjorde ⟨את⟩ havet, støbt, ti alen fra dets rand til dets rand, rundt rundt om, og fem alen dets højde, og et snor på tredive alen omsluttede ⟨את⟩ det rundt om.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "støbt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "fra dets rand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "dets rand"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "rundt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "dets højde"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "og et snor"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "omsluttede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T19:20:14.440032489Z",
+  "model": "glm-5.3"
+}

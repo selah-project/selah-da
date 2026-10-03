@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Med sang drikker de ikke vin, bitter bliver stærk drik for dens drikkere.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "med sang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "drikker de"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "bitter bliver"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "stærk drik"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "for dens drikkere"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:41.849002603Z",
+  "model": "glm-5.3"
+}

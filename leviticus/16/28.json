@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og den der brænder ⟨את⟩ dem, skal vaske sine klæder og bade ⟨את⟩ sit kød i vand, og bagefter må han komme ind i lejren.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Og den der brænder"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal vaske"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og bade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit kød"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sit kød"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derefter"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "må han komme ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:38.636526973Z",
+  "model": "glm-5.3"
+}

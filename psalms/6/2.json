@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Jahve, ikke i din vrede skal du irettesætte mig, og ikke i din harme skal du tukke mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "skal du irettesætte mig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "i din harme"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "skal du tukke mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:47.163586184Z",
+  "model": "glm-5.3"
+}

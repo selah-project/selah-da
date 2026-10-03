@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og han kæmpede med en engel og sejrede; han græd og bad til ham; i Bet-El fandt han ⟨ham⟩, og dér talte han med os.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "kæmpede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "med"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engel"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "og sejrede"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "græd"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "og bad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "fandt ham"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og dér"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med os"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:11.811596455Z",
+  "model": "glm-5.3"
+}

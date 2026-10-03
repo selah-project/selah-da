@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Alle en mands veje er rene i hans egne øjne, men Jahve vejer rúacher.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "veje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "זך",
+      "gloss": "rene"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans egne øjne"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "men ... vejer"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "rúacher"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:23.192465588Z",
+  "model": "glm-5.3"
+}

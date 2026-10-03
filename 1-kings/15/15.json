@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og han bragte ⟨את⟩ sin fars hellige gaver og sine egne hellige gaver ind i Jahves hus: sølv og guld og kar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og han bragte ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars hellige gaver"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sin fars hellige gaver"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "og sine egne hellige gaver"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og guld"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "og kar"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:36.555638490Z",
+  "model": "glm-5.3"
+}

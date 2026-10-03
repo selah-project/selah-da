@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Ved din skænde, Elohim af Jaakov, er både vogn og hest slået i dvåle.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Ved din skænde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "af Jaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "slået i dvåle"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "både vogn"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "og hest"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:51.581242637Z",
+  "model": "glm-5.3"
+}

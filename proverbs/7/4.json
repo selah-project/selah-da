@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Sig til Visdommen: Du er min søster ⟨את⟩, og kald Forstand din fortrolige.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "til Visdommen"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min søster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din fortrolige (og Forstand, ומדע)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "og Forstand"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kald Forstand"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kald"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:29.767245496Z",
+  "model": "glm-5.3"
+}

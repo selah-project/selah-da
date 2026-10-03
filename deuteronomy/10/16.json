@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og omskær ⟨את⟩ eders hjertes forhud, og gør eders nakke hård ikke længere.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Og omskær I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eders hjertes forhud"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "forhud"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "eders hjerte"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "og eders nakke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "gør hård"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:00.806577595Z",
+  "model": "glm-5.3"
+}

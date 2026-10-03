@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og præsten skal fastsætte ⟨את⟩ dens værdi, hvorvidt den er god eller ond; som din taksering, du præst, sådan skal det være.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Og … skal fastsætte værdien"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dens værdi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hvorvidt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "som din taksering"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "du præst"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal det være"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:42.681441024Z",
+  "model": "glm-5.3"
+}

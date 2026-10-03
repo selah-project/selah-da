@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og de erobrede ⟨את⟩ hele emoritternes grænseområde, fra Arnon og helt til Jabbok, og fra ørkenen og helt til Jarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "og de erobrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele emoritternes grænseområde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænseområde"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritternes"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "fra Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og helt til"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ørkenen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og helt til"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:29.303565904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Thi til dig, Jahve, Adonaj, ⟨er⟩ mine øjne ⟨vendt⟩; i dig har jeg søgt ly; tøm ikke min sjæl ud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jeg søgt ly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תער",
+      "gloss": "tøm ud"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:23.578534286Z",
+  "model": "glm-5.3"
+}

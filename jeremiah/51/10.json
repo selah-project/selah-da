@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Jahve har bragt vor tsedek frem; kom, og lad os fortælle i Tzion ⟨את⟩ Jahves, vor Elohims, gerning.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "har bragt frem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor tsedek"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "vor tsedek"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "og lad os fortælle"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "i Tzion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves, vor Elohims, gerning"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gerning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T17:30:16.253418359Z",
+  "model": "glm-5.3"
+}

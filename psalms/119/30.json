@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Trofasthedens vej har jeg valgt, dine domme har jeg lagt ⟨for mine øjne⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trofasthed"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "har jeg valgt"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine domme"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "har jeg lagt frem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:27.075726932Z",
+  "model": "glm-5.3"
+}

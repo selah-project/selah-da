@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Du har rystet ⟨את⟩ jorden, du har revet den op; læg dens brudsteder, for den vakler.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "du har rystet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "du har revet op"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "læg"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "dens brudsteder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "den vakler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:22.247098478Z",
+  "model": "glm-5.3"
+}

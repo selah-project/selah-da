@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Shaul så ⟨את⟩ filistrenes lejr, og han frygtede, og hans hjerte bævede meget.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistrenes lejr"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lejr"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistre"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "frygtede"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "bævede"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:12.774715169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "Med basuner og shofarens røst — juble for kongen Jahves ansigt!",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Med basuner"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og røst"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarens"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:10.590181477Z",
+  "model": "glm-5.3"
+}

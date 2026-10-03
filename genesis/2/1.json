@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og himlene og jorden blev fuldendt ⟨med⟩ al deres hær.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "blev fuldendt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "deres hær"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:41.463319651Z",
+  "model": "glm-5.3"
+}

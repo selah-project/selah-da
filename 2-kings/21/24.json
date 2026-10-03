@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og landets folk slog ⟨את⟩ alle dem, der havde sammensvoret sig imod kong Amón, og landets folk gjorde ⟨את⟩ Josjiahu, hans søn, til konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dem, der havde sammensvoret sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "dem, der havde sammensvoret sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "imod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "og gjorde … til konge"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josjiahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:42.413872691Z",
+  "model": "glm-5.3"
+}

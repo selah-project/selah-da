@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Hos dig, Jahve, har jeg søgt ly; lad mig aldrig blive til skamme, til evig tid.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jeg søgt ly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad mig ikke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "blive til skamme"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:42.939125040Z",
+  "model": "glm-5.3"
+}

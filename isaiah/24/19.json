@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Brydefoldigt er jorden knust, brydefoldigt er jorden brudt i stykker, brydefoldigt vakler jorden.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "brydefoldigt knust"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "er knust"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "פור",
+      "gloss": "brydefoldigt brudt"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "er brudt i stykker"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "brydefoldigt vakler"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "vakler"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:07.608901734Z",
+  "model": "glm-5.3"
+}

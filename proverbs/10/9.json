@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den der vandrer i ukrudt ⟨flertal? nej⟩ helhed, vandrer i tryghed; men den som gør sine veje krokede, bliver kendt.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "den der vandrer"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "i helhed"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "vandrer"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "i tryghed"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "men den som gør krokede"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sine veje"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bliver kendt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:29.767878799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Vandrende gennem gaden ved hendes hjørne, og ad vejen til hendes hus skreded han frem.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Vandrende"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "gennem gaden"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "hendes hjørne"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "og ad vejen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "til hendes hus"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "skreded han frem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:54.459591931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "For uden grund skjulte de ⟨את⟩ gruben ⟨את⟩ deres net for mig; udengrund gravede de efter min sjæl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "uden grund"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "skjulte de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gruben"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "deres net"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "udengrund"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "gravede de"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "efter min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.309704366Z",
+  "model": "glm-5.3"
+}

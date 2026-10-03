@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Sæt din lid til Jahve, og gør det gode; bo i landet, og vogt på trofasthed.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Sæt din lid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "og vogt på"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:11.973173790Z",
+  "model": "glm-5.3"
+}

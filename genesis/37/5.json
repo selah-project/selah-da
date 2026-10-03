@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og J Josef drømte en drøm, og han fortalte det til sine brødre, og de hadede ham ⟨את⟩ endnu mere.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "og drømte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "en drøm"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "til sine brødre"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "og de tilføjede"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu mere"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "at hade"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:59.532648336Z",
+  "model": "glm-5.3"
+}

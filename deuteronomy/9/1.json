@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hør, Jisrael: Du går i dag over ⟨את⟩ Jordan for at komme ind og tage folkeslag i besiddelse, større og mægtigere end du, byer store og befæstede op til himlene.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "går over"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "for at komme ind"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "at tage i besiddelse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "større"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "og mægtigere"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "end du"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "store"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "og befæstede"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "op til himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:00.562335653Z",
+  "model": "glm-5.3"
+}

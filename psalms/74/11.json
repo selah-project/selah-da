@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Hvorfor trækker du din hånd tilbage, ja din højre hånd? Fra midten af din favn — gør det ende!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "trækker du tilbage"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ja din højre hånd"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "fra midten af"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "din favn"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "gør det ende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.451031576Z",
+  "model": "glm-5.3"
+}

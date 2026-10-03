@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Himlene glæde sig, og jorden juble; havet bruser og alt hvad der fylder det!",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "glæde sig"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Himlene"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "og juble"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "bruser"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "og alt hvad der fylder det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:03.576274211Z",
+  "model": "glm-5.3"
+}

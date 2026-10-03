@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jeg fører dig, jeg bringer dig ind i min moders hus; du skal lære mig; jeg giver dig at drikke af krydret vin, af mosten fra min granatæble.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "jeg fører dig"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "jeg bringer dig ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moder"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "du skal lære mig"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "jeg giver dig at drikke"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "af vin"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "krydret"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "af mosten"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "min granatæble"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:11.413680824Z",
+  "model": "glm-5.3"
+}

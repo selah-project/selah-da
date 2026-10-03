@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal fremstille ⟨את⟩ tyren foran mødeteltet, og Aharon og hans sønner skal lægge ⟨את⟩ deres hænder på tyrens hoved.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "og du skal fremstille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "og skal lægge"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "af tyren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:39.937409722Z",
+  "model": "glm-5.3"
+}

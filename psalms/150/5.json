@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 150,
+  "translation": "Lovham med cymbler ⟨af⟩ klang, lovham med cymbler ⟨af⟩ jubelråb!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lovham"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "med cymbler"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klang"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lovham"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "med cymbler"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jubelråb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:40.784702251Z",
+  "model": "glm-5.3"
+}

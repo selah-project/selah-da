@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jahve jeres Elohim har gjort ⟨את⟩ jer mangfoldige, og se, I er i dag som stjernerne på himlene i mængde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "har gjort mangfoldige"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "og se, I er"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "som stjernerne"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "på himlene"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i mængde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:14.139299449Z",
+  "model": "glm-5.3"
+}

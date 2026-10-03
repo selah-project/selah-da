@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 93,
+  "translation": "Mægtigere end mange vands brusen, mægtigere end havets brusende bølger — mægtig i højden ⟨er⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "end ... brusen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mægtigere"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "end ... brusende bølger"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mægtig"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "i højden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:27.708941088Z",
+  "model": "glm-5.3"
+}

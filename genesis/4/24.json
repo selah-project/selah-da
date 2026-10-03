@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "For syv gange skal Kajin hævnes, men Lemek syvoghalvfjerds gange.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "syv gange"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "hævnes"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "men Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "syvog"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "halvfjerds gange"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:39.865705636Z",
+  "model": "glm-5.3"
+}

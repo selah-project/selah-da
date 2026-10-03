@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ kongen i Ai tog de levende, og de førte ⟨את⟩ ham til Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kongen i Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "העי",
+      "gloss": "i Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "tog de"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "og de førte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:46.082092289Z",
+  "model": "glm-5.3"
+}

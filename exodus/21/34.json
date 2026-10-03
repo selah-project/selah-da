@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "skal ejeren af brønden give erstatning; sølv skal han tilbagebetale til ejeren, og ⟨det⟩ døde ⟨dyr⟩ skal være hans.",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "ejeren"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "af brønden"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal give erstatning"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "skal han tilbagebetale"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "til ejeren"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "og ⟨det⟩ døde ⟨dyr⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hans"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:06.191127610Z",
+  "model": "glm-5.3"
+}

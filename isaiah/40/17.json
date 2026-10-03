@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Alle folkene er som intet foran ham; som tomt og void regnes de for ham.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "som intet"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "som tomt"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "og void"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "regnes de"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:25.471986485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "I seks år skal du så din mark, og i seks år skal du beskære din vingård og samle dens afgrøde ⟨את⟩;",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skal du så"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "din mark"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og i seks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "skal du beskære"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "din vingård"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "og samle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens afgrøde"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dens afgrøde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:53.402176102Z",
+  "model": "glm-5.3"
+}

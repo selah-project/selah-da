@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 99,
+  "translation": "Jahve ⟨er⟩ stor i Tsiyon, og høj ⟨er⟩ han over alle folkeslagene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "i Tsiyon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "og høj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkeslagene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:40.070480183Z",
+  "model": "glm-5.3"
+}

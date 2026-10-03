@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 20:15",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og vores fædre drog ned til Mitsrajim, og vi boede i Mitsrajim i mange dage; og Mitsrajim gjorde ondt mod os og mod vores fædre.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Og drog ned"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "vore fædre"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "וונשב",
+      "gloss": "og vi boede",
+      "note": "surface skrevet her som i kilden"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "og de gjorde ondt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mod os"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim (egypterne)"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "og mod vores fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:46.502027755Z",
+  "model": "glm-5.3"
+}

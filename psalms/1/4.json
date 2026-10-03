@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Ikke så ⟨er det med⟩ de onde — nej, som avner, som ruach blæser væk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ikke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨nej⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "men"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "som avner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "blæser væk"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:07.086203287Z",
+  "model": "glm-5.3"
+}

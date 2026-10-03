@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Løft jeres hoveder, I porte, og løftes, I evige døre, og herlighedens konge skal komme ind.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "løft"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "I porte"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "jeres hoveder"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "og løftes"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "I døre"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evige"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "og … skal komme ind"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "herlighedens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:38.269325056Z",
+  "model": "glm-5.3"
+}

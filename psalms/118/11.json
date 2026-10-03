@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "De kredsede om mig, ja, de kredsede om mig — i Jahves navn dem gør jeg kort.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "De kredsede om mig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "de kredsede om mig"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "dem gør jeg kort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:02.374078603Z",
+  "model": "glm-5.3"
+}

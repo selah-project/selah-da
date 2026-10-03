@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Sheba faldt over dem og tog dem, og ⟨את⟩ tjenerne slog de med sværdets æg; og jeg undslap, kun jeg alene, for at fortælle dig det.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Og faldt over"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "og tog dem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tjenerne"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "tjenerne"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "slog"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æggen af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "og jeg undslap"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alene"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "for at fortælle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:57.064014174Z",
+  "model": "glm-5.3"
+}

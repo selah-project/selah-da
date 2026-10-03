@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og de lavede ⟨את⟩ pladen, det hellige diadem, af rent guld, og skrev på den en indskrift, graveringer som på et segl: Helligt for Jahve.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "og de lavede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pladen"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pladen"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "diadem"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "og skrev"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "indskrift"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "graveringer"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "segl"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:15.080988713Z",
+  "model": "glm-5.3"
+}

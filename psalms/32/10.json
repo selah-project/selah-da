@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Mange er sorgerne for den onde; men den, der tror på Jahve — chesed skal omgive ham.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "sorger"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "for den onde"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "men den der tror"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "skal omgive ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:24.243337339Z",
+  "model": "glm-5.3"
+}

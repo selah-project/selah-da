@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Bedre er åben tandereg end kærlighed, der er skjult.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Bedre"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tandereg"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "åben"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "kærlighed"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "skjult"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:41.350858292Z",
+  "model": "glm-5.3"
+}

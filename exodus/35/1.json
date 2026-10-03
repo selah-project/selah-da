@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og Moshe forsamlende hele menigheden af Jisraels børn og sagde til dem: Disse er de ord, som Jahve har budet at gøre dem.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "og forsamlende"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele menigheden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har budet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem — ordene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:17.567583957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de sagde til hende: Nej, med ⟨את⟩ dig vender vi tilbage til dit folk.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nej, sandelig"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig",
+      "marks": "med dig"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "vi vender tilbage"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "til dit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:06.415903474Z",
+  "model": "glm-5.3"
+}

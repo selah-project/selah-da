@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Se, ⟨את⟩ dets blod blev ikke bragt ind i det hellige indvendigt; I skulle have spist ⟨את⟩ det på det hellige sted, således som jeg bød jer.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "blev bragt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets blod"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "dets blod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "indvendigt"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "at spise"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skulle I spise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "på det hellige sted"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jeg bød"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:26.412361052Z",
+  "model": "glm-5.3"
+}

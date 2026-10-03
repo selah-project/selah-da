@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Samler som en ⟨dynge⟩ havets vand, lægger dybderne i sine forrådskamre.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "samler"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "som en dynge"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lægger"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "i forrådskamre"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dybderne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.431347334Z",
+  "model": "glm-5.3"
+}

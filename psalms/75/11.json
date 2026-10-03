@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Og alle de gudløses horn vil jeg afhugge; de retfærdiges horn skal ophøjes.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og alle"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløses"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "vil jeg afhugge"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "skal ophøjes"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "horn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:33.785313008Z",
+  "model": "glm-5.3"
+}

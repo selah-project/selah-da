@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Giv mig ⟨את⟩ mine hustruer og ⟨את⟩ mine børn, som jeg har tjent dig for, og lad mig gå; for du kender ⟨את⟩ min tjeneste, som jeg har tjent dig med.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine hustruer"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mine hustruer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mine børn"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "mine børn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "jeg har tjent"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "for"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "og lad mig gå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min tjeneste"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "min tjeneste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "jeg har tjent dig med"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:51.884408172Z",
+  "model": "glm-5.3"
+}

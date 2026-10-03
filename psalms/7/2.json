@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Jahve, min Elohim, hos dig har jeg søgt ly; fri mig fra alle mine forfølgere og redd mig!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jeg søgt ly"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "fri mig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mine forfølgere"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "og redd mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:37.683459746Z",
+  "model": "glm-5.3"
+}

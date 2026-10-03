@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og han sagde til dem: Således være Jahve med jer, som jeg slipper jer og ⟨את⟩ jeres småbørn af sted! Se, for ond er for jeres ansigt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "være"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med jer"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "jeg slipper af sted"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jeres småbørn"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "jeres småbørn"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "for"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "jeres ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:25.804477630Z",
+  "model": "glm-5.3"
+}

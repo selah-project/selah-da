@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "de førte krig mod ⟨את⟩ Bera, konge af Sodom, og ⟨את⟩ Birsha, konge af Amora, Shinav, konge af Adma, og Shemever, konge af Tsevojim, og kongen af Bela — det er Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "de førte"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera, konge af Sodom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "af Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Birsha, konge af Amora"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "af Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "af Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "og Shemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "af Tsevojim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "af Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:14.233285960Z",
+  "model": "glm-5.3"
+}

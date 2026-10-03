@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Hænder har de, men rører ikke; fødder har de, men går ikke; deres strube giver ingen lyd.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "rører"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "fødder"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "går"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "giver lyd"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "i deres strube"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:41.866426007Z",
+  "model": "glm-5.3"
+}

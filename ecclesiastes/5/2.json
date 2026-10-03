@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "For drømmen kommer ved megen møje, og dårens røst ved mange ord.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "drømmen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ved megen"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "møje"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og røst"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ved mange"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:52.376684815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Se, dage kommer, siger Jahve, og jeg vil skære ⟨את⟩ Israels hus og ⟨את⟩ Judas hus en ny pagt.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "og jeg vil skære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Judas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagt"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ny"
+    }
+  ],
+  "timestamp": "2026-10-03T17:20:35.522087975Z",
+  "model": "glm-5.3"
+}

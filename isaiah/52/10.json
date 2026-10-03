@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Jahve har blottet ⟨את⟩ sin hellige arm for øjnene af alle folkeslagene, og alle jordens ender skal se ⟨את⟩ frelsen fra vor Elohim.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "har blottet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hellige arm"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sin hellige"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for øjnene af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "og skal se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ender"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frelsen fra vor Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "frelsen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:02.973469330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "En byrde over Duma. En råber til mig fra Seir: Vogter, hvad af natten? Vogter, hvad af natten?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "En byrde"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "over Duma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "råber"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "fra Seir"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Vogter"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "af natten"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Vogter"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "af natten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:42.113327586Z",
+  "model": "glm-5.3"
+}

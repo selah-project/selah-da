@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "Jahve, min Adonaj, styrke i min frelse, du dækkede mit hoved på rustningens dag!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min Adonaj"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "min frelse"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "du dækkede"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mit hoved"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ... dag"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "rustning"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:07.949595515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og han stod op og kom og gik til Shomron; han var ved hyrdernes klippehus ⟨Bet-Eked⟩ på vejen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Og han stod op"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "til Shomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked ⟨binding⟩"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "hyrdernes"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:59.721611536Z",
+  "model": "glm-5.3"
+}

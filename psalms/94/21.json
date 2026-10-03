@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "De bander sig sammen mod den retfærdiges sjæl og erklærer uskyldigt blod skyldigt.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "De bander sig sammen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "og blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldigt"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "erklærer skyldigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.653383136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Jahve, Elohim Tsevaot, hvem er som dig? Mægtig ⟨er⟩ Jah, og din trofasthed ⟨er⟩ omkring dig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "som dig"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "Mægtig"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "og din trofasthed"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "omkring dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:10.857464629Z",
+  "model": "glm-5.3"
+}

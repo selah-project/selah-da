@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Er det ikke denne David, om hvem de svarede ham i dansene og sagde: Shaul slog i sine tusinder, og David i sine titusinder?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Er det ikke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "om hvem"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "de svarede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "i dansene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "i sine tusinder"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "i sine titusinder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:20.412962953Z",
+  "model": "glm-5.3"
+}

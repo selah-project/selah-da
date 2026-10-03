@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal sænkes ned, du skal tale fra jorden, og fra støvet skal din tale klynke; og din røst skal være som en spøgelsesråbner fra jorden, og fra støvet skal dine ord hviske.",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "Og du skal sænkes ned"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra jorden"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "du skal tale"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "og fra støvet"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "skal klynke"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "din tale"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "som en spøgelsesråbner"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra jorden"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "din røst"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "og fra støvet"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dine ord"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "skal hviske"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:16.873916513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 40:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Endnu inden tre dage skal Paroh løfte ⟨את⟩ dit hoved fra dig og hænge dig på et træ, og fuglene skal æde ⟨את⟩ dit kød fra dig.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "Endnu inden"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal løfte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit hoved"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "dit hoved"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "fra dig"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "og hænge"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "et træ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og skal æde"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "fuglene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit kød"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "dit kød"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "fra dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:03.024127505Z",
+  "model": "glm-5.3"
+}

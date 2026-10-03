@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal salve ⟨את⟩ dem, som du salvede ⟨את⟩ deres fader, og de skal tjene som præster for mig; og deres salvning skal være til at være dem til præstedom for evigt, for deres slægter.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "og du skal salve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (sønnerne)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "du salvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres fader"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deres fader"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "og de skal tjene som præster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "og den skal være"
+    },
+    {
+      "surface": "להית",
+      "gloss": "til at være"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "deres salvning"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "til præstedom"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "for deres slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.554182641Z",
+  "model": "glm-5.3"
+}

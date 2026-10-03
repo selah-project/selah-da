@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Han der former deres hjerter én for én, han forstår alle deres gerninger.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "der former"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "én for én"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjerter"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "forstår"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deres gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:44.412512683Z",
+  "model": "glm-5.3"
+}

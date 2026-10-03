@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og jeg vil gøre dig til et stort folk, og jeg vil velsigne dig og gøre dit navn stort, og vær en velsignelse.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "og jeg vil gøre dig"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "til et folk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "og jeg vil velsigne dig"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "og jeg vil gøre stort"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og vær"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en velsignelse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:04.601489070Z",
+  "model": "glm-5.3"
+}

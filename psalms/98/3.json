@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "Han har husket sin chesed og sin trofasthed mod Jisraels hus; alle jordens ender har set ⟨את⟩ frelsen fra vor Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Han har husket"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sin chesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "og sin trofasthed"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mod hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har set"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ender"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "frelsens fra vor Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "frelsens"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "fra vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:23.545820217Z",
+  "model": "glm-5.3"
+}

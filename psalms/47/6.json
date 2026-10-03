@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Elohim steg op med jubelråb, Jahve med shofarens lyd.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "med jubelråb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med lyd"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.345885082Z",
+  "model": "glm-5.3"
+}

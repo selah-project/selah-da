@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Jahves træer mættes, Libanons cedre, som han har plantet.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanons"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "har plantet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:32.232651164Z",
+  "model": "glm-5.3"
+}

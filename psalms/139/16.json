@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Dine øjne så min uformede skikkelse, og i din bog blev de alle skrevet — de dage, der blev formet, endnu var der ikke én af dem.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "min uformede skikkelse"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "så"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "dine øjne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og i"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "din bog"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "blev de alle"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "skrevet"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "blev formet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og endnu ikke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "af dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:05.537169086Z",
+  "model": "glm-5.3"
+}

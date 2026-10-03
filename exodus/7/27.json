@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Men hvis du nægter at sende ⟨dem⟩ af sted — se, da rammer jeg ⟨את⟩ hele dit land med frøer.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men hvis"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nægter"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "at sende af sted"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "rammer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele dit land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "dit land"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "med frøer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:11.187797482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og de samlede dem sammen i dynge efter dynge, og landet begyndte at stinke.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Og de samlede sammen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "deres dynger"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "deres dynger"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "og ... stank"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:15.209291894Z",
+  "model": "glm-5.3"
+}

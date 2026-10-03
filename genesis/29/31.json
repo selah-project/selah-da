@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Jahve så, at Lea var hadet, og han åbnede ⟨את⟩ hendes moderliv; men Rakel var ufrugtbar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "hadet"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og han åbnede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes moderliv"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "hendes moderliv"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "men Rakel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ufrugtbar"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:25.325948104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og dette er den contribution, I skal tage ⟨את⟩ fra dem: guld og sølv og kobber,",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "den contribution"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "I skal tage"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "fra dem ⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "og sølv"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "og kobber"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:25.510145912Z",
+  "model": "glm-5.3"
+}

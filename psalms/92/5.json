@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "For du har glædet mig, Jahve, ved din gerning; over dine hænders værker vil jeg juble.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "har glædet mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ved din gerning"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "over"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "din hænders værker"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "vil jeg juble"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.774895Z",
+  "model": "glm-5.3"
+}

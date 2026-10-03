@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 126,
+  "translation": "Jahve har gjort store ting med os; derfor er vi glade.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "har gjort store ting"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med os"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "er vi"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "glade"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:18.112283718Z",
+  "model": "glm-5.3"
+}

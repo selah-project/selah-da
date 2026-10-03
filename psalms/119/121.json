@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg har øvet ret og tsedek; forlad mig ikke til dem, der undertrykker mig.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Jeg har øvet"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "og tsedek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "forlad mig"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "til dem, der undertrykker mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:12.456692913Z",
+  "model": "glm-5.3"
+}

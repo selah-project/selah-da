@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Lovet være Jahve til evighed. Amen, og amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Lovet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evighed"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "og amen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:42.547403664Z",
+  "model": "glm-5.3"
+}

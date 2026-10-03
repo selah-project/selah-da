@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Derfor elsker jeg dine bud frem for guld, ja frem for fint guld.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Derfor (på)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "elsker jeg"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "frem for guld"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ja frem for fint guld"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:55.888197258Z",
+  "model": "glm-5.3"
+}

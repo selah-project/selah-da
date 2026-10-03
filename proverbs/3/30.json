@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Kiv ikke med et menneske uden grund, hvis han ikke har gjort dig ondt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "kiv"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "uden grund"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "har gjort dig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:29.992969859Z",
+  "model": "glm-5.3"
+}

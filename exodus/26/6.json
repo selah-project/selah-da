@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og du skal gøre halvtreds guldkroge og forbinde ⟨את⟩ dugene, den ene med sin søster, med krogene, og Mishkan skal blive ét.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal gøre"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kroge"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "og forbinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugene"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dugene"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "med"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "sin søster"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "med krogene"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal blive"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:12.955655219Z",
+  "model": "glm-5.3"
+}

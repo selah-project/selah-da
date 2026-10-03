@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Som vogtere af en mark står de imod den rundt om; thi mod mig har hun været genstridig, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "som vogtere"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "af en mark"
+    },
+    {
+      "surface": "היו",
+      "gloss": "står de"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "imod den"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mod mig (genstridigheden rettet imod Jahve)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "har hun været genstridig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:10:41.084412015Z",
+  "model": "glm-5.3"
+}

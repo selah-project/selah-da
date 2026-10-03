@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Ét har jeg bedt Jahve om ⟨את⟩ — det søger jeg: at bo i Jahves hus alle mit livs dage, at skue Jahves velbehag og at granske i hans tempel.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ét"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "har jeg bedt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "om ⟨את⟩ Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "søger jeg"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "at bo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "… dage"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mit livs"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "at skue"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "velbehag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "og at granske"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "i hans tempel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:06.332283570Z",
+  "model": "glm-5.3"
+}

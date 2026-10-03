@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Jahve har svoret ved sin højre hånd og ved sin styrkes arm: Aldrig giver jeg dit korn ⟨את⟩ mere som mad til dine fjender, og fremmedes sønner drikker ikke din most, som du har slidt for.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ved sin højre hånd"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "og ved"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "sin styrkes arm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Aldrig"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit korn"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "dit korn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "som mad"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "til dine fjender"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "drikker"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "af fremmede"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "din most"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "du har slidt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "for"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:18.253114493Z",
+  "model": "glm-5.3"
+}

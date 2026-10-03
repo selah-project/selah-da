@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Ja, også jeg vil gøre ham til førstefødt, den højeste blandt kongerne på jorden.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja, også"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "førstefødt"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "vil gøre ham"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den højeste"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "blandt kongerne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:10.979856199Z",
+  "model": "glm-5.3"
+}

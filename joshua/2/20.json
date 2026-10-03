@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hvis du røber ⟨את⟩ dette vores ord, er vi fri fra din ed, som du lod os sværge.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "du røber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette vores ord"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "dette vores ord"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "er vi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "fri"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "fra din ed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "du lod os sværge"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:59.649044830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han sætter fred ved dine grænser, med hvedens fedme mætter han dig.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Han sætter"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ved dine grænser"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fedme"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "hvedens"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "mætter han dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:59.516525961Z",
+  "model": "glm-5.3"
+}

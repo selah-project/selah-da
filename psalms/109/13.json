@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Må hans efterkommere udryddes; i en anden slægt må deres navn udslettes.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må der være"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "hans efterkommere"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "udryddes"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "i en slægt"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "udslettes"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deres navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:38.849690454Z",
+  "model": "glm-5.3"
+}

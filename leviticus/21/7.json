@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "En kvinde, der er skøge, og en vanhellig kvinde må de ikke tage, og en kvinde, der er forstødt fra sin mand, må de ikke tage, for hellig er han for sin Elohim.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "en kvinde"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "der er skøge"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "og en vanhellig kvinde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "må de tage"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "og en kvinde"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "der er forstødt"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "fra sin mand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "må de tage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er han"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "for sin Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:04.741700431Z",
+  "model": "glm-5.3"
+}

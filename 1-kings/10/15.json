@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "udover ⟨det, der kom⟩ fra mændene, der rejser rundt, og fra handelen blandt dem, der driver købmandskab, og fra alle kongerne af Arabien, og fra landets statholdere.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "udover"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "fra mændene"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "der rejser rundt"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "og fra handelen"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "af dem der driver købmandskab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne af"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arabien"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "og statholderne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:52.600544726Z",
+  "model": "glm-5.3"
+}

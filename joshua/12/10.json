@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Kongen af Jerushalajim, én; kongen af Chevron, én;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:31.730833886Z",
+  "model": "glm-5.3"
+}

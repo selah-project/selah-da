@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "og ⟨את⟩ de ti sokler og ⟨את⟩ de ti kar på soklerne",
+  "tokens": [
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "de ti sokler"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "soklerne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de ti kar"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "karrene"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "soklerne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:45.232625514Z",
+  "model": "glm-5.3"
+}

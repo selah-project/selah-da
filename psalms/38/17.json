@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Thi jeg sagde: For at de ikke skal glæde sig over mig — da min fod vakler, ophøjer de sig imod mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "skal de glæde sig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "da ... vakler"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "min fod"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ophøjer de sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.339377355Z",
+  "model": "glm-5.3"
+}

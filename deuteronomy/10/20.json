@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahve, din Elohim, skal du frygte; ⟨את⟩ ham skal du tjene, og ved ham skal du hænge fast, og ved hans navn skal du sværge.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skal du frygte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skal du tjene"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "og ved ham"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "hænge fast"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "og ved hans navn"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "skal du sværge"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:32.761745290Z",
+  "model": "glm-5.3"
+}

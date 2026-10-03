@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "olie til lampen, krydderier til salvieolien og til røgelsen af krydderierne.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "til lampen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "krydderier"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "til salvieolien"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "salvie-"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "og til røgelsen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "af krydderierne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:42:49.770517043Z",
+  "model": "glm-5.3"
+}

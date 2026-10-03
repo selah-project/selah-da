@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og de sendte Elohims ark til Ekron. Og det skete, da Elohims ark kom til Ekron, at ekroniterne råbte og sagde: De har ført Jisraels Elohims ark rundt til mig for at dræbe mig og mit folk.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Og de sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "til Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "da ... kom"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "til Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "råbte"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "ekroniterne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "de har ført rundt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "for at dræbe mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:09.606783259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Og Yosef førte dem ud fra hans knæ, og bøjede sig med ansigtet mod hans ansigt til jorden.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Og … førte ud"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "hans knæ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og bøjede sig"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "mod hans ansigt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:11.483808437Z",
+  "model": "glm-5.3"
+}

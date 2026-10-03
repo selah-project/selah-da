@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun sagde: Én lille bønner jeg beder ⟨את⟩ dig om; afvis ikke ⟨את⟩ mit ansigt. Og kongen sagde til hende: Bed, min moder, for jeg vil ikke afvise ⟨את⟩ dit ansigt.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "bøn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "lille"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "beder"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "afvis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "bed"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min moder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vil afvise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:05.739424779Z",
+  "model": "glm-5.3"
+}

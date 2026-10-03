@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "så giver vi ⟨את⟩ vore døtre til jer og ⟨את⟩ jeres døtre tager vi til os, og vi bosætter os hos jer og bliver ét folk.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "så giver vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vore døtre"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "vore døtre"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jeres døtre"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "jeres døtre"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tager vi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "til os"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "og vi bosætter os"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "og bliver"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ét folk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:46.594997067Z",
+  "model": "glm-5.3"
+}

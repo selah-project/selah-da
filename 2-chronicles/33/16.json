@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og han genoprettede ⟨את⟩ Jahves alter og ofrede på det fredsofre og takofre og bød Jehuda at tjene ⟨את⟩ Jahve, Jisraels Elohim.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "og han genoprettede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves alter"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "og ofrede"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ofre"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "freds-"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "og tak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og bød"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "at tjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Jisraels Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T19:27:47.356912628Z",
+  "model": "glm-5.3"
+}

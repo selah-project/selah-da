@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Thi som røg er mine dage fortæret, og mine knogler er som et ildsted svedet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "er fortæret"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "som røg"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mine dage"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "og mine knogler"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "קד",
+      "gloss": "et ildsted"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "er svedet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:27.037770237Z",
+  "model": "glm-5.3"
+}

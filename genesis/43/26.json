@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og Yosef kom ind i huset, og de bragte ham ⟨את⟩ minchaen, som var i deres hånd, ind i huset, og de kastede sig ned for ham til jorden.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og han kom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "og de bragte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchaen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "var i deres hånd"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og de kastede sig ned"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:45.533039677Z",
+  "model": "glm-5.3"
+}

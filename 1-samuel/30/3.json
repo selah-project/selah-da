@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og David og hans mænd kom til byen, og se, den var brændt med ild, og deres hustruer og deres sønner og deres døtre var ført bort som fanger.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og … kom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "og hans mænd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "var brændt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "og deres hustruer"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "og deres sønner"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "og deres døtre"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "var ført bort som fanger"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:39.421944184Z",
+  "model": "glm-5.3"
+}

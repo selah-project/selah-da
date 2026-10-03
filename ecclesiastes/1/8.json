@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Alle ord er trættende — ingen kan udtrykke det; øjet mættes ikke af at se, og øret fyldes ikke af at høre.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "er trættende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "udtrykke det"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øjet"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "af at se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "fyldes"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "øret"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "af at høre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:38.026101187Z",
+  "model": "glm-5.3"
+}

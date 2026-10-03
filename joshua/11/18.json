@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Mange dage førte Yehoshua krig mod ⟨את⟩ alle disse konger.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "førte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:25.619305825Z",
+  "model": "glm-5.3"
+}

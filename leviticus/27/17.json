@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Hvis han helliger sit felt fra jubelåret ⟨af⟩, skal det stå fast efter din vurdering.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "fra jubelåret"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "jubelåret"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "helliger"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sit felt"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "efter din vurdering"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skal det stå fast"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:47.086590939Z",
+  "model": "glm-5.3"
+}

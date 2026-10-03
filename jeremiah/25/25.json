@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "og ⟨את⟩ alle Zimris konger og ⟨את⟩ alle Elams konger og ⟨את⟩ alle Mediens konger",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Zimris konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimris"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Elams konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elams"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Mediens konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Mediens"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:53.991365791Z",
+  "model": "glm-5.3"
+}

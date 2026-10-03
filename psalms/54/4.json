@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Elohim, hør min bøn, lyt til min munds ord.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "til … ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min munds"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:02.002475428Z",
+  "model": "glm-5.3"
+}

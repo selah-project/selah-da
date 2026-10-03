@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Satan svarede ⟨את⟩ Jahve og sagde: Hud for hud — ja, alt hvad et menneske har, giver han for sit liv.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Hud"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja, alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "et menneske har"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver han"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sit liv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:10.013623708Z",
+  "model": "glm-5.3"
+}

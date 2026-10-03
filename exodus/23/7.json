@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Hold dig langt væk fra falsk tale, og ⟨den⟩ skyldne og retfærdige må du ikke dræbe, for jeg retfærdiggør ikke ⟨en⟩ rå.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "fra tale"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsk"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "hold dig langt væk"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "skyldne"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "og retfærdige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "må du dræbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "jeg retfærdiggør"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en rå"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:28.788703343Z",
+  "model": "glm-5.3"
+}

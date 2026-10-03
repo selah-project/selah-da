@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jahve talte til Moshe i Sinaj-ørkenen og sagde:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og Jahve talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:19.579999316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Fordi I har sagt: Jahve har rejst profeter for os i Bavel —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fordi"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "I har sagt"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "har rejst"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeter"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "i Bavel"
+    }
+  ],
+  "timestamp": "2026-10-03T19:40:31.392732590Z",
+  "model": "glm-5.3"
+}

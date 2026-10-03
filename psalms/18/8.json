@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Da svajede og skjalv jorden, og bjergenes grundvolde rystede og blev kastet frem og tilbage, for han var optændt af vrede.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "og svajede"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "og skjalv"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "og grundvoldene"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergenes"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "rystede"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "og blev kastet frem og tilbage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "var optændt af vrede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:03.338403164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og manden sagde til Eli: Det er mig, der kom fra slagmarken, og jeg flygtede i dag fra slagmarken. Og han sagde: Hvad er sket, min søn?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Det er mig"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "der kom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "slagmarken"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "slagmarken"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "flygtede"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er sket"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "… ⟨sagen⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:07.780886861Z",
+  "model": "glm-5.3"
+}

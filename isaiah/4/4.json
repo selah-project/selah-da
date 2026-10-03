@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Når Adonaj har tvættet ⟨את⟩ skarnet af Tzions døtre og skyllet ⟨את⟩ Jerushalajims blod ud af dens midte — med ruach dom og med ruach ild.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Når"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "har tvættet"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skarnet af Tzions døtre"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "skarnet"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "af døtre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzions"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajims blod"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blod"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "skyllet ud"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "af dens midte"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "med ruach"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "og med ruach"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ild"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:05.768933563Z",
+  "model": "glm-5.3"
+}

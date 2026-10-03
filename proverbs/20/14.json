@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "„Slet, slet“, siger køberen, men når han går sin vej, så praler han.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "slet"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slet"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "køberen"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "går"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sin vej"
+    },
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "praler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:28.370889422Z",
+  "model": "glm-5.3"
+}

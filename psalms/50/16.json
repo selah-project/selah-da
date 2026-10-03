@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Men til den gudløse sagde Elohim: Hvad har du med at fortælle mine vedtægter og bære min pagt i din mund?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Men til den gudløse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "har du"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "med at fortælle"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mine vedtægter"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "og bære"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mund"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:32.259467703Z",
+  "model": "glm-5.3"
+}

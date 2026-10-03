@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Ham der alene gør store under, thi til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ham der gør"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "under"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "store"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:27.133377412Z",
+  "model": "glm-5.3"
+}

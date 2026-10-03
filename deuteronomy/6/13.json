@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Jahve, din Elohim, skal du frygte, og ⟨את⟩ ham skal du tjene, og ved hans navn skal du sværge.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skal du frygte"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "og ⟨את⟩ ham"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skal du tjene"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "og ved hans navn"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "skal du sværge"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:22.920122861Z",
+  "model": "glm-5.3"
+}

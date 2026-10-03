@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Også din træl advarer derigennem; ved at holde dem ⟨er der⟩ stor løn.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Også"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "advarer"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "derigennem"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ved at holde dem"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "lonn"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:52.294171932Z",
+  "model": "glm-5.3"
+}

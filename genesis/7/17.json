@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og floden var fyrre dage over jorden, og vandene blev mange og bar arken ⟨את⟩ op, og den blev løftet op over jorden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og … var"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "floden"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "og blev mange"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "og bar op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "og den blev løftet op"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:07.810877088Z",
+  "model": "glm-5.3"
+}

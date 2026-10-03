@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og han tjente ⟨את⟩ Ba'al og tilbad ham og vækked vrede hos Jahve, Jisraels Elohim, i overensstemmelse med alt hvad hans far havde gjort.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "og han tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "og tilbad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "og vækked vrede hos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "i overensstemmelse med alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-10-03T16:34:39.615242191Z",
+  "model": "glm-5.3"
+}

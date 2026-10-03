@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Husk hans underfulde gerninger, som han gjorde, hans tegn og dommene fra hans mund.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Husk"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hans underfulde gerninger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "hans tegn"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "og dommene"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "fra hans mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.558390608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Eli hørte ⟨את⟩ lyden af skriget og sagde: Hvad betyder lyden af denne larm? Og manden skyndte sig og kom og fortalte Eli det.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og … hørte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "af skriget"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "af larmen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "Og manden"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skyndte sig"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:07.780620534Z",
+  "model": "glm-5.3"
+}

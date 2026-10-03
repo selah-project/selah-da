@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "En lovsang af David. Jeg vil ophøje dig, min Eloah, ⟨den⟩ konge, og jeg vil velsigne dit navn for evigt og altid.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "En lovsang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "jeg vil ophøje dig"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "min Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨den⟩ konge"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "og jeg vil velsigne"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og altid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:17.362931571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Ezra, præsten, bragte ⟨את⟩ Toraen frem for menigheden, fra mand til kvinde og alle ⟨der kunne forstå⟩, ⟨når de⟩ hørte, på den første dag i den syvende måned.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "bragte"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toraen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "fra mand"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "til"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kvinde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "der kunne forstå"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "at høre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:02.845145079Z",
+  "model": "glm-5.3"
+}

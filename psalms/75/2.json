@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Vi takker dig, Elohim, vi takker, for dit navn er nær; de fortæller dine undergerninger.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "vi takker"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "vi takker"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "og nær"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "de fortæller"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dine undergerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:05.976434784Z",
+  "model": "glm-5.3"
+}

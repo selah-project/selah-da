@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Derfor ⟨er⟩ hovmod deres halskæde, vold skærmer dem som en klædning.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "deres halskæde"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "hovmod"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "skærmer"
+    },
+    {
+      "surface": "שית",
+      "gloss": "klædning"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:25.440270849Z",
+  "model": "glm-5.3"
+}

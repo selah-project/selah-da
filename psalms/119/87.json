@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Næsten havde de udryddet mig på jorden, men jeg forlod ikke dine bud.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "næsten"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "havde udryddet mig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "forlod"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:59.483979465Z",
+  "model": "glm-5.3"
+}

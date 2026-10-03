@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg talte til ⟨את⟩ de landflygtige alle Jahves ord, som han havde vist mig.",
+  "tokens": [
+    {
+      "surface": "וָאֲדַבֵּ֖ר",
+      "gloss": "og jeg talte"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הַגּוֹלָ֑ה",
+      "gloss": "de landflygtige"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨את⟩",
+      "marks": "alle Jahves ord"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הֶרְאָֽנִי",
+      "gloss": "havde vist mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:32:38.969904843Z",
+  "model": "glm-5.3"
+}

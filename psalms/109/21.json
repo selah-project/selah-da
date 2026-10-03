@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og du, Jahve, Adonaj, gør ⟨את⟩ med mig for dit navns skyld, for god er din chesed — fri mig.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "med mig"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "fri mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:11.681919829Z",
+  "model": "glm-5.3"
+}

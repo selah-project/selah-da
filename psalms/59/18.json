@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Min styrke, til dig vil jeg lovsynge; for Elohim er min høje klippe, min Elohim ⟨af⟩ chesed.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Min styrke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "vil jeg lovsynge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "er min høje klippe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:57.398117284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Zichri, en vældig kriger fra Efrayim, dræbte ⟨את⟩ Ma'asejah, kongens søn, og ⟨את⟩ Azrikam, forskeren af huset, og ⟨את⟩ Elkanah, den næstkommanderende efter kongen.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "og dræbte"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zichri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "en vældig kriger"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "fra Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ma'asejah"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Ma'asejah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "forskeren"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "af huset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "den næstkommanderende"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "efter kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:51.244290409Z",
+  "model": "glm-5.3"
+}

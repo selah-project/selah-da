@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "⟨את⟩ De to vogne og ⟨את⟩ de fire okser gav han til Gershons sønner, efter deres tjeneste.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to vogne"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vognene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de fire okser"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "fire"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "okserne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav han"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "til sønnerne af"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "deres tjeneste"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:55.686541017Z",
+  "model": "glm-5.3"
+}

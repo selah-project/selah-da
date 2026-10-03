@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Og Jaakov kaldte på sine sønner og sagde: Saml jer, så vil jeg forkynde jer ⟨את⟩ det, der vil møde jer i de sidste dage.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "Saml jer"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "så vil jeg forkynde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, der vil møde jer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, der"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "vil møde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "i de sidste"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:06.949790587Z",
+  "model": "glm-5.3"
+}

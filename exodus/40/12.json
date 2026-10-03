@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal føre ⟨את⟩ Aharon og ⟨את⟩ hans sønner hen til indgangen til mødeteltet, og du skal vaske ⟨את⟩ dem med vand.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Og du skal føre hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hen til"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde-"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "og du skal vaske"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (Aharon og hans sønner)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.411490256Z",
+  "model": "glm-5.3"
+}

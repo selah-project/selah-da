@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Selv sin næste hader den fattige, men den riges venner er mange.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "selv"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "hader"
+    },
+    {
+      "surface": "רש",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "men elskerne af"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den rige"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "er mange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:47.771302435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og hvis manden er fattig, må du ikke ligge med hans pant ⟨hos dig⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "må du ikke ligge"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "med hans pant"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:49.832610264Z",
+  "model": "glm-5.3"
+}

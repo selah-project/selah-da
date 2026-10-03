@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Vi jubler over din frelse, og i vor Elohims navn vil vi flage; Jahve opfylde alle dine bønner.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "jubler vi"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "over din frelse"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "og i navn"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "vil vi flage"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "opfylde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "dine bønner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:41.332046475Z",
+  "model": "glm-5.3"
+}

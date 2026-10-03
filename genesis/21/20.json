@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Elohim var med ⟨את⟩ drengen, og han voksede og boede i ørkenen og blev en bueskytte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drengen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengen"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "og han voksede"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "en, der voksede frem"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bueskytte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:20.932801341Z",
+  "model": "glm-5.3"
+}

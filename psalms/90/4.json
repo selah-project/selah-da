@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Thi tusind år er i dine øjne som dagen i går, da den gik forbi, og som en nattevagt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dine øjne"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som dagen"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "i går"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "den gik forbi"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "og en nattevagt"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "om natten"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:41.541574595Z",
+  "model": "glm-5.3"
+}

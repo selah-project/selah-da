@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og ⟨Elohim⟩ havde påbudt ham angående denne sag, at han ikke skulle følge andre elohim; men han bevarede ikke det, ⟨את⟩ som Jahve havde påbudt.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "angående"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "at han ikke skulle"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "følge"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Jahve havde påbudt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:02.584965696Z",
+  "model": "glm-5.3"
+}

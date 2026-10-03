@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Hvad skal jeg gjengælde Jahve, alle hans goder imod mig?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "skal jeg gjengælde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "hans goder"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:01.184531688Z",
+  "model": "glm-5.3"
+}

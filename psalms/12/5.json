@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "de som sagde: Med vor tunge skal vi sejre; vore læber er ⟨את⟩ med os — hvem er herre over os?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "med vor tunge"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "skal vi sejre"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "vore læber"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ med os"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "herre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "over os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:11.821237178Z",
+  "model": "glm-5.3"
+}

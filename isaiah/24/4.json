@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Landet sørger og visner, verden sygner hen og visner; himlens højder ⟨og⟩ landets folk sygner hen.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "sørger"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "og visner"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Landet"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "sygner hen"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "og visner"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "sygner hen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "himlens højder"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨og⟩ landets folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:33.497347456Z",
+  "model": "glm-5.3"
+}

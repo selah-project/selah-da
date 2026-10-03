@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal bringe brændofferet ⟨את⟩ og minchaen ⟨את⟩ op på alteret, og præsten skal skaffe soning for ham, og han er ren.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Og skal bringe op"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minchaen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "og minchaen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og skal skaffe soning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "og han er ren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:03.410833299Z",
+  "model": "glm-5.3"
+}

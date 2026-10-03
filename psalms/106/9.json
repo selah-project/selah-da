@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og han irettesatte Søhavet, og det tørrede ud, og han førte dem gennem dybene som gennem ørkenen.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Og han irettesatte"
+    },
+    {
+      "surface": "בים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sø-"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "og det tørrede ud"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "og han førte dem"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "gennem dybene"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "som gennem ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:28.466685046Z",
+  "model": "glm-5.3"
+}

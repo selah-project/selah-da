@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og han gav dem deres begæring, men sendte magerhed ind i deres sjæl.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og han gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "deres begæring"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "men sendte"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "magerhed"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "ind i deres sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:32.743674565Z",
+  "model": "glm-5.3"
+}

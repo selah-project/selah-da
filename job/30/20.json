@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Jeg råber til dig, og du svarer mig ikke; jeg står op, og du ser på mig.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "jeg råber"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "svarer mig"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "jeg står op"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "og du ser"
+    },
+    {
+      "surface": "בי",
+      "gloss": "på mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:16.211797995Z",
+  "model": "glm-5.3"
+}

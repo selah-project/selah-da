@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Han sendte fra oven, han tog mig, han drog mig ud af mange vande.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Han sendte"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "fra oven"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "tog mig"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "drog mig ud"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "af vande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:27.613766769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og han greb ⟨את⟩ Agag, kongen af Amalek, levende, og ⟨את⟩ hele folket lagde han under band ved sværdets æg.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Og … greb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag, kongen af Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "lagde under band"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ved … æg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:07.485449989Z",
+  "model": "glm-5.3"
+}

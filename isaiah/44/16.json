@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Halvdelen af den brænder han i ild; over halvdelen spiser han kød, han steger det stegte og bliver mæt; ja, han varmer sig og siger: Aha! Jeg er varm, jeg har set ild.",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "halvdelen af den"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brænder han"
+    },
+    {
+      "surface": "במו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "halvdelen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spiser han"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "han steger"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "det stegte"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "og bliver mæt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "han varmer sig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "jeg er varm"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ild"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:20.428521911Z",
+  "model": "glm-5.3"
+}

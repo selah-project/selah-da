@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Alt hvad der går forbi ad vejen, plyndrer ham; han er blevet til en spot for hans naboer.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "plyndrer ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hvad der går forbi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ad vejen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "til en spot"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "for hans naboer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:59.143630118Z",
+  "model": "glm-5.3"
+}

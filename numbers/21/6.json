@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jahve sendte blandt folket ⟨את⟩ slangerne, de brændende, og de bed folket; og meget folk af Jisrael døde.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "blandt folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slangerne, de brændende"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "slangerne"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "de brændende"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "og de bed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meget"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "af Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:10.485534833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og præsten fører hende ⟨את⟩ frem og stiller hende for Jahves ansigt.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Og … fører frem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והעמידה",
+      "gloss": "og stiller hende"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:08.052330347Z",
+  "model": "glm-5.3"
+}

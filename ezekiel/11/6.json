@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "I har gjort jeres dræbte mange i denne by og har fyldt dens gader med dræbte.",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "I har gjort mange"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "jeres dræbte"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "og har fyldt"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "dens gader"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "med dræbte"
+    }
+  ],
+  "timestamp": "2026-10-03T17:33:04.519748525Z",
+  "model": "glm-5.3"
+}

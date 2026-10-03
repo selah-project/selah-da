@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jyonatan sagde til David: Kom, lad os gå ud på marken. Og de gik begge ud på marken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jyonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "lad os gå ud"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "og de gik ud"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "begge"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "på marken"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:13.469901991Z",
+  "model": "glm-5.3"
+}

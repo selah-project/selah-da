@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "På det sted, hvor de slagter ⟨את⟩ brændofferet, skal de slagte ⟨את⟩ skyldofferet, og ⟨את⟩ dets blod skal han stænke på alteret rundt om.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "På det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "de slagter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "skal de slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skyldofferet"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skyldofferet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dets blod"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "skal han stænke"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:22.593056518Z",
+  "model": "glm-5.3"
+}

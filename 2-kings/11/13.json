@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Atalja hørte ⟨את⟩ larmen fra runnerne, folket, og hun kom ind til folket i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "larmen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "larmen"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "runnerne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "kom ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:20.774174640Z",
+  "model": "glm-5.3"
+}

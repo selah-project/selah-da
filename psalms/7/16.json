@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "En grav har han gravet og hulet den ud, og han falder i gruben, han selv har gjort.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "en grav"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "har gravet"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "og hulet den ud"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "og han falder"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "i gruben"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "har gjort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:17.606661379Z",
+  "model": "glm-5.3"
+}

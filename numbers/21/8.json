@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jahve sagde til Moshe: Gør dig en brændende slange og sæt den på en stage; og det skal ske: hver den, der er bidt, og ser ⟨את⟩ den, skal leve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "en brændende slange"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "og sæt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (slangen)"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נס",
+      "gloss": "en stage"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "den der er bidt"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og ser"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (slangen)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "skal leve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:10.485904114Z",
+  "model": "glm-5.3"
+}

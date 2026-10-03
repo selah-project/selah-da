@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Mikajahu fortalte dem ⟨את⟩ alle de ord, som han havde hørt, da Baruch læste i bogen i folkets ører.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "havde hørt"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "da … læste"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i bogen"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i ører"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    }
+  ],
+  "timestamp": "2026-10-03T17:23:06.588015840Z",
+  "model": "glm-5.3"
+}

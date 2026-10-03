@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han sagde: Gå ud og bed om kar til dig udefra, fra ⟨את⟩ alle dine naboer — tomme kar; spar ikke på dem!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå ud"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "bed om"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "udefra"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "udenfor"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dine naboer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "dine naboer"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kar"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "tomme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "spar"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:17.729166434Z",
+  "model": "glm-5.3"
+}

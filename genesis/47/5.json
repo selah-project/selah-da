@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Paroh sagde til Yosef: Din far og dine brødre er kommet til dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sånende"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "og dine brødre"
+    },
+    {
+      "surface": "באו",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:41.021458179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Jeg mindes dagene fra fordum, jeggrundmåler over alle dine gerninger, over dine hænders værk taler jeg stille med mig selv.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "jeg mindes"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagene"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "fra fordum"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "jeggrundmåler"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "over alle"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "dine gerninger"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "over værk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dine hænders"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "taler jeg stille med mig selv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:28.827331031Z",
+  "model": "glm-5.3"
+}

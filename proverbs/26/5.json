@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Svar dåren efter hans dårskab, for at han ikke skal være vis i sine egne øjne!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Svar"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "efter hans dårskab"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sine egne øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:03.090036788Z",
+  "model": "glm-5.3"
+}

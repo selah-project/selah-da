@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Hvis jeg går ind i mit hus' telt, hvis jeg stiger op på mit lejets seng —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "jeg går ind"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i ... telt"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mit hus'"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "jeg stiger op"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "på ... seng"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "mit lejets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:07.244485332Z",
+  "model": "glm-5.3"
+}

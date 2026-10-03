@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 110,
+  "translation": "Af David, en mizmor. Siger Jahve til min herre: Sæt dig ved min højre hånd, til jeg lægger dine fjender som fodskammel for dine fødder.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "til min herre"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Sæt dig"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ved min højre hånd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "jeg lægger"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "som fodskammel"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "for dine fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:55.456877681Z",
+  "model": "glm-5.3"
+}

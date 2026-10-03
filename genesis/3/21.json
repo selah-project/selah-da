@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jahve Elohim gjorde til Adam og til hans hustru kjortler af skind, og han klædte dem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "til Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "og til hans hustru"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "kjortler"
+    },
+    {
+      "surface": "עור",
+      "gloss": "af skind"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "og han klædte dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:13.879804254Z",
+  "model": "glm-5.3"
+}

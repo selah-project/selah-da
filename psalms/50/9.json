@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Jeg tager ikke tyr ud af dit hus eller bukke fra dine folde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "tager jeg"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ud af dit hus"
+    },
+    {
+      "surface": "פר",
+      "gloss": "tyr"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "fra dine folde"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "bukke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:45.925560221Z",
+  "model": "glm-5.3"
+}

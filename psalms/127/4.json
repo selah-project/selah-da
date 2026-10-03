@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 127,
+  "translation": "Som pile i en helts hånd, således er ungdommens sønner.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "som pile"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i en hånd"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "en helt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ungdommens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:27.960891469Z",
+  "model": "glm-5.3"
+}

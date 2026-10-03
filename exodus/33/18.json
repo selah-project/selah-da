@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og han sagde: Vis mig, jeg beder, ⟨את⟩ din kavod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Vis mig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din kavod"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "din kavod"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:21.905116078Z",
+  "model": "glm-5.3"
+}

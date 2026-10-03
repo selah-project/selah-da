@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Du kløvede kilde og bæk, du udtørrede de evige floder.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "kløvede"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "kilde"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "og bæk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "udtørrede"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "evige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:54.143116019Z",
+  "model": "glm-5.3"
+}

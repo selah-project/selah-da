@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Jeg siger: Min El, tag mig ikke bort midt i mine dage — gennem slægt og slægter ⟨er⟩ dine år.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Jeg siger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "tag mig bort"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mine dage"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "gennem slægt"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "og slægter"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dine år"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:25.276724167Z",
+  "model": "glm-5.3"
+}

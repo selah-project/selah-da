@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Mit øje vansmægter af min elendighed; jeg har påkaldt dig, Jahve, hele dagen; jeg har strakt mine hænder ud mod dig.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "vansmægter"
+    },
+    {
+      "surface": "מני",
+      "gloss": "af"
+    },
+    {
+      "surface": "עני",
+      "gloss": "min elendighed"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "har jeg påkaldt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "har jeg strakt ud"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mine hænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:55.777609130Z",
+  "model": "glm-5.3"
+}

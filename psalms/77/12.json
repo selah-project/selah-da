@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Jeg vil ihukomme Jahs gerninger, ja, jeg vil ihukomme dine undere fra fordum.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Jeg vil ihukomme"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "gerninger"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "jeg vil ihukomme"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "fra fordum"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dine undere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:38.521324253Z",
+  "model": "glm-5.3"
+}

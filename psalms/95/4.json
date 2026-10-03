@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 95,
+  "translation": "I hvis hånd ⟨er⟩ jordens dybder, og bjergenes højderygge ⟨er⟩ hans.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "I hvis"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "dybder"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "og højderygge"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergenes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hans"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.473171385Z",
+  "model": "glm-5.3"
+}

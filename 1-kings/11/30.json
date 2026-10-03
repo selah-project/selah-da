@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Achija greb fat i den nye kappe, der var på ham, og rev den i tolv stykker.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "greb fat i"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achija"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "kappen"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "den nye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "var på ham"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "og rev den"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv ⟨to⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-ten⟩"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "stykker"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:01.765891124Z",
+  "model": "glm-5.3"
+}

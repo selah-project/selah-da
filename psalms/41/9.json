@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Et Belial-ord udgydes over ham, og den som ligger ⟨han⟩ skal ikke rejse sig igen.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial-"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "udgydes"
+    },
+    {
+      "surface": "בו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og den som"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "skal … igen"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "rejse sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:47.734722225Z",
+  "model": "glm-5.3"
+}

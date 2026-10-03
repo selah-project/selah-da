@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "for at fortælle, at Jahve er retfærdig, min klippe, og der ikke er nogen uretfærdighed i ham.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "for at fortælle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "er retfærdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "uretfærdighed"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:14.433551194Z",
+  "model": "glm-5.3"
+}

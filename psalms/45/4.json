@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Omgjord dit sværd på dit lår, du vældige, din pragt og din herlighed.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Omgjord"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "dit sværd"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "dit lår"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "du vældige"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "din pragt"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "og din herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:13.359016407Z",
+  "model": "glm-5.3"
+}

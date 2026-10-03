@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Ud af trængslen kaldte jeg på Jah; Jah svarede mig i det åbne rum.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ud af"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "trængslen"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kaldte jeg"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svarede mig"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "i det åbne rum"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:03.647667171Z",
+  "model": "glm-5.3"
+}

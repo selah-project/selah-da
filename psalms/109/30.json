@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Jeg vil takke Jahve højligt med min mund, og midt iblandt mange vil jeg prise ham.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "takke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "højligt"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "med min mund"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "prise ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:23.453994002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og de begærer marker og røver dem, og huse og tager dem; og de udpresser en mand og hans hus, et menneske og hans arvelod.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "og de begærer"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "marker"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "og røver"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "og huse"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "og tager"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "og udpresser"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "og hans hus"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "og hans arvelod"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:03.380929514Z",
+  "model": "glm-5.3"
+}

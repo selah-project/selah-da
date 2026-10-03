@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "de er støttet for bestandig, til evig tid, gjort i sandhed og retfærdighed.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "de er støttet"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "for bestandig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gjorte"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "i sandhed"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og retfærdighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:30.728700170Z",
+  "model": "glm-5.3"
+}

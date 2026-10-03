@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Stor er hans herlighed ved din frelse; pragt og værdighed lægger du på ham.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans herlighed"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ved din frelse"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "pragt"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og værdighed"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "lægger du"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:22.989630757Z",
+  "model": "glm-5.3"
+}

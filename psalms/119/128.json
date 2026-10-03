@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Derfor holder jeg alle dine bud for rette i alle ting; hver løgnens vej hader jeg.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Derfor (på)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i alle ting"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "holder jeg for rette"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "vej"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgnens"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hader jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:55.888355322Z",
+  "model": "glm-5.3"
+}

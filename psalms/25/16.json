@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Vend dit ansigt til mig og vis mig nåde, for ene og arm ⟨er⟩ jeg.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vend dit ansigt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ווחנני",
+      "gloss": "og vis mig nåde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ene"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "og arm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:24.665695565Z",
+  "model": "glm-5.3"
+}

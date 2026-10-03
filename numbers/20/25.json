@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Tag ⟨את⟩ Aharon og ⟨את⟩ Elazar, hans søn, og før ⟨את⟩ dem op på Hor-bjerget",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "ו העל",
+      "gloss": "og før op"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjerget"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:35.021220887Z",
+  "model": "glm-5.3"
+}

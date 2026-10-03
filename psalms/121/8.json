@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Jahve vogter din udgang og din indgang, fra nu af og til evigheden.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "din udgang"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "og din indgang"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "fra nu af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:30.975176571Z",
+  "model": "glm-5.3"
+}

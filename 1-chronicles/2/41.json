@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Shallum avlede ⟨את⟩ Jekamjah, og Jekamjah avlede ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Og Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamjah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamjah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "og Jekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:24.830470427Z",
+  "model": "glm-5.3"
+}

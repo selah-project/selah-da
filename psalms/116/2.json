@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Fordi han bøjede sit øre til mig, vil jeg påkalde ⟨ham⟩ alle mine dage.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fordi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bøjede"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sit øre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "alle mine dage"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vil jeg påkalde ⟨ham⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:16.474678219Z",
+  "model": "glm-5.3"
+}

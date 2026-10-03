@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "På den tid bragte Retsin, kongen af Aram, ⟨את⟩ Elat tilbage til aramæerne og drev ⟨את⟩ jøderne ud af Elat; og aramæerne kom til Elat og boede der til denne dag.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "På den tid"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "bragte tilbage"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "af Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "til aramæerne"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "og drev ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jøderne"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jøderne"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "af Elat"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "og aramæerne"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "til Elat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denne dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:39.337951724Z",
+  "model": "glm-5.3"
+}

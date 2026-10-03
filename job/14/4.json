@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Hvem giver noget rent ud af noget urent? Ikke én.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "noget rent"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ud af noget urent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:23.915764240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Jisrael, betro ⟨på⟩ Jahve! ⟨Deres⟩ hjælp og ⟨deres⟩ skjold ⟨er⟩ han.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "betro"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "⟨deres⟩ hjælp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "og ⟨deres⟩ skjold"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:53.668799376Z",
+  "model": "glm-5.3"
+}

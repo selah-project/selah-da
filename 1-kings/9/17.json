@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Shlomo byggede ⟨את⟩ Gezer og ⟨את⟩ Beit-Choron, det nedre.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "det nedre"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:18.778197216Z",
+  "model": "glm-5.3"
+}

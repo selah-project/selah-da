@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Dette er lønnen for mine anklagere, fra Jahves hånd ⟨את⟩ — og for dem, der taler ondt mod min sjæl.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "lønnen"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "for mine anklagere"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "og for dem, der taler"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:19.342666145Z",
+  "model": "glm-5.3"
+}

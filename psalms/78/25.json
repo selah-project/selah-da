@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Mægtiges ⟨det⟩ brød spiste hver mand, føde sendte han dem til mætthed.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "mægtiges"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spiste"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "føde"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "til mætthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:20.349676035Z",
+  "model": "glm-5.3"
+}

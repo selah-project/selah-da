@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "På ⟨den⟩ dag skal det spises; I må ikke lade noget af det blive tilbage til om morgenen: Jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På ⟨den⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal det spises"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "må I lade blive tilbage"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:33.241350850Z",
+  "model": "glm-5.3"
+}

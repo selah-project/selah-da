@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og jeg vil sende imod dem ⟨את⟩ sværdet, ⟨את⟩ hungersnøden og ⟨את⟩ pesten, indtil de er udryddet fra ⟨את⟩ den jord, jeg gav dem og deres fædre.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "og jeg vil sende"
+    },
+    {
+      "surface": "בם",
+      "gloss": "imod dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sværdet"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hungersnøden"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnøden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "pesten"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pesten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "de er udryddet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "den jord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "og deres fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:44.364385675Z",
+  "model": "glm-5.3"
+}

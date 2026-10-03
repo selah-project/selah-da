@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "Bjergene dansede som væddere, højene som småfår.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "dansede"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "som væddere"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "højene"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "som"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småfår"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:35.877473081Z",
+  "model": "glm-5.3"
+}

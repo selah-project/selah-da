@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Fortæl blandt folkene ⟨את⟩ hans herlighed, blandt alle folkene hans under!",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "fortæl"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans herlighed"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans herlighed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "blandt alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "hans under"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:02.427068442Z",
+  "model": "glm-5.3"
+}

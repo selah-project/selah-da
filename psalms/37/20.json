@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "For de gudløse går til grunde, og Jahves fjender som lammers fedme — de forgår, i røg forgår de.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "går til grunde"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "og fjender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "som fedmen"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "lammers"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "forgår"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "i røg"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "forgår"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:24.663756608Z",
+  "model": "glm-5.3"
+}

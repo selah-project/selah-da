@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og nu, når dette brev kommer til jer — og ⟨את⟩ jeres herrers sønner ⟨er⟩ hos jer, og ⟨את⟩ stridsvognene og hestene ⟨er⟩ hos jer, og en befæstet by og våbnene —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "når ... kommer"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "dette brev"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jeres herrers sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "jeres herrers"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "stridsvognene og hestene"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "stridsvognene"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "og hestene"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "og en by"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befæstet"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "og våbnene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:06.860970861Z",
+  "model": "glm-5.3"
+}

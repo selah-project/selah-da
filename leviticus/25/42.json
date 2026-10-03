@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "For mine tjenere er de, som jeg førte ud fra Mitsrajims land ⟨את⟩ dem; de skal ikke sælges med en träls salg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mine tjenere"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "jeg førte ud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra ... land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "skal de sælges"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "med ... salg"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "en træl"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:15.091758743Z",
+  "model": "glm-5.3"
+}

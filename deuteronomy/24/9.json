@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Husk ⟨את⟩ det, som Jahve, din Elohim, gjorde mod Mirjam på vejen, da I gik ud af Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Husk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Jahve gjorde mod Mirjam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "mod Mirjam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "da I gik ud"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "af Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:49.831954120Z",
+  "model": "glm-5.3"
+}

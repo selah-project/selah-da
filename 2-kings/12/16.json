@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og der blev ikke regnet med ⟨את⟩ de mænd, som de gav ⟨את⟩ sølvet i hånd for at give til dem, der gjorde arbejdet, thi i troskab handlede de.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "blev der regnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mændene"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "med mændene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "de gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sølvet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hånd"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "for at give"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "til dem der gjorde"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "arbejdet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "i troskab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "handlede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:03.320804188Z",
+  "model": "glm-5.3"
+}

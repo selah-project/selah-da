@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Da sagde kongens unge tjenere, de som tjente ham: Man søge for kongen unge piger, jomfruer, smukke at se på,",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Da sagde"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "de unge tjenere"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "de som tjente ham"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "man søge"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "for kongen"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "unge piger"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jomfruer"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "smukke"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "at se på"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:32.665336232Z",
+  "model": "glm-5.3"
+}

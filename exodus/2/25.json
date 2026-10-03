@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Elohim så ⟨את⟩ Jisraels børn, og Elohim kendte ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "og kendte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:58.915618136Z",
+  "model": "glm-5.3"
+}

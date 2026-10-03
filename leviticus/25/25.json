@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Når din broder bliver fattig og sælger af sin ejendom, og hans løser, den nærstående, kommer til ham, så skal han løskøbe det, hans broder har solgt, ⟨את⟩ det solgte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "bliver fattig"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "og sælger"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "af sin ejendom"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og kommer"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "hans løser"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "den nærstående"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "så skal han løskøbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det solgte"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "det solgte"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:01.010867273Z",
+  "model": "glm-5.3"
+}

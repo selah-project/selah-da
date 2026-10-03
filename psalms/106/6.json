@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Vi har syndet sammen med vore fædre, vi har fordrejet, vi har handlet ugudeligt",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Vi har syndet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "vore fædre"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "vi har fordrejet"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "vi har handlet ugudeligt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:26.270399467Z",
+  "model": "glm-5.3"
+}

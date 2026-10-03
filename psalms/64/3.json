@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "Skjul mig for ⟨de⟩ ondes råd, for oprøret hos dem, der øver ondskab.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Skjul mig"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "for rådet"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "for ⟨de⟩ ondes"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "for oprøret"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "hos dem, der øver"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:47.033406485Z",
+  "model": "glm-5.3"
+}

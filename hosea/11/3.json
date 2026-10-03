@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg lærte Efrayim at gå; jeg tog dem i ⟨deres⟩ arme, men de vidste ikke, at jeg lægede dem.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "lærte at gå"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "jeg tog dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "⟨deres⟩ arme"
+    },
+    {
+      "surface": "וילא",
+      "gloss": "men de vidste ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vidste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "jeg lægede dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:22.185993686Z",
+  "model": "glm-5.3"
+}

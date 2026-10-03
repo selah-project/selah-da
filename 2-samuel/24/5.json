@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og de gik over ⟨את⟩ Yarden og slog lejr ved Aroer, på højre side af byen, som ligger midt i dalen ⟨af⟩ Gad, og frem til Jaazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "gik over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "slog lejr"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "ved Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "på højre side"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "af byen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "dalen"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og frem til"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:29.848165670Z",
+  "model": "glm-5.3"
+}

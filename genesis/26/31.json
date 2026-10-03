@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og de stod tidligt op om morgenen og svor hinanden ed, og Jitschak sendte dem bort, og de gik fra ⟨את⟩ ham i fred.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "og de stod tidligt op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "og svor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hinanden"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ed"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "og sendte dem bort"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og de gik"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i fred"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:44.402931853Z",
+  "model": "glm-5.3"
+}

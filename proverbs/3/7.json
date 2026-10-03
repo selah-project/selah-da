@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Vær ikke vis i dine egne øjne; frygt ⟨את⟩ Jahve, og vend dig bort fra det onde.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Vær"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dine egne øjne"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "og vend dig bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fra det onde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:09.320964716Z",
+  "model": "glm-5.3"
+}

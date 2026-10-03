@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Hvis hans sønner forlader min Tora og ikke vandrer i mine mishpatim,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "forlader"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min Tora"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "og i mine mishpatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "de vandrer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:22.001351878Z",
+  "model": "glm-5.3"
+}

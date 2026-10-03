@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og jeg sagde til englen, der talte i mig: Hvor bærer de ⟨את⟩ efaen hen?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "englen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "der talte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "bærer hen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efaen"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efaen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:55.532740465Z",
+  "model": "glm-5.3"
+}

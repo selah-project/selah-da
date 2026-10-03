@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og mennesket kendte Chava, sin hustru, og hun blev frugtsommelig og fødte ⟨את⟩ Kajin, og hun sagde: Jeg har fået en mand ⟨את⟩ ⟨med⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Og mennesket"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "og hun blev frugtsommelig"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Jeg har fået"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨med⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:50.235108108Z",
+  "model": "glm-5.3"
+}

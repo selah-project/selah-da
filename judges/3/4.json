@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de var der for at prøve Jisrael med dem, ⟨את⟩ Jisrael, for at vide, om de ville lyde til Jahves bud, som han havde budt deres fædre ⟨את⟩ gennem Moshes hånd.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Og de var der"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "for at prøve"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "for at vide"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "om de ville lyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves bud"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "han havde budt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres fædre"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gennem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshes hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:47:11.141162912Z",
+  "model": "glm-5.3"
+}

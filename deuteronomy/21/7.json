@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og de skal svare og sige: Vore hænder har ikke udgydt ⟨את⟩ dette blod, og vore øjne har ikke set det.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Og de skal svare"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "og sige"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Vore hænder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "har udgydt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette blod"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dette blod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "og vore øjne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "har set"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:32.923424826Z",
+  "model": "glm-5.3"
+}

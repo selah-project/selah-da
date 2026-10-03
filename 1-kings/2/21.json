@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun sagde: Lad Avishag shunammittinden gives ⟨את⟩ til Adonijahu, din bror, til hustru.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gives"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag shunammittinden"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "shunammittinden"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "til Adonijahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:46.307382620Z",
+  "model": "glm-5.3"
+}

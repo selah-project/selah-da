@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 122,
+  "translation": "Spørg efter Jerushalajims fred — ⟨må⟩ de, der elsker dig, ⟨ finde⟩ ro.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Spørg"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "efter … fred"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "⟨ finde⟩ ro"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "de, der elsker dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:45.399712186Z",
+  "model": "glm-5.3"
+}

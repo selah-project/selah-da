@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og det skete, da de hørte ⟨את⟩ Toraen, at de skilte al blandet mængde fra Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "da de hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toraen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "at de skilte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "blandet mængde"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "fra Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:12.570648803Z",
+  "model": "glm-5.3"
+}

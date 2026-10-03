@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Fra ⟨את⟩ Jahve er dette sket; det er underfuldt i vore øjne.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "er sket"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "underfuldt"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "i vore øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:54.972818734Z",
+  "model": "glm-5.3"
+}

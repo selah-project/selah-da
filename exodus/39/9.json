@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Firkantet var ⟨את⟩ brystpladen, dobbelt gjorde de den; et spænd ⟨var⟩ dens længde, og et spænd dens bredde, dobbelt.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "firkantet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dobbelt"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brystpladen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brystpladen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "et spænd"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dens længde"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "og et spænd"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dens bredde"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dobbelt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:04.027699904Z",
+  "model": "glm-5.3"
+}

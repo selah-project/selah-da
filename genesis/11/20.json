@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Re'u levede to og trediv år og avlede ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og Re'u levede"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "to"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og trediv"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:37.961943567Z",
+  "model": "glm-5.3"
+}

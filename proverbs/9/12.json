@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Er du blevet vis, er du bleven det for dig selv; men håner du, bærer du det alene.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "er du bleven vis"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "er du bleven det"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig selv"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "og håner du"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alene"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bærer du det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:43.596091698Z",
+  "model": "glm-5.3"
+}

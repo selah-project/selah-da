@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og de tjente gilulim, om hvilke Jahve havde sagt til dem: I skal ikke gøre ⟨את⟩ denne sag.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "og de tjente"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "gilulim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "om hvilke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "I skal gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne sag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:45.768419731Z",
+  "model": "glm-5.3"
+}

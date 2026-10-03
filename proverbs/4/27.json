@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Bøj ikke af til højre eller venstre; vend din fod bort fra det onde.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תט",
+      "gloss": "Bøj af"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "til højre"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "eller venstre"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "vend bort"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fod"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fra det onde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:49.021698328Z",
+  "model": "glm-5.3"
+}

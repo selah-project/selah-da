@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Du har givet dem der frygter dig et banner, til at blive løftet, for sandhedens skyld. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "du har givet"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "dem der frygter dig"
+    },
+    {
+      "surface": "נס",
+      "gloss": "et banner"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "til at blive løftet"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:32.093507324Z",
+  "model": "glm-5.3"
+}

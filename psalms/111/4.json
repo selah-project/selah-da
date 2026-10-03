@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Et minde gjorde han om sine under; nådig og barmhjertig er Jahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "et minde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "om sine under"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "og barmhjertig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "er Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:43.582914394Z",
+  "model": "glm-5.3"
+}

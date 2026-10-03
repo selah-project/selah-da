@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og dens stænger skal føres ⟨את⟩ ind i ringene, og stængerne skal være på alterets to sider, når man bærer det ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "Og skal føres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens stænger"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dens stænger"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ind i ringene"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og skal være"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sider"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "af alteret"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "når man bærer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "det (alteret)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:04.557939577Z",
+  "model": "glm-5.3"
+}

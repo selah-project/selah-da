@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og præsten skal stænke ⟨את⟩ blodet på Jahves alter ved indgangen til mødeteltet og lade fedtet ryge til en hvilegivende duft for Jahve.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "Og præsten skal stænke"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af møde"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og lade ryge"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "til en duft"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "hvilegivende"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:51.982882467Z",
+  "model": "glm-5.3"
+}

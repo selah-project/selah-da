@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Lavan sagde til Jaakov: Hvad har du gjort? Du stjal ⟨את⟩ mit hjerte og førte ⟨את⟩ mine døtre bort som krigsfanger.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "til Jaakov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "Du stjal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit hjerte"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "og førte bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine døtre"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mine døtre"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "som fanger"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "af sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:28.458911853Z",
+  "model": "glm-5.3"
+}

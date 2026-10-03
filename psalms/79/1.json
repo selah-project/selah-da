@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "En slagt af Asaf. Elohim, folkeslag er kommet ind i din arv, de har gjort din helligdoms ⟨את⟩ tempel urent, de har lagt ⟨את⟩ Jerushalajim i stenhobe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En slagt"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "af Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "er kommet ind"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "i din arv"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "de har gjort urent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit helligdoms tempel"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din helligdoms"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de har lagt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "i stenhobe"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:32.111991200Z",
+  "model": "glm-5.3"
+}

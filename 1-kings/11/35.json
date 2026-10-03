@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg vil tage kongedømmet fra hans søns hånd og give det til dig, ⟨את⟩ de ti stammer.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Og jeg vil tage"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kongedømmet"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "af hans søn"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "og give det"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ti stammer"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "de ti"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "stammer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:13.814075213Z",
+  "model": "glm-5.3"
+}

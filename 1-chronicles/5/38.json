@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Achituv avlede ⟨את⟩ Tsadok, og Tsadok avlede ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "og Achituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "og Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:36.806696487Z",
+  "model": "glm-5.3"
+}

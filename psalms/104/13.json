@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Han vander bjergene fra sine øvre kamre; af frugten af dine gerninger mættes jorden.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "vander"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "fra sine øvre kamre"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "af frugten"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "af dine gerninger"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:32.232049572Z",
+  "model": "glm-5.3"
+}

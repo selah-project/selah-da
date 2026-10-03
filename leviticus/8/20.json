@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ vædderen skar han i dets stykker, og Moshe brændte ⟨את⟩ hovedet og ⟨את⟩ stykkerne og ⟨את⟩ fedtet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "vædderen"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "skar han"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "i dets stykker"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "og brændte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovedet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stykkerne"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "stykkerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "fedtet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:01.738633198Z",
+  "model": "glm-5.3"
+}

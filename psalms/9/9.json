@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han dømmer ⟨את⟩ verden i tsedek, han dømmer folkeslagene i retskaffenhed.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Og han"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "i tsedek"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "dømmer han"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "i retskaffenhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:47.717253263Z",
+  "model": "glm-5.3"
+}

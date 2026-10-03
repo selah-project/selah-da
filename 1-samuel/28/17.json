@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Jahve har gjort mod dig, som han talte ved min hånd, og Jahve har flænget ⟨את⟩ kongerigum ud af din hånd og givet den til din næste, til David.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og har gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ved min hånd"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "og har flænget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongeriget"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ud af din hånd"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "og givet den"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "til din næste"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:57.305752842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Ophøj dig over himlene, Elohim, og over al jorden din herlighed!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ophøj dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "din herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:42.793528720Z",
+  "model": "glm-5.3"
+}

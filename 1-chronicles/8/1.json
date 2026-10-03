@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Binjamin avlede ⟨את⟩ Bela, sin førstefødte, Ashbel ⟨den anden⟩ og Achrach ⟨den tredje⟩.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Og Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sin førstefødte"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨den anden⟩"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "og Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨den tredje⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:55.502320156Z",
+  "model": "glm-5.3"
+}

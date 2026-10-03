@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Min søn, bevar mine ord, og mine bud skal du gemme hos ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Min søn"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "og mine bud"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "skal du gemme"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "hos ⟨את⟩ dig",
+      "marks": "hos ⟨את⟩ dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:29.766719758Z",
+  "model": "glm-5.3"
+}

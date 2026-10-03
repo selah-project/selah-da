@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "For jeg ⟨er⟩ fattig og nødlidende, og mit hjerte ⟨er⟩ såret i mit indre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og nødlidende"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg ⟨er⟩"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "og mit hjerte"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "såret"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "i mit indre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:11.682218495Z",
+  "model": "glm-5.3"
+}

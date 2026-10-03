@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og en flod går ud fra Eden for at vande ⟨את⟩ haven, og derfra deler den sig og bliver til fire hoveder.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Og en flod"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "fra Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "for at vande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haven"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "haven"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "og derfra"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "deler den sig"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og bliver"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "til fire"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "hoveder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:12.968481950Z",
+  "model": "glm-5.3"
+}

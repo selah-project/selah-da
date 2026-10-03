@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Alle svarer og siger til dig: Også du er blevet svag som vi — os er du blevet lig!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "svarer"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "er blevet svag"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "som vi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "os"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "er du blevet lig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:16.154349989Z",
+  "model": "glm-5.3"
+}

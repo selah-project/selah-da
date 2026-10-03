@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og kød, der rører ved noget urent, må ikke spises; det skal brændes i ild. Og hvad kød angår:Enhver, der er ren, må spise kødet.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "Og kødet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "rører ved"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ved noget"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spises"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "skal brændes"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "Og kødet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spise"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:24.338013691Z",
+  "model": "glm-5.3"
+}

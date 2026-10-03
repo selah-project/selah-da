@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jahve sagde til Moshe: Ræk din hånd ud over landet Mitsrajim over græshopperne, at de skal stige op over landet Mitsrajim og æde ⟨את⟩ al landets græs, ⟨את⟩ alt det, haglen levnede.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ræk ud"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "over græshopperne"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "at de skal stige op"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og æde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al landets græs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "græs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det, haglen levnede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "haglen levnede"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:25.805339752Z",
+  "model": "glm-5.3"
+}

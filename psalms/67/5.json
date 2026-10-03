@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 67,
+  "translation": "Folkene glæder sig og jubler, for du dømmer folkene med ret, og folkeslagene på jorden leder du. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "og jubler"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "du dømmer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "med ret"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og folkeslagene"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "leder du"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:25.585531295Z",
+  "model": "glm-5.3"
+}

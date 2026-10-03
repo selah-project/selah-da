@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Thi sol og skjold er Jahve Elohim; nåde og ære giver Jahve; han nægter ikke det gode dem, som vandrer i ukorrumhed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "og skjold"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåde"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "og ære"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "nægter"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "dem, som vandrer"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "i ukorrumhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:52.795093990Z",
+  "model": "glm-5.3"
+}

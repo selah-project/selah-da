@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 123,
+  "translation": "En pilgrimssang. Til dig løfter jeg ⟨את⟩ mine øjne, du som troner i himlene.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "af stigningerne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "løfter jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine øjne"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "du som troner"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:25.163874536Z",
+  "model": "glm-5.3"
+}

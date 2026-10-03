@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "⟨Du er⟩ hustruen, den utro, der under sin mand tager ⟨את⟩ fremmede!",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "hustruen"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "den utro"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "sin mand"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tager"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fremmede"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremmede"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:41.420560157Z",
+  "model": "glm-5.3"
+}

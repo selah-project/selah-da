@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Den, der slagter et takoffer, ærer mig, og den, der sætter ⟨en⟩ vej ⟨i orden⟩, ham vil jeg vise Elohims frelse.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "den der slagter"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "takoffer"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "ærer mig"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og sætter"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ham vil jeg vise"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:01.703292913Z",
+  "model": "glm-5.3"
+}

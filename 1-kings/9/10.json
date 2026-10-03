@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og det skete ved udløbet af tyve år, i hvilke Shelomo byggede de to huse, Jahves hus og kongens hus —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ved udløbet"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i hvilke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to huse"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "huse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kongens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:55.633520951Z",
+  "model": "glm-5.3"
+}

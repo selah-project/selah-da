@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Jeg bekender dig, for jeg er gjort med rædsel og vidunder; dine gerninger er underfulde, det ved min sjæl meget vel.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jeg bekender dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "med rædsel"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "er jeg gjort forunderlig"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "underfulde"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dine gerninger"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "og min sjæl"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget vel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:05.536810701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han bød også ⟨את⟩ den anden, også ⟨את⟩ den tredje, også ⟨את⟩ alle dem, der gik efter hjordene, og sagde: Sådan skal I tale til Esav, når I finder ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og han bød"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den anden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den tredje"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dem, der gik efter hjordene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "dem, der gik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "hjordene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "efter dette ord"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "skal I tale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "når I finder"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:33.924820480Z",
+  "model": "glm-5.3"
+}

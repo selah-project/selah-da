@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og han byggede ⟨את⟩ Libanons skovhus, hundrede alen dets længde og halvtreds alen dets bredde og tredive alen dets højde, på fire rækker af cederpiller, og cederbjælker på pillerne.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "og han byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Libanons skovhus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skov"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dets længde"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "og halvtreds"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dets bredde"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "dets højde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fire"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rækker"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "piller"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceder-"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "og bjælker"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pillerne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:24:43.135095361Z",
+  "model": "glm-5.3"
+}

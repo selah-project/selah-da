@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og ⟨את⟩ Aharon og ⟨את⟩ hans sønner skal du salve, og du skal hellige ⟨את⟩ dem til at være præster for mig.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "skal du salve"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og du skal hellige"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til at være præster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:53.202176229Z",
+  "model": "glm-5.3"
+}

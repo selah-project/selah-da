@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Alle ⟨der⟩ ser mig, gør mig til spot; de vrænger ⟨med⟩ læben, de ryster ⟨på⟩ hovedet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ser mig"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "gør mig til spot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "vrænger"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "med læben"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ryster"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.517093730Z",
+  "model": "glm-5.3"
+}

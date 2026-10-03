@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Avshalom sagde til Chusjai: Er dette din chesed mod ⟨את⟩ din ven? Hvorfor gik du ikke med ⟨את⟩ din ven?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chusjai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er dette"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din ven"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din ven"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gik du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din ven"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din ven"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:32.992829696Z",
+  "model": "glm-5.3"
+}

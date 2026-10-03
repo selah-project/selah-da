@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og ⟨את⟩ Aharon og ⟨את⟩ hans sønner skal du bringe ind til indgangen af mødeteltet, og du skal tvætte ⟨את⟩ dem med vand.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skal du bringe ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af mødet"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "og du skal tvætte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (Aharon og hans sønner)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:31.104098135Z",
+  "model": "glm-5.3"
+}

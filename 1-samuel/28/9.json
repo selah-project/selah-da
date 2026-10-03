@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 28:9",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og kvinden sagde til ham: Se, du ved, ⟨את⟩ hvad Sha'ul har gjort, at han har udryddet ⟨את⟩ åndemanerne og ⟨את⟩ spåmændene fra landet — hvorfor lægger du en snare for min sjæl, for at dræbe mig?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ved"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvad Sha'ul har gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "har udryddet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "åndemanerne"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "åndemanerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "spåmændene"
+    },
+    {
+      "surface": "הידעני",
+      "gloss": "spåmændene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "מתנקש",
+      "gloss": "lægger en snare"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "for min sjæl"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "for at dræbe mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:56.833850154Z",
+  "model": "glm-5.3"
+}

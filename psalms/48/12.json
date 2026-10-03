@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Zions bjerg glæder sig, Jehudas døtre juble over dine domme.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "הר",
+      "gloss": "… bjerg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zions"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "juble"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "למען",
+      "gloss": "over"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine domme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:52.984466073Z",
+  "model": "glm-5.3"
+}

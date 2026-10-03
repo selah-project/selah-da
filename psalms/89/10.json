@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Du hersker over havets oprør; når dets bølger hvælver sig, standser du dem.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hersker"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "over oprøret"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "når ... hvælver sig"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "dets bølger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "standser dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:10.857682621Z",
+  "model": "glm-5.3"
+}

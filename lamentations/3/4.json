@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Han har tæret mit kød og min hud, knust mine knogler.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "har tæret"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mit kød"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "og min hud"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "knust"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mine knogler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:20.351781431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Akish sagde til sine trælle: Se, I ser en mand, der er blevet gal — hvorfor bringer I ⟨את⟩ ham til mig?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "I ser"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "der er blevet gal"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "bringer I"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:12.015182290Z",
+  "model": "glm-5.3"
+}

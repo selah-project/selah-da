@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Deres gift ⟨er⟩ som en slanges gift, som en døv hugorm, der lukker sit øre.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "deres gift"
+    },
+    {
+      "surface": "למו",
+      "gloss": "deres"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "som ligheden af"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "slange"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "hugorm"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "døv"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "lukker"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sit øre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:47.346132633Z",
+  "model": "glm-5.3"
+}

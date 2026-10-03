@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hvis de borer sig ned i Sheol, derfra skal min hånd tage dem; og hvis de stiger op til himlene, derfra vil jeg føre dem ned.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "de borer sig ned"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "i Sheol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "skal tage dem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "de stiger op"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "til himlene"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "vil jeg føre dem ned"
+    }
+  ],
+  "timestamp": "2026-10-03T17:55:49.158258363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Shlomos ordsprog. En vis søn glæder en far, og en tåbelig søn ⟨er⟩ sorgen hos hans mor.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "ordsprog"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæder"
+    },
+    {
+      "surface": "אב",
+      "gloss": "far"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og en søn"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tåbelig"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "sorgen"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans mor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:31.942497153Z",
+  "model": "glm-5.3"
+}

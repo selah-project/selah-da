@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og ingen fremmed skal spise ⟨af⟩ det hellige; præstens logerende og hans lejede tjener skal ikke spise ⟨af⟩ det hellige.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og alle"
+    },
+    {
+      "surface": "זר",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal spise"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "logerende"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præstens"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "og hans lejede tjener"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal spise"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "det hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:52.291480869Z",
+  "model": "glm-5.3"
+}

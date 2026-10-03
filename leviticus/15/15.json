@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og præsten skal gøre ⟨אתם⟩ med dem: den ene til syndoffer og den anden til brændoffer, og præsten skal skaffe soning for ham for Jahves ansigt fra sit udflåd.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Og skal gøre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem — de to fugle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "til syndoffer"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "og den anden"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "til brændoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og skal skaffe soning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "fra sit udflåd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:30.895848638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Hvorfor brød du dens hegn, så alle, som går vejen forbi, plukker den?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "brød du"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "dens hegn"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "og plukker den"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "som går forbi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:03.818377639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Alt hvad der krydler og lever, skal være jer til føde; som den grønne urt har jeg givet jer ⟨את⟩ det hele.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "hvad der krydler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "til føde"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "som den grønne"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "urt"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jeg givet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det hele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "det hele"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:24.246735594Z",
+  "model": "glm-5.3"
+}

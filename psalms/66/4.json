@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Hele jorden skal kaste sig ned for dig og lovsynge dig, lovsynge dit navn. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "skal kaste sig ned"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "og lovsynge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "lovsynge"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.163030679Z",
+  "model": "glm-5.3"
+}

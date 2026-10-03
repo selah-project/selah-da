@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Shmuel tog ⟨את⟩ olieflasken og hældte den ud på hans hoved og kyssede ham og sagde: Er det ikke fordi Jahve har salvet dig over sin arv til fyrste?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olieflasken"
+    },
+    {
+      "surface": "פך",
+      "gloss": "flasken"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olie-"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "hældte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans hoved"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "kyssede ham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er det ikke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "har salvet dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sin arv"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "til fyrste"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:30.693482960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han satte ⟨את⟩ menorahen i mødeteltet, lige over for bordet, på Mishkans sydside.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "og han satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorahen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorahen"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "i teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "lige over for"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "siden af"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "mod syd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:27.925579120Z",
+  "model": "glm-5.3"
+}

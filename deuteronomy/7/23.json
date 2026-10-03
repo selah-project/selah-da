@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Jahve, din Elohim, vil give dem i dit åsyn og kaste dem i stor forvirring, indtil de ⟨er⟩ udryddet.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "og give dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "i dit åsyn"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "og kaste i forvirring"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "forvirring"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "de er udryddet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:46.976205694Z",
+  "model": "glm-5.3"
+}

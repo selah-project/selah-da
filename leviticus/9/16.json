@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han bar ⟨את⟩ brændofferet frem og gjorde det efter forskriften.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "og han bar frem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "og gjorde det"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "efter forskriften"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:39.100375641Z",
+  "model": "glm-5.3"
+}

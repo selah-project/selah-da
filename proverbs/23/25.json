@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Din far og din mor skal glæde sig, og hun der fødte dig skal juble.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "skal glæde sig"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "og din mor"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "og skal juble"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "hun der fødte dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:10.598650218Z",
+  "model": "glm-5.3"
+}

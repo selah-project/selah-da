@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Da Jisrael var barn, elskede jeg ham, og ud af Mitsrajim kaldte jeg på min søn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "נער",
+      "gloss": "var barn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "elskede jeg ham"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "og ud af Mitsrajim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kaldte jeg"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "på min søn"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:22.185483174Z",
+  "model": "glm-5.3"
+}

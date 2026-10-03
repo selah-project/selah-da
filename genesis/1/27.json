@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim skabte ⟨את⟩ mennesket i sit billede; i Elohims billede skabte han ⟨את⟩ det; som mand og kvinde skabte han ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "og skabte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "i sit billede"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "i billedet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skabte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "som mand"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "og kvinde"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skabte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:46.724854661Z",
+  "model": "glm-5.3"
+}

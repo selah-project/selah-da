@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 127,
+  "translation": "Forgæves for jer, ⟨I⟩ som står tidligt op, ⟨I⟩ som lægger jer sent, ⟨I⟩ som spiser smertens brød — sådan giver han sin elskede søvn.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "forgæves"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "som står tidligt op"
+    },
+    {
+      "surface": "קום",
+      "gloss": "op"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sent"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "lægger jer"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "som spiser"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "af smerte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver han"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "sin elskede"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "søvn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:27.960586726Z",
+  "model": "glm-5.3"
+}

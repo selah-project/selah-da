@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Bedre ⟨er⟩ ydmyghed af ruach sammen med ⟨את⟩ de fattige end at dele bytte ⟨את⟩ de stolte.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ydmyghed"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fattige"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "de fattige"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "at dele"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bytte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de stolte"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "de stolte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:20.448658192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han satte ⟨את⟩ karret mellem mødeteltet og alteret og gav vand deri til afvaskning.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "og han satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karret"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "karret"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "deri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "til afvaskning"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:00.638234448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og de skal tage ⟨את⟩ guldet og ⟨את⟩ techelet og ⟨את⟩ argaman og ⟨את⟩ tola'at ha-shani og ⟨את⟩ sheshet.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guldet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "techelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "techelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "tola'at ha-shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tola'at"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ha-shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sheshet"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:53.271929371Z",
+  "model": "glm-5.3"
+}

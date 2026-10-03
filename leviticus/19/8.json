@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og den som spiser det, skal bære sin misgerning, fordi han har vanhelliget ⟨את⟩ Jahves hellige; og den sjæl skal udryddes fra sit folk.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Og den som spiser det"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sin misgerning"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal bære"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hellige"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "har vanhelliget"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "og skal udryddes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "den sjæl"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "fra sit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:21.466887346Z",
+  "model": "glm-5.3"
+}

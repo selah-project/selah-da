@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og oversten for bøddlerne tog ⟨את⟩ Serajah, ypperstepræsten, og ⟨את⟩ Tsefanjah, den næstøverste præst, og ⟨את⟩ de tre dørvogtere.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "רב",
+      "gloss": "oversten"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "for bøddlerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præst"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ypperste-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Tsefanjah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præst"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "den næstøverste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de tre dørvogtere"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "de tre"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vogtere"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "dør-"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:07.264800709Z",
+  "model": "glm-5.3"
+}

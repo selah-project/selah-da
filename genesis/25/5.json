@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Avraham gav ⟨את⟩ alt, hvad han ejede, til Jitschak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og … gav"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt, hvad han ejede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han ejede"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "til Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:57.762682457Z",
+  "model": "glm-5.3"
+}

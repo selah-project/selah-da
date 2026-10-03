@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Moshe sagde til menigheden: Dette er det ord, som Jahve har befalinget at gøre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "er det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har befalinget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:02.044655387Z",
+  "model": "glm-5.3"
+}

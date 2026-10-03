@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Brødet af hans Elohim, af det højhellige og af det hellige, må han spise.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "af hans Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "af det højhellige"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "helligeste"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og af"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må han spise"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:36.782887573Z",
+  "model": "glm-5.3"
+}

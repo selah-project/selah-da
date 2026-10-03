@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Så sandt El lever, han som har vendt min ret bort, og Shaddaj, han som har gjort min sjæl bitter —",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "har vendt bort"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min ret"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "og Shaddaj"
+    },
+    {
+      "surface": "המר",
+      "gloss": "har gjort bitter"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:30.809009003Z",
+  "model": "glm-5.3"
+}

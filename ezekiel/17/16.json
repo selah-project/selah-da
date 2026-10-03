@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Så sandt jeg lever, siger Adonaj Jahve: Ikke i stedet for ⟨את⟩ kongen, han som gjorde ham til konge, hvis ed han foragtede, og hvis pagt han brød — ⟨את⟩ ham, i Babylons midte, skal han dø!",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Så sandt jeg lever"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "han som gjorde til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "kongen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "han foragtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans ed"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "hans ed"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pagt han brød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans pagt"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "hans pagt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (i Babylons midte)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i midten af"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal han dø"
+    }
+  ],
+  "timestamp": "2026-10-03T17:35:58.892535347Z",
+  "model": "glm-5.3"
+}

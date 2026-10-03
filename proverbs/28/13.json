@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den, der skjuler sine overtrædelser, skal ikke have fremgang, men den, der bekender og forlader ⟨dem⟩, får barmhjertighed.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "skjuler"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "sine overtrædelser"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "skal have fremgang"
+    },
+    {
+      "surface": "ו מודה",
+      "gloss": "men den, der bekender"
+    },
+    {
+      "surface": "ו עזב",
+      "gloss": "og forlader"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "får barmhjertighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:50.793299977Z",
+  "model": "glm-5.3"
+}

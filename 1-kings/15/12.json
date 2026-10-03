@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og han bortdrev de hellige fra landet og fjernede ⟨את⟩ alle afguderne, som hans fædre havde gjort.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Og han bortdrev"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de hellige"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "og fjernede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle afguderne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "afguderne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:06.209690844Z",
+  "model": "glm-5.3"
+}

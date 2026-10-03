@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og kongen sagde til dem: En drøm har jeg drømt, og min ruach er rystet over at kende ⟨את⟩ drømmen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "en drøm"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "har jeg drømt"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "og er rystet"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ruach"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "over at kende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drømmen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "drømmen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:24.601502489Z",
+  "model": "glm-5.3"
+}

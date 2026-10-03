@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 128,
+  "translation": "En sang ved opstigningerne. Salig er enhver, der frygter Jahve, han som vandrer på hans veje.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningerne"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "der frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "han som vandrer"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "på hans veje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:04.500590945Z",
+  "model": "glm-5.3"
+}

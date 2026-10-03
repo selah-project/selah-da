@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han slog ⟨את⟩ Moab, og moabiterne blev trælle for David, som bar mincha frem.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "og han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de blev"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabiterne"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "som bar frem"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    }
+  ],
+  "timestamp": "2026-10-03T19:16:21.363793940Z",
+  "model": "glm-5.3"
+}

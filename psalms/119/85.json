@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Overmodige har gravet gruber for mig — ⟨de⟩, som ⟨ikke er⟩ efter din Tora.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "har gravet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "overmodige"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "gruber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "efter din Tora"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:59.483591186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "og har kastet ⟨את⟩ deres guder i ilden — for de er ikke guder, men mænds hænders værk, træ og sten — og de tilintetgjorde dem.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "og har kastet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres guder"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres guder"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(kun)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hænders"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mænds"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og sten"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "og de tilintetgjorde dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:12.094899674Z",
+  "model": "glm-5.3"
+}

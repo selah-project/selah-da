@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den, der tilbageholder korn, ham forbander folkene, men velsignelse ⟨kommer⟩ over hovedet på den, der sælger korn.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "den der tilbageholder"
+    },
+    {
+      "surface": "בר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "forbander ham"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "men velsignelse"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "over hovedet på"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "den der sælger korn"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:40.589462086Z",
+  "model": "glm-5.3"
+}

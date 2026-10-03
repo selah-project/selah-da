@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun fødte en søn, og han kaldte ⟨את⟩ hans navn Gershom, for han sagde: Fremmed har jeg været i et fremmed land.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "og hun fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han sagde"
+    },
+    {
+      "surface": "גר",
+      "gloss": "fremmed"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jeg været"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i et land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "fremmed"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:35.287640851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Drag dit chesed ud til dem, der kender dig, og din tsedek til de oprigtige af hjertet.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "drag ... ud"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dit chesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "til dem der kender dig"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "og din tsedek"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "til de oprigtige"
+    },
+    {
+      "surface": "לב",
+      "gloss": "af hjertet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:24.699693046Z",
+  "model": "glm-5.3"
+}

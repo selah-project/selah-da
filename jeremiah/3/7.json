@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg sagde: Efter at hun havde gjort ⟨את⟩ alt dette — vend tilbage til mig! Men hun vendte ikke tilbage, og det så den troløse søster Jehuda.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "at hun havde gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt dette"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "og så"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "den troløse"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "søster"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:15.348451051Z",
+  "model": "glm-5.3"
+}

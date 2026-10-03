@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Hvem kan fortælle Jahves vældige gerninger, lade al hans pris lyde?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "kan fortælle"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "vældige gerninger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "lade … lyde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans pris"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:41.534132596Z",
+  "model": "glm-5.3"
+}

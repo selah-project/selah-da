@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Vær mig nådig, Jahve; se min elendighed ⟨fra⟩ dem, der hader mig, du, som løfter mig op fra dødens porte.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Vær mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min elendighed"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "fra dem der hader mig"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "du som løfter mig op"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "fra portene"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:54.157326976Z",
+  "model": "glm-5.3"
+}

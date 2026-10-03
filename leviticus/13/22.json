@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Men hvis den breder sig meget ud på huden, skal præsten erklære ham uren: det er et plage.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men hvis"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "breder sig"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "meget ud"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "på huden"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "skal erklære uren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "et plage"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:49.864063148Z",
+  "model": "glm-5.3"
+}

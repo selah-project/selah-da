@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og hele folket så ⟨את⟩ lydene og ⟨את⟩ lysglimtene og ⟨את⟩ shofarens lyd og ⟨את⟩ bjerget, der rygede; og folket så ⟨det⟩ og skælvede og trådte til side og stod langt borte.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lydene"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "lydene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lysglimtene"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "lysglimtene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shofarens lyd"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyd"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofarens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bjerget"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "der rygede"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og ⟨det⟩ så"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "og skælvede"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "langt borte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:50.164252177Z",
+  "model": "glm-5.3"
+}

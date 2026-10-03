@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg er din — frels mig, for jeg har søgt dine påbud.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "frels mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine påbud"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "har jeg søgt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:45.678823674Z",
+  "model": "glm-5.3"
+}

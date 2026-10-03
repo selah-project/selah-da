@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jahve har svoret ved Jaakovs pragt: Sandelig, jeg glemmer aldrig nogensinde alle deres gerninger.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ved ... pragt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sandelig ikke"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "jeg glemmer"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nogensinde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "deres gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T17:55:16.591485421Z",
+  "model": "glm-5.3"
+}

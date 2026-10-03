@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det skete ved udgangen af tyve år, i hvilke Shlomo havde bygget Jahves hus og sit eget hus,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ved udgangen af"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i hvilke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "havde bygget"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sit eget hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit eget hus"
+    }
+  ],
+  "timestamp": "2026-10-03T19:20:56.567967323Z",
+  "model": "glm-5.3"
+}

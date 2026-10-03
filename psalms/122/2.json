@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 122,
+  "translation": "Vore fødder står ⟨stille⟩ inden for dine porte, Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "står ⟨stille⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Vore fødder"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "inden for dine porte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:53.068401887Z",
+  "model": "glm-5.3"
+}

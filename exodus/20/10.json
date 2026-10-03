@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "men den syvende dag er Shabbat for Jahve, din Elohim; du må ikke gøre noget arbejde, du, og din søn, og din datter, din træl, og din trælkvinde, og dit kvæg, og den fremmede, som er i dine porte —",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "men dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du må gøre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noget"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "og din søn"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "og din datter"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "og din trælkvinde"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "og dit kvæg"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "og den fremmede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "i dine porte"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:02.032518485Z",
+  "model": "glm-5.3"
+}

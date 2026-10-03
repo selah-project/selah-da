@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "På den første dag skal der være en hellig sammenkaldelse for jer; alt arbejde af tjenerskab må I ikke gøre.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På den første dag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "sammenkaldelse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "af tjenerskab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "må I gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:21.279319247Z",
+  "model": "glm-5.3"
+}

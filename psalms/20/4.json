@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Han komme alle dine minchaer i hu og gøre din brændoffer fedt — sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Han komme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "dine minchaer"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "og din brændoffer"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "gøre fedt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:37.152771394Z",
+  "model": "glm-5.3"
+}

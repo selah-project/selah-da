@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Den gamle løve omkommer, fordi der ikke er bytte, og løvindens unger spredes for vind.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "den gamle løve"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "omkommer"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "fordi der ikke er"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "bytte"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og ungerne"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "af løvinden"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "spredes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:28.972088063Z",
+  "model": "glm-5.3"
+}

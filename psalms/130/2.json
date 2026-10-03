@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Adonaj, hør min røst! Dine ører ⟨skal være⟩ åbne for røsten af mine bønner.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hør"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨skal være⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "dine ører"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "åbne (opmærksomme)"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "for røsten af"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mine bønner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:52.013054521Z",
+  "model": "glm-5.3"
+}

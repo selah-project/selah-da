@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Har du ikke forkastet os, Elohim, og går du ikke ud, Elohim, med vores hære?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Har du ikke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "forkastet os"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går du ud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "med vores hære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.937977709Z",
+  "model": "glm-5.3"
+}

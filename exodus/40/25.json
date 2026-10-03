@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han satte lamperne op foran Jahve, således som Jahve havde påbudt ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "og han satte op"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lamperne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:54.742133780Z",
+  "model": "glm-5.3"
+}

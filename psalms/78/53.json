@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han førte dem trygt, og de frygtede ikke, og ⟨את⟩ deres fjender dækkede havet.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "og han førte"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "trygt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "frygtede de"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres fjender"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "dækkede"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:30.075647507Z",
+  "model": "glm-5.3"
+}

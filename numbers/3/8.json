@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de skal vogte ⟨את⟩ alle redskaberne i mødeteltet og ⟨את⟩ vagten for Jisraels børn, ved at udføre ⟨את⟩ tjenesten ved Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Og de skal vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle redskaberne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "redskaberne"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagten"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vagten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ved at udføre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjenesten"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tjenesten"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ved Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:10.944803856Z",
+  "model": "glm-5.3"
+}

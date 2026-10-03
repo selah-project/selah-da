@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 110,
+  "translation": "Han dømmer blandt folkene, han fylder ⟨med⟩ lig, knuser hovedet over et vidt land.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fylder"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "lig"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "knuser"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vidt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.510577757Z",
+  "model": "glm-5.3"
+}

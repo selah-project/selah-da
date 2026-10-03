@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Godt er det for ⟨den⟩ mand, der viser nåde og låner ud; han ordner sine sager med ret.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "viser nåde"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "og låner ud"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ordner"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sine sager"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "med ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:34.753029332Z",
+  "model": "glm-5.3"
+}

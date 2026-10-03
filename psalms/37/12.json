@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Den onde planlægger mod ⟨den⟩ retfærdige og skærer tænder imod ham.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "planlægger"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mod ⟨den⟩ retfærdige"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "og skærer tænder"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "imod ham"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:06.875058776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Arfachshad avlede ⟨את⟩ Shelach, og Shelach avlede ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Og Arfachshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "og Shelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:30.934512485Z",
+  "model": "glm-5.3"
+}

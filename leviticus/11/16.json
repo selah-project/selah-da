@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og ⟨את⟩ strudsen og ⟨את⟩ natsværmen og ⟨את⟩ mågen og ⟨את⟩ høgen efter dens art,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "strudsen"
+    },
+    {
+      "surface": "בת",
+      "gloss": "strudsen"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "(fuglen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "natsværmen"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "natsværmen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mågen"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "mågen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "høgen"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "høgen"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter dens art"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:53.625120003Z",
+  "model": "glm-5.3"
+}

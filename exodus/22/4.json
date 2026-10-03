@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Når en mand lader en mark eller en vingård afgræsse og slipper ⟨את⟩ sit kvæg løs, så det græsser på en andens mark, skal han erstatte af det bedste af sin egen mark og af det bedste af sin vingård.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "lader afgræsse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "en mark"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "en vingård"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "og slipper"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit kvæg"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "sit kvæg"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "så det græsser"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på mark"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en andens"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "det bedste af"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sin egen mark"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "og det bedste af"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "sin vingård"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal han erstatte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:46.212891185Z",
+  "model": "glm-5.3"
+}

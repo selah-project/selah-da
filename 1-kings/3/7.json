@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og nu, Jahve min Elohim, du har gjort ⟨את⟩ din træl til konge i stedet for David, min far, men jeg er en lille dreng; jeg ved ikke, hvordan jeg skal gå ud og ind.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "har gjort til konge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din træl"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dreng"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "lille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ved jeg"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "at gå ud"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og ind"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:42.822309014Z",
+  "model": "glm-5.3"
+}

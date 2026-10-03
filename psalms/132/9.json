@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Dine præster skal iføres sig tsedek, og dine chasidim skal juble.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "dine præster"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "skal iføres sig"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "og dine chasidim"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "skal juble"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:36.051361735Z",
+  "model": "glm-5.3"
+}

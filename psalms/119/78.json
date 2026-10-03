@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Må de overmodige skammes, for med løgn har de forvredet ⟨את⟩ mig; jeg grubler over dine vedtægter.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "skammes"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "de overmodige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "har de forvredet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "grubler"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "over dine vedtægter"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:26.386476106Z",
+  "model": "glm-5.3"
+}

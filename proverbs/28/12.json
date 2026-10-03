@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Når de retfærdige jubler, ⟨er⟩ der stor herlighed; men når de gudløse rejser sig, må mennesker skjule sig.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "når ... jubler"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "men når ... rejser sig"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "skjule sig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:06.476287765Z",
+  "model": "glm-5.3"
+}

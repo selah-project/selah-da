@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Chiram gik ud fra Tsor for at se ⟨את⟩ de byer, som Shelomo havde givet ham; men de var ikke behagelige i hans øjne.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "fra Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de byer"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "de byer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "havde givet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "var ret\/behagelige"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:55.633910348Z",
+  "model": "glm-5.3"
+}

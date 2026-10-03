@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og ⟨את⟩ alt dets fedt skal han løfte fra det og bringe det i røg på alteret.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt dets fedt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "dets fedt"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "skal han løfte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra det"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og bringe i røg"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:56.060479909Z",
+  "model": "glm-5.3"
+}

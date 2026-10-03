@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "I forgårdene ved Jahves hus, i din midte, Jerushalajim. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "i forgårdene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "i din midte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja — lovpriser"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:56.233128328Z",
+  "model": "glm-5.3"
+}

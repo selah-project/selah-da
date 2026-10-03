@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han kom helt hen foran kongens port, for der var ikke lov at komme ind ad kongens port i sækdragt.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Og han kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt hen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der var ikke"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "at komme ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "i sækdragt"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sæk"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:55.664410829Z",
+  "model": "glm-5.3"
+}

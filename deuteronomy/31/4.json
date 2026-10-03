@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Jahve vil gøre mod dem, som han gjorde mod Sichon og Og, kongerne af emoriterne, og mod deres land, dem som han udryddede ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og vil gøre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "mod Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "og mod Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne af"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriterne"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "og mod deres land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem som"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "udryddede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "Sichon og Og"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:46.920333832Z",
+  "model": "glm-5.3"
+}

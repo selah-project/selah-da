@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Du skal kaste dem op i vinden, og stormen skal sprede dem; og du skal juble i Jahve, Israels Hellige skal du prise.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Du skal kaste dem op"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og vinden"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "skal bære dem"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "og stormen"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "skal sprede dem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (bjergene og højdene)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "Israels Hellige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "skal du prise"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:05.316467830Z",
+  "model": "glm-5.3"
+}

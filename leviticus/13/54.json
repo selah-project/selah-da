@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "så skal præsten byde, at man vasker ⟨את⟩ det, som plagen er i, og det skal spærres inde i syv dage for anden gang.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "så skal præsten byde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "at man vasker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som plagen er i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er i"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "plagen"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "og det skal spærres inde"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "for anden gang"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:10.997969666Z",
+  "model": "glm-5.3"
+}

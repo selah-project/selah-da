@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han siger i sit hjerte: El har glemt, han skjuler sit ansigt, han ser aldrig ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Han siger"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sit hjerte"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "har glemt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "han skjuler"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aldrig"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i evighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:38.851283861Z",
+  "model": "glm-5.3"
+}

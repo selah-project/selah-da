@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og dens tyve søjler og deres tyve sokler af kobber, og søjlernes kroge og deres stænger af sølv.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Og dens søjler"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "og deres sokler"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kobber"
+    },
+    {
+      "surface": "ואדניהם עשרים נחשת — ווי",
+      "gloss": "kroge"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "søjlernes"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "og deres stænger"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "af sølv"
+    }
+  ],
+  "timestamp": "2026-10-03T14:42:46.527121305Z",
+  "model": "glm-5.3"
+}

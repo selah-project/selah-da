@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Hvem iblandt jer giver øre til dette? Hvem ægger ørerne og hører, hvad der kommer ⟨bagefter⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "iblandt jer"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "giver øre"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "til dette"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "ægger ørerne"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hører"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "for fremtiden"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:58.256421301Z",
+  "model": "glm-5.3"
+}

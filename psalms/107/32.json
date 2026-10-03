@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "og ære ham i folkets forsamling og lovprise ham i de ældes kreds.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "og ære ham"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i forsamlingen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "og i kredsen"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "de ældes"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "lovprise de ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:55.671482457Z",
+  "model": "glm-5.3"
+}

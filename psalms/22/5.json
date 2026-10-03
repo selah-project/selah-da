@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "I dig stole vore fædre; de stolede, og du undsatte dem.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "stole"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "vore fædre"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "stolede"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "og du undsatte dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.516476072Z",
+  "model": "glm-5.3"
+}

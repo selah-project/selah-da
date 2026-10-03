@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og han sagde: Kom ⟨את⟩ med mig, og se min nidkærhed for Jahve. Og de lod ham ride på hans vogn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ med mig"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "min nidkærhed"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "Og de lod ham ride"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "på hans vogn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:47.423127428Z",
+  "model": "glm-5.3"
+}

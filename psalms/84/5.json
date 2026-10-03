@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Salige er de, som bor i dit hus; stadig lover de dig. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "de, som bor"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "i dit hus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "lover de dig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:29.444334033Z",
+  "model": "glm-5.3"
+}

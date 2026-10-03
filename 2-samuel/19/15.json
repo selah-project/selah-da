@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og han bøjede ⟨את⟩ hjertet hos alle mændene i Jehuda som én mand, og de sendte bud til kongen: Vend tilbage, du og alle dine trælle.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "og han bøjede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjertet"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "som én mand"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "og de sendte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:12.721084408Z",
+  "model": "glm-5.3"
+}

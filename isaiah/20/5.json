@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og de blev forfærdede og skamfulde over Kush, deres forventning, og over Mitsrajim, deres pragt.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "og de blev forfærdede"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "og skamfulde"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "over Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "deres forventning"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "deres pragt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:11.345842149Z",
+  "model": "glm-5.3"
+}

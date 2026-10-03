@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og kongen rakte Ester ⟨את⟩ guldscepteret, og Ester rejste sig og stod foran kongen.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Og rakte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "til Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldscepteret"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "scepteret"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "og rejste sig"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:36.987501417Z",
+  "model": "glm-5.3"
+}

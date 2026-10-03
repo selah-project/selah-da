@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal tage ⟨את⟩ den anden vædder, og Aharon og hans sønner skal lægge ⟨את⟩ deres hænder på vædderens hoved.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Og du skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den anden vædder"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "og skal lægge"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "af vædderen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:05.714994930Z",
+  "model": "glm-5.3"
+}

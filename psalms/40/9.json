@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "At gøre din velbehag, min Elohim, har jeg lyst til, og din Tora er i mit indres midte.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "din velbehag"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "har jeg lyst til"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og din Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i midten af"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mit indre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:57.530377955Z",
+  "model": "glm-5.3"
+}

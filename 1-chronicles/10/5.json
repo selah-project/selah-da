@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og da hans våbendrager så, at Shaul var død, faldt også han på sværdet og døde.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og da … så"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "våbendrager"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var død"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "faldt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:48.718087696Z",
+  "model": "glm-5.3"
+}

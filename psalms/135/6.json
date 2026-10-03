@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Alt hvad Jahve ville, gjorde ⟨han⟩ — i himlene og på jorden, i havene og alle dybder.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "og på jorden"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i havene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dybder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:19.371850135Z",
+  "model": "glm-5.3"
+}

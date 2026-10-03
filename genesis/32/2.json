@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jaakov gik sin vej, og Elohims sendebud mødte ham.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Og Jaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sin vej"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "og mødte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Elohims sendebud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:07.976999854Z",
+  "model": "glm-5.3"
+}

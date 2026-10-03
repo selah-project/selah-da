@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "og kaaten og ⟨את⟩ rachamaen og ⟨את⟩ shalaken",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "og kaaten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rachamaen"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rachamaen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shalaken"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalaken"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:37.188100547Z",
+  "model": "glm-5.3"
+}

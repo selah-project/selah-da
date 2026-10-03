@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og jeg vil give jer barmhjertighed, og han vil forbarme sig over jer ⟨את⟩ og føre jer ⟨את⟩ tilbage til jeres egen jord.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Og jeg vil give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "barmhjertighed"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "og han vil forbarme sig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "over jer"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "og føre tilbage"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jeres egen jord"
+    }
+  ],
+  "timestamp": "2026-10-03T17:26:20.046414998Z",
+  "model": "glm-5.3"
+}

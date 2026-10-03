@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "Lov ⟨את⟩ Jahve fra jorden, havdrager og alle dyb!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "havdrager"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "dyb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:06.246247922Z",
+  "model": "glm-5.3"
+}

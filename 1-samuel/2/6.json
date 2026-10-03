@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jahve dræber og gør levende, han fører ned til Sheol og fører op.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "dræber"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "og gør levende"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "fører ned"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "til Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og fører op"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:33.993981204Z",
+  "model": "glm-5.3"
+}

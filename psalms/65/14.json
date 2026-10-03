@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Klædte ⟨er⟩ fårefoldene med får, og dalene svøbes i korn; de juble, ja de synger.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "klædte ⟨er⟩"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "fårefoldene"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "med får"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "og dalene"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "svøbes"
+    },
+    {
+      "surface": "בר",
+      "gloss": "i korn"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "de juble"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "de synger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:01.304393260Z",
+  "model": "glm-5.3"
+}

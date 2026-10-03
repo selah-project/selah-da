@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Jeg er glemt som en død mand, ude af hjertet; jeg er blevet som et kar, der går til grunde.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "er glemt"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "som en død"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "ud af hjertet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "som et kar"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "der går til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:35.663795933Z",
+  "model": "glm-5.3"
+}

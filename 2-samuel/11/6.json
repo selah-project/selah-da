@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og David sendte til Joav: Send mig Urija hititen. Og Joav sendte Urija til David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og David sendte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Send"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hititen"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Og Joav sendte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:39.780656090Z",
+  "model": "glm-5.3"
+}

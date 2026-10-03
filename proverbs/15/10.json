@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Tug er ond for den, der forlader stien; den, der hader rivelse, skal dø.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "Tug"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "for den, der forlader"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stien"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "den, der hader"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "rivelse"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:06.808173743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Den rådige låner og betaler ikke igen, men den tsedik-rette er nådig og giver.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "låner"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den rådige"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "betaler igen"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "men den tsedik-rette"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "er nådig"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "og giver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:24.520437023Z",
+  "model": "glm-5.3"
+}

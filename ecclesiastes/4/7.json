@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og jeg vendte tilbage, jeg, og så hevel under solen.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Og vendte tilbage"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "og så"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:57.308886443Z",
+  "model": "glm-5.3"
+}

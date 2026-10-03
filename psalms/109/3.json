@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og hadets ord har omgivet mig, og de bekæmpede mig uden grund.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Og ord"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "had"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "har omgivet mig"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "og de bekæmpede mig"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "uden grund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:41.528496267Z",
+  "model": "glm-5.3"
+}

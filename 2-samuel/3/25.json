@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Du kender ⟨את⟩ Avner, søn af Ner — at han kom for at bedrage dig, og for at kende ⟨את⟩ dit udgang og ⟨את⟩ dit indgang, og for at kende ⟨את⟩ alt det, som du gør.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Du kender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "for at bedrage dig"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "og for at kende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit udgang"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "dit udgang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dit indgang"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "dit indgang"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "og for at kende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:04.674218378Z",
+  "model": "glm-5.3"
+}

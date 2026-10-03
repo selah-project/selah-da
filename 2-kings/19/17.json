@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Sandelig, Jahve, Assurs konger har lagt ⟨את⟩ folkeslagene og ⟨את⟩ deres land øde.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sandelig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "har lagt øde"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkeslagene"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:42.343179397Z",
+  "model": "glm-5.3"
+}

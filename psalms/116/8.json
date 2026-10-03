@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "For du har friet min sjæl fra døden, ⟨את⟩ mit øje fra tårer, ⟨את⟩ min fod fra fald.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "har du friet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "fra døden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit øje"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tårer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min fod"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "min fod"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "fra fald"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:15.078304409Z",
+  "model": "glm-5.3"
+}

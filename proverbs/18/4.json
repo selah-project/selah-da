@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Ordene fra en mands mund er dybe vande, en bæk der vælder frem, en kilde til visdom.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vande"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "dybe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fra ... mund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "en bæk"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "der vælder frem"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "en kilde"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:47.668122443Z",
+  "model": "glm-5.3"
+}

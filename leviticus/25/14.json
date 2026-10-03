@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og når I sælger en salgsgenstand til jeres næste, eller køber af jeres næstes hånd, skal I ikke undertrykke, en mand ⟨את⟩ sin broder.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og når"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "I sælger"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "en salgsgenstand"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "til jeres næste"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "køber"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånd"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "jeres næste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "skal I undertrykke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:25.752560264Z",
+  "model": "glm-5.3"
+}

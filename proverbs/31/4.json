@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Ikke for konger, Lemuel, ikke for konger at drikke vin, og ikke for rådgivere at begære stærk drik —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "for konger"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "for konger"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "at drikke"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "og for rådgivere"
+    },
+    {
+      "surface": "או",
+      "gloss": "at begære"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "stærk drik"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:23.734037800Z",
+  "model": "glm-5.3"
+}

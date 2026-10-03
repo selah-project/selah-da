@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Da frygtede Jaakov meget, og det blev trangt for ham; og han delte ⟨את⟩ folket, som ⟨את⟩ var hos ham, og ⟨את⟩ småkvæget og ⟨את⟩ kvæget og kamelerne i to lejre.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Da frygtede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "og det blev trangt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "og han delte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ var hos ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "småkvæget"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "småkvæget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kvæget"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "og kamelerne"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "i to"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "lejre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:24.818378563Z",
+  "model": "glm-5.3"
+}

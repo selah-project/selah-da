@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Flyt ikke en ⟨evig⟩ grænse, og i fædreløses marker må du ikke komme.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "flyt"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "en grænse"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨evig⟩ gammel"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "og i marker"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "fædreløses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "må du komme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:23.969054761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Deres bord blive foran dem til en snare, og for deres fred til en fælde.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "blive"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "deres bord"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "foran dem"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "til en snare"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "og for deres fred"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "til en fælde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:08.651977190Z",
+  "model": "glm-5.3"
+}

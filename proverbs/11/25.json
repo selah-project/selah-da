@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "En sjæl af velsignelse bliver fed, og den, der vander, bliver også selv vandet.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "velsignelse"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "bliver fed"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "og den der vander"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨han⟩"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "bliver vandet"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:40.589111872Z",
+  "model": "glm-5.3"
+}

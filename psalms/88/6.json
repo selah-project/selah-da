@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Blandt de døde ⟨er jeg⟩ fri, som gennemstungne, der ligger i graven, dem du ikke mere husker, og de er skåret fra din hånd.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "blandt de døde"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "fri"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "gennemstungne"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "der ligger"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "i graven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "du husker"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "og de"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "fra din hånd"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "er skåret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:27.770989751Z",
+  "model": "glm-5.3"
+}

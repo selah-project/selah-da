@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og pigen løb og fortalte det til sin moders hus, efter disse ord.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "Og pigen løb"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pigen"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "til ... hus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sin moders"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "efter ... ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:19.832629591Z",
+  "model": "glm-5.3"
+}

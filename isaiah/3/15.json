@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hvad ⟨betyder det⟩, at I knuser mit folk og maler de fattiges ansigter? siger Adonaj, Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "Hvad ⟨betyder det⟩"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "knuser"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "og ... ansigter"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "de fattiges"
+    },
+    {
+      "surface": "תטחנu",
+      "gloss": "maler"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:36.560610621Z",
+  "model": "glm-5.3"
+}

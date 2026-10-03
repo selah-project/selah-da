@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 142,
+  "translation": "En maskil af David, da han var i hulen — en bøn.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "da han var"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "i hulen"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "en bøn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:08.993339470Z",
+  "model": "glm-5.3"
+}

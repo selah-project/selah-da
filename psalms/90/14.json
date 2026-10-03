@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Mæt os om morgenen med din chesed, så vi kan juble og glæde os alle vore dage.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "mæt os"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "så vi kan juble"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "og glæde os"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "vore dage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.408867854Z",
+  "model": "glm-5.3"
+}

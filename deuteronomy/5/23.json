@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og det skete, da I hørte ⟨את⟩ røsten ud af mørket, mens bjerget brændte i ild, trådte I frem til mig, alle høvdingerne for jeres stammer og jeres ældste.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "da I hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "røsten"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "røsten"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ud af"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mørket"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "mens bjerget"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "trådte I frem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "for jeres stammer"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "og jeres ældste"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:19.379263805Z",
+  "model": "glm-5.3"
+}

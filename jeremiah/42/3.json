@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Jahve, din Elohim, må kundgøre os ⟨את⟩ vejen, vi skal gå på den, og ⟨את⟩ det ord, vi skal gøre.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "må kundgøre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vejen"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vi skal gå"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vi skal gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:53.406026519Z",
+  "model": "glm-5.3"
+}

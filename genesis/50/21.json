@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og nu, frygt ikke: jeg skal forsørge jer og ⟨את⟩ jeres små børn. Og han trøstede dem og talte til deres hjerte.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "skal forsørge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jeres små børn"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "jeres små børn"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "og han trøstede"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:32.921893615Z",
+  "model": "glm-5.3"
+}

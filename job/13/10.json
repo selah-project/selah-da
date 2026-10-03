@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Visselig vil han irettesætte ⟨את⟩ jer, hvis I i det skjulte løfter ⟨ansigter⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "visselig"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "vil irettesætte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i det skjulte"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansigter"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "løfter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:57.669571261Z",
+  "model": "glm-5.3"
+}

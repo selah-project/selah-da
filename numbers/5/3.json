@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Både mand og kvinde skal I sende ud; uden for lejren skal I sende dem, for at de ikke skal gøre ⟨את⟩ deres lejre urene, jeg bor midt iblandt dem.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "både mand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "kvinde"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "skal I sende ud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "skal I sende dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "for at... ikke"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "skal gøre urene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres lejre"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "deres lejre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bor"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "midt iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:06:04.089257634Z",
+  "model": "glm-5.3"
+}

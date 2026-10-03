@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joel 1:13",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Omgjord jer og klage, I præster; hyl, I tjenere ved alteret; kom, overnatten i sækkladning, I tjenere for min Elohim! For fra huset for jeres Elohim er mincha og drikoffer bleven tilbageholdt.",
+  "tokens": [
+    {
+      "surface": "חגרו",
+      "gloss": "omgjord jer"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "og klage"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "I præster"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "hyl"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "I tjenere"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ved alteret"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "overnatten"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "i sækkladning"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "I tjenere"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "for min Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נמנע",
+      "gloss": "er blevet tilbageholdt"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra huset"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "for jeres Elohim"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "og drikoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:31.185463109Z",
+  "model": "glm-5.3"
+}

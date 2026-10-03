@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Syng for Jahve, væelsign hans navn, forkynd fra dag til dag hans frelse!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "væelsign"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "forkynd"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "fra dag"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "til dag"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "hans frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.417073271Z",
+  "model": "glm-5.3"
+}

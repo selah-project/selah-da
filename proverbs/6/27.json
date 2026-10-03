@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Kan en mand bære ild i sin barm, uden at hans klæder brænder?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "Kan bære"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "i sin barm"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "og hans klæder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "brænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:03.856057740Z",
+  "model": "glm-5.3"
+}

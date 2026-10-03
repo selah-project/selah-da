@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "I dovensk synker taget sammen, og i hæders-sløvhed drypper huset.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "I dovensk"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "synker sammen"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "taget"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "og i sløvhed"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "af hænder"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "drypper"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:28.973484197Z",
+  "model": "glm-5.3"
+}

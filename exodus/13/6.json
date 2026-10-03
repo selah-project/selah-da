@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "I syv dage skal du spise usyret brød, og på den syvende dag er der højtid for Jahve.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal du spise"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "usyret brød"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "og på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    },
+    {
+      "surface": "חג",
+      "gloss": "højtid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:35.092951950Z",
+  "model": "glm-5.3"
+}

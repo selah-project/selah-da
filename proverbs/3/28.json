@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Sig ikke til din næste: Gå bort og kom igen, og i morgen giver jeg — når du har det hos dig ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sig"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "til din næste"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå bort"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "og kom igen"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "og i morgen"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "når du har"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig",
+      "marks": "det, du har hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:16.997098031Z",
+  "model": "glm-5.3"
+}

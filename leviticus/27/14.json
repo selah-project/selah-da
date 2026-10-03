@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis en mand helliger sit hus som helligt for Jahve, skal præsten takere det, enten det er godt eller dårligt; som præsten takerer det ⟨את⟩, således skal det stå fast.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "og hvis en mand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "helliger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "som helligt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "skal præsten takere det"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "בין",
+      "gloss": "enten"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dårligt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "takerer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skal det stå fast"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:48.988776653Z",
+  "model": "glm-5.3"
+}

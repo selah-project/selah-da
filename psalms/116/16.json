@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Åh, Jahve! Jeg er jo din træl, jeg er din træl, din trælkvindes søn; du har løst mine lænker.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Åh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trælkvinde"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "du har løst"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mine lænker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:07.821659340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og folket sagde til Shemuel: Hvem er han, der sagde: Skal Shaul være konge over os? Giv os mændene, så vi kan dræbe dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "er han, der sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "skal være konge"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "så vi kan dræbe dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:28.624742136Z",
+  "model": "glm-5.3"
+}

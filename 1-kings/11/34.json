@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 11:34",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg vil ikke tage ⟨את⟩ hele kongeriget af hans hånd, men jeg vil gøre ham til høvding alle sit livs dage, for Davids, min tjeners, skyld, hvem jeg udvalgte ⟨את⟩ ⟨ham⟩, han som holdt mine bud og mine forskrifter.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "vil jeg tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele kongeriget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "af hans hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "vil jeg gøre ham til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "af hans liv"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for skyld"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min tjener"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jeg udvalgte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ham⟩",
+      "marks": "David, min tjener"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "holdt"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mine bud"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "og mine forskrifter"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:13.813931398Z",
+  "model": "glm-5.3"
+}

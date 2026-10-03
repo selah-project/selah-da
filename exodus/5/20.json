@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og de mødte ⟨את⟩ Moshe og ⟨את⟩ Aharon, som stod over for dem, da de gik ud fra ⟨את⟩ Farao.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Og de mødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "som stod"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "over for dem"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "da de gik ud"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:00.069496750Z",
+  "model": "glm-5.3"
+}

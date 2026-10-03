@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Sådan skal I ikke gøre for Jahve jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "skal I gøre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:57.794799999Z",
+  "model": "glm-5.3"
+}

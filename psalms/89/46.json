@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Dagene af hans ungdom har du forkortet, du har hylet ham i skam. Sela.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "har du forkortet"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagene"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "af hans ungdom"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "har du hylet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "i skam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:15.326546507Z",
+  "model": "glm-5.3"
+}

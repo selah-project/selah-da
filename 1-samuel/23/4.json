@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David spurgte endnu engang Jahve, og Jahve svarede ham og sagde: Stå op, gå ned til Keila, for jeg giver ⟨את⟩ filisterne i din hånd.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "og tilføjede"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "at spørge"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "og svarede ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "קום",
+      "gloss": "stå op"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gå ned"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "til Keila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:23.730921740Z",
+  "model": "glm-5.3"
+}

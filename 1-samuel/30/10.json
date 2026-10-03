@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og David forfulgte, han og fire hundrede mænd; og to hundrede mænd blev stående, fordi de var udmattede og ikke kunne komme over ⟨את⟩ Besor-bækken.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "og forfulgte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "og fire"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "og blev stående"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "to hundrede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "var udmattede"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "til at komme over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Besor-bækken"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bækken"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:41.530379347Z",
+  "model": "glm-5.3"
+}

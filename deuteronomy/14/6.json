@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og ethvert dyr, der deler klovnen og sprækker kløven ⟨i⟩ to dele og opgylper drøv blandt dyrene — ⟨את⟩ det dyr må I spise.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og ethvert"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "der deler"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klovnen"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "og sprækker"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "kløven"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "dele (klove)"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "opgylper"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "drøv"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "blandt dyrene"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det dyr"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:31.786844327Z",
+  "model": "glm-5.3"
+}

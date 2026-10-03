@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Thi jeg blev misundelig på de hovmodige, da jeg så de ugudeliges velstand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "jeg blev misundelig"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "på de hovmodige"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "velstand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ugudeliges"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "da jeg så"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:16.671672186Z",
+  "model": "glm-5.3"
+}

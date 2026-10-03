@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og min sjæl skal juble i Jahve, den skal fryde sig i hans frelse.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Og min sjæl"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "skal fryde sig"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "i hans frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:39.877943771Z",
+  "model": "glm-5.3"
+}

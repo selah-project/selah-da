@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "For med dig kan jeg storme en krigsskare, og med min Elohim kan jeg springe over en mur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kan jeg storme"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "en krigsskare"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "og med min Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "kan jeg springe over"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en mur"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:37.795048529Z",
+  "model": "glm-5.3"
+}

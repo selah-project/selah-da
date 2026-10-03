@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og den, der ikke vendte sit hjerte mod Jahves ord, lod ⟨את⟩ sine tjenere og ⟨את⟩ sit kvæg blive i marken.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Og den, der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sit hjerte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "lod … blive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine tjenere"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine tjenere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sit kvæg"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sit kvæg"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "i marken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:04.704977455Z",
+  "model": "glm-5.3"
+}

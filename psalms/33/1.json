@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Jubler, I tsaddikim, i Jahve; for de oprigtige sømmer lovprisning sig.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Jubler"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "I tsaddikim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "for de oprigtige"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sømmer sig"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lovprisning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.095298606Z",
+  "model": "glm-5.3"
+}

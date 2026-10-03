@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Hvem har virket og gjort ⟨det⟩, han som kalder slægterne fra begyndelsen? Jeg, Jahve, ⟨er⟩ den første, og ⟨med⟩ ⟨את⟩ de sidste — jeg ⟨er⟩ han.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "har virket"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "og gjort"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kalder"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "slægterne"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "fra begyndelsen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨med⟩ ⟨את⟩",
+      "marks": "de sidste"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "de sidste"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:41.885710797Z",
+  "model": "glm-5.3"
+}

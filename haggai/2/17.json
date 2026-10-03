@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jeg slog ⟨את⟩ jer med kornbrand og med meldug og med hagl, ⟨את⟩ al jeres hænders gerning — og ingen ⟨את⟩ af jer ⟨vendte⟩ til mig, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "jeg slog"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "med kornbrand"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "og med meldug"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "og med hagl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al jeres hænders gerning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gerning"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "jeres hænders"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ af jer",
+      "marks": "af jer"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:44.626758502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og levitterne skal omgive kongen rundt om, hver mand med sit våben i sin hånd; og den som kommer ind i huset, skal dræbes; og ⟨I⟩ skal være med kongen, når han går ind og når han går ud.",
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "og skal omgive"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "med sit våben"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hånd"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "og den som kommer ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dræbes"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og skal være"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "når han går ind"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "og når han går ud"
+    }
+  ],
+  "timestamp": "2026-10-03T19:24:42.566818975Z",
+  "model": "glm-5.3"
+}

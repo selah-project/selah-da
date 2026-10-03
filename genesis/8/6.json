@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det skete ved enden af fyrre dage, at Noach åbnede ⟨את⟩ vinduet i arken, som han havde lavet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ved enden af"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "at han åbnede"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinduet"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "vinduet"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "i arken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han havde lavet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:09.156826862Z",
+  "model": "glm-5.3"
+}

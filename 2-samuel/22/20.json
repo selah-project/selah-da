@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og han førte mig ud til ⟨det⟩ vide rum, han reddede mig, for han havde behag i mig.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og han førte ud"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "til vide rum"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "han reddede mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "han havde behag i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:50.666820454Z",
+  "model": "glm-5.3"
+}

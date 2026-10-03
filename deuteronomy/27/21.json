@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet ⟨er⟩ den, der ligger med nogen slags kvæg, og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "den, der ligger"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen slags"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kvæg"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:39.058180824Z",
+  "model": "glm-5.3"
+}

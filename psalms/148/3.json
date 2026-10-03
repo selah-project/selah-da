@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "Pris ham, sol og måne, pris ham, alle lysets stjerner!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pris ham"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sol"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "og måne"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pris ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stjerner"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.358661621Z",
+  "model": "glm-5.3"
+}

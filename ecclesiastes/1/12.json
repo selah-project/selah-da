@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jeg, Kohelet, var konge over Jisrael i Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:04.549037257Z",
+  "model": "glm-5.3"
+}

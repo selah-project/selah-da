@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Oholibama fødte ⟨את⟩ Jeush og ⟨את⟩ Jalam og ⟨את⟩ Korach; det er Essavs sønner, som blev født til ham i Kena'ans land.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Og Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "det er"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Essavs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "blev født"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'ans"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:05.011021647Z",
+  "model": "glm-5.3"
+}

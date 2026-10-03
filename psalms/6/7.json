@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Jeg er udmattet af min sukken, hver nat gør jeg min seng til at svømme, med mine tårer smelter jeg mit leje væk.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "jeg er udmattet"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "af min sukken"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "gør jeg … til at svømme"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nat"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "min seng"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "med mine tårer"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mit leje"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "smelter … væk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:45.104471405Z",
+  "model": "glm-5.3"
+}

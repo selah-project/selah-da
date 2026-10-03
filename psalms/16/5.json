@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Jahve ⟨er⟩ min tildelte del og min bæger; du, du opretholder min lod.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "tildelte del"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "min arvedel"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "og min bæger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "opretholder"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "min lod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:06.444270571Z",
+  "model": "glm-5.3"
+}

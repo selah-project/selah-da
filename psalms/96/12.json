@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Marken frydes og alt hvad der er i den; da jubler alle skovens træer",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "frydes"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Marken"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad der"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jubler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træer"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skovens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:03.576421797Z",
+  "model": "glm-5.3"
+}

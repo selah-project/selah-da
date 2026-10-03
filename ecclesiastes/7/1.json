@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Godt er et navn frem for god olie, og dødens dag frem for dagen for ⟨hans⟩ fødsel.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Godt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "et navn"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "frem for olie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "og dagen"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dødens"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "frem for dagen"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "for hans fødsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.746181470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Yehoshua sendte ⟨את⟩ folket bort, hver mand til sin arv.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte bort"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "til sin arv"
+    }
+  ],
+  "timestamp": "2026-10-03T15:45:38.224598190Z",
+  "model": "glm-5.3"
+}

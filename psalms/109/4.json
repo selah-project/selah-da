@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "I stedet for min kærlighed anklager de mig — men jeg ⟨er⟩ bøn.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "I stedet for"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "min kærlighed"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "anklager de mig"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bøn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:41.528644972Z",
+  "model": "glm-5.3"
+}

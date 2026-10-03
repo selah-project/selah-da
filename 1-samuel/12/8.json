@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Da Jaakov kom til Mitsrajim, råbte jeres fædre til Jahve, og Jahve sendte ⟨את⟩ Moshe og ⟨את⟩ Aharon, og de førte ⟨את⟩ jeres fædre ud af Mitsrajim og lod dem bo på dette sted.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "råbte"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og … sendte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "og de førte … ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres fædre"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ud af Mitsrajim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "og lod dem bo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på stedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:40.062386846Z",
+  "model": "glm-5.3"
+}

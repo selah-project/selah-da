@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Vil du ikke vende tilbage, så du giver os liv igen, så dit folk kan glæde sig over dig?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vil du ikke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vende tilbage"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "giver os liv igen"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "så dit folk"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kan glæde sig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "over dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:54.212457284Z",
+  "model": "glm-5.3"
+}

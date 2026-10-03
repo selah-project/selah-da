@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "og ⟨את⟩ enhver ravn efter sin art",
+  "tokens": [
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "enhver ravn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ravn"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "efter sin art"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:40.911667537Z",
+  "model": "glm-5.3"
+}

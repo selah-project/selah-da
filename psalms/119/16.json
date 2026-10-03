@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "I dine vedtægter vil jeg have min lyst; jeg vil ikke glemme dit ord.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "i dine vedtægter"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "vil jeg have min lyst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "vil jeg glemme"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:18.040447971Z",
+  "model": "glm-5.3"
+}

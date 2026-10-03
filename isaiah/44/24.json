@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Saaledes siger Jahve, din genløser og din former fra moderlivet: Jeg er Jahve, som gør alt, som udspreder himlene alene, som udbreder ⟨את⟩ jorden — hvem ⟨var⟩ med mig?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Saaledes"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "din genløser"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "og din former"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fra moderlivet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gør"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "udspreder"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alene"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "udbreder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ med mig",
+      "marks": "med mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:34.000675519Z",
+  "model": "glm-5.3"
+}

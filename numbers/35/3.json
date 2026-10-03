@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 35:3",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og byerne skal være dem til at bo i, og deres udmarker skal være til deres kvæg og til deres ejendom og til alt deres kvæg og fe.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Og de skal være"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "til at bo i"
+    },
+    {
+      "surface": "ומגרשיהם",
+      "gloss": "og deres udmarker"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לבהמתם",
+      "gloss": "til deres kvæg"
+    },
+    {
+      "surface": "ולרכשם",
+      "gloss": "og til deres ejendom"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og til alt"
+    },
+    {
+      "surface": "חיתם",
+      "gloss": "deres fe"
+    }
+  ],
+  "timestamp": "2026-10-03T15:19:30.060455854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og nu, I Jerushalajims indbyggere og Jaehudas mænd: døm, jeg beder, mellem mig og min vingård.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "indbyggere"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og mænd"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "døm"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "min vingård"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:22.321434221Z",
+  "model": "glm-5.3"
+}

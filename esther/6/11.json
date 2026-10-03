@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Haman tog ⟨את⟩ dragten og ⟨את⟩ hesten og klædte ⟨את⟩ Mordekaj og satte ham til hest på byens torv og råbte foran ham: Således gøres der ved den mand, som kongen behager at ære!",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dragten"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "dragten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hesten"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hesten"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "og klædte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekaj"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "og satte ham til hest"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "på torvet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og råbte"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "således"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gøres"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ved manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "har behag"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "at ære ⟨ham⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:10.398249593Z",
+  "model": "glm-5.3"
+}

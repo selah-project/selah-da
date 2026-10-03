@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Dette er Noachs slægt. Noach var en retfærdig mand, hel i sine slægtled; med ⟨את⟩ Elohim vandrede Noach.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "er slægt"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachs"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hel"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "i sine slægtled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "vandrede"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:48.474707716Z",
+  "model": "glm-5.3"
+}

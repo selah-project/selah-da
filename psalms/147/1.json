@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Hil Jah! For det er godt at lovsynge vor Elohim, for det er behageligt — lovprisning sømmer sig.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hil"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "at lovsynge"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "behageligt"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sømmer sig"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lovprisning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.630735521Z",
+  "model": "glm-5.3"
+}

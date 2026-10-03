@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Ham ⟨der⟩ slog Mitsrajim i deres førstefødte, for hans chesed ⟨varer⟩ til evig tid.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ham ⟨der⟩ slog"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "i deres førstefødte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:38.943127480Z",
+  "model": "glm-5.3"
+}

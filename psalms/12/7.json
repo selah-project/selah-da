@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Jahves ord er rene ord, sølv lutret i en digel på jorden, raffineret syv gange.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ord"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "rene"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "lutret"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "i en digel"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "raffineret"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "syv gange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:11.821679170Z",
+  "model": "glm-5.3"
+}

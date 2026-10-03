@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeres kraft skal spises til ingen nytte, og jeres land skal ikke give ⟨את⟩ sit udbytte, og landets træer skal ikke give deres frugt.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "og den skal sluttes"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "til ingen nytte"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "jeres kraft"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "den skal give"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jeres land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit udbytte"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sit udbytte"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "og træerne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "skal give"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "deres frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:18.003102047Z",
+  "model": "glm-5.3"
+}

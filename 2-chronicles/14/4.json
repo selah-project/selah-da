@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han fjernede fra alle Judahs byer ⟨את⟩ bamot-stederne og ⟨את⟩ solbillederne, og kongeriget blev stille foran ham.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "og fjernede"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer af"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamot-stederne"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot-stederne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "solbillederne"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "solbillederne"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "og blev stille"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:13.344495452Z",
+  "model": "glm-5.3"
+}

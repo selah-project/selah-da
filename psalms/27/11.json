@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Lær mig din vej, Jahve, og led mig på en jævn sti for mine fjenders skyld.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "lær mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din vej"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "og led mig"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "på en sti"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "jævn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:23.383847202Z",
+  "model": "glm-5.3"
+}

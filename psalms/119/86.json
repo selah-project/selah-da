@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Alle dine bud ⟨er⟩ trofasthed; med løgn har de forfulgt mig — hjælp mig!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trofasthed"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "har forfulgt mig"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "hjælp mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:59.483822170Z",
+  "model": "glm-5.3"
+}

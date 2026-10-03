@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Kom, se Jahves gerninger, han som satte ødegørelser på jorden.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "se"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "gerninger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ødegørelser"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:01.040926197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og præsten skal se, og se, er der en hvid hævelse i huden, og den har vendt håret hvidt, og der er levende råt kød i hævelsen —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Og præsten skal se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "en hævelse"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "hvid"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "i huden"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "og den"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "har vendt"
+    },
+    {
+      "surface": "שער",
+      "gloss": "håret"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "hvidt"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "og der er levende"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "i hævelsen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:19.436385809Z",
+  "model": "glm-5.3"
+}

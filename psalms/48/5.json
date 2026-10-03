@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Thi se, kongerne forsamlede sig, de drog forbi sammen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "forsamlede sig"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "drog forbi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:57.510714935Z",
+  "model": "glm-5.3"
+}

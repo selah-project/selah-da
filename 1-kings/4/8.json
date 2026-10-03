@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og disse er deres navne: Ben-Chur, i Efrajims bjergegne.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og disse"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "er deres navne"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bjergegnen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:09.791804385Z",
+  "model": "glm-5.3"
+}

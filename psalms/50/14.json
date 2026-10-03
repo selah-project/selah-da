@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Ofre til Elohim ⟨את⟩ tak, og betal ⟨את⟩ dine løfter til den Højeste!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Ofre"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "og betal"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "til den Højeste"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "dine løfter"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:55.785980351Z",
+  "model": "glm-5.3"
+}

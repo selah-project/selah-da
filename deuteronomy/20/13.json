@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jahve din Elohim giver ⟨את⟩ den i din hånd, og du skal slå alle dens mænd med sværdets æg.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "og giver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "og du skal slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dens mænd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "dens mænd"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æggen af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:30.178900617Z",
+  "model": "glm-5.3"
+}

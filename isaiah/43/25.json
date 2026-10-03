@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Jeg, ja jeg, ⟨er⟩ ⟨han⟩, som udsletter dine overtrædelser for min egen skyld, og dine synder kommer jeg ikke i hu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja jeg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨han⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "udsletter"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "dine overtrædelser"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "for min egen skyld"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "og dine synder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "kommer jeg i hu"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:34.111456940Z",
+  "model": "glm-5.3"
+}

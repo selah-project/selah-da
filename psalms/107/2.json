@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Jahves forløste skal sige ⟨det⟩, ⟨dem⟩ som han har forløst fra fjendens hånd,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "forløste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "han har forløst ⟨dem⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånd"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fjendens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:54.764100650Z",
+  "model": "glm-5.3"
+}

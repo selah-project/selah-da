@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Se, en flok samler sig — men ikke ⟨den kommer⟩ fra mig; hvem end samler sig hos dig ⟨את⟩, over dig skal han falde.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "גור",
+      "gloss": "en flok"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "samler sig"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "fra mig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem end"
+    },
+    {
+      "surface": "גר",
+      "gloss": "samler sig"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over dig"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "skal han falde"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:53.760366452Z",
+  "model": "glm-5.3"
+}

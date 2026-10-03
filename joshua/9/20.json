@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Dette vil vi gøre mod dem: ⟨vi⟩ lader dem leve, ⟨så⟩ at der ikke kommer vrede over os på grund af den ed, som vi har svoret dem.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vil vi gøre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "og lade leve"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "vi har svoret"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:26.784825385Z",
+  "model": "glm-5.3"
+}

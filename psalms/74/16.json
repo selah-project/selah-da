@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Din er dagen, ja, din er også natten, du har gjort lysgiveren og solen klar.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "יום",
+      "gloss": "er dagen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja, også"
+    },
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "er natten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "har gjort klar"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "lysgiveren"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "og solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:54.143272615Z",
+  "model": "glm-5.3"
+}

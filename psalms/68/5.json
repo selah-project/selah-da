@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Syng for Elohim, tonespil for hans navn; ban vej for ham som rider i ørkenerne; Jah ⟨er⟩ hans navn, juble skal I for hans åsyn.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "for Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "tonespil"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "for hans navn"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ban vej"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "for ham som rider"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "i ørkenerne"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Jah ⟨er⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "juble skal I"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "for hans åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:06.855843708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Frygten for Jahve er ren, den står til evigt; Jahves domme er sandhed, de er tsedek alle sammen.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Frygten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "den står"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til evigt"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "domme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "de er tsedek"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "alle sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:52.293830450Z",
+  "model": "glm-5.3"
+}

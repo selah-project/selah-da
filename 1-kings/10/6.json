@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og hun sagde til kongen: Sandt ⟨var⟩ det ord, jeg hørte i mit land, om dine ord og om din visdom.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨var⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jeg hørte"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "i mit land"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dine ord"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og om"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "din visdom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:05.633123578Z",
+  "model": "glm-5.3"
+}

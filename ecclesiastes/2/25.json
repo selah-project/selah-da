@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "For hvem kan spise, og hvem kan have hastværk med ⟨det⟩, uden mig?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kan spise"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "kan have hastværk"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "uden"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:50:51.706327746Z",
+  "model": "glm-5.3"
+}

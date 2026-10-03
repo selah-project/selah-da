@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Ve den, der kives med sin skaber — ⟨et⟩ lerskår blandt jordens lerskår! Skal leret sige til ham, der former det: Hvad laver du? Eller dit værk ⟨sige⟩: Han har ingen hænder?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kives"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin skaber"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "sin skaber"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "lerskår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jordens lerskår"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "lerskår"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "leret"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "til ham der former det"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "laver du"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "og dit værk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "har han"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:26.345081636Z",
+  "model": "glm-5.3"
+}

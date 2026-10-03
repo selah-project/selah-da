@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Jahve sagde: Hvem vil narre ⟨את⟩ Akhav, så han drager op og falder ved Ramot i Gilad? Og den ene sagde således, og den anden sagde således.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "vil narre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "så han drager op"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "og falder"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ved Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "således"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "og den anden"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "således"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:24.188113224Z",
+  "model": "glm-5.3"
+}

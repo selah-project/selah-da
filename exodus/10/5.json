@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "og den skal dække ⟨את⟩ øjet af landet, så ingen kan se ⟨את⟩ landet; og den skal æde ⟨את⟩ resten, det som er levnet jer af haglen, og den skal æde ⟨את⟩ hvert træ, som vokser for jer på marken.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "og den skal dække"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "øjet af landet"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og den skal æde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resten"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "resten"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "det undslupne"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "som er levnet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglen"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og den skal æde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvert træ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "vokser"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "på"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "marken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:48.350460315Z",
+  "model": "glm-5.3"
+}

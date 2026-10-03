@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Nedkastet ved klippens sider ⟨bliver⟩ deres dommere, og de hører mine ord, for de er blevet liflige.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "nedkastet"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ved siderne"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "deres dommere"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "og de hører"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "de er blevet liflige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:23.578276201Z",
+  "model": "glm-5.3"
+}

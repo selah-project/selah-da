@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Jeg vandrer foran Jahves ansigt i de levendes lande.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "jeg vandrer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "i landene"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levendes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:01.183862763Z",
+  "model": "glm-5.3"
+}

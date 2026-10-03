@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og de skal spise ⟨את⟩ kødet i denne nat — ildstegt — og usyret brød; med bitre urter skal de spise det.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Og de skal spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kødet"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "i nat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "stegt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "og usyret brød"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "bitre urter"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skal de spise det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:09.651491887Z",
+  "model": "glm-5.3"
+}

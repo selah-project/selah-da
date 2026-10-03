@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "Bevar mig, Jahve, fra den ringes hænder, fra voldsomme mænd vil du værne mig — ⟨de⟩ som har udtænkt at skubbe mine skridt til side.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bevar mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "fra hænderne"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ringle"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "fra mænd"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "voldsomme"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "vil du værne mig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "har de udtænkt"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "at skubbe til side"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mine skridt"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:18.431322653Z",
+  "model": "glm-5.3"
+}

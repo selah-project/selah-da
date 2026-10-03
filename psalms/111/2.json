@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Store er Jahves gerninger, de søges ⟨af⟩ alle, der har behag i dem.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "store"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "er ... gerninger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "de søges"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "af alle"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "der har behag i dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:43.582595263Z",
+  "model": "glm-5.3"
+}

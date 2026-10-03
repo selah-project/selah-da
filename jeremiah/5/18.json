@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Men selv i de dage, siger Jahve, gør jeg ikke ⟨en ende⟩ med jer.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "men selv"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i de dage"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "de"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "gør jeg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "en ende"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:59.535553124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han sendte ⟨את⟩ raven af sted, og den fløj ud og vendte tilbage, indtil vandene var tørret bort fra jorden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og han sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raven"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "raven"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og den fløj ud"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "ud"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "og tilbage"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "var tørret"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bort fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:09.156973541Z",
+  "model": "glm-5.3"
+}

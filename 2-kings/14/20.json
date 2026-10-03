@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og de bar ham ⟨את⟩ på hestene, og han blev begravet i Jerushalajim med sine fædre i Davids by.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hestene"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "blev begravet"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sine fædre"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i by"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:07.420615479Z",
+  "model": "glm-5.3"
+}

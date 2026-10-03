@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Gør mod dem som mod Midian, som Sisera, som Jabin, ved Kishon-bækken.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gør"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "som mod Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "som Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "som Jabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ved bækken"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:52.275739292Z",
+  "model": "glm-5.3"
+}

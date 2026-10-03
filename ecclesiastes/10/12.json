@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Ord fra den vises mund ⟨er⟩ ynde, men dårens læber sluger ham selv.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "fra munden"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "af den vise"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynde"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "men læberne"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "af dåren"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "sluger ham selv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:10.943844115Z",
+  "model": "glm-5.3"
+}

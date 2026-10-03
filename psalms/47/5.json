@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Han udvælger vor arv for os, ⟨את⟩ Jaakovs herlighed, som han elskede. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "udvælger"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor arv"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "vor arv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakovs herlighed"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.345650257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Min nidkærlighed fortærer mig, for mine fjender har glemt dine ord.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "den fortærer mig"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "min nidkærlighed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "har glemt"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dine ord"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:14.908150259Z",
+  "model": "glm-5.3"
+}

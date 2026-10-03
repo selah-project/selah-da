@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "jordens konger og alle folk, høvdinge og alle jordens dommere,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "høvdinge"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "dommere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.917261456Z",
+  "model": "glm-5.3"
+}

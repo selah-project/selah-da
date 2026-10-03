@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Velsignet skal du ⟨ være ⟩, når du kommer ind, og velsignet skal du ⟨ være ⟩, når du går ud.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "når du kommer ind"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "og velsignet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "når du går ud"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:52.816766302Z",
+  "model": "glm-5.3"
+}

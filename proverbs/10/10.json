@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den der kniber ⟨את⟩ øjet, vækker sorg; men dårens læber bringer fald.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "den der kniper"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øjet"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vækker"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "men dåren"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "læber"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "bringet til fald"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:29.768136465Z",
+  "model": "glm-5.3"
+}

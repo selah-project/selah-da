@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨den blev⟩ slagtet, og Moshe stænkte ⟨את⟩ blodet på alteret rundt om.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Og slagtede"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "og stænkte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:01.738482538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Tiende skal du give tyvende af ⟨את⟩ al afgrøden af dit sæd, det som Marken frembringer, år efter år.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Tiende"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "skal du give tyvende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al afgrøden af dit sæd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "afgrøden"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "af dit sæd"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "det som frembringer"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "marken"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "efter år"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:26.604917237Z",
+  "model": "glm-5.3"
+}

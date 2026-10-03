@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en mand, som tager sin broders ⟨את⟩ hustru — det er nidda; sin broders blotelse har han afdækket; barnløse skal de være.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tager"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broders hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broders"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nidda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blotelse"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broders"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han afdækket"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "barnløse"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal de være"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:28.112294623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Min Elohim, gør dem som en hvirvlende tørretistel, som avner foran ruach.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "gør dem"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "som en hvirvlende tørretistel"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "som avner"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:05.655271779Z",
+  "model": "glm-5.3"
+}

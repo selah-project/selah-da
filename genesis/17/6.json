@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og jeg vil gøre dig ⟨את⟩ overordentlig frugtbar, og jeg vil give dig til folkeslag, og konger skal udgå fra dig.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "Og jeg vil gøre frugtbar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "overordentlig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "overordentligt"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "og jeg vil give dig"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "til folkeslag"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "og konger"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "fra dig"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "skal udgå"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:47.530354667Z",
+  "model": "glm-5.3"
+}

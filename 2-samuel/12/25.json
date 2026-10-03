@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og ⟨Jahve⟩ sendte gennem profeten Natans hånd, og han kaldte ⟨את⟩ hans navn Jedidja, for Jahves skyld.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gennem … hånd"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidja"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:50.763270561Z",
+  "model": "glm-5.3"
+}

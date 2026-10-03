@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Kun ⟨את⟩ guldet og ⟨את⟩ sølvet, ⟨את⟩ kobberet, ⟨את⟩ jernet, ⟨את⟩ bly-tinnet og ⟨את⟩ blyet:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guldet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sølvet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobberet"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kobberet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jernet"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "jernet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinnet"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "tinnet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "blyet"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "blyet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:16:57.364388446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Da stod de op og flygtede i skumringen og forlod ⟨את⟩ deres telte og ⟨את⟩ deres heste og ⟨את⟩ deres æsler — lejren som den var — og flygtede for deres liv.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Da stod de op"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "i skumringen"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "og forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres telte"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "deres telte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres heste"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "deres heste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres æsler"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "deres æsler"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den var"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deres liv"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:58.648265956Z",
+  "model": "glm-5.3"
+}

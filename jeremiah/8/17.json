@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "For se, jeg sender blandt jer slanger, huggorme, for hvilke der ikke findes besværgelse, og de vil bide jer ⟨את⟩, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jeg"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "blandt jer"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "slanger"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "huggorme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "for hvilke"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der ikke findes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "besværgelse"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "og de vil bide"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:13:02.947524551Z",
+  "model": "glm-5.3"
+}

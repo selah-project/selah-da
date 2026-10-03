@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Han skabte dem som mand og kvinde, og han velsignede dem og kaldte deres navn Adam, på den dag de blev skabt.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "mand"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "og kvinde"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "skabte dem"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og han velsignede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres navn"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deres navn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "de blev skabt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:00.404312029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Da råbte de til Jahve i deres nød, og af deres trængsler frelste han dem.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Da råbte de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i nød"
+    },
+    {
+      "surface": "להם",
+      "gloss": "deres"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "af deres trængsler"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "frelste han dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:42.217953737Z",
+  "model": "glm-5.3"
+}

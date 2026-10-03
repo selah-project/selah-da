@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Jehoshua stod tidligt op om morgenen og lod ⟨את⟩ Jisrael stille sig efter sine stammer; og Judas stamme blev udpeget.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Og stod tidligt op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "og lod stille sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "efter sine stammer"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "blev udpeget"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:59.159759618Z",
+  "model": "glm-5.3"
+}

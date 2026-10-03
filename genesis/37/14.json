@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han sagde til ham: Gå dog, se efter ⟨את⟩ dine brødres shalom og ⟨את⟩ fårenes shalom, og bring mig besked igen. Og han sendte ham fra Chevron-dalen, og han kom til Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se efter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine brødres shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dine brødres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fårenes shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fårenes"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "og bring mig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "besked"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "Og han sendte ham"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "fra … dalen"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og han kom"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "til Shekhem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:59.342161128Z",
+  "model": "glm-5.3"
+}

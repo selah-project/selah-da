@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "For syv gange falder den retfærdige og rejser sig igen, men de ugudelige snubler i ulykke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv gange"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "og rejser sig igen"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "men de ugudelige"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "snubler"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i ulykke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:40.742529413Z",
+  "model": "glm-5.3"
+}

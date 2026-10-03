@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og han sendte ⟨את⟩ sine brødre bort, og de gik; og han sagde til dem: Vær ikke urolige på vejen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og han sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og de gik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "vær urolige"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:48.350380664Z",
+  "model": "glm-5.3"
+}

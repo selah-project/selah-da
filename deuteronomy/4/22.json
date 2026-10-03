@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Thi jeg dør i dette land; jeg skal ikke gå over ⟨את⟩ Jordan, men I går over og tager ⟨את⟩ det gode land i besiddelse, dette her.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dør"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "skal ikke"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gå over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "men I"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "går over"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "og tager i besiddelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det gode land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette her"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:45.844082301Z",
+  "model": "glm-5.3"
+}

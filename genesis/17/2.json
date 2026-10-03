@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og jeg vil sætte min pagt mellem mig og dig og gøre dig overmåde, overmåde talrig.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Og jeg vil sætte"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og mellem dig"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "og gøre talrig"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "overmåde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "overmåde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:40.926333596Z",
+  "model": "glm-5.3"
+}

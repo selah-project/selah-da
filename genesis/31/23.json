@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og han tog sine brødre med sig og forfulgte ham i syv dages rejse og indhentede ⟨את⟩ ham i Gilads bjerg.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med sig"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "og forfulgte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "rejse"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dages"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "og indhentede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bjerget"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:52.370910110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og I skal omskære ⟨את⟩ kødet i eders forhud, og det skal være til et tegn på pagten mellem mig og jer.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Og I skal omskære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kødet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "i eders forhud"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal være"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "til et tegn"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "på pagten"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "og jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:48.827046872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han vendte tilbage og sendte til ham en anden høvding over halvtreds med sine halvtreds; og han svarede og talte til ham: Du menneske ⟨af⟩ Elohim! Således har kongen sagt: Skynd dig, stig ned!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og vendte tilbage"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "שר",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "med sine halvtreds"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "og han svarede"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨af⟩ Elohim"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Skynd dig"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "stig ned"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:41.881316917Z",
+  "model": "glm-5.3"
+}

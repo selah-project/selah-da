@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Send én af jer, og han skal hente ⟨את⟩ jeres bror; men I skal bindes, og jeres ord skal prøves, om sandheden ⟨er⟩ ⟨את⟩ hos jer; og hvis ikke — så sandt Paroh lever: I er spejdere.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Send"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "af jer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og han skal hente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres bror"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jeres bror"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "men I"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "skal bindes"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "og skal prøves"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jeres ord"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "sandheden"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hos jer"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så sandt"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spejdere"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:03.723017370Z",
+  "model": "glm-5.3"
+}

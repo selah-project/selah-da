@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "For du skabte mine nyrer, du vævede mig sammen i min mors livmoder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "skabte"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mine nyrer"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "vævede mig sammen"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "i livmoderen"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mors"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:05.536565957Z",
+  "model": "glm-5.3"
+}

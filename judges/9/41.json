@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Avimelech boede i Aruma, og Zevul drev ⟨את⟩ Gaal og ⟨את⟩ hans brødre ud, så de ikke boede i Shkhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "i Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "og drev ud"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "fra at bo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "i Shkhem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:29.933425320Z",
+  "model": "glm-5.3"
+}

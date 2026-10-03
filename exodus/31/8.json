@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "og ⟨את⟩ bordet og ⟨את⟩ dets redskaber, og ⟨את⟩ den rene menorah og ⟨את⟩ alle dens redskaber, og ⟨את⟩ røgelsesalteret.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dets redskaber"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets redskaber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menorahen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorahen"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "den rene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dens redskaber"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dens redskaber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "røgelsesalteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "røgelses-"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:28.219071006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og hele forsamlingen svarede og sagde med høj røst: Sådan ⟨er⟩ det — som du har sagt over os, så skal vi gøre.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "forsamlingen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "høj"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "som du har sagt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T19:04:24.291714232Z",
+  "model": "glm-5.3"
+}

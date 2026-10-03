@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Må mit hjerte være fuldkomment i dine vedtægter, for at jeg ikke skal blive til skamme.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må ... være"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fuldkomment"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "i dine vedtægter"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "skal blive til skamme"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:02.485677747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og du skal vogte ⟨את⟩ budet og ⟨את⟩ forskrifterne og ⟨את⟩ dommene, som jeg byder dig i dag at gøre dem.",
+  "tokens": [
+    {
+      "surface": "וושמרת",
+      "gloss": "Og du skal vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budet"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "forskrifterne"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "forskrifterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dommene"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dommene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "byder dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "at gøre dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:49.807552722Z",
+  "model": "glm-5.3"
+}

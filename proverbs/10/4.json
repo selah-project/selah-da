@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Fattig bliver den, der arbejder med en doven hånd, og de flittiges håd gør rig.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "den, der arbejder"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "doven"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "og hånd"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "de flittiges"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "gør rig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:31.943000401Z",
+  "model": "glm-5.3"
+}

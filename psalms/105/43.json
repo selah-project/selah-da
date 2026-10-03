@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Og han førte sit folk ud med glæde, ⟨את⟩ sine udvalgte med jubel.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "og førte ud"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "med glæde"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine udvalgte"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "sine udvalgte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.328486257Z",
+  "model": "glm-5.3"
+}

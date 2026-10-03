@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og hun stod op midt i natten og tog min søn ⟨את⟩ fra min side — mens din trælkvinde sov — og lagde ham i sit skød, og sin døde søn ⟨את⟩ lagde hun i mit skød.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Og hun stod op"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min søn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "fra min side"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "din trælkvinde"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "sov"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "og lagde ham"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "i sit skød"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin døde søn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "døde"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "lagde hun"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "i mit skød"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:24.116022784Z",
+  "model": "glm-5.3"
+}

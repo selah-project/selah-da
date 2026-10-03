@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis du virkelig undertrykker ⟨ham⟩ ⟨אתו⟩ — hvis han skriger, vil jeg sandelig høre hans skrig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "virkelig"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "undertrykker"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "skriger"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "høre"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "hans skrig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:01.890967139Z",
+  "model": "glm-5.3"
+}

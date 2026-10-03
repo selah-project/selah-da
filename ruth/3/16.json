@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og hun kom til sin svigermor, og hun sagde: Hvem er du, min datter? Og hun fortalte hende ⟨את⟩ alt, hvad manden havde gjort for hende.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Og hun kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "sin svigermor"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "את",
+      "gloss": "er du"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "min datter"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Og hun fortalte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for hende"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:27.621474457Z",
+  "model": "glm-5.3"
+}

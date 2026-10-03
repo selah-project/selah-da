@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og hvis I efter disse ting endnu ikke vil høre på mig, vil jeg tilføje at tugte jer ⟨את⟩ syv ⟨gange⟩ for jeres synder.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse ting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "I vil høre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "vil jeg tilføje"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "at tugte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer — understreger 'syv' som det handles på"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "jeres synder"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:18.002759937Z",
+  "model": "glm-5.3"
+}

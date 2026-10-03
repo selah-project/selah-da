@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og de skal lave mig et helligsted, og jeg vil bo iblandt dem.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "og de skal lave"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "et helligsted"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "og jeg vil bo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:42:49.770762486Z",
+  "model": "glm-5.3"
+}

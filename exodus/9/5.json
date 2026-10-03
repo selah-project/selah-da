@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve satte en fastsat tid og sagde: I morgen vil Jahve gøre dette ord i landet.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "en fastsat tid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "vil gøre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dette ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:57.381591580Z",
+  "model": "glm-5.3"
+}

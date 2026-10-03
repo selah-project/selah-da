@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Shems sønner: Elam og Asshur og Arpachshad og Lud og Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shems"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "og Asshur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "og Arpachshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "og Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "og Aram"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:57.803567170Z",
+  "model": "glm-5.3"
+}

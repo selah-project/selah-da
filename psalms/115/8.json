@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Ligesom dem skal deres udøvere blive; alle, der stoler på dem.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ligesom dem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal blive"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "deres udøvere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "stoler på"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:41.866588122Z",
+  "model": "glm-5.3"
+}

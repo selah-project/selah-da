@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Ester sagde til Hathak og bød ham ⟨viderebring dette⟩ til Mordekaj:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "וותצוהו",
+      "gloss": "og bød ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:43.374964711Z",
+  "model": "glm-5.3"
+}

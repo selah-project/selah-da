@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Josva vendte tilbage, og hele Jisrael med ham, til lejren i Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josva"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "i Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:12.144659083Z",
+  "model": "glm-5.3"
+}

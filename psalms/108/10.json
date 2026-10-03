@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Moav er min tvættegryde; over Edom kaster jeg min sko; over Filistea larmer jeg ⟨i triumf⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "gryde"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "min tvætte-"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "kaster jeg"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "min sko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistea"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "larmer jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.937574343Z",
+  "model": "glm-5.3"
+}

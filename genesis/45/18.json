@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og tag ⟨את⟩ jeres far og ⟨את⟩ jeres husstande og kom til mig, så vil jeg give jer ⟨את⟩ det bedste i Mitsrajims land, og I skal spise ⟨את⟩ det fedeste i landet.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Og tag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres far"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "jeres far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jeres husstande"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "jeres husstande"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "så vil jeg give"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det bedste"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det bedste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "og I skal spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det fedeste"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "det fedeste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:49.774550025Z",
+  "model": "glm-5.3"
+}

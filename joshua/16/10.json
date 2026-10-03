@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og de drev ikke ⟨את⟩ kanaanæeren ud, den som boede i Gezer, og kanaanæeren boede midt i Efrajim indtil denne dag, og han blev til tvangsarbejde, træl.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "drev de ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "den som boede"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "i Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han blev"
+    },
+    {
+      "surface": "למס",
+      "gloss": "til tvangsarbejde"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "træl"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:38.811070690Z",
+  "model": "glm-5.3"
+}

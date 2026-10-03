@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og han så deres trængsel, da han hørte ⟨את⟩ deres råb.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og han så"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "trængsel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "deres"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "da han hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres råb"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "deres råb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.239733386Z",
+  "model": "glm-5.3"
+}

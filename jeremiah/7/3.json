@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Således siger Jahve Tsevaot, Israels Elohim: Gør jeres veje gode og jeres gerninger, så lad jeg ⟨את⟩ jer bo på dette sted.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Gør … gode"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jeres veje"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "og jeres gerninger"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "så lad jeg jer bo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på stedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T17:11:24.928889863Z",
+  "model": "glm-5.3"
+}

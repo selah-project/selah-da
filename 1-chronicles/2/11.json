@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Nachshon avlede ⟨את⟩ Salma, og Salma avlede ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Og Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "og Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:36.088748390Z",
+  "model": "glm-5.3"
+}

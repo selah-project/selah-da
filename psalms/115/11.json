@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "I, der frygter Jahve, stolede på Jahve — deres hjælp og deres skjold ⟨er⟩ han.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "I, der frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "stolede på"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "deres hjælp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "og deres skjold"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:27.715088548Z",
+  "model": "glm-5.3"
+}

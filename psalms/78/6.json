@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "for at en sidste slægt skal kende ⟨det⟩, sønner som skal fødes, som skal stå op og fortælle det til deres børn.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "skal kende"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sidste"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "som skal fødes"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "som skal stå op"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "og fortælle"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "til deres børn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:15.454048584Z",
+  "model": "glm-5.3"
+}

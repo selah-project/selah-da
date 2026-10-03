@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Edom nægtede at give ⟨את⟩ Jisrael lov at drage forbi gennem sin grænse, og Jisrael veg bort fra ham.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "nægtede"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "at give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "at drage forbi"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "gennem sin grænse"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "og veg"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "bort fra ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:36.129246752Z",
+  "model": "glm-5.3"
+}

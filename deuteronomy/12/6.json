@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og I skal bringe dertil jeres brændofre og jeres slagtofre og ⟨את⟩ jeres tiender og ⟨את⟩ håndens gave og jeres løfter og jeres frivillige gaver og førstefødte af jeres kvæg og jeres småkvæg.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "Og I skal bringe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dertil"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "jeres brændofre"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "og jeres slagtofre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres tiender"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "jeres tiender"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "håndens gave"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "gaven"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "håndens"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "og jeres løfter"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "og jeres frivillige gaver"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "og førstefødte"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "af jeres kvæg"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "og jeres småkvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:27.964280603Z",
+  "model": "glm-5.3"
+}

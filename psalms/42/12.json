@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Hvorfor bøjer du dig ned, min sjæl, og hvorfor larmer du i mig? Bidi på Elohim, for jeg skal endnu takke ham, frelsen for mit ansigt og min Elohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "bøjer du dig ned"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "larmer du"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "bidi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "på Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "skal jeg takke ham"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "frelsen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "for mit ansigt"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og min Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.537798631Z",
+  "model": "glm-5.3"
+}

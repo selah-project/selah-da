@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Har du set en mand, der er hastig i sine ord? Der er mere håb for en tåbe end for ham.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "Har du set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "hastig"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "i sine ord"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "håb"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "for en tåbe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "end for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:28.691585116Z",
+  "model": "glm-5.3"
+}

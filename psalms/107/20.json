@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Han sender sit ord og helbreder dem og frier dem fra deres grave.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "han sender"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sit ord"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "og helbreder dem"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "og frier"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "fra deres grave"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:50.313701318Z",
+  "model": "glm-5.3"
+}

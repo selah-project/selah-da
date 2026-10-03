@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og det skal ske: den førstefødte, som hun føder, skal stå op på ⟨i⟩ sin døde brors navn, og hans navn skal ikke udsllettes fra Jisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "hun føder"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skal stå op"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin brors"
+    },
+    {
+      "surface": "המת",
+      "gloss": "den døde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "skal udsllettes"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "fra Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:17.538946880Z",
+  "model": "glm-5.3"
+}

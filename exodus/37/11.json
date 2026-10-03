@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han overdrog ⟨את⟩ det med rent guld, og han gjorde en krans af guld rundt om det.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "og han overdrog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (bordet)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til det"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:46.238597724Z",
+  "model": "glm-5.3"
+}

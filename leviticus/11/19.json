@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og ⟨את⟩ storken, hejren efter sit slag, og ⟨את⟩ hærfuglen, og ⟨את⟩ flagermusen",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "storken"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "storken"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "hejren"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sit slag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hærfuglen"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "hærfuglen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "flagermusen"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "flagermusen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:01.560351546Z",
+  "model": "glm-5.3"
+}

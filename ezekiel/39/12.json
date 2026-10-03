@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og Jisraels hus begraver dem for at rense ⟨את⟩ landet, i syv måneder.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "de begraver dem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "rense"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "måneder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:44:15.303299423Z",
+  "model": "glm-5.3"
+}

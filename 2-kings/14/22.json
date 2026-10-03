@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Han byggede ⟨את⟩ Eilat og førte det tilbage til Jehuda, efter at kongen var lagt til hvile hos sine fædre.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "og førte tilbage"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "til Jehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter at"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "var lagt til hvile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sine fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:15.705837368Z",
+  "model": "glm-5.3"
+}

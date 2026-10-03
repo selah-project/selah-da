@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Gennem dig støder vi vore fjender tilbage; i dit navn trampler vi dem ned, ⟨som⟩ rejser sig imod os.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Gennem dig"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "vore fjender"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "støder vi tilbage"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "i dit navn"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "trampler vi ned"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "⟨som⟩ rejser sig imod os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:14.676088620Z",
+  "model": "glm-5.3"
+}

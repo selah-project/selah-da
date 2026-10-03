@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Til korlederen; for Korachs sønner; en mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.023255691Z",
+  "model": "glm-5.3"
+}

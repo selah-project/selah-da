@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og David sagde: Så sandt Jahve lever, Jahve skal slå ham, enten kommer hans dag, og han dør, eller han stiger ned i krig og bliver rykket bort.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så sandt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨enten⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "skal slå ham"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "hans dag"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og han dør"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i krig"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "stiger ned"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "og bliver rykket bort"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:31.312785734Z",
+  "model": "glm-5.3"
+}

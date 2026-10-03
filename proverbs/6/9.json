@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Hvor længe vil du ligge, doven? Hvor længe vil du rejse dig fra din søvn? ⟨ Nej — hvornår rejser du dig fra din søvn? ⟩",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hvor længe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨til hvornår⟩"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "doven"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "vil du ligge"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hvornår"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "rejser du dig"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "fra din søvn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:45.224519515Z",
+  "model": "glm-5.3"
+}

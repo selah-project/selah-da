@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "I skal ikke prøve ⟨את⟩ Jahve, jeres Elohim, som I prøvede ⟨ham⟩ ved Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "I skal prøve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, jeres Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "I prøvede"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ved Massa"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:22.920779984Z",
+  "model": "glm-5.3"
+}

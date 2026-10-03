@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Bestikkelsen er en nådes sten i dens ejeres øjne; overalt hvor den vender sig, lykkes det.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "sten"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåde(s)"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "Bestikkelsen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne(ne)"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dens ejere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "overalt hvor (mod)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "vender sig"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "lykkes det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:22.989520591Z",
+  "model": "glm-5.3"
+}

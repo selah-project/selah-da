@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Ødelagt er marken, i sorg er jorden, thi ødelagt er kornet, visnet er mosten, svækket er olien.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "ødelagt er"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "marken"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "i sorg er"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ødelagt er"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "kornet"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "visnet er"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mosten"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "svækket er"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "olien"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:29.716108131Z",
+  "model": "glm-5.3"
+}

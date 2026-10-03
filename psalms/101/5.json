@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Den som bagtaler sin næste i det skjulte, ⟨אותו⟩ udrydder jeg; den med høje øjne og bredt hjerte, ⟨אתו⟩ formår jeg ikke.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "bagtaler"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i det skjulte"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "udrydder jeg"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "høje"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "og bredt"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "formår jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:51.129805465Z",
+  "model": "glm-5.3"
+}

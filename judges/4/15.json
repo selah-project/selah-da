@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Jahve forvirrede ⟨את⟩ Sisera og ⟨את⟩ alle vognene og ⟨את⟩ hele lejeren med sværdets æg for Baraks ansigt; og Sisera steg ned fra vognen og flygtede til fods.",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "Og forvirrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle vognene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vognene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele lejeren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejeren"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æggen af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraks"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og steg ned"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "vognen"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "til fods"
+    }
+  ],
+  "timestamp": "2026-10-03T15:49:02.848678866Z",
+  "model": "glm-5.3"
+}

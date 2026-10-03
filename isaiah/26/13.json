@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Jahve, vor Elohim, andre herrer end du har været herrer over os; kun ved dig gjør vi dit navn nærværende.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "har været herrer over os"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "herrer"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "end du"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ved dig"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "gør vi … nærværende"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:28.258268362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Straks ville jeg have underkuet deres fjender og vendt min hånd mod deres modstandere.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "straks"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ville jeg underkue"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "deres modstandere"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:00.209599084Z",
+  "model": "glm-5.3"
+}

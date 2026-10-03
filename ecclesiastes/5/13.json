@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og ⟨denne⟩ rigdom går til grunde ved ond modgang, og han avler en søn, og der er intet i hans hånd.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "går til grunde"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "rigdommen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "denne"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ved modgang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "og han avler"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er intet"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "noget som helst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:12.292844038Z",
+  "model": "glm-5.3"
+}

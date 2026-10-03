@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "og han spurgte Jahve for ham, og han gav ham mad, og ⟨את⟩ sværdet af Goliat, filisteren, gav han ham.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "og han spurgte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "og mad"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sværdet af Goliat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "af Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:57.498552905Z",
+  "model": "glm-5.3"
+}

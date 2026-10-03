@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Og de skal bygge huse og bo i dem, og de skal plante vingårde og spise deres frugt.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "og de skal bygge"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huse"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og bo i dem"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "og de skal plante"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vingårde"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "og spise"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "deres frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:29.056884088Z",
+  "model": "glm-5.3"
+}

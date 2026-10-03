@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Paroh sagde: Se, folket i landet er nu mange, og I lader dem holde op med deres tvangsarbejde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "og I lader holde op"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "med deres tvangsarbejde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:07.263019401Z",
+  "model": "glm-5.3"
+}

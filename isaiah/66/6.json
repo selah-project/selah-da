@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "En lyd af larm fra ⟨byen⟩, en lyd fra ⟨templet⟩, en lyd fra Jahve, som gengælder sine fjender.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "En lyd"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "af larm"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "fra ⟨byen⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "en lyd"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "fra ⟨templet⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "en lyd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "fra Jahve"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "gengælder"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "løn"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "sine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:39.927344236Z",
+  "model": "glm-5.3"
+}

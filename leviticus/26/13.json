@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Jeg er Jahve, jeres Elohim, som førte jer ud af landet Mitsrajim, fra at være deres slaver, og jeg brød jeres oks stænger og førte jer oprejst.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eres Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "førte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer (fra landet Mitsrajim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "fra at være"
+    },
+    {
+      "surface": "להם",
+      "gloss": "deres"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slaver"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "og jeg brød"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "af jeres ok"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "og jeg førte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer (oprejst)"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "oprejst"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:23.706084267Z",
+  "model": "glm-5.3"
+}

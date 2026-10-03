@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "Du mødte ⟨את⟩ den der fryder sig, og den der gør tsedek; dine veje husker de dig i. Se, du blev vred — og vi syndede; i dem ⟨er⟩ ⟨det evige⟩, og vi bliver frelst.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "mødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den der fryder sig"
+    },
+    {
+      "surface": "שש",
+      "gloss": "den der fryder sig"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "dine veje"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "husker de dig"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "blev vred"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "og vi syndede"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "det evige"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "og vi bliver frelst"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:12.637678659Z",
+  "model": "glm-5.3"
+}

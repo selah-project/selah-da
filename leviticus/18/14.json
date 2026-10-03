@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Din faders broders blottelse må du ikke blottele; til hans hustru må du ikke gå nær — hun er din tante.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "blottelse"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broder"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "må du blottele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "må du gå nær"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "din tante"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:27.599522569Z",
+  "model": "glm-5.3"
+}

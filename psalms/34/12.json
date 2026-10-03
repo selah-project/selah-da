@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Kom, I børn, lyt til mig; Jahves frygt vil jeg lære jer.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "I børn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "vil jeg lære jer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:31.053515997Z",
+  "model": "glm-5.3"
+}

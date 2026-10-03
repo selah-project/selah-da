@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "thi en ruach går over det, og det er der ikke mere, og dets sted kender det ikke igen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ruach"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "går over"
+    },
+    {
+      "surface": "בו",
+      "gloss": "det"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "og det er der ikke mere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "kender det igen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dets sted"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.750151550Z",
+  "model": "glm-5.3"
+}

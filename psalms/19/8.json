@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Jahves Tora er fuldkommen, den giver sjælen tilbage; Jahves vidnesbyrd er trofast, det gør den enfoldige vis.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "fuldkommen"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "giver ... tilbage"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjælen"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "vidnesbyrd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "trofast"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "gør vis"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "den enfoldige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:48.985157571Z",
+  "model": "glm-5.3"
+}

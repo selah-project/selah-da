@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og hans herre så, at Jahve var ⟨את⟩ ham, og alt hvad han gjorde, lod Jahve lykkes i hans hånd.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og han så"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "lod lykkes"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:40.882093242Z",
+  "model": "glm-5.3"
+}

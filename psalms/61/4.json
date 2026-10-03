@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Thi du har været min tilflugt, et stærkt tårn for fjendens ansigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har været"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "tilflugt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tårn"
+    },
+    {
+      "surface": "עז",
+      "gloss": "stærkt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for … ansigt"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjendens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:41.529038508Z",
+  "model": "glm-5.3"
+}

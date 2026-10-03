@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Olie og røgelse gør hjertet glad, og sødme ⟨fra⟩ ens ven ⟨kommer⟩ fra sjælens råd.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "og røgelse"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gør glad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "og sødme"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ens ven"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "fra råd"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjælens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:12.596651077Z",
+  "model": "glm-5.3"
+}

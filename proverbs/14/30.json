@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Et lægeligt hjerte ⟨er⟩ kødets liv, men misundelse ⟨er⟩ benenes rådne.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "liv"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "kødets"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "lægeligt"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "men rådne"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benene"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "misundelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:50.962006402Z",
+  "model": "glm-5.3"
+}

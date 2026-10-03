@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Mikal lod David glide ned ⟨את⟩ ad vinduet; og han gik og flygtede og undslap.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Og … lod … glide ned"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ad"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "vinduet"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og han gik"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "og undslap"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:41.002937337Z",
+  "model": "glm-5.3"
+}

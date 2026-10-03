@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "For dine trælle har velbehag i hendes sten og viser hende chesed, selv hendes støv.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "har velbehag i"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hennes sten"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "hennes sten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "henneS støv"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "henneS støv"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "viser hende chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.144766909Z",
+  "model": "glm-5.3"
+}

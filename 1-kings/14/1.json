@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "På den tid blev Avijah, søn af Jarobam, syg.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "På den tid"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "den"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "blev syg"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "af Jarobam"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:27.877550064Z",
+  "model": "glm-5.3"
+}

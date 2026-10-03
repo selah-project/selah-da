@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Josef genkendte ⟨את⟩ sine brødre, men de genkendte ikke ham.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "og genkendte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "genkendte ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:06.433514643Z",
+  "model": "glm-5.3"
+}

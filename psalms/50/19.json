@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Din mund sendte du ud i ondskab, og din tunge fæster svig.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "Din mund"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "sendte du ud"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i ondskab"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "og din tunge"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "fæster"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.498247407Z",
+  "model": "glm-5.3"
+}

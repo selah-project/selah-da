@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 100,
+  "translation": "Vid at Jahve, han ⟨er⟩ Elohim; han gjorde os, og ikke vi selv; ⟨vi er⟩ hans folk og ⟨hans⟩ hjord, hans græsgange.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "vid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "gjorde os"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi selv"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "og hjord"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "hans græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:26.099382507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "I hvis hånd er ⟨את⟩ sjælen hos alt levende og ⟨את⟩ ruach hos alt kød, ⟨את⟩ mennesket.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "I hvis"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjælen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og ruach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:31.875987065Z",
+  "model": "glm-5.3"
+}

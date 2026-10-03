@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han sagde: Kald på hende. Og han kaldte på hende, og hun stod i døren.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kald"
+    },
+    {
+      "surface": "לה",
+      "gloss": "på hende"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "på hende"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "og hun stod"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "i døren"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:14.555905245Z",
+  "model": "glm-5.3"
+}

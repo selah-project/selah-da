@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han skal bringe din tsedek frem som lyset, og din ret som middagslyset.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "og han skal bringe frem"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "som lyset"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "og din ret"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "som middagslyset"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:08.530290204Z",
+  "model": "glm-5.3"
+}

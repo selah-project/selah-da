@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Så vil jeg lære overtrædere dine veje, og syndere skal vende om til dig.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "vil jeg lære"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "overtrædere"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dine veje"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "og syndere"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "skal vende om"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:24.462895337Z",
+  "model": "glm-5.3"
+}

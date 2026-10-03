@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Thi han, der kræver ⟨את⟩ dem for blodets skyld, husker ⟨dem⟩; han glemmer ikke de fattiges skrig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kræver"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blod"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (de forfulgte)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "husker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "glemmer"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "skrig"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "de fattige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:54.157026913Z",
+  "model": "glm-5.3"
+}

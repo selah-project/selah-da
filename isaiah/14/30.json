@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og de fattiges førstefødte skal græsse, og de nødstedte skal ligge i tryghed; og jeg vil dræbe din rod med sult, og din rest skal dræbes.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "og de skal græsse"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "førstefødte"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "af fattige"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "og de nødstedte"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "i tryghed"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "skal ligge"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "og jeg vil dræbe"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "med sult"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "din rod"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "og din rest"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "skal dræbes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:28.282676806Z",
+  "model": "glm-5.3"
+}

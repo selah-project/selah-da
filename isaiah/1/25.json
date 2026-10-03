@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og jeg vender min hånd imod dig og smelter din slagger ud som ⟨ved⟩ ⟨את⟩ luten, og jeg fjerner hele dit tin.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "og jeg vender"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "og smelter ud"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "som ⟨ved⟩ luten"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "din slagger"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "og jeg fjerner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "dit tin"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:23.158668455Z",
+  "model": "glm-5.3"
+}

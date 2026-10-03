@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Lyd af pisk og lyd af ringlede hjul, og hest der galoperer, og vogn der hopper —",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lyd"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "pisk"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og lyd"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ringlede"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "hjul"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "og hest"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "galoperer"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "og vogn"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "hopper"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:27.089067387Z",
+  "model": "glm-5.3"
+}

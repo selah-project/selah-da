@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og keruberne stod på højre side af huset, da manden gik ind, og skyen fyldte ⟨את⟩ den indre forgård.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "Og keruberne"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stod"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "på højre side"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "af huset"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "da han gik ind"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "og skyen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den indre forgård"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "den indre"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:08.939015728Z",
+  "model": "glm-5.3"
+}

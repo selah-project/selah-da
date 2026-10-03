@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Skab et rent hjerte i mig, Elohim, og forny en fast ruach i mit indre.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og en ruach"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "fast"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "forny"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "i mit indre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:03.352399189Z",
+  "model": "glm-5.3"
+}

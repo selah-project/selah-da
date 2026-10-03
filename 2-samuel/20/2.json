@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 20:2",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og alle Israels mænd gik bort fra David, efter Sheva, Bikris søn; men Judas mænd klæbede fast ved deres konge, fra Jorden og indtil Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Og ... gik op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "fra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "af Bikri"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "men mændene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "af Juda"
+    },
+    {
+      "surface": "דבקו",
+      "gloss": "klæbede fast"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ved deres konge"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jorden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:47.079148394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Og man gav ⟨את⟩ de gudløse hans grav, og ⟨את⟩ den rige ⟨i⟩ hans død; skønt han ikke havde gjort vold, og der ikke fandtes svig i hans mund.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gudløse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hans grav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den rige"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "den rige"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "i hans død"
+    },
+    {
+      "surface": "על",
+      "gloss": "skønt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svig"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "i hans mund"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:40.412714217Z",
+  "model": "glm-5.3"
+}

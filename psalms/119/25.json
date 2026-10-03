@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Min sjæl hænger fast i støvet; giv mig liv, som dit ord siger.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "hænger fast"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "i støvet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "giv mig liv"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "som dit ord siger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:27.782564223Z",
+  "model": "glm-5.3"
+}

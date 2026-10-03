@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og ⟨את⟩ Ramot med dets græsgange og ⟨את⟩ Anem med dets græsgange.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dets græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dets græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:33.064070238Z",
+  "model": "glm-5.3"
+}

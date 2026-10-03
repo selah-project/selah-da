@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Jahve sendte dig ud på vejen og sagde: Gå, og vig ⟨את⟩ synderne, ⟨את⟩ Amalek, til bande, og kæmp mod dem, indtil du har tilintetgjort dem ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Og sendte dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "og vig til bande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synderne"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "synderne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "og kæmp"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "du har tilintetgjort dem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:26.283616318Z",
+  "model": "glm-5.3"
+}

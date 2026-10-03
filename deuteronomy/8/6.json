@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og du skal holde ⟨את⟩ budene fra Jahve, din Elohim, til at gå på hans veje og til at frygte ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "og du skal holde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budene fra Jahve, din Elohim"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "budene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "til at gå"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "på hans veje"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "og til at frygte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "⟨את⟩–suffiks: 'ham'"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:47.528041550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Vær mig nådig, Jahve, for jeg ⟨er⟩ svag; helbred mig, Jahve, for mine knogler er forfærdede.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "svag"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "helbred mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "er forfærdede"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mine knogler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:47.163810463Z",
+  "model": "glm-5.3"
+}

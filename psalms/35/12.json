@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "De gengælder mig ondt for godt, barnløshed for min sjæl.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "De gengælder mig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "godt"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "barnløshed"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "for min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:39.878522312Z",
+  "model": "glm-5.3"
+}

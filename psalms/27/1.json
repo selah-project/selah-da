@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Til David. Jahve ⟨er⟩ mit lys og min frelse — hvem skal jeg frygte? Jahve ⟨er⟩ mit livs værn — hvem skal jeg skælve for?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Til David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "mit lys"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "og min frelse"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "skal jeg frygte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "værn"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mit livs"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "skal jeg skælve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:06.331579864Z",
+  "model": "glm-5.3"
+}

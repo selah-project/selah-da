@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og David gjorde ende på at frembringe brændofferet og fredsofferne, og han velsignede ⟨את⟩ folket i Jahves navn.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Og ... gjorde ende"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "på at frembringe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "og fredsofferne"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og han velsignede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:57.554373280Z",
+  "model": "glm-5.3"
+}

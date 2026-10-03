@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Hør ⟨את⟩ det ord, som Jahve har talt til jer, hus Jisrael!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T17:13:02.843525186Z",
+  "model": "glm-5.3"
+}

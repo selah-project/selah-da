@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Thi for sværdenes skyld er de flygtet, for det dragne sværds skyld og for den spændte bues skyld og for krigens tunge tryk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sværdene"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "er de flygtet"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "dragne"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "og for … skyld"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "spændte"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "og for … skyld"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tunge tryk"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krigens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:32.019219637Z",
+  "model": "glm-5.3"
+}

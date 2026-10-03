@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Elohim med sin chesed vil gå mig i møde; Elohim lader mig se ⟨mit ønske⟩ mod mine fjender.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sin chesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "vil gå mig i møde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "lader mig se"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "mod mine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:09.893999857Z",
+  "model": "glm-5.3"
+}

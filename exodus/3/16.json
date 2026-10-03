@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Gå og saml Jisraels ældste og sig til dem: Jahve, jeres fædres Elohim, er blevet mig åbenbart — Avrahams, Jitschaks og Jaakovs Elohim — og ⟨har⟩ sagt: Jeg har sandelig husket jer ⟨את⟩ og ⟨את⟩ det, der er gjort mod jer i Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "og saml"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels ældste"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "er blevet åbenbart"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "og Jaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "med ordene"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "har jeg husket"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det, der er gjort mod jer"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "det gjorte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mod jer"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:19.974021981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Hvem er han, herlighedens konge? Jahve, stærk og vældig, Jahve, vældig i krig.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er han"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "herlighedens"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "stærk"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "og vældig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väldig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "i krig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:38.269502886Z",
+  "model": "glm-5.3"
+}

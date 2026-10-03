@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og usyret brød og usyrede flader blandet med olie og usyrede tynde kager smurt med olie — af fint hvedemel skal du lave ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Og brød"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "usyret"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "og usyrede flader"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "usyrede"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "blandet"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olie"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "og tynde kager"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "usyrede"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "smurt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olie"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "af fint mel"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "hvede"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du lave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (brødene og kagerne)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:31.103633655Z",
+  "model": "glm-5.3"
+}

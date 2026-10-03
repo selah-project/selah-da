@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Thi som en genstridig kvie er Jisrael vendt bort — nu skal Jahve vogte dem som et lam på den vide mark.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "som en kvie"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "genstridig"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "er vendt bort"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "skal vogte dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "som et lam"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "på den vide mark"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:44.392816751Z",
+  "model": "glm-5.3"
+}

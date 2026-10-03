@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Din hvælse hviler tungt på mig, og med alle dine brændinger har du knuget mig. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "hviler tungt"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "din hvælse"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og med alle"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dine brændinger"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "har du knuget mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:27.771279546Z",
+  "model": "glm-5.3"
+}

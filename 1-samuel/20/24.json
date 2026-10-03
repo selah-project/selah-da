@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og David skjulte sig på marken. Og det blev nymånedag, og kongen satte sig til bordet for at spise.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Og skjulte sig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og det blev"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "nymånedagen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og satte sig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "for at spise"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:13.919571993Z",
+  "model": "glm-5.3"
+}

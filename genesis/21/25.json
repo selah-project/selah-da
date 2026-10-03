@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Avraham bebrejdede ⟨את⟩ Avimelech på grund af en vandbrønd, som Avimelechs trælle havde røvet.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "bebrejdede"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "angående"
+    },
+    {
+      "surface": "באר",
+      "gloss": "brønd"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "havde røvet"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:28.573959345Z",
+  "model": "glm-5.3"
+}

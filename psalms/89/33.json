@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Og jeg vil hjemsøge deres oprør med stok og deres misgerning med slag.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "og jeg vil hjemsøge"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "med stok"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "deres oprør"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "og med slag"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "deres misgerning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.230929589Z",
+  "model": "glm-5.3"
+}

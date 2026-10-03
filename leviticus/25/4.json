@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "men i det syvende år skal landet have en Shabbat, en fuldstændig hvile, en Shabbat for Jahve: din mark skal du ikke så, og din vingård skal du ikke beskære.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "men i … året"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "det syvende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "en fuldstændig hvile"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal … have"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "din mark"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "skal du så"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "og din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "skal du beskære"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:53.402334445Z",
+  "model": "glm-5.3"
+}

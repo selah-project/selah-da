@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "De vender tilbage om aftenen, larmar som hunde og går rundt om byen.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "de vender tilbage"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "om aftenen"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "larmar"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "som hunde"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "og går rundt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "om byen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:52.763739232Z",
+  "model": "glm-5.3"
+}

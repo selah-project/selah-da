@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Et lille øjeblik forlod jeg dig, men med stor barmhjertighed samler jeg dig.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "lille"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "forlod jeg dig"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "men med barmhjertighed"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "stor"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "samler jeg dig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:20.724199598Z",
+  "model": "glm-5.3"
+}

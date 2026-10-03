@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "En fremmed har jeg været for mine brødre, og en udlænding for min moders sønner.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "en fremmed"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jeg været"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "for mine brødre"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "og en udlænding"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "af min moder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:23.744950272Z",
+  "model": "glm-5.3"
+}

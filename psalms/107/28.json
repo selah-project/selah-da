@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Da råbte de til Jahve i deres nød, og af deres trængsler førte han dem ud.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Da råbte de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i deres nød"
+    },
+    {
+      "surface": "להם",
+      "gloss": "deres"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "og af deres trængsler"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "førte han dem ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:58.886623787Z",
+  "model": "glm-5.3"
+}

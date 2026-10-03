@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Lykkelig ⟨er⟩ den, der handler klogt mod den svage; på ondskens dag redder Jahve ham.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "lykkelig"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "handler klogt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "af ondskab"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "redder ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.859872217Z",
+  "model": "glm-5.3"
+}

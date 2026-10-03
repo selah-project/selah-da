@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og jeg tugtede dem, jeg styrkede deres arme, men mod mig bagtskriver de ondt.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "tugtede"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "styrkede"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "deres arme"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bagtskriver"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:53.799951249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Vask mig meget ⟨af⟩ min misgerning, og rens mig fra min synd.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "meget"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "vask mig"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "min misgerning"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "fra min synd"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "rens mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:22.771719983Z",
+  "model": "glm-5.3"
+}

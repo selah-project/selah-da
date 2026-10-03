@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og menighedens ældste skal lægge ⟨את⟩ deres hænder på tyrens hoved foran Jahve, og ⟨man⟩ skal slagte ⟨את⟩ tyren foran Jahve.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "Og skal lægge"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menighedens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyrens"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "og skal slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:08.625482730Z",
+  "model": "glm-5.3"
+}

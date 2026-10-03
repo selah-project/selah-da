@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Du elsker alle ord der sluger, du svigefulde tunge.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "der sluger"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svigefulde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:37.624679938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og jeg selv vil kæmpe ⟨את⟩ imod jer med udstrakt hånd og med stærk arm og i vrede og i raseri og i stor harme.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "og jeg vil kæmpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg selv"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ imod jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hånd"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "udstrakt"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "og med arm"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stærk"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "og i vrede"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "og i raseri"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "og i harme"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:18.809316343Z",
+  "model": "glm-5.3"
+}

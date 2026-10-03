@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og det skete efter syv dage, at flodens vande kom over jorden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "efter syv"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "at vandene af"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "floden"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:37.770063508Z",
+  "model": "glm-5.3"
+}

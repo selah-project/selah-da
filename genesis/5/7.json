@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Shet levede efter at han havde avlet ⟨את⟩ Enosh, syv år og otte hundrede år, og han avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "levede"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "at han havde avlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "og otte"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og han avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:46.283979204Z",
+  "model": "glm-5.3"
+}

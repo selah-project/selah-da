@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og da Haman så, at Mordechai ikke bøjede knæ og ikke tilbad ham, blev Haman fyldt med raseri.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "bøjede knæ"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "tilbad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "blev fyldt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "raseri"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:57.582737946Z",
+  "model": "glm-5.3"
+}

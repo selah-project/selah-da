@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "se, Jahves hånd vil komme over dit kvæg, som er på marken, på hestene, på æslerne, på kamelerne, på kvæget og på fårene — en pest, meget tung.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "vil komme"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "over dit kvæg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "på hestene"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "på æslerne"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "på kamelerne"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "på kvæget"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "og på fårene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pest"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tung"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:45.014848864Z",
+  "model": "glm-5.3"
+}

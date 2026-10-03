@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Fra frygten for dig står mit køds hår til ende, og for dine mishpatim bæver jeg.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "står ... til ende (hårene rejser sig)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "Fra frygten for dig"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mit kød"
+    },
+    {
+      "surface": "ויראתי",
+      "gloss": "og ... bæver jeg"
+    },
+    {
+      "surface": "ממשפטיך",
+      "gloss": "for dine mishpatim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:02.549510085Z",
+  "model": "glm-5.3"
+}

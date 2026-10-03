@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Vær ikke overmåde ond, og vær ikke tåbelig; hvorfor skulle du dø, ikke på din tid?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "vær ond"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "overmåde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vær"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "tåbelig"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skulle du dø"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "på din tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:49.899779971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Vin og stærk drik skal du ikke drikke, du og dine sønner ⟨med⟩ dig, når I går ind til mødeteltet, for at I ikke skal dø — ⟨en⟩ evig ordning for jeres slægter.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og stærk drik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "skal drikke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "og dine sønner"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig",
+      "marks": "med dig"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "når I går ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde(t)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "for at I ikke"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ordning"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "for jeres slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:42.653705904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han satte på ham ⟨את⟩ brystpladen, og han lagde i brystpladen ⟨את⟩ Urim og ⟨את⟩ Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Og han satte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brystpladen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brystpladen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han lagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brystpladen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:02.045496693Z",
+  "model": "glm-5.3"
+}

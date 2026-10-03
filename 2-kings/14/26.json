@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "For Jahve så Jisraels ⟨את⟩ elendighed, at den var meget bitter, og ⟨at der ikke var⟩ nogen indespærret og ingen forladt, og ingen hjælper for Jisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "så"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elendigheden"
+    },
+    {
+      "surface": "עני",
+      "gloss": "elendighed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bitter"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "og intet"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "indespærret"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "og intet"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "forladt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjælper"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:36.225807244Z",
+  "model": "glm-5.3"
+}

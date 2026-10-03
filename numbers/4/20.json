@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "og de skal ikke gå ind for at se, når ⟨את⟩ helligdommen tilsløres, for at de ikke skal døre",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "skal de gå ind"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "når … tilsløres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helligdommen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helligdommen"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "for at de ikke skal døre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:31.546566154Z",
+  "model": "glm-5.3"
+}

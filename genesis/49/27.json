@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Binjamin er en ulv, der flænger; om morgenen æder han bytte, og om aftenen deler han rovet.",
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "ulv"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "flænger"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "æder"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bytte"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "og om aftenen"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "deler"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rovet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:17.407874530Z",
+  "model": "glm-5.3"
+}

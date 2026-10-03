@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "men kun til ⟨det⟩ sted, som Jahve din Elohim udvælger til at lade sit navn bo der — der skal du slagte pesach-offeret ⟨את⟩ om aftenen, ved solens nedgang, på ⟨det⟩ tidspunkt du gik ud af Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨det⟩ sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "udvælger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "at lade bo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sit navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "skal du slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach-offeret"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach-offeret"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om aftenen"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ved"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solens nedgang"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tidspunkt"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "du gik ud"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "af Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:53.534916433Z",
+  "model": "glm-5.3"
+}

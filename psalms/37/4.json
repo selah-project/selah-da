@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og fryd dig over Jahve, så giver han dig dit hjertes bønner.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Og fryd dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "så giver han"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "bønner"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjertes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:11.973337371Z",
+  "model": "glm-5.3"
+}

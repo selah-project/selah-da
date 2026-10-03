@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Moshe alene skal træde nær til Jahve, men de skal ikke træde nær, og folket må ikke stige op med ham.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Og skal træde nær"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "skal træde nær"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "og folket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "må stige op"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:50.259428519Z",
+  "model": "glm-5.3"
+}

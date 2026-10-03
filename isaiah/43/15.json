@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Jeg ⟨er⟩ Jahve, jeres Hellige, Jisraels skaber, jeres konge.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "jeres Hellige"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "skaber"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jeres konge"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:41.136926508Z",
+  "model": "glm-5.3"
+}

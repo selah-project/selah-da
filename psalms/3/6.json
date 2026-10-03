@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg lagde mig og sov, jeg vågnede, for Jahve bar mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "lagde mig"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "og sov"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "vågnede jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "bar mig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:12.805376134Z",
+  "model": "glm-5.3"
+}

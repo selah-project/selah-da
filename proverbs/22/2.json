@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Rich og fattig mødes ⟨med hinanden⟩; Jahve ⟨er⟩ ophavsmand til dem alle.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "rig"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "og fattig"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "mødes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ophavsmand til"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "dem alle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:03.051372503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og den, der slår sin far eller sin mor, skal visselig dødes.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Og den, der slår"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "eller sin mor"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visselig"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dødes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:24.589203353Z",
+  "model": "glm-5.3"
+}

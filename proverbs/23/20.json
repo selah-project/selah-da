@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Vær ikke blandt vindrikkere, blandt slugte af kød ⟨til deres eget⟩;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Vær"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "blandt vindrikkere"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "blandt slugte"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨til deres eget⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:32.177257240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "Pris ham, himlenes himle, og vandene oven over himlene!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pris ham"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "og vandene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "oven over"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.358781339Z",
+  "model": "glm-5.3"
+}

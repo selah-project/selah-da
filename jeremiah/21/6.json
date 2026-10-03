@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og jeg vil slå ⟨את⟩ dem der bor i denne by, både ⟨את⟩ mennesket og ⟨את⟩ kvæget; af en stor pest skal de dø.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "og jeg vil slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem der bor i denne by"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dem der bor"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kvæget"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "af pest"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "skal de dø"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:18.809829510Z",
+  "model": "glm-5.3"
+}

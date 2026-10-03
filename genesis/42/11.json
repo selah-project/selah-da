@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Vi er alle sammen sønner af én mand; ⟨vi⟩ er ærlige ⟨mænd⟩, vi; dine tjenere har ikke været spioner.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "vi alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "af en mand"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ærlige"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היו",
+      "gloss": "har været"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine tjenere"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:37.845983874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og jeg hørte ⟨את⟩ Adonajs røst, som sagde: Hvem skal jeg sende, og hvem vil gå for os? Og jeg sagde: Her er jeg, send mig.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Og jeg hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonajs røst"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "skal jeg sende"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "vil gå"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Her er jeg"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "send mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:39.064951636Z",
+  "model": "glm-5.3"
+}

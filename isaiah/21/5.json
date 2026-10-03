@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Man dækker bordet, man holder ⟨את⟩ udkigget fra udkigsposten, man spiser, man drikker — stå op, I høvdinger, salv skjoldet!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "dækker"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "holder udkig"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "udkigsposten"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "spiser"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drikker"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "stå op"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "I høvdinger"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "salv"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjoldet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:16.713961649Z",
+  "model": "glm-5.3"
+}

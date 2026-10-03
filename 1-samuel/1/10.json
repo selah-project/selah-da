@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og hun ⟨var⟩ bitter i sjæl, og hun bad til Jahve, og grædende græd hun.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "og hun"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "bitter"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "i sjæl"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "og hun bad"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "og grædende"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "græd hun"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:56.299458168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Deres fedt har lukket sig til, med deres mund taler de i hovmod.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "deres fedt"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "har lukket sig til"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "deres mund"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "taler de"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "i hovmod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:55.474567092Z",
+  "model": "glm-5.3"
+}

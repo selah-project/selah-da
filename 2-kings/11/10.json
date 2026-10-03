@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og præsten gav høvdingerne over hundrederne ⟨את⟩ spydene og ⟨את⟩ skjoldene, som hørte kong David til, ⟨som⟩ var i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "til høvdingerne"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "over hundrederne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spydene"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "spydene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "skjoldene"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "skjoldene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "hørte kong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:21.665899454Z",
+  "model": "glm-5.3"
+}

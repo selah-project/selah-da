@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Når ⟨det⟩ gode forøges, forøges dens ædere; og hvad fordel er der for dens ejer, uden at se ⟨det⟩ med sine øjne?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "når ... forøges"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "forøges"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "dens ædere"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvad"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "fordel"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "for dens ejer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "at"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "at se"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:31.280135372Z",
+  "model": "glm-5.3"
+}

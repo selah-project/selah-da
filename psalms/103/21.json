@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Pris Jahve, alle hans hære, hans tjenere, ⟨de⟩ der gør hans vilje!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "hans hære"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "hans tjenere"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "⟨de⟩ der gør"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "hans vilje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:55.684564557Z",
+  "model": "glm-5.3"
+}

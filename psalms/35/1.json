@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Af David. Før sag, Jahve, ⟨imod⟩ dem der fører sag ⟨imod⟩ mig; kæmp ⟨imod⟩ dem der kæmper ⟨imod⟩ mig.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "før sag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem der fører sag imod mig"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "mine modstandere"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kæmp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem der kæmper imod mig"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:57.131122990Z",
+  "model": "glm-5.3"
+}

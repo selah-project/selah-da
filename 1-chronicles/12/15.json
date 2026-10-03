@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Disse var af Gad-sønnerne, høvdinger for hæren: den mindste ⟨var⟩ én mod hundrede, og den største ⟨mod⟩ tusind.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sønnerne"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "for hæren"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "mod hundrede"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den mindste"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "og den største"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "mod tusind"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:26.675861083Z",
+  "model": "glm-5.3"
+}

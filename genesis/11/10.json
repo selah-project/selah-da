@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Dette er Shems slægtsrække: Shem var hundrede år gammel, og han avlede ⟨את⟩ Arpakhshad to år efter vandfloden.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "er slægtsrækken"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shems"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn (var)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og han avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "to år"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "vandfloden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:19.559003239Z",
+  "model": "glm-5.3"
+}

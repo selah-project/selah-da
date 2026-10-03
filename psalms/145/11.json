@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "⟨De⟩ skal fortælle om herligheden af dit kongerige og tale om din styrke.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "herligheden"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "af dit kongerige"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "skal fortælle"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "og din styrke"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "skal tale"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:57.833970607Z",
+  "model": "glm-5.3"
+}

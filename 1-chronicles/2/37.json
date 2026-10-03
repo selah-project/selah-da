@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Zabad avlede ⟨את⟩ Efral, og Efral avlede ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Og Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efral"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efral"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "og Efral"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:21.495866337Z",
+  "model": "glm-5.3"
+}

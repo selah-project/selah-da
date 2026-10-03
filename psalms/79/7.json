@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "For de fortærede ⟨את⟩ Jaakov og ⟨את⟩ hans bolig lagde de øde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "fortærede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans bolig"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hans bolig"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "lagde øde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:22.850332877Z",
+  "model": "glm-5.3"
+}

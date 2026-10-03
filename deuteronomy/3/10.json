@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "alle slettens byer og hele Gilead og hele Bashan, til Salcha og Edrei, byer i Ogs rige i Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "sletten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salcha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "og Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "rige"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogs"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "i Bashan"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:15.933237408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og I må ikke lade noget af det blive tilbage til morgen; og det, der bliver tilbage af det til morgen, skal I brænde i ild.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "I må lade blive tilbage"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noget af det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "og det, der bliver tilbage"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "skal I brænde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:13.002743621Z",
+  "model": "glm-5.3"
+}

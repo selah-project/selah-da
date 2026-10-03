@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Kotz avlede ⟨את⟩ Anub og ⟨את⟩ Hatsovava og slægterne af Acharchel, søn af Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Og Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Hatsovava"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatsovava"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "og slægterne af"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Acharchel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:45.409922863Z",
+  "model": "glm-5.3"
+}

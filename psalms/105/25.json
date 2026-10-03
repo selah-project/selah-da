@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han vendte deres hjerte til at hade sit folk, til at handle snedigt mod sine trælle.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjerte"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "til at hade"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s sit folk"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "at handle snedigt"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "mod sine trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:25.596737168Z",
+  "model": "glm-5.3"
+}

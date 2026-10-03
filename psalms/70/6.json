@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 70,
+  "translation": "Men jeg ⟨er⟩ fattig og nødlidende; Elohim, skynd dig til mig! Min hjælp og min befrier ⟨er⟩ du, Jahve, ophold dig ikke!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men jeg"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og nødlidende"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynd dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "min hjælp"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og min befrier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ophold dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:03.848819979Z",
+  "model": "glm-5.3"
+}

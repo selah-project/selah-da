@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Gør ikke jeres sjæle ⟨את⟩ til vederstyggelighed ved noget af det sværmende, som sværmer, og gør jer ikke urene ved dem, så I bliver urene ved dem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "gør til vederstyggelighed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres sjæle"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jeres sjæle"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ved noget af"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "det sværmende"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "som sværmer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "gør jer urene"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "så I bliver urene"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ved dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:24.115892868Z",
+  "model": "glm-5.3"
+}

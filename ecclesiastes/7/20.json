@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "For der findes ikke et retfærdigt menneske på jorden, som gør det gode og ikke synder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der findes ikke"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdigt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "synder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:49.900471526Z",
+  "model": "glm-5.3"
+}

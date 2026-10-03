@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Kun til Elohim er min sjæl stille, thi fra ham er mit håb.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "er stille"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra ham"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mit håb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:27.198162022Z",
+  "model": "glm-5.3"
+}

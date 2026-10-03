@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Moshe tog ⟨את⟩ staven fra Jahves ansigt, som ⟨han⟩ havde befalet ham.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staven"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "staven"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fra ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "havde befalet ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:35.211139363Z",
+  "model": "glm-5.3"
+}

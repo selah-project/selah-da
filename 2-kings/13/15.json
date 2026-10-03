@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Elisha sagde til ham: Tag bue og pile. Og han tog til sig bue og pile.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "og pile"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "og pile"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:30.956564532Z",
+  "model": "glm-5.3"
+}

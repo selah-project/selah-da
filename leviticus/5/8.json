@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og han skal bringe dem til præsten, og præsten skal frembære det, som ⟨er⟩ til syndoffer, først, og knibe hovedet af foran nakken, men ikke skille det ad.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "og han skal bringe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "og skal frembære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som er til syndoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "til syndoffer"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "først"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "og knibe af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens hoved"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dens hoved"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "foran"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "dens nakke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "skille ad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:45.168609746Z",
+  "model": "glm-5.3"
+}

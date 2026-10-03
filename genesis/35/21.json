@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og Jisrael brød op og slog sit telt op på den anden side af Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "brød op"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "slog op"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "sit telt"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "på den anden side"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:57.813162457Z",
+  "model": "glm-5.3"
+}

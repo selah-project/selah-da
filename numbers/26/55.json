@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Kun ved lod skal ⟨את⟩ landet deles; efter navnene på deres fædres stammer skal de arve.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ved lod"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "skal deles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "efter navnene"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "stammer"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "deres fædres"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "skal de arve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:03.906645503Z",
+  "model": "glm-5.3"
+}

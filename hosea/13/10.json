@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Hvor ⟨er⟩ nu din konge — ⟨skal han⟩ redde dig i alle dine byer? Og dine dommere, som du sagde: Giv mig en konge og høvdinger?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "din konge"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "og redde dig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "dine byer"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "og dine dommere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "du sagde"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "og høvdinger"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:00.956584588Z",
+  "model": "glm-5.3"
+}

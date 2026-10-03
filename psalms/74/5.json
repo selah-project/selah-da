@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Man kendte dem som mænd, der førte økser opad i en tætskov af træ.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kendte man"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "som mænd, der førte opad"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "opad"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "i en tætskov"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "af træ"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "økser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:49.907255673Z",
+  "model": "glm-5.3"
+}

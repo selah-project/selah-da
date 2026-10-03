@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Sanballat sendte til mig, efter dette ord, femte gang, ⟨את⟩ sin unge tjener — og et åbent brev i hans hånd.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "gang"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "femte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin unge tjener"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "sin unge tjener"
+    },
+    {
+      "surface": "ואגרת",
+      "gloss": "og et brev"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "åbent"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:06:37.498236249Z",
+  "model": "glm-5.3"
+}

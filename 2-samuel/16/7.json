@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og sådan sagde Shimi, mens han forbandede: Ud, ud, du blodmand, og du Belials mand!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "og sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "mens han forbandede"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ud"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "du mand"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "af blod"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og du mand"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "af Belial"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:47.602252052Z",
+  "model": "glm-5.3"
+}

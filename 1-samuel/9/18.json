@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Shaul trådte hen til ⟨את⟩ Shemuel inde i porten og sagde: Fortæl mig dog, hvor er seerens hus?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Og trådte hen til"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inde i"
+    },
+    {
+      "surface": "השער",
+      "gloss": "porten"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "fortæl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "seerens"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:09.183971208Z",
+  "model": "glm-5.3"
+}

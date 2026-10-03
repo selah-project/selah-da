@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og I skal vogte meget på jeres sjæle, så I elsker ⟨את⟩ Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "og I skal vogte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "på jeres sjæle"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "så I elsker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, jeres Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:45:48.860396886Z",
+  "model": "glm-5.3"
+}

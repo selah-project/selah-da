@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Hizkija gav ⟨את⟩ alt sølvet, der blev fundet i Jahves hus, og i skatkamrene i kongens hus.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt sølvet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "der blev fundet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "og i skatkamrene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:49.531124778Z",
+  "model": "glm-5.3"
+}

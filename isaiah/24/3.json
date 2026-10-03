@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Tømt, tømt skal landet blive, og plyndret, plyndret; for Jahve har talt ⟨את⟩ dette ord.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Tømt"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "tømt skal landet blive"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "og plyndret"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "plyndret"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dette ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:33.497199729Z",
+  "model": "glm-5.3"
+}

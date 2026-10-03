@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Du skal ikke løfte ⟨את⟩ Jahves, din Elohims, navn til forgæves, for Jahve lader ikke den ustraffet, som løfter ⟨את⟩ det, ⟨nemlig⟩ hans navn, til forgæves.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "løfte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohims"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "til forgæves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "lader ustraffet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "til forgæves"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:25.708405331Z",
+  "model": "glm-5.3"
+}

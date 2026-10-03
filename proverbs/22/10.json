@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Driv spotteren ud, og trætte går ud, og tret og foragt holder op.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Driv ud"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "spotteren"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og går ud"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "trætte"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "og holder op"
+    },
+    {
+      "surface": "דין",
+      "gloss": "tret"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "og foragt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:05.452328627Z",
+  "model": "glm-5.3"
+}

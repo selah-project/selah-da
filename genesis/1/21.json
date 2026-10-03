@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim skabte ⟨את⟩ de store havdyr og ⟨את⟩ enhver sjæl med liv, der rørte sig, som vandene had myldret frem, efter deres art, og ⟨את⟩ enhver bevinget fugl efter dens art; og Elohim så, at det var godt.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "og skabte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de store havdyr"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "havdyrene"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "de store"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "enhver sjæl med liv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "med liv"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "der rørte sig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "had myldret frem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "efter deres art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "enhver bevinget fugl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "bevinget"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter dens art"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.738672479Z",
+  "model": "glm-5.3"
+}

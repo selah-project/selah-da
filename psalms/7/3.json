@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "for at han ikke skal flå min sjæl som en løve, rivende ⟨den⟩ i stykker, og der er ingen til at redde.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "skal flå"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som en løve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "rivende i stykker"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "til at redde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:37.683590989Z",
+  "model": "glm-5.3"
+}

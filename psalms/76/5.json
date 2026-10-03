@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Strålende er du, mægtig, mere end rovbjergene.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Strålende"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mægtig"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "med rov"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:51.580894659Z",
+  "model": "glm-5.3"
+}

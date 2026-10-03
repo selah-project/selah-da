@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "De som sidder i porten taler om mig, og ⟨jeg er⟩ sangen ⟨ved⟩ strengespil for dem som drikker stærk drikk.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "taler"
+    },
+    {
+      "surface": "בי",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de som sidder"
+    },
+    {
+      "surface": "שער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "og strengespil"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "for dem som drikker"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "stærk drikk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:31.922450257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han sagde: Forbandet ⟨er⟩ Kenaan; tjenernes tjener skal han være for sine brødre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjener"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tjenernes"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal han være"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "for sine brødre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:10.714862255Z",
+  "model": "glm-5.3"
+}

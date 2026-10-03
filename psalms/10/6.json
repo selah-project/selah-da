@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han siger i sit hjerte: Jeg vakler ikke, fra slægt til slægt — mig, som ikke kommer i ulykke.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Han siger"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sit hjerte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "vakler jeg"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kommer i ulykke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:32.410849634Z",
+  "model": "glm-5.3"
+}

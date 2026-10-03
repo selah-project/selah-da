@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og gekkoen og varanen og firbenet og sandfirbenet og kamæleonen.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "og gekkoen"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "og varanen"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "og firbenet"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "og sandfirbenet"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "og kamæleonen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:16.337287472Z",
+  "model": "glm-5.3"
+}

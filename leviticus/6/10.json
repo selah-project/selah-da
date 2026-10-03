@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Det må ikke bages med surdej; deres del har jeg givet den af mine ildofre; højhellig er den, som syndofferet og som skyldofferet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "må bages"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "med surdej"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "deres del"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jeg givet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "af mine ildofre"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "højhellig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "som syndofferet"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "og som skyldofferet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:03.310405015Z",
+  "model": "glm-5.3"
+}

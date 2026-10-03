@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og han indhentede dem, og han talte til dem ⟨את⟩ disse ord.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Og han indhentede dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og han talte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "disse ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:18.298340825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Bedre er den langmodige end helten, og den der hersker over sin ruach, end den der indtager en by.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langmodig"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨i vrede⟩"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "end helten"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "og den der hersker"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "over sin ruach"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "end den der indtager"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en by"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:30.657871438Z",
+  "model": "glm-5.3"
+}

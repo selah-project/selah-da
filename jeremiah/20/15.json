@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Forbandet være manden, som bragte ⟨את⟩ min far det glade budskab og sagde: Der er født dig en søn, og gjorde ham så glad!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bragte … det glade budskab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min far"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "er født"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en dreng"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "gjorde glad"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "så glad"
+    }
+  ],
+  "timestamp": "2026-10-03T17:16:15.595420812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Mined ungdoms synder og mine overtrædelser — husk dem ikke; efter dit chesed husk mig, du, for din godheds skyld, Jahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "synder"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "min ungdoms"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "og mine overtrædelser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "husk"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter dit chesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "husk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "din godheds"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:20.111491870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og ved en profet førte Jahve ⟨את⟩ Jisrael op fra Mitsrajim, og ved en profet blev ⟨han⟩ bevogtet.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Og ved en profet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "førte op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "og ved en profet"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "blev bevogtet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:32.492395011Z",
+  "model": "glm-5.3"
+}

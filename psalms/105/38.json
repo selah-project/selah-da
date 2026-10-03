@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Mitsrajim glædede sig ved deres udgang, for frygten for dem var faldet over dem.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "glædede sig"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ved deres udgang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "var faldet"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "frygten for dem"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:08.124613854Z",
+  "model": "glm-5.3"
+}

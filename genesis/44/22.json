@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og vi sagde til min herre: Den unge kan ikke forlade ⟨את⟩ sin far, for hvis han forlader ⟨את⟩ sin far, ⟨så⟩ dør han.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Og vi sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "forlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "hvis han forlader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dør han"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:24.178084132Z",
+  "model": "glm-5.3"
+}

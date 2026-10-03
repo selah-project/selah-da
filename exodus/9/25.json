@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og haglen slog i hele landet Mitsrajim ⟨את⟩ alt, hvad der var på marken, fra mennesker indtil husdyr; og haglen slog ⟨את⟩ alt markens græs og knuste ⟨את⟩ alle markens træer.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt, hvad der var på marken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad der var"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fra mennesker"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "husdyr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt markens græs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "græs"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle markens træer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træer"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "knuste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:36.219111937Z",
+  "model": "glm-5.3"
+}

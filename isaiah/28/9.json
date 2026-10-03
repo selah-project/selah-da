@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "⟨את⟩ hvem skal han undervise i viden, og ⟨את⟩ hvem skal han give forstand til at høre budskabet? ⟨Dem⟩ som er vænnet fra mælken, fjernet fra brysterne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "skal undervise"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "i viden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hvem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "skal give forstand"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "budskabet"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "vænnet fra"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "mælken"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "fjernet"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "fra brysterne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:56.584960609Z",
+  "model": "glm-5.3"
+}

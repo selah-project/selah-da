@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Mikajahu sagde: Så sandt Jahve lever: hvad Jahve siger til mig, det vil jeg tale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så sandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som Jahve siger til mig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det vil jeg tale"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vil jeg tale"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:09.757435860Z",
+  "model": "glm-5.3"
+}

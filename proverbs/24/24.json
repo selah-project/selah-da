@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Den der siger til den skyldige: Du er retfærdig — ham forbander folkene, nationerne vrager ham.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Den der siger"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "til den skyldige"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du … er"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "ham forbander"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "vrager ham"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nationerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:23.404268068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "På den fjerde dag ⟨var det⟩ fyrsten for Reubens børn, Elitsur, søn af Shedejur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den fjerde dag"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "fjerde"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "fyrsten"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for børnene af"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "af Shedejur"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:37.399865556Z",
+  "model": "glm-5.3"
+}

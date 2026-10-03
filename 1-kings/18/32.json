@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han opbyggede ⟨את⟩ stenene til et alter i Jahves navn; og han lavede en grav rundt om alteret, så stor som to sea-mål sæd.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "og han opbyggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenene"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenene"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og han lavede"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "grav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "så stor som"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "to sea-mål"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:31.112854629Z",
+  "model": "glm-5.3"
+}

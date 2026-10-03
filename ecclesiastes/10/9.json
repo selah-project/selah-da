@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den der flytter sten, skal komme til skade ved dem; den der kløver træer, skal komme i fare ved dem.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "den der flytter"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "skal komme til skade"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "den der kløver"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "træer"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "skal komme i fare"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ved dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:10.943140897Z",
+  "model": "glm-5.3"
+}

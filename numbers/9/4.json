@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Moshe talte til Jisraels sønner om at holde pesachen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og ... talte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "om at holde"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:08:04.661062389Z",
+  "model": "glm-5.3"
+}

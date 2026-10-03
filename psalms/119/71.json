@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Godt var det for mig, at jeg blev ydmyget, for at jeg kunne lære dine vedtægter.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "jeg blev ydmyget"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "jeg kunne lære"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dine vedtægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:19.472572293Z",
+  "model": "glm-5.3"
+}

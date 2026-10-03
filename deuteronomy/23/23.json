@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Men hvis du undlader at aflægge et løfte, bliver det ikke synd i dig.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "du undlader"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "at aflægge et løfte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bliver"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "synd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:13.669265572Z",
+  "model": "glm-5.3"
+}

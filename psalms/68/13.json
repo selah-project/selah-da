@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Konger over hære flyer, de flyer, og hun der bor ⟨derhjemme⟩ deler byttet.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Konger"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "over hære"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "flyer"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "de flyer"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "og hun der bor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨derhjemme⟩"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "deler"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byttet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:28.819799825Z",
+  "model": "glm-5.3"
+}

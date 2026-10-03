@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 15:7",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og ved udløbet af fyrre år sagde Avshalom til kongen: Lad mig gå, jeg beder, og indsone ⟨את⟩ mit løfte, som jeg har lovet Jahve, i Chevron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ved udløbet"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "Lad mig gå"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "og indsone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit løfte"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mit løfte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "jeg har lovet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "i Chevron"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:11.242161714Z",
+  "model": "glm-5.3"
+}

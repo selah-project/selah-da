@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han kommer ind i kongeriget ⟨til⟩ kongen af syd, og han vender tilbage til sin egen jord.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Og han kommer"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ind i kongeriget"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "af syd"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og vender tilbage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin egen jord"
+    }
+  ],
+  "timestamp": "2026-10-03T19:01:16.065563013Z",
+  "model": "glm-5.3"
+}

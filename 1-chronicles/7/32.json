@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Chever avlede ⟨את⟩ Jaflet og ⟨את⟩ Shomer og ⟨את⟩ Chotam og ⟨את⟩ Shua, deres søster.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "og Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "deres søster"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:20.378475043Z",
+  "model": "glm-5.3"
+}

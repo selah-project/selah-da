@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Med Elohim skal vi gøre heltedåd, og ⟨det er⟩ han, der skal trampe vore fjender ned.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "med Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skal vi gøre"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "heltedåd"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og ⟨det er⟩ han"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "skal trampe ned"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "vore fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:02.842720363Z",
+  "model": "glm-5.3"
+}

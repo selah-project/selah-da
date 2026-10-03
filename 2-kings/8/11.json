@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han fæstede ⟨את⟩ sit ansigt på ham og stirrede, til han blev flov, og Guds mand græd.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "fæstede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit ansigt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og stirrede"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בש",
+      "gloss": "han blev flov"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "græd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "af Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:03.168894293Z",
+  "model": "glm-5.3"
+}

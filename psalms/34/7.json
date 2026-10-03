@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Denne fattige råbte, og Jahve hørte ham og frelste ham fra alle hans trængsler.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattige"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "råbte"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "og fra alle"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "hans trængsler"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "frelste ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:25.344927525Z",
+  "model": "glm-5.3"
+}

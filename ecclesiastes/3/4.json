@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et øjeblik at græde, og et øjeblik at le; et øjeblik at holde klage, og et øjeblik at danse.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "at græde"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "at le"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "at holde klage"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "at danse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:26.146495116Z",
+  "model": "glm-5.3"
+}

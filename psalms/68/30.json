@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Fra dit helligdom ⟨over⟩ Jerushalajim; til dig skal konger føre gaver.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "fra dit helligdom"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "skal føre"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "שי",
+      "gloss": "gaver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:06.694315324Z",
+  "model": "glm-5.3"
+}

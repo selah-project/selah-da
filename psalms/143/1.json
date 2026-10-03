@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "En mizmor af David. Jahve, hør min bøn, lyt til min ydmyge begæring; i din trofasthed svar mig, i din tsedek.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyt til"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "min ydmyge begæring"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "i din trofasthed"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svar mig"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:59.771126365Z",
+  "model": "glm-5.3"
+}

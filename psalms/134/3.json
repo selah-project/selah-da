@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 134,
+  "translation": "Jahve velsigne dig fra Tsiyon, ham som gjorde ⟨את⟩ himlene og ⟨את⟩ jorden!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "velsigne dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "fra Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ham som gjorde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "og jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:47.306495841Z",
+  "model": "glm-5.3"
+}

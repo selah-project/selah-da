@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahve sendte ⟨את⟩ Jerubba'al og ⟨את⟩ Bedan og ⟨את⟩ Jiftach og ⟨את⟩ Shmuel, og han friede ⟨את⟩ jer ud af jeres fjenders hånd rundt omkring, og I boede i tryghed.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubba'al"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubba'al"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "og han friede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra … hånd"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jeres fjender"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt omkring"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "og I boede"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "i tryghed"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:58.761390510Z",
+  "model": "glm-5.3"
+}

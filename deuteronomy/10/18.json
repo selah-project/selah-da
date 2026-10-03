@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han skaffer ret for faderløs og enke og elsker fremmeden, så han giver ham brød og klædebon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "skaffer"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "faderløs"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "og enke"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "og elsker"
+    },
+    {
+      "surface": "גר",
+      "gloss": "fremmeden"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "så han giver"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "og klædebon"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:32.761389139Z",
+  "model": "glm-5.3"
+}

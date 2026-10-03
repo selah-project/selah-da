@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og de forlod der ⟨את⟩ deres gudebilleder, og David og hans mænd tog dem bort.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "forlod"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres gudebilleder"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "deres gudebilleder"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "tog dem bort"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "og hans mænd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:31.396836576Z",
+  "model": "glm-5.3"
+}

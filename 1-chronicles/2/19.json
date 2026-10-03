@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Asuba døde, og Kalev tog til sig ⟨את⟩ Efrat, og hun fødte ham ⟨את⟩ Chur.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "Og døde"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Asuba"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrat"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Efrat"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hun fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chur"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:09.657654827Z",
+  "model": "glm-5.3"
+}

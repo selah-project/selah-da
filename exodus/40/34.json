@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og skyen dækkede ⟨את⟩ mødeteltet, og Jahves herlighed fyldte ⟨את⟩ Mishkanen.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "og dækkede"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mødeteltet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødet"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "og herligheden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:36.154854269Z",
+  "model": "glm-5.3"
+}

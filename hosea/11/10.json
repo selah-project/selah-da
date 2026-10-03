@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "De skal vandre efter Jahve; som en løve skal han brøle, ja, når han brøler, skal børnene skælve fra havet.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skal de vandre"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som en løve"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "skal han brøle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja, når"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "brøler"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "skal de skælve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børnene"
+    },
+    {
+      "surface": "מים",
+      "gloss": "fra havet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:28.505624989Z",
+  "model": "glm-5.3"
+}

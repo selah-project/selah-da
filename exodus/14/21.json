@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Moshe strakte sin hånd ud over havet, og Jahve drev havet tilbage med en stærk østenvind hele natten og gjorde havet til tørt land, og vandene kløvedes.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "strakte ud"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "drev tilbage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "med ruach"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "øst-"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "stærk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "til tørt land"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "og kløvedes"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:36.848768598Z",
+  "model": "glm-5.3"
+}

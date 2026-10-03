@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og ordet var godt i Adonajs øjne, at Shelomo havde bedt om ⟨את⟩ dette ord.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Og … var godt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … øjne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "havde bedt om"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dette ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:16.041562341Z",
+  "model": "glm-5.3"
+}

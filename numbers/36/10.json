@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Ligesom Jahve havde påbudt ⟨את⟩ Moshe, således gjorde Tselofchads døtre.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ligesom"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofchads"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:12.427903445Z",
+  "model": "glm-5.3"
+}

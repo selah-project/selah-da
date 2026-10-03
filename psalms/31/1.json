@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Til korlederen. En mizmor af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:52.737407685Z",
+  "model": "glm-5.3"
+}

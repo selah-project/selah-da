@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Folkene larmede, rigerne vaklede; ⟨Han⟩ lod sin røst lyde — jorden smelter.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "larmede"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Folkene"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "vaklede"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "rigerne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lod lyde"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sin røst"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "smelter"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.626528111Z",
+  "model": "glm-5.3"
+}

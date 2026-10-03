@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og hver mincha fra en præst skal være helt ⟨brændt⟩; den må ikke spises.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "fra en præst"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "helt"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "må spises"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:18.028911134Z",
+  "model": "glm-5.3"
+}

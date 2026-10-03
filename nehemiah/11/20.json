@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og resten af Jisrael, præsterne og levitterne, ⟨boede⟩ i alle Judas byer, hver mand i sin arv.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Og resten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "i sin arv"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:53.645375766Z",
+  "model": "glm-5.3"
+}

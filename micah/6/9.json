@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Jahves røst kalder til byen, og det ⟨er⟩ visdom at frygte dit navn — hør staven, og ⟨find ud af⟩ hvem der har bestemt den!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "til byen"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kalder"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "og visdom"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "at frygte"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hør"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staven"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "har bestemt den"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:39.925009964Z",
+  "model": "glm-5.3"
+}

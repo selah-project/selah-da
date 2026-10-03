@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Og jeg råbte til dig, Jahve, og om morgenen går min bøn dig i møde.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "råbte jeg"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "og om morgenen"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "går dig i møde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.791867160Z",
+  "model": "glm-5.3"
+}

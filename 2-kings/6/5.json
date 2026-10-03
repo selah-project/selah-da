@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og det skete, mens den ene fældede ⟨את⟩ bjælken, faldt jernet i vandet; og han råbte og sagde: Åh, min herre! Og det var lånt!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "fældede"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "bjælken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bjælken"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "jernet"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "faldt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "og han råbte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Åh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og det"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "var lånt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:30.542476038Z",
+  "model": "glm-5.3"
+}

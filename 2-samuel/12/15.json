@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Natan gik til sit hus, og Jahve slog ⟨את⟩ det barn, som Urijas hustru havde født David, og det blev sygt ⟨ud af håb⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og … gik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "og … slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det barn"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "det barn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "havde født"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "blev det sygt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:50.740030063Z",
+  "model": "glm-5.3"
+}

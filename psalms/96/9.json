@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Bøj jer for Jahve i hellig pragt; skælv for hans ansigt, hele jorden!",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Bøj jer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "i … pragt"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "skælv"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "for hans ansigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:03.575814897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han skal frembære af den sin korban, et ildoffer til Jahve: ⟨את⟩ fedtet, som dækker indvoldene, og ⟨את⟩ alt det fedt, som er på indvoldene.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Og han skal frembære"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af den"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sin korban"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "et ildoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "som dækker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indvoldene"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "indvoldene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt det fedt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "det fedt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "indvoldene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:07.396639588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Stor er Jahve og højlig lovet, og hans storhed har ingen udforskning.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "og højlig lovet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "højlig"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "og hans storhed"
+    },
+    {
+      "surface": "אין",
+      "gloss": "har ingen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "udforskning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:17.363287093Z",
+  "model": "glm-5.3"
+}

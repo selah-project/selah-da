@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 127,
+  "translation": "Lykkelig er manden, som fyldte ⟨את⟩ sit kogger med dem; de skal ikke blive til skamme, når de taler med ⟨את⟩ fjender i porten.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Lykkelig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "er manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit kogger"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sit kogger"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skal de blive til skamme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "de taler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjender"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "med fjender"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:28.117783843Z",
+  "model": "glm-5.3"
+}

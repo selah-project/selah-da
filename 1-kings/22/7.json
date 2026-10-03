@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Jehoshafat sagde: Er der ikke her endnu en profet for Jahve, så vi kan spørge ⟨את⟩ ham?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Er der ikke"
+    },
+    {
+      "surface": "פה",
+      "gloss": "her"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "en profet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "så vi kan spørge"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (profeten)"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:46.436842638Z",
+  "model": "glm-5.3"
+}

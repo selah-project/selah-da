@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han lavede ⟨את⟩ stængerne af akacietræ og overtrækkte ⟨את⟩ dem med guld.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han lavede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stængerne"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af træ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "og overtrækkte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (stængerne)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:54.272965474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Du samlede al din vrede, du vendte dig fra din næses flammende harme.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Du samlede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "du vendte dig fra"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "flammende harme"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din næse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:05.954840488Z",
+  "model": "glm-5.3"
+}

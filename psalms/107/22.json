@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Og de skal ofre takkeofre og fortælle hans gerninger med jubel.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Og de skal ofre"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ofre"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "takke-"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "og fortælle"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans gerninger"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.455725199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Med stærk hånd og ⟨med⟩ udstrakt arm, for hans chesed ⟨varer⟩ til evig tid.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Med hånd"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stærk"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "og med arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "udstrakt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:38.943401839Z",
+  "model": "glm-5.3"
+}

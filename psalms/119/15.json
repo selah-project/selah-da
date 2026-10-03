@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "I dine bud vil jeg grunde, og jeg vil se på dine stier.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "i dine bud"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "vil jeg grunde"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "og jeg vil se på"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "dine stier"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:18.040286903Z",
+  "model": "glm-5.3"
+}

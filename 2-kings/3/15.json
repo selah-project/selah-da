@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og nu: Hent mig en spillemand! Og det skete, mens spillemanden spillede, at Jahves hånd kom over ham.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Hent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "en spillemand"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "mens... spillede"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "spillemanden"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:51.272941535Z",
+  "model": "glm-5.3"
+}

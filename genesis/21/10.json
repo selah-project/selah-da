@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og hun sagde til Avraham: Driv denne trælkvinde ud og ⟨את⟩ hendes søn, for denne trælkwindes søn skal ikke arve med min søn, med Jitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Driv … ud"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "denne trælkvinde"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hendes søn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hendes søn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "skal … arve"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sønnen"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "trælkvindens"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:48.828777895Z",
+  "model": "glm-5.3"
+}

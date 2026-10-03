@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Når din søn spørger dig i tidens løb og siger: Hvad betyder vidnesbyrdene og forskrifterne og dommene, som Jahve vor Elohim har budt ⟨את⟩ eder?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "spørger dig"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i tidens løb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdene"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "og forskrifterne"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "og dommene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har budt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ eder",
+      "marks": "eder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:10.418322533Z",
+  "model": "glm-5.3"
+}

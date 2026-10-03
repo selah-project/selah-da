@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Men jeg har afklædt ⟨את⟩ Esav, jeg har blotlagt ⟨את⟩ hans skjulesteder, og han kan ikke skjule sig; hans sæd er plyndret, og hans brødre og hans naboer, og han ⟨er⟩ ikke mere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "har afklædt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "har blotlagt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans skjulesteder"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "hans skjulesteder"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "skjule sig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "plyndret"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans sæd"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "og hans brødre"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "og hans naboer"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "og han er ikke mere"
+    }
+  ],
+  "timestamp": "2026-10-03T17:27:53.239689135Z",
+  "model": "glm-5.3"
+}

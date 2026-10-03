@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og selv om jeg sandelig har fejlet, hos mig ⟨את⟩ bliver min fejl.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Og selv om"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "har jeg fejlet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bliver"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "min fejl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:31.872549719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og det skete, da kongerigen var blevet fast for ham, da dræbte han ⟨את⟩ sine trælle, de som havde slået ⟨את⟩ kongen, hans fader.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "var blevet fast"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongerigen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "dræbte han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine trælle"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælle"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "de som havde slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-10-03T19:26:08.094232158Z",
+  "model": "glm-5.3"
+}

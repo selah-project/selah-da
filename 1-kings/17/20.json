@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og han råbte til Jahve og sagde: Jahve, min Elohim, har du også ført ulykke over enken, hos hvem jeg bor som fremmed, så du vil dræbe ⟨את⟩ hendes søn?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og han råbte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "også"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "enken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hos hvem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "bor som fremmed"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hos hende"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "har du ført ulykke"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "så du vil dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes søn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hendes søn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:59.799387553Z",
+  "model": "glm-5.3"
+}

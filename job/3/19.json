@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Lille og stor er der ⟨ens⟩, og trællen er fri fra sin herre.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "Lille"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "og stor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ens⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "og trællen"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "er fri"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "fra sin herre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:38.184079181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "For selv om de lader ⟨את⟩ deres sønner vokse op, gør jeg dem barnløse, ja, fra mennesker; thi også ve dem, når jeg vender mig bort fra dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אם",
+      "gloss": "selv om"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "lader vokse op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sønner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres sønner"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "gør jeg dem barnløse"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fra mennesker"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "når jeg vender mig bort"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "fra dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:50.718374371Z",
+  "model": "glm-5.3"
+}

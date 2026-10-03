@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Kan to gå sammen, uden at de har aftalt det?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Kan ... gå"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "at"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "har aftalt det"
+    }
+  ],
+  "timestamp": "2026-10-03T17:53:28.891963746Z",
+  "model": "glm-5.3"
+}

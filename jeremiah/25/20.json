@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og ⟨את⟩ hele det blandede folk, og ⟨את⟩ alle kongerne i Uz' land, og ⟨את⟩ alle kongerne i pelisternes land, og ⟨את⟩ Ashkelon og ⟨את⟩ Azza og ⟨את⟩ Ekron og ⟨את⟩ resten af Ashdod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele det blandede folk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "det blandede folk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle kongerne i Uz' land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Uz'"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle kongerne i pelisternes land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelisternes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Azza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "resten af Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resten"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    }
+  ],
+  "timestamp": "2026-10-03T17:19:06.953257229Z",
+  "model": "glm-5.3"
+}

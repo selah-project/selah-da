@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Lys ⟨er⟩ sået for den retfærdige, og glæde for dem med oprigtigt hjerte.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Lys"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sået"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "for den retfærdige"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "og for dem med oprigtig"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glæde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:02.948009609Z",
+  "model": "glm-5.3"
+}

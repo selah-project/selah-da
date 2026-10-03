@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Fedt er deres hjerte blevet ⟨som⟩, men jeg har min lyst i din Tora.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "er blevet sløv"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "som fedt"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjerte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "har min lyst i"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:19.472424147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Så byttede de ⟨את⟩ deres herlighed bort for billedet af en okse, der æder græs.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "så byttede de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres herlighed"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "deres herlighed"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "for billedet af"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en okse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "der æder"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "græs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:36.970804115Z",
+  "model": "glm-5.3"
+}

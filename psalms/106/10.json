@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og han frelste dem fra hånden på den, der hade dem, og løskøbte dem fra fjendens hånd.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Og han frelste dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "på den, der hade dem"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "og løskøbte dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjendens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:28.467110275Z",
+  "model": "glm-5.3"
+}

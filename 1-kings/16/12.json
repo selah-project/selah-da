@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Således udryddede Zimri ⟨את⟩ hele Baashas hus, efter Jahves ord, som han talte til Baasha ved Jehu profetens hånd,",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "udryddede"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Baashas hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:07.935306142Z",
+  "model": "glm-5.3"
+}

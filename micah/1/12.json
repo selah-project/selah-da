@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Thi hun som bor i Marot længes efter det gode; thi ulykken er stegt ned fra ⟨את⟩ Jahve, helt til Jerushalajims port.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "længes"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "efter det gode"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "hun som bor"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "i Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "er stegt ned"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ulykken"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "helt til porten"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:04.350026202Z",
+  "model": "glm-5.3"
+}

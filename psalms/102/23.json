@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "når folkene samles sammen, og kongerigerne, til at tjene ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "når … samles"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "og kongeriggerne"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "til at tjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:56.876467139Z",
+  "model": "glm-5.3"
+}

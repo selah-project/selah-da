@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Efter dat — hvad skal der gøres med dronningen Vashti, eftersom hun ikke gjorde ⟨את⟩ befalingen fra kong Achashverosh ved hofmændenes hånd?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Efter dat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "skal gøres"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "med dronningen"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "befalingen"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "befalingen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "hofmændenes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:31.298122928Z",
+  "model": "glm-5.3"
+}

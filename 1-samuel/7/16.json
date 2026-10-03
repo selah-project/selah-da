@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og han gik år for år og gjorde omkring i Beit-El og Gilgal og ha-Mitspa, og han dømte ⟨את⟩ Jisrael ⟨את⟩ alle disse steder.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "og gjorde omkring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "og Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "og ha-Mitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "og dømte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse steder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "disse steder"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:00.717059623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Hendes mands hjerte stoler trygt på hende, og bytte skal han ikke mangle.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "stoler trygt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på hende"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "hendes mand"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "og bytte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "skal mangle"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:43.808024793Z",
+  "model": "glm-5.3"
+}

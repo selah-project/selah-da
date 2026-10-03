@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 128,
+  "translation": "Din hustru ⟨er⟩ som en frugtbar vinstok i dit hus's inderste gemakker; dine sønner som olivenskud omkring dit bord.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Din hustru"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "som en vinstok"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "frugtbar"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "i inderste gemakker"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus's"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "som skud"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oliven-"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "omkring"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "dit bord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:04.500965814Z",
+  "model": "glm-5.3"
+}

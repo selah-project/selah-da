@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "De styrker sig selv i en ond sag; de fortæller om at skjule snarer; de siger: Hvem skal se dem?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "de styrker"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem selv"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sag"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "de fortæller"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "at skjule"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "snarer"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de siger"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skal se"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:54.273488224Z",
+  "model": "glm-5.3"
+}

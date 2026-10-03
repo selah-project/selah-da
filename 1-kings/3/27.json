@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kongen svarede og sagde: Giv hende barnet ⟨את⟩ det levende, og dræb det ikke — hun er dets mor.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og han svarede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet det levende"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "החי",
+      "gloss": "det levende"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "og dræb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "det ikke"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "er dets mor"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:58.439709834Z",
+  "model": "glm-5.3"
+}

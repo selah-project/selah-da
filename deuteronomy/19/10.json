@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "for at uskyldigt blod ikke skal udgydes midt i dit land, som Jahve din Elohim giver dig som arv — ellers kommer der blod på dig.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "skal udgydes"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldigt"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dit land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "som arv"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ellers kommer der"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blod"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:57.598814512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Kast mig ikke bort fra dit ansigt, og tag ikke din hellige ruach fra mig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "kast mig"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "fra dit ansigt"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og ruach"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din hellige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:24.462456489Z",
+  "model": "glm-5.3"
+}

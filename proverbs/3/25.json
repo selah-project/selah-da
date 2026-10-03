@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Frygt ikke for pludselig skræk, ej heller for de ondes ødelæggelse, når den kommer.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "for skræk"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "pludselig"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ej heller for ødelæggelsen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "den kommer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:16.996519069Z",
+  "model": "glm-5.3"
+}

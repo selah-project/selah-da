@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Nej, du skal slå ham ihjel — dræbe skal du dræbe ham; din hånd skal være den første mod ham for at dræbe ham, og hele folkets hånd til sidst.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nej,Imperativ af imperfekt כי im — 'nej, men'"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dræbe"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "skal du dræbe ham"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mod ham"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "den første"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "for at dræbe ham"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "og hånden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "til sidst"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:07.350961736Z",
+  "model": "glm-5.3"
+}

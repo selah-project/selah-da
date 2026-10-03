@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Da Ephrajim talte, var der bæven; han ophøjede sig i Jisrael, men han blev skyldig ved Ba'al og døde.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "da … talte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "bæven"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ophøjede sig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "og blev skyldig"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ved Ba'al"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:52.754397258Z",
+  "model": "glm-5.3"
+}

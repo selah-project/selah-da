@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jiftach dømte ⟨את⟩ Jisrael i seks år; og Jiftach giladiten døde og blev begravet i byerne i Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dømte"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "giladiten"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "og blev begravet"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i byerne"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilad"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:28.998401252Z",
+  "model": "glm-5.3"
+}

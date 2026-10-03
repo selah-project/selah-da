@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de satte tvangsarbejdsforstandere over dem for at undertrykke dem med deres byrder; og ⟨de⟩ byggede forrådsbyer for Farao, ⟨את⟩ Pitom og ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Og de satte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "forstandere"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "tvangsarbejde"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "undertrykke dem"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "med deres byrder"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og ⟨de⟩ byggede"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "forråds"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "for Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:54.000969339Z",
+  "model": "glm-5.3"
+}

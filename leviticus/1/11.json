@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han skal slagte den på alterets nordside, for ansigtet af Jahve, og Aharons sønner, præsterne, skal sprænge ⟨את⟩ dens blod på alteret rundt om.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "og han skal slagte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "siden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alterets"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "mod nord"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "og de skal sprænge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dens blod"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:15.560513122Z",
+  "model": "glm-5.3"
+}

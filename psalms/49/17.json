@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Frygt ikke, når en mand bliver rig, når hans hus's herlighed vokser;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "bliver rig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "vokser"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus's"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:58.441303257Z",
+  "model": "glm-5.3"
+}

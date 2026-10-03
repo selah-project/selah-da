@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Vidnernes hånd skal være ⟨den første⟩ over ham til at dræbe ham, og hele folkets hånd bagefter; og du skal udrydde ⟨את⟩ det onde af din midte.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "vidnernes"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "בו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "den første"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "til at dræbe ham"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "og hånd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "bagefter"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "og du skal udrydde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "af din midte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:28.640968939Z",
+  "model": "glm-5.3"
+}

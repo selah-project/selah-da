@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim kaldte det tørre jord, og vandenes samling kaldte ⟨han⟩ have. Og Elohim så, at det var godt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "det tørre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "og vandenes samling"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "have"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:41.192408121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Thi jeg ⟨er⟩ rede til at vakle, og min smerte ⟨er⟩ stedse foran mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "rede til at vakle"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "rede"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "og min smerte"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "foran mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stedse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.339602332Z",
+  "model": "glm-5.3"
+}

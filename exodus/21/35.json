@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og når en mands okse støder ⟨את⟩ hans næstes okse, så den dør, skal de sælge ⟨את⟩ den levende okse og dele ⟨את⟩ dens sølv; også ⟨את⟩ det døde skal de dele.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og når"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "støder"
+    },
+    {
+      "surface": "שור",
+      "gloss": "okse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans næstes okse"
+    },
+    {
+      "surface": "שור",
+      "gloss": "okse"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hans næstes"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "så den dør"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "skal de sælge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den levende okse"
+    },
+    {
+      "surface": "השור",
+      "gloss": "den levende okse"
+    },
+    {
+      "surface": "החי",
+      "gloss": "levende"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "og dele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens sølv"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "dens sølv"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det døde"
+    },
+    {
+      "surface": "המת",
+      "gloss": "det døde"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "skal de dele"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:06.191375777Z",
+  "model": "glm-5.3"
+}

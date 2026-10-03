@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "En far var jeg for de fattige, og en sag jeg ikke kendte, den granskede jeg.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "far"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "for de fattige"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "og sagen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg kendte"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "granskede jeg den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:47.954131146Z",
+  "model": "glm-5.3"
+}

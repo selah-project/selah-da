@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hun har sendt sine piger ud, hun råber på byens højeste steder:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "har sendt ud"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "sine piger"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "hun råber"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "⟨toppene⟩"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "højeste steder"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "byens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:31.948781988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og de huggede ⟨את⟩ hans hoved af og flåede ⟨את⟩ hans rustning af, og sendte ⟨bud⟩ rundt om i filistrenes land for at bære bud til deres billeders hus og til ⟨את⟩ folket.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "og de huggede af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hoved"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans hoved"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "og flåede de af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans rustning"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans rustning"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "og sendte de"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistrene"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "for at bære bud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "deres billeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:44.321336998Z",
+  "model": "glm-5.3"
+}

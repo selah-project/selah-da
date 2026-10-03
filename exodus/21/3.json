@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Kommer han ind alene, skal han gå ud alene; er han en kvindes mand, skal hans kone gå ud med ham.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kommer…?"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "alene"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "han kommer ind"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "alene"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "skal han gå ud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "er…?"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "en kvindes mand"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kvinde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "skal hun gå ud"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans kone"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:47.629505735Z",
+  "model": "glm-5.3"
+}

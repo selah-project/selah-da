@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Udmattet gav du ikke vand, og fra den sultneholdt du brødet tilbage.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "udmattet"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "gav du at drikke"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "og fra den sultne"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "holdt du tilbage"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brødet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:47.672469906Z",
+  "model": "glm-5.3"
+}

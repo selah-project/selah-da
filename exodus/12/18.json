@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "I den første måned, på den fjortende dag i måneden, om aftenen, skal I spise usyrede brød, indtil den en og tyvende dag i måneden, om aftenen.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "I den første"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på den fjorte"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ende"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om aftenen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I spise"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "usyrede brød"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den en"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyvende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:12.437933949Z",
+  "model": "glm-5.3"
+}

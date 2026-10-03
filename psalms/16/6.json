@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Målesnorene er faldet til mig i herlige ⟨steder⟩; ja, min arvedel er dejlig for mig.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "målesnorene"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "er faldet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "i herlige ⟨steder⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arvedel"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "dejlig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:06.444489891Z",
+  "model": "glm-5.3"
+}

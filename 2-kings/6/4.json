@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han gik ⟨את⟩ med dem, og de kom til Jarden, og de huggede træerne.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og han gik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "med dem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "til Jarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "og de huggede"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "træerne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:18.928751632Z",
+  "model": "glm-5.3"
+}

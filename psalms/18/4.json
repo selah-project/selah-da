@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Den lovpriste kalder jeg på, Jahve, og fra mine fjender bliver jeg frelst.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Den lovpriste"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kalder jeg på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "bliver jeg frelst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:35.963693573Z",
+  "model": "glm-5.3"
+}

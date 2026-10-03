@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den som foragter sin næste, mangler forstand, men en mand af indsigt tier.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "foragter"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mangler"
+    },
+    {
+      "surface": "לב",
+      "gloss": "forstand"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en mand"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "af indsigt"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "tier"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:53.879941196Z",
+  "model": "glm-5.3"
+}

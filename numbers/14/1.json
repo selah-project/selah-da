@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og hele menigheden løftede ⟨את⟩ deres røst, og folket græd den nat.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "løftede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres røst"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "deres røst"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "og græd"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "den nat"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-10-03T15:08:55.380043550Z",
+  "model": "glm-5.3"
+}

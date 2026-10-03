@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Jahve støtter alle dem, der falder, og retter alle de bøjede op.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "støtter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "dem der falder"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "og retter op"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "de bøjede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:11.631070373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Den æder hans skinds lemmer, dødens førstefødte æder ⟨את⟩ hans lemmer.",
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "æder"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "lemmer"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "hans skinds"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "æder"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "hans lemmer",
+      "marks": "hans lemmer"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "førstefødte"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dødens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:59.894924759Z",
+  "model": "glm-5.3"
+}

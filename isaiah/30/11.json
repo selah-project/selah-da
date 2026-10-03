@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Vige bort fra vejen, bøj af fra stien, lad Israels Hellige holde op ⟨fra at være⟩ for vort ansigt ⟨את⟩!",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "vige bort"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "bøj af"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stien"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "lad … holde op"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "for vort ansigt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels Hellige"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Hellige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:25.796406921Z",
+  "model": "glm-5.3"
+}

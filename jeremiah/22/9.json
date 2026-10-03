@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og de skal sige: Fordi de forlod ⟨את⟩ pagten med Jahve, deres Elohim, og bøjede sig for andre guder og tjente dem.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Og de skal sige"
+    },
+    {
+      "surface": "על",
+      "gloss": "Fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨det⟩"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "de forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagten"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og bøjede sig"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "for guder"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "og tjente dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:02.381811691Z",
+  "model": "glm-5.3"
+}

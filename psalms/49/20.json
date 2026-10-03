@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Han kommer til sine fædres slægt; til evighed skal de ikke se lys.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "han kommer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "sine fædres"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "evighed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "skal de se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:58.441748670Z",
+  "model": "glm-5.3"
+}

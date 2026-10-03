@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "Jahve har gjort sin frelse kendt; for folkenes øjne har han åbenbart sin tsedek.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "har gjort kendt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "sin frelse"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for øjne"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkenes"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han åbenbart"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sin tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:23.545657962Z",
+  "model": "glm-5.3"
+}

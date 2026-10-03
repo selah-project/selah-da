@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Den som udgyder menneskets blod, ved et menneske skal hans blod udgydes; for i Elohims billede gjorde han ⟨את⟩ mennesket.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "den som udgyder"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ved et menneske"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "skal udgydes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "i billede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:36.158000948Z",
+  "model": "glm-5.3"
+}

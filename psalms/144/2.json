@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Min chesed og min fæstning, mit værn og min befrier, mit skjold — og i ham søger jeg ly, han som kuer folket under mig.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "min chesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og min fæstning"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mit værn"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og min befrier"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mit skjold"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "og i ham"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "søger jeg ly"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "han som kuer"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "under mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:31.015775806Z",
+  "model": "glm-5.3"
+}

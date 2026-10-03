@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Thi Jahves navn vil jeg påkalde; giver vor Elohim storhed!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vil jeg påkalde"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "giver"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "storhed"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:54.561646079Z",
+  "model": "glm-5.3"
+}

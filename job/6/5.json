@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Bræger et vildæsel, når det har græs? Eller brøler en okse over sit foder?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "bræger"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "et vildæsel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "græs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "brøler"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en okse"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "sit foder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:16.699429596Z",
+  "model": "glm-5.3"
+}

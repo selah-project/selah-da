@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Før ⟨את⟩ stammen Levi nærmere, og stil ⟨את⟩ den frem foran Aharon, præsten, så de kan tjene ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Før nærmere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stammen Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "og stil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (Levi)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frem foran"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "så de kan tjene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Aharon)"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:10.944448056Z",
+  "model": "glm-5.3"
+}

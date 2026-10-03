@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Avimelech gik til Tevetz og lejrede sig mod Tevetz og indtog ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevetz"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "og lejrede sig"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "mod Tevetz"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "og indtog det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:02.456602723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Som min hånd fandt ⟨de⟩ riger med deres elille-billeder, ⟨og deres udskårne billeder⟩ — fra Jerushalajim og fra Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Som"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "fandt"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "rigerne"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "elillernes"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "og deres udskårne billeder"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "fra Jerushalajim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "og fra Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:06.407745347Z",
+  "model": "glm-5.3"
+}

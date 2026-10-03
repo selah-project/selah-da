@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Svindlende vægtskåle er en vederstyggelighed for Jahve, men en hel sten er hans velbehag.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "vægtskåle"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svindlende"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "vederstyggelighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "men en sten"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hel"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "hans velbehag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:35.014937833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet ⟨er⟩ den, der fører den blinde vild på vejen, og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "den, der fører vild"
+    },
+    {
+      "surface": "עור",
+      "gloss": "den blinde"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:44.101156851Z",
+  "model": "glm-5.3"
+}

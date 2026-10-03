@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "og se, om der er en smertens vej i mig, og led mig på den evige vej!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "en vej"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "smertens"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "og led mig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "den evige vej"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:56.910483963Z",
+  "model": "glm-5.3"
+}

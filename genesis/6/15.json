@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og dette er, hvordan du skal gøre ⟨את⟩ den: tre hundrede alen skal arken være lang, femti alen bred og tredive alen høj.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "og dette"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skal gøre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "længde"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "femti"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bredde"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "dens højde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:57.775399450Z",
+  "model": "glm-5.3"
+}

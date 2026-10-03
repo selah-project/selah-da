@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og siden jeg kom til Farao for at tale i dit navn, er der gjort ondt mod dette folk — og du har slet ikke friet ⟨את⟩ dit folk.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "og siden"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jeg kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "for at tale"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "i dit navn"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "er der gjort ondt"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mod folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "og fri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "har du friet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit folk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:19.070061969Z",
+  "model": "glm-5.3"
+}

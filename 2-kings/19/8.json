@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Rabsake vendte tilbage og fandt Ashurs ⟨את⟩ konge kæmpende mod Livna; for han havde hørt, at han var brudt op fra Lachish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overste"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "mundskænk"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "og fandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashurs konge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurs"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kæmpende"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "han havde hørt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "var brudt op"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "fra Lachish"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:41.305603624Z",
+  "model": "glm-5.3"
+}

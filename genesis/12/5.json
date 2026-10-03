@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Avram tog ⟨את⟩ Saraj, sin hustru, og ⟨את⟩ Lot, sin brors søn, og ⟨את⟩ hele deres ejendom, som de havde samlet, og ⟨את⟩ de sjæle, som de havde gjort i Charan; og de drog ud for at gå til Kenaans land, og de kom til Kenaans land.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraj"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin brors"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele deres ejendom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "deres ejendom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "de havde samlet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de sjæle"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "de sjæle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de havde gjort"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "i Charan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "og de drog ud"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "for at gå"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til ... land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til ... land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:18.516374052Z",
+  "model": "glm-5.3"
+}

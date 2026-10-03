@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Den dovene er vis i sine egne øjne, mere end syv mænd der svarer med fornuft.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den dovene"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sine egne øjne"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "mere end syv"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "der svarer"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "med fornuft"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:50.740037407Z",
+  "model": "glm-5.3"
+}

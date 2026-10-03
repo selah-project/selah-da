@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Formue fra tomhed formindskes, men den som samler ved hånden, forøger.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "formue"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "fra tomhed"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "formindskes"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "men den som samler"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånden"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "forøger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:54.450623271Z",
+  "model": "glm-5.3"
+}

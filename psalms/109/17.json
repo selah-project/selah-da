@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og han elskede forbandelsen, så kom den over ham, og han havde ikke lyst til velsignelsen, så blev den fjernet fra ham.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "og han elskede"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "forbandelsen"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "så kom den over ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "havde lyst til"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "til velsignelsen"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "så blev den fjernet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:19.342041224Z",
+  "model": "glm-5.3"
+}

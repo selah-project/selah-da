@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og syv dage blev opfyldt, efter at Jahve havde slået ⟨את⟩ floden.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Og … blev opfyldt"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter at"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "havde slået"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "floden"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "floden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:11.187382451Z",
+  "model": "glm-5.3"
+}

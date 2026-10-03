@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "De, som bor ved enderne, frygter for dine tegn; morgenens og aftenens udgange lader du juble.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "de som bor"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ved enderne"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "for dine tegn"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "udgange"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgenens"
+    },
+    {
+      "surface": "ו ערב",
+      "gloss": "og aftenens"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "lader du juble"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:29.321398325Z",
+  "model": "glm-5.3"
+}

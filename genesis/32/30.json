@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jaakov spurgte og sagde: Fortæl mig dog dit navn. Og han sagde: Hvorfor spørger du om mit navn? Og han velsignede ham ⟨את⟩ der.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Og Jaakov spurgte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Fortæl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "spørger du"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "om mit navn"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Og han velsignede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:11.818062585Z",
+  "model": "glm-5.3"
+}

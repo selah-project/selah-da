@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Se på mig, svar mig, Jahve, min Elohim! Giv lys til mine øjne, for at jeg ikke skal sove ⟨i⟩ dødens søvn —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "se på mig"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svar mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "giv lys"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "til mine øjne"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at jeg ikke skal"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "sove"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dødens søvn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:11.713161047Z",
+  "model": "glm-5.3"
+}

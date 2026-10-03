@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Thi jeg vogtede Jahves veje og handlede ikke gudløst mod min Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "jeg vogtede"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "veje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "handlede gudløst"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "mod min Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:48.710658489Z",
+  "model": "glm-5.3"
+}

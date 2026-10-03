@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Når et ondt menneske dør, går håbet tabt; og de stærkes forventning er omkommet.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "når ... dør"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "går tabt"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "håbet"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "og forventning"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "de stærkes"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "er omkommet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:57.072098097Z",
+  "model": "glm-5.3"
+}

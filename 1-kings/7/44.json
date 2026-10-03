@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "og ⟨את⟩ det ene hav og ⟨את⟩ de tolv okser under havet",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det ene hav"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de tolv okser"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "oksene"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:45.232749004Z",
+  "model": "glm-5.3"
+}

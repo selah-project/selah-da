@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Salige er ⟨det⟩ folk, hvis Elohim er Jahve, det folk, han udvalgte som sin arvelod.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨det⟩ folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "det folk"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "han udvalgte"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "som sin arvelod"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:21.758435857Z",
+  "model": "glm-5.3"
+}

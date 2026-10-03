@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Thi den gudløses mund og bedrageriets mund har de åbnet imod mig; de har talt med ⟨את⟩ mig ⟨med⟩ løgnens tunge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "og mund"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrageri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "har de åbnet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "de har talt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:41.528321021Z",
+  "model": "glm-5.3"
+}

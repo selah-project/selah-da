@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Elohim er konge over folkene, Elohim sidder på sin hellige trone.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "er konge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sidder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trone"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sin hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:29.981244651Z",
+  "model": "glm-5.3"
+}

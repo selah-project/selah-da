@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Da mine fjender vendte tilbage bagover, snublede de og omkom for dit åsyn.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Da … vendte tilbage"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bagover"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "snublede de"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "og omkom"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "for dit åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:19.927558770Z",
+  "model": "glm-5.3"
+}

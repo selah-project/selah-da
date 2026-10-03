@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han sagde: Hvad har jeg forbrudt, siden du giver ⟨את⟩ din træl i Achavs hånd, for at han skal dræbe mig?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "har jeg forbrudt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din træl"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "for at dræbe mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:10.464484339Z",
+  "model": "glm-5.3"
+}

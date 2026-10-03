@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "Jahves navn ⟨ være⟩ lovprist fra nu af og til evig tid!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨være⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "lovprist"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "fra nu af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.987693779Z",
+  "model": "glm-5.3"
+}

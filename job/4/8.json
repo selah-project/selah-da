@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Som jeg har set: de, der pløjer ondskab, og sår møje, høster det selv.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "de der pløjer"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "og sår"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "høster det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:29.969864273Z",
+  "model": "glm-5.3"
+}

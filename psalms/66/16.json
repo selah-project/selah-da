@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Kom, hør, alle I der frygter Elohim, og jeg vil fortælle, hvad han har gjort mod min sjæl.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hør"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "og jeg vil fortælle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "I der frygter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han har gjort"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mod min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:35.686308997Z",
+  "model": "glm-5.3"
+}

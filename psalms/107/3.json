@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "og fra landene samlede han dem, fra øst og fra vest, fra nord og fra havet.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "og fra landene"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "samlede han dem"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "fra øst"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "og fra vest"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "fra nord"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og fra havet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:54.764241252Z",
+  "model": "glm-5.3"
+}

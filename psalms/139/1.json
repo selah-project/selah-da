@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Til korlederen. En mizmor af David. Jahve, du har gennemsøgt mig og kender mig.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "du har gennemsøgt mig"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "og kender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:09.430288738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og hans førstefødte søn var Avdon, og Tsur, og Kish, og Ba'al, og Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "og hans søn"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "og Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "og Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "og Ba'al"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "og Nadav"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:09.042950079Z",
+  "model": "glm-5.3"
+}

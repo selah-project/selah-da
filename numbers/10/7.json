@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og når ⟨forsamlingen⟩ skal samles, skal I støde ⟨את⟩ ⟨forsamlingen⟩ sammen — men I skal ikke støde signal.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "Og når … skal samles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forsamlingen"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "forsamlingen"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "skal I støde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "støde signal"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:22.257486016Z",
+  "model": "glm-5.3"
+}

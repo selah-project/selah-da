@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Moshe byggede et alter og kaldte dets navn Jahve Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Og byggede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dets navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:30.136738539Z",
+  "model": "glm-5.3"
+}

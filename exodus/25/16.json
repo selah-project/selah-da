@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal lægge i Aron ⟨את⟩ vidnesbyrdet, som jeg vil give dig.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Og du skal lægge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vidnesbyrdet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "jeg vil give"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:05.133599382Z",
+  "model": "glm-5.3"
+}

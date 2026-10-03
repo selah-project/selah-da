@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Jahve er retfærdig i alle sine veje og chesed-fuld i alle sine gjerninger.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sine veje"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "og chesed-fuld"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sine gjerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:16.746527632Z",
+  "model": "glm-5.3"
+}

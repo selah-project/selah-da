@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Hvem blandt alle guderne i disse lande har reddet ⟨את⟩ deres land af min hånd, så Jahve skulle redde ⟨את⟩ Jerushalajim af min hånd?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "blandt alle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guderne"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "i disse lande"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "har reddet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "af min hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "skulle redde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "af min hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:10.963330440Z",
+  "model": "glm-5.3"
+}

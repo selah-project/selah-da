@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Dog vil jeg kræve ⟨את⟩ jeres blod, som gælder jeres liv, til regnskab; af ethvert levende væsens hånd vil jeg kræve det, og af menneskets hånd, af en hver mands broders hånd, vil jeg kræve ⟨את⟩ menneskets liv.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres blod"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "jeres blod"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "som gælder jeres liv"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "vil jeg kræve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ethvert"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levende væsen"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "vil jeg kræve det"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "og af hånden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en hver mand"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "vil jeg kræve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menneskets liv"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "liv"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:36.157738881Z",
+  "model": "glm-5.3"
+}

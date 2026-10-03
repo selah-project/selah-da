@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Øsede foragt ud over fyrster, og lod dem vandre flakkende i ødemark, uden vej.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "øsede ud"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "foragt"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "fyrster"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "og lod dem vandre vildt"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "i ødemark"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:52.205582841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "i bjerglandet og i lavlandet og i Arabah og på skråningerne og i ørkenen og i Negev — hetiteren, amoriteren og kanaanæeren, perizziteren, hiviteren og jevusiteren.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "i bjerglandet"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "og i lavlandet"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "og i Arabah"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "og på skråningerne"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "og i ørkenen"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "og i Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetiteren"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoriteren"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "og kanaanæeren"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizziteren"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviteren"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "og jevusiteren"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:59.847614132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Din højre hånd, Jahve, er herlig i kraft; din højre hånd, Jahve, knuser fjenden.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "er herlig"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "i kraft"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "knuser"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:53.893023565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Skal dine under blive kendt i mørket, din tsedek i glemslens land?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "skal blive kendt"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dine under"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "glemsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.791642882Z",
+  "model": "glm-5.3"
+}

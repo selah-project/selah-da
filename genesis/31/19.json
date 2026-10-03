@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Lavan var gået bort for at klippe ⟨את⟩ sin hjord, og Rachel stjal ⟨את⟩ terafim'erne, som tilhørte hendes far.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Og Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "var gået bort"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "for at klippe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hjord"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sin hjord"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "og stjal"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim'erne"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim'erne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "tilhørte hendes far"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:47.724541104Z",
+  "model": "glm-5.3"
+}

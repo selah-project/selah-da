@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Som mætter dig med det gode — din pryd — fornyes din ungdom som ørnens.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Som mætter dig"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "med det gode"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "din pryd"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "fornyet"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "som ørnen"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "din ungdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:07.524349520Z",
+  "model": "glm-5.3"
+}

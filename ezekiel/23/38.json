@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Ydermere dette gjorde de mod mig: de gjorde ⟨את⟩ min helligdom uren på den dag, og ⟨את⟩ mine Shabbatter vanhelligede de.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Ydermere"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "gjorde de urent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min helligdom"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "min helligdom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine Shabbatter"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mine Shabbatter"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "vanhelligede de"
+    }
+  ],
+  "timestamp": "2026-10-03T17:39:11.403461450Z",
+  "model": "glm-5.3"
+}

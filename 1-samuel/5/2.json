@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og filisterne tog ⟨את⟩ arken til Elohim og bragte den ind i Dagons hus og stillede den ved siden af Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "og bragte ind"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "i Dagons hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i Dagons hus"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagons"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "og stillede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "ved siden af Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ved siden af"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:55.876856959Z",
+  "model": "glm-5.3"
+}

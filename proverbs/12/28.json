@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "På tsedek-rettens vej er der liv, og på dens sti er der ingen død.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek-rettens"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "og på"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "dens sti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "død"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:24.597405785Z",
+  "model": "glm-5.3"
+}

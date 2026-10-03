@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og endnu så jeg under solen: rettens sted — dér ⟨står⟩ reshåen, og tsedekens sted — dér ⟨står⟩ reshåen.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Og endnu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "så jeg"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sted"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "rettens"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dér"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "reshåen"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "og"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "tsedekens"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dér"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "reshåen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:23.580818405Z",
+  "model": "glm-5.3"
+}

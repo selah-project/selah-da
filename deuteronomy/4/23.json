@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 4:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Vogt jer selv, at I ikke glemmer ⟨את⟩ pagten med Jahve, jeres Elohim, som han har sluttet med jer, og at I ikke gør jer en udskåren gudsskikkelse, et billede af noget som helst, som Jahve, din Elohim, har påbudt dig ⟨om⟩.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Vogt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer selv"
+    },
+    {
+      "surface": "פן",
+      "gloss": "at I ikke"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "glemmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagten"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "har sluttet"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med jer"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "en udskåren gudsskikkelse"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "et billede af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noget som helst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har påbudt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:45.844255383Z",
+  "model": "glm-5.3"
+}

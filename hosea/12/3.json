@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahve har en retssag med Juda og vil hjemsøge Jaakov; efter hans veje, efter hans gjerninger vil han gengælde ham.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "og har en retssag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "og vil hjemsøge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "efter hans veje"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "efter hans gjerninger"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vil han gengælde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:39.311358565Z",
+  "model": "glm-5.3"
+}

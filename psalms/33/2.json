@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Lovsynger Jahve med kinor, med nevel af ti strenge, spiller for ham.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lovsynger"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "med nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "af ti strenge"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spiller"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.095533710Z",
+  "model": "glm-5.3"
+}

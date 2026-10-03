@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og jeg sagde i min ro: Jeg skal ⟨aldrig⟩ rokkes, i evighed.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "i min ro"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨aldrig⟩"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "rokkes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:54.077064322Z",
+  "model": "glm-5.3"
+}

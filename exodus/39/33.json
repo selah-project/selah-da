@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og de bragte ⟨את⟩ Mishkanet til Moshe: ⟨את⟩ teltet og ⟨את⟩ alle dets redskaber, dets kroge, dets brædder, dets tværstænger, dets søjler og dets sokler.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Og de bragte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teltet"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dets redskaber"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets redskaber"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dets kroge"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "dets brædder"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "dets tværstænger"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "dets søjler"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "dets sokler"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:34.179600048Z",
+  "model": "glm-5.3"
+}

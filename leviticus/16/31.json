@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Shabbat, en fuldkommen hvile ⟨er det⟩ for jer, og I skal ydmyge ⟨את⟩ jeres sjæle — en evig forskrift.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "fuldkommen hvile"
+    },
+    {
+      "surface": "היא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "og I skal ydmyge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres sjæle"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jeres sjæle"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "forskrift"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:32.428685628Z",
+  "model": "glm-5.3"
+}

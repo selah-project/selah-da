@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Mit hjerte farer vild, rædsel har forfærdet mig; ⟨את⟩ skumringen, min lyst, har han gjort til skælven for mig.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "farer vild"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Mit hjerte"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "har forfærfet mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skumringen, min lyst"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "skumringen"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "min lyst"
+    },
+    {
+      "surface": "שם",
+      "gloss": "har han gjort"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "til skælven"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:14.461142698Z",
+  "model": "glm-5.3"
+}

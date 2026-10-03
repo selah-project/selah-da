@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Pris ikke dig selv på morgendagen, for du ved ikke, hvad en dag kan føde.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "pris dig selv"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ved du"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "kan føde"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:30.433393788Z",
+  "model": "glm-5.3"
+}

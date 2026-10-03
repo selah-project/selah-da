@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg sagde: Jeg vil ikke vogte ⟨את⟩ eder; den døende skal dø, og den bortrykkede skal bortrykkes, og de tilbageværende skal æde, hver især ⟨את⟩ kødet af sin næste.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "vil jeg vogte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ eder",
+      "marks": "eder (flokken)"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "den døende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "og den bortrykkede"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "skal bortrykkes"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "og de tilbageværende"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hver især"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kødet af sin næste"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "af sin næste"
+    }
+  ],
+  "timestamp": "2026-10-03T18:02:54.207691291Z",
+  "model": "glm-5.3"
+}

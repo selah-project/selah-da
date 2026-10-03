@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "En maskil af Asaf. Hvorfor, Elohim, har du forkastet ⟨os⟩ til evig tid? Hvorfor ryger din vrede mod fårene i din græsgang?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "af Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "har du forkastet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ryger"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "mod fårene"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "i din græsgang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:06.027732120Z",
+  "model": "glm-5.3"
+}

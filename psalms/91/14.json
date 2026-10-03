@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Fordi han har knyttet sin kærlighed til mig, vil jeg fri ham ud; jeg vil ophøje ham, fordi han kender mit navn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "har knyttet sin kærlighed"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "vil jeg fri ham ud"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "jeg vil ophøje ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mit navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.676706602Z",
+  "model": "glm-5.3"
+}

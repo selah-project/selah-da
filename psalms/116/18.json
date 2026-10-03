@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Mine løfter til Jahve vil jeg indfri, nej, i påskuelighed for hele hans folk.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "mine løfter"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "vil jeg indfri"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "i påskuelighed for"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nej, nu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:56.232987168Z",
+  "model": "glm-5.3"
+}

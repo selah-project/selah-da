@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Jahve, min Elohim, jeg råbte til dig, og du helbredte mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "råbte jeg"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "og helbredte du mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:45.831599832Z",
+  "model": "glm-5.3"
+}

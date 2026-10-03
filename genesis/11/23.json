@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Serug levede efter, at han avlede ⟨את⟩ Nachor, to hundrede år, og avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og levede"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "at han avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "to hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:57.425696747Z",
+  "model": "glm-5.3"
+}

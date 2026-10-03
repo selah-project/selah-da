@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 87,
+  "translation": "Og sangere som dansere ⟨siger⟩: Alle mine kilder er i dig.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "og sangere"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "som dansere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mine kilder"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:49.785694428Z",
+  "model": "glm-5.3"
+}

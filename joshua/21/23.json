@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og af Dans stamme: ⟨את⟩ Eltekeh og ⟨את⟩ dens græsgange, ⟨את⟩ Giv'on og ⟨את⟩ dens græsgange",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "og af stammen"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:09.637379767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og ⟨את⟩ mit bæger, sølvbægret, skal du lægge i munden på den yngstes sack, sammen med hans ⟨את⟩ sølv for kornet. Og han gjorde som Josef havde sagt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "mit bæger"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "mit bæger"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "bæger"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølv-"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "skal du lægge"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i munden på"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sack"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngstes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sammen med ⟨את⟩",
+      "marks": "hans sølv for kornet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "for kornet"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "havde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sagt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:35.260366608Z",
+  "model": "glm-5.3"
+}

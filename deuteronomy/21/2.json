@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "skal dine ældste og dine dommere gå ud og måle til de byer, der ligger omkring den dræbte.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "skal gå ud"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "dine ældste"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "og dine dommere"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "og måle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ligger omkring"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "den dræbte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:55.122113514Z",
+  "model": "glm-5.3"
+}

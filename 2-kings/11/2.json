@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Men Jehosjeba, kong Jorams datter, Achazjas søster, tog ⟨את⟩ Joash, Achazjas søn, og stjal ⟨את⟩ ham fra midten af kongesønnerne, de der blev myrdet — ⟨את⟩ ham og ⟨את⟩ hans amme — i sovekammeret; og de skjulte ⟨את⟩ ham for Atalja, så han ikke blev dræbt.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Jehosjeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Jorams"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "søster"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joash, Achazjas søn"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Achazjas"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "og stjal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "fra midten af kongesønnerne"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "fra midten af"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "de der blev myrdet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham og hans amme i sovekammeret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans amme"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "hans amme"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "i kammeret"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "sovende"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "og de skjulte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "for Atalja"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "blev dræbt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:24.695421117Z",
+  "model": "glm-5.3"
+}

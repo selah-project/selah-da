@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Han slog mange folkeslag og dræbte mægtige konger,",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Han slog"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "og dræbte"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mægtige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:42.925463822Z",
+  "model": "glm-5.3"
+}

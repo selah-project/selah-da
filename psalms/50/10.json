@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "For mig tilhører alle skovens dyr, kvæget på tusind bjerge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig tilhører"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "skovens dyr"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skov"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "på bjerge"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:45.925818864Z",
+  "model": "glm-5.3"
+}

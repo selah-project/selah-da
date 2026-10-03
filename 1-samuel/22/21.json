@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Ebjathar fortalte David, at Shaul havde dræbt ⟨את⟩ Jahves præster.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "havde dræbt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves præster"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "præster"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:23.587321038Z",
+  "model": "glm-5.3"
+}

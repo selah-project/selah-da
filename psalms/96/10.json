@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Sig blandt folkene: Jahve ⟨er⟩ konge! Ja, ⟨verden⟩ ⟨er⟩ grundfæstet, den skal ikke rokkes; han dømmer folkene med retfærdighed.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨er⟩ konge"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨er⟩ grundfæstet"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨verden⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skal rokkes"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "med retfærdighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:03.576073540Z",
+  "model": "glm-5.3"
+}

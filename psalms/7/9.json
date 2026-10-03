@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Jahve dømmer folkene; døm mig, Jahve, efter min tsedek og efter min helhed ⟨over⟩ mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "døm mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "efter min tsedek"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "og efter min helhed"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:19.528169380Z",
+  "model": "glm-5.3"
+}

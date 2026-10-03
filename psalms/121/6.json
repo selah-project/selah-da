@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Om dagen skal solen ikke ramme dig, og månen om natten.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ramme dig"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "og månen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "om natten"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:30.974763007Z",
+  "model": "glm-5.3"
+}

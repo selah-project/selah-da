@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 14:31",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Den som presser den svage, håner hans Skaber, men den som ærer ham, viser nåde mod den fattige.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "presser"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "håner"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "hans Skaber"
+    },
+    {
+      "surface": "ומכבדו",
+      "gloss": "men ærer ham"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "viser nåde"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:50.962229773Z",
+  "model": "glm-5.3"
+}

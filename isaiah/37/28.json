@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og din sidgen og din udgang og din indgang kender jeg, og ⟨את⟩ din raseri mod mig.",
+  "tokens": [
+    {
+      "surface": "וshibtekha",
+      "gloss": "og din sidgen"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "og din udgang"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "og din indgang"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kender jeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din raseri"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "din raseri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:58:27.725949905Z",
+  "model": "glm-5.3"
+}

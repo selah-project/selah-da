@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Da min sjæl svækkedes inden i mig, huskede jeg ⟨את⟩ Jahve, og min bøn kom til dig, til din hellige tempelhal.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Da … svækkedes"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "inden i mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "huskede jeg"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "og … kom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempelhal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:26.982437761Z",
+  "model": "glm-5.3"
+}

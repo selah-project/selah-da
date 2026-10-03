@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Se, jeg har lagt foran dig i dag ⟨את⟩ livet og ⟨את⟩ det gode og ⟨את⟩ døden og ⟨את⟩ det onde.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg har lagt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "livet"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "livet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det gode"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "døden"
+    },
+    {
+      "surface": "המות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det onde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:57.835376491Z",
+  "model": "glm-5.3"
+}

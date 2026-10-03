@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve Elohim formede ⟨את⟩ mennesket af støv fra jordbunden og blæste livsånde i hans næsebor, og mennesket blev til en levende sjæl.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "og formede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støv"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jordbunden"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "og blæste"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "i hans næsebor"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ånd"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "af liv"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "til en sjæl"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:14.291407662Z",
+  "model": "glm-5.3"
+}

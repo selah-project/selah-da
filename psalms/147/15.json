@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han sender sin befaling til jorden; hans ord løber hurtigt.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Han sender"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sin befaling"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "hurtigt"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "løber"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:59.516701696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Thi slachtoffer behager dig ikke — ellers ville jeg give det; brændoffer behager dig ikke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "behager dig"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slachtoffer"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "— ellers ville jeg give det"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "behager dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:44.615147126Z",
+  "model": "glm-5.3"
+}

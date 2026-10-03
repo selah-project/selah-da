@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "som lod dig spise man i ørkenen, noget dine fædre ikke kendte — for at ydmyge dig og for at prøve dig, for at gøre godt mod dig i din ende",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "som lod dig spise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "noget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "dine fædre"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "ydmyge dig"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og for at"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "prøve dig"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "gøre godt mod dig"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "i din ende"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:53.305059954Z",
+  "model": "glm-5.3"
+}

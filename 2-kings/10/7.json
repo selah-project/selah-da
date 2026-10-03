@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og det skete, da brevet kom til dem, at de tog ⟨את⟩ kongens sønner og slagtede halvfjerds mænd; og de lagde deres hoveder i kurve og sendte ⟨את⟩ dem til ham til Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "da ... kom"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "brevet"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "tog de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongens sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "og slagtede"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "halvfjerds"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "og lagde de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hoveder"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "deres hoveder"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "i kurve"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "til Yizreel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:08.096257244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og præsten skal tage en håndfuld af minchaen, ⟨את⟩ dens mindemåde, og ryge den på alteret, og bagefter skal han lade ⟨את⟩ kvinden drikke ⟨את⟩ vandet.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "og tage en håndfuld"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens mindemåde"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "dens mindemåde"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og ryge"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "skal lade drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:06:01.877153957Z",
+  "model": "glm-5.3"
+}

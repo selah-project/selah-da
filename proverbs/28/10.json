@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den der fører de retfærdige vild på en ond vej, falder selv i sit eget hul; men de uklanderlige arver ⟨det⟩ gode.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "fører ... vild"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en vej"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "i sit hul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "selv"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "men de uklanderlige"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "arver"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gode"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:06.476015781Z",
+  "model": "glm-5.3"
+}

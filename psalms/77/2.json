@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Min røst ⟨er⟩ til Elohim, og jeg vil råbe; min røst ⟨er⟩ til Elohim, og han vil lytte til mig.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Min røst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "og jeg vil råbe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "og han vil lytte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:17.043398270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Når de gik ind i mødeteltet, og når de nærmede sig alteret, tvættede de, således som Jahve havde påbudt ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "når de gik ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "og når de nærmede sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "tvættede de"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:00.638541355Z",
+  "model": "glm-5.3"
+}

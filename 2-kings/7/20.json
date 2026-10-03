@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og det skete ham sådan: Folket trampede ham ned ⟨את⟩ ham i porten, og han døde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "Folket trampede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "officeren"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han døde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:41.446475801Z",
+  "model": "glm-5.3"
+}

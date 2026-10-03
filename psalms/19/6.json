@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og han er som en brudgom, der går ud fra sit kammer, og glæder sig som en helt over at løbe ⟨den⟩ vej.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "som en brudgom"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "fra sit kammer"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "som en helt"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "over at løbe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:48.984850944Z",
+  "model": "glm-5.3"
+}

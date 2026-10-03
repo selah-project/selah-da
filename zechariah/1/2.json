@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jahve blev vred, ja vred, på jeres fædre.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "blev vred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ja vred"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:39.031288074Z",
+  "model": "glm-5.3"
+}

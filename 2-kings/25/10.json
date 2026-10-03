@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Jerushalajims mure rundt om rev alt Kasdimernes krigsfolk ned, ⟨det⟩ som ⟨var⟩ hos rab-tabbachim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jerushalajims mure"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "murene"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "rev ned"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "krigsfolk"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdimernes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabbachim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:10.683219628Z",
+  "model": "glm-5.3"
+}

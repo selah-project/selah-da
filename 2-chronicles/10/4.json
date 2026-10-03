@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Din fader gjorde ⟨את⟩ vores åg hårdt; og nu, let din faders hårde trældom og det tunge åg, han lagde på os, så vil vi tjene dig.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "gjorde hårdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vores åg"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "vores åg"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "let"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "fra trældommen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din faders"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "håde"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "og fra hans åg"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "det tunge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "han lagde"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "på os"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "så vil vi tjene dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:38.664977580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David sagde til ham: Hvordan turde du ikke frygte for at række din hånd ud for at dræbe ⟨את⟩ Jahves salvede?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "turde frygte"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "for at række ud"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "for at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves salvede"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "salvede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:58.816746617Z",
+  "model": "glm-5.3"
+}

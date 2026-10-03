@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "så de bringer dem til at bære ⟨את⟩ skylden for en forsyndelse, når de spiser ⟨את⟩ deres hellige ting; for jeg er Jahve, jeg som helliger dem.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "så de bringer dem til at bære"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "skylden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skylden"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "for en forsyndelse"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "når de spiser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hellige ting"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "deres hellige ting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "helliger dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:02.963816231Z",
+  "model": "glm-5.3"
+}

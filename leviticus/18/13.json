@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Din moders søsters blottelse må du ikke blottele, for hun er din moders kød.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "blottelse"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "søster"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "må du blottele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din moder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:27.599139948Z",
+  "model": "glm-5.3"
+}

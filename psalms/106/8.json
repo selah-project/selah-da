@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Men han frelste dem for sit navns skyld, for at kundgøre ⟨את⟩ sin styrke",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Men han frelste dem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sit navns"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "for at kundgøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin styrke"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "sin styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:26.270779854Z",
+  "model": "glm-5.3"
+}

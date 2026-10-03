@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Da springer den halte som en hjort, og den stummes tunge jubler; thi der brydes vand frem i ødemarken og strømme iørkenen.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "springer"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "som en hjort"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "den halte"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "og jubler"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "den stummes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "der brydes frem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ødemarken"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "og strømme"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "i ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:00.652720500Z",
+  "model": "glm-5.3"
+}

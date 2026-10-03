@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og hvis en mand låner ⟨noget⟩ af sin næste, og det brækker ben eller dør — dens ejer var ikke med det — skal han fuldt ud erstatte det.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "låner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "af"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "og det brækker ben"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dør"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dens ejer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med det"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "skal erstatte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fuldt ud"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:05.158414972Z",
+  "model": "glm-5.3"
+}

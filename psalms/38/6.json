@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Mine sår stinker og er rådnede for min dårskabs skyld.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "stinker"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "er rådnede"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "mine sår"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "min dårskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:43.737072142Z",
+  "model": "glm-5.3"
+}

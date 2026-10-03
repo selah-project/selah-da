@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Og hos dig, Adonaj, ⟨er⟩ chesed, for du gengælder hvert et menneske efter hans gerning.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "og hos dig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "gengælder"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "hvert et menneske"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "efter hans gerning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:50.879249902Z",
+  "model": "glm-5.3"
+}

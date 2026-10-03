@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jehonatan svarede Shaul: David bad mig indtrængende ⟨את⟩ ⟨om lov⟩ til at gå til Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "bad indtrængende"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "bad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:00.123142914Z",
+  "model": "glm-5.3"
+}

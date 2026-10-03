@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Og Jisrael så ⟨את⟩ Josefs sønner og sagde: Hvem er disse?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og ... så"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefs sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "er disse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:08.651614034Z",
+  "model": "glm-5.3"
+}

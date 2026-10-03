@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Øjet som skimtede ham, skal ⟨ham⟩ ikke se mere, og hans sted skal ikke igen skue ham.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "øjet"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "som skimtede ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "skal ikke"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "se mere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "skue ham"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:57.650003094Z",
+  "model": "glm-5.3"
+}

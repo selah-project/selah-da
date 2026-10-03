@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han slagter ⟨את⟩ skyldoffer-lammet, og præsten tager af skyldofferets blod og sætter det på øreflippen af den rensedes højre øre og på tommelfingeren af hans højre hånd og på storetåen af hans højre fod.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Og han slagter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skyldoffer-lammet"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skyldoffer-"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "og præsten tager"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "af blodet"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skyldofferets"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og sætter"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "øreflippen"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "øret"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "den rensedes"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "højre"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "tommelfingeren"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "af hans hånd"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "højre"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "storetåen"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "af hans fod"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "højre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:54.285137412Z",
+  "model": "glm-5.3"
+}

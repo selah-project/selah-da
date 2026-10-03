@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Løft dig, du som dømmer ⟨את⟩ jorden; gengæld ⟨את⟩ de høje, hvad de fortjener!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "løft dig"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "du som dømmer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "השב",
+      "gloss": "gengæld"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "hvad de fortjener"
+    },
+    {
+      "surface": "על",
+      "gloss": "over for"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "de høje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:34.327046813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Hvis I forlader Jahve og tjener fremmede guder, vil han vende sig og gøre ondt imod jer og udrydde jer, efter at han har gjort godt imod jer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "I forlader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "og tjener"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "vil han vende sig"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "og gøre ondt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imod jer"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "og udrydde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "har gjort godt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imod jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:59.633333592Z",
+  "model": "glm-5.3"
+}

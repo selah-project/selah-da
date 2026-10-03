@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Thvi sine sendebud vil han byde ⟨angående⟩ dig, at de skal vogte dig på alle dine veje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thvi"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sine sendebud"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "vil han byde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨angående⟩ dig"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "at de skal vogte dig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på alle"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dine veje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:53.403269057Z",
+  "model": "glm-5.3"
+}

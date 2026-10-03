@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "De ondes vold slæber dem bort, for de nægtede at gøre ret.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "vold"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "slæber dem bort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nægtede"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:15.491099208Z",
+  "model": "glm-5.3"
+}

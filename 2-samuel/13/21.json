@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og kong David hørte ⟨את⟩ alle disse ord, og det blev ham meget forkert.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Og kongen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "og det blev forkert"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:23.544381574Z",
+  "model": "glm-5.3"
+}

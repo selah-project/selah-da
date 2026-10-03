@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Ve dig, du som ødelægger, og ⟨du⟩ ikke ⟨blev⟩ ødelagt; du som handler troløst, og de handlede ikke troløst mod dig! Når du holder op med at ødelægge, skal du ødelægges; når du er færdig med at handle troløst, skal de handle troløst mod dig.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "du som ødelægger"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og ⟨du⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "⟨blev⟩ ødelagt"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "du som handler troløst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "handlede troløst"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "når du holder op"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "med at ødelægge"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "skal du ødelægges"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "når du er færdig"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "med at handle troløst"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "skal de handle troløst"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:57:15.215218779Z",
+  "model": "glm-5.3"
+}

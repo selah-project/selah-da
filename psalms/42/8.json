@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Dyb kalder til dyb ved lyden af dine vandfald; alle dine brændinger og dine bølger er gået over mig.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "dyb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dyb"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "kalder"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ved lyden"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "af dine vandfald"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "dine brændinger"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "og dine bølger"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "er gået"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.528842399Z",
+  "model": "glm-5.3"
+}

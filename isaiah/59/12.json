@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Thi vores overtrædelser er blevet mange foran dig, og vores synder vidner imod os; thi vores overtrædelser ⟨er⟩ hos ⟨את⟩ os, og vores misgerninger kender vi dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "er blevet mange"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "vores overtrædelser"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "og vores synder"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "vidner"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "imod os"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "vores overtrædelser"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "os"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "og vores misgerninger"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "kender vi dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:59.591868154Z",
+  "model": "glm-5.3"
+}

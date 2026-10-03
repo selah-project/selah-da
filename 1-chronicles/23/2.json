@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han samlede ⟨את⟩ alle Jisraels høvdinger og præsterne og levitterne.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Og han samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Jisraels høvdinger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "og præsterne"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og levitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:17:05.442901415Z",
+  "model": "glm-5.3"
+}

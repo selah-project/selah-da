@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "så skal du skære ⟨את⟩ hendes hånd af — dit øje skal ikke skåne hende.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "så skal du skære … af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes hånd"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "hendes hånd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skal … skåne"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "dit øje"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:59.573633832Z",
+  "model": "glm-5.3"
+}

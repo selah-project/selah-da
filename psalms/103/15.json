@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Mennesket — dets dage ⟨er⟩ som græs; som markens blomst, sådan blomstrer det,",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Mennesket"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som græs"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dets dage"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "som … blomst"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "blomstrer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.750014859Z",
+  "model": "glm-5.3"
+}

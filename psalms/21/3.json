@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Hjertets længsel gav du ham, og hans læbers begæring nægtede du ikke. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "længsel"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hjertets"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gav du"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "og begæringen"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "af hans læber"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "nægtede du"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:35.610416447Z",
+  "model": "glm-5.3"
+}

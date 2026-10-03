@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Som dit navn er, Elohim, så er din pris ⟨nået⟩ til jordens ender; tsedek fylder din højre hånd.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "som dit navn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "er din pris"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ender"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fylder"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:52.984325960Z",
+  "model": "glm-5.3"
+}

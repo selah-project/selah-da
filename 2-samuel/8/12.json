@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "fra Aram og fra Moav og fra ammonitternes sønner og fra filisterne og fra Amalek og fra krigsbyttet fra Hadadezer, søn af Rechov, konge af Tsova.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "fra Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "og fra Moav"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "og fra sønnerne af"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "og fra filisterne"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "og fra Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "og fra krigsbyttet"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge af"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:39.921602934Z",
+  "model": "glm-5.3"
+}

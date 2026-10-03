@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Vend ørerne mod mig og svar mig; jeg flakker om i min klage og stønner.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Vend ørerne mod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "og svar mig"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "jeg flakker om"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "i min klage"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "og stønner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:27.179440039Z",
+  "model": "glm-5.3"
+}

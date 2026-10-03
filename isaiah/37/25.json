@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Jeg har gravet og drukket ⟨את⟩ vandet, og med min fod såle udtørrede jeg alle kanalerne i Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "har gravet"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "og drukket"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "ואחרib",
+      "gloss": "og udtørrede"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "med … sål"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "min fod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanalerne"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "i Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:58:27.725276579Z",
+  "model": "glm-5.3"
+}

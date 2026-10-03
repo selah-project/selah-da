@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Afbrændt i ild, afhugget — ved din ansigts ris går de til grunde.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "afbrændt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "afhugget"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "ved … ris"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigts"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "går til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:07.809388138Z",
+  "model": "glm-5.3"
+}

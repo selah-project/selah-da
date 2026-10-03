@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Frygt ⟨את⟩ Jahve, min søn, og kongen; med ⟨dem der forandrer sig⟩ skal du ikke blande dig.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Frygt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "⟨dem der forandrer sig⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "skal du blande dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:23.403731783Z",
+  "model": "glm-5.3"
+}

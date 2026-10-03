@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "men du gik i kongerne af Jisraels vej og drev Juda og Jerushalajims indbyggere til utroskab, som Achavs hus drev utroskab, og dine brødre, din fars hus, som var bedre end dig, dem dræbte du også ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "men du gik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "i … vej"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "og drev til utroskab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajims indbyggere"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "som … drev utroskab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine brødre"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "dine brødre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "som var bedre"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "end dig"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "dræbte du"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:55.608303543Z",
+  "model": "glm-5.3"
+}

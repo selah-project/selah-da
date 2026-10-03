@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og filisterne hørte ⟨את⟩ lyden af jubelråbet og sagde: Hvad betyder lyden af dette store jubelråb i hebraernes lejr? Og de forstod, at arken for Jahve var kommet ind i lejren.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "af jubelråbet"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "af jubelråbet"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "store"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i … lejr"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebraernes"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "Og de forstod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "var kommet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:20.843983472Z",
+  "model": "glm-5.3"
+}

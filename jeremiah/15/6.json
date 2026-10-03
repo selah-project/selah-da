@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Du har forladt ⟨את⟩ mig, siger Jahve, baglæns går du; og jeg rakte ⟨את⟩ min hånd ud imod dig og ødelagde dig — jeg er træt af at fortryde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Du"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "har forladt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baglæns"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "går du"
+    },
+    {
+      "surface": "ו אט",
+      "gloss": "og jeg rakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hånd"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "ו אשחיתך",
+      "gloss": "og ødelagde dig"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "jeg er træt"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "af at fortryde"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:30.927575441Z",
+  "model": "glm-5.3"
+}

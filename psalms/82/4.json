@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "Lad den svage og den fattige slippe fri; riv dem ud af de ondes hånd.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Lad slippe fri"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den svage"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og den fattige"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "riv dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:53.424822486Z",
+  "model": "glm-5.3"
+}

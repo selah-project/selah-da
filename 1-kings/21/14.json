@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og de sendte bud til Isebel og sagde: Navot er stenet og død.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "og de sendte bud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "er stenet"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og død"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:14.697979582Z",
+  "model": "glm-5.3"
+}

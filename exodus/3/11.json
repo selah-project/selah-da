@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Moshe sagde til Elohim: Hvem er jeg, siden jeg skal gå til Farao, og siden jeg skal føre ⟨את⟩ Jisraels børn ud af Mitsrajim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siden"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jeg skal gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og siden"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "jeg skal føre ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ud af Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:28.379206998Z",
+  "model": "glm-5.3"
+}

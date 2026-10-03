@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og kongen kom fra Damaskes, og kongen så ⟨את⟩ alteret, og kongen trådte nærmest ved alteret og ofrede på det.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "fra Damaskes"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alteret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "og trådte nærmest"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og ofrede"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:17.454093293Z",
+  "model": "glm-5.3"
+}

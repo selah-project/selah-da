@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Du må ikke lave dig noget udskåret billede, nogen som helst skikkelse af det, der er i himlene ovenover, eller af det, der er på jorden nedenunder, eller af det, der er i vandene under jorden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Du må ikke lave"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "udskåret billede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen som helst"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "skikkelse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "af det, der"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "er i himlene"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovenover"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eller af det, der"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "er på jorden"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nedenunder"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eller af det, der"
+    },
+    {
+      "surface": "במים",
+      "gloss": "er i vandene"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:54.501518318Z",
+  "model": "glm-5.3"
+}

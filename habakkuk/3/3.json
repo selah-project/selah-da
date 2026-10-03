@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Eloah kommer fra Teman, og ⟨den⟩ hellige fra Paran-bjerget. Sela. Hans herlighed dækkede himlene, og hans lovsang fyldte ⟨⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "fra Teman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "og ⟨den⟩ hellige"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fra bjerget"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "dækkede"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "hans herlighed"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "og hans lovsang"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T17:59:26.513702139Z",
+  "model": "glm-5.3"
+}

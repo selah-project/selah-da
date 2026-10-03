@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Arpakhshad levede fem og tredive år og avlede ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Og Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levede"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:19.559478339Z",
+  "model": "glm-5.3"
+}

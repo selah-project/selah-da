@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "De strømmer over med ord, taler frækt; alle, der gør ondt, praler ⟨את⟩ stolthed.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "de strømmer over med ord"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taler"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "frækt"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "praler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "der gør"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:34.327428247Z",
+  "model": "glm-5.3"
+}

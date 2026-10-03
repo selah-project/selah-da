@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Se min elendighed og fri mig ud, for din Tora har jeg ikke glemt.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min elendighed"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "og fri mig ud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jeg glemt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:46.141910672Z",
+  "model": "glm-5.3"
+}

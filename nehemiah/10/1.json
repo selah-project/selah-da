@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 10:1",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og trods alt dette skærer vi en amanah ⟨pagt⟩ og skriver den, og på ⟨את⟩ de beseglede ⟨er⟩ vores høvdinger, vores levitter, vores præster.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "og trods alt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "skærer"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "en amanah ⟨pagt⟩"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "og skriver"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "⟨את⟩ de beseglede",
+      "marks": "de beseglede"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "vores høvdinger"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "vores levitter"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "vores præster"
+    }
+  ],
+  "timestamp": "2026-10-03T19:07:54.612106347Z",
+  "model": "glm-5.3"
+}

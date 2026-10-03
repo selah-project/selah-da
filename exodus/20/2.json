@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Jeg er Jahve, din Elohim, som førte dig ud af landet Mitsrajim, af trællehuset.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "førte dig ud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "af trællehuset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:44.869825368Z",
+  "model": "glm-5.3"
+}

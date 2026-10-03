@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og hun fødte ham ⟨את⟩ Zimran og ⟨את⟩ Jokshan og ⟨את⟩ Medan og ⟨את⟩ Midjan og ⟨את⟩ Jishbak og ⟨את⟩ Shuach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "og hun fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shuach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:03.009888989Z",
+  "model": "glm-5.3"
+}

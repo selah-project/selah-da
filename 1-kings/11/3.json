@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han fik hustruer, fyrstinder, syv hundrede, og medhustruer tre hundrede; og hans hustruer vendte ⟨את⟩ hans hjerte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "fyrstinder"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "og medhustruer"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "og vendte"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hans hustruer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hjerte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:17.045865768Z",
+  "model": "glm-5.3"
+}

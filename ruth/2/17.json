@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun samlede æreskorn på marken indtil aftenen og tæskede ⟨את⟩ det, hun havde samlet, og det blev til omtrent en efa byg.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "og hun samlede æreskorn"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "og hun tæskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, hun havde samlet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "hun havde samlet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "til omtrent en efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "byg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:01.671341340Z",
+  "model": "glm-5.3"
+}

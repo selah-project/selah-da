@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og huset, som kong Shlomo byggede for Jahve: tres alener var dets længde, og tyve dets bredde, og tredive alener dets højde.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Og huset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "tres"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alener"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "var dets længde"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyve"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dets bredde"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alener"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "dets højde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:48.543264418Z",
+  "model": "glm-5.3"
+}

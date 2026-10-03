@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 11:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og hvad han gjorde mod Mitsrajims hær, mod deres heste og deres vogne, da han lod ⟨את⟩ vandene i Sivhavet flyde over dem, mens de forfulgte jer, og Jahve tilintetgjorde dem indtil denne dag.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "og hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "mod hæren"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "לסוסיו",
+      "gloss": "mod deres heste"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "og deres vogne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "הציף",
+      "gloss": "lod flyde over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandene"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "i Siv-"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ברדפם",
+      "gloss": "mens de forfulgte"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "og tilintetgjorde dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denne dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:42.846977005Z",
+  "model": "glm-5.3"
+}

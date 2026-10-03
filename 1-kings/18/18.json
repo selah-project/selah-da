@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han sagde: Ikke har jeg forstyrret ⟨את⟩ Jisrael, men du og din fars hus, ved at I forlod ⟨את⟩ Jahves bud og gik efter ba'alim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "har jeg forstyrret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og … hus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "ved at I forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves bud"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ba'alim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:13.281099807Z",
+  "model": "glm-5.3"
+}

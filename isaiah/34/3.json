@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og deres dræbte skal kastes bort, og deres lig skal stige op i stank, og bjergene skal smelte af deres blod.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Og deres dræbte"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "skal kastes bort"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "og deres lig"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skal stige op"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "i stank"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "og skal smelte"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "af deres blod"
+    }
+  ],
+  "timestamp": "2026-10-03T16:58:37.624637720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Som en fugl, der flyver bort fra sin rede, sådan er en mand, der flygter fra sit sted.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Som en fugl"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "der flyver bort"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sin rede"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "der flygter"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "fra sit sted"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:41.351435857Z",
+  "model": "glm-5.3"
+}

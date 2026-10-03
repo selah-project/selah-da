@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den vises hjerte ⟨er⟩ til højre, og dårens hjerte ⟨er⟩ til venstre.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vises"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "til højre"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "og hjerte"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "til venstre"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:50.794851140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og præsten skal bringe den til alteret og knibe ⟨את⟩ dens hoved af og lade den ryge på alteret, og dens blod skal presses ud på alterets side.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "og skal bringe den"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "og knibe af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens hoved"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dens hoved"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og lade ryge"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "og skal presses ud"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dens blod"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "side"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alterets"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:58.246357715Z",
+  "model": "glm-5.3"
+}

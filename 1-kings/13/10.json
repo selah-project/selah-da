@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han gik ad en anden vej og vendte ikke tilbage ad den vej, han var kommet ad, til Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og han gik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ad vej"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ad vejen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בא",
+      "gloss": "han var kommet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ad den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:21.051469381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og David gjorde sådan, som Jahve havde budt ham, og han slog ⟨את⟩ filisterne fra Giva, indtil du kommer til Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "havde budt ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "fra Giva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "באך",
+      "gloss": "du kommer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "til Gezer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:52.654357055Z",
+  "model": "glm-5.3"
+}

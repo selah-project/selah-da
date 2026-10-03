@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Levi og Binjamin talte han ikke blandt dem, for kongens ord var en vederstyggelighed for ⟨את⟩ Joav.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "Og Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "og Binjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "talte"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "blandt dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "var en vederstyggelighed"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:49.814645477Z",
+  "model": "glm-5.3"
+}

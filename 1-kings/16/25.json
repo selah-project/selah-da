@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Omri gjorde det onde i Jahves øjne og handlede værre end alle ⟨dem⟩, der var før ham.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "og handlede værre"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "end alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "var før ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:02.898612083Z",
+  "model": "glm-5.3"
+}

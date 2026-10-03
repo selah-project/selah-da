@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og han sagde til ham: Se, jeg har løftet dit ansigt også for denne sag, at jeg ikke skal styrte ⟨את⟩ byen om, som du har talt om.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "jeg har løftet"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "for sagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "at jeg ikke"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "skal styrte om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "du har talt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:34.714773725Z",
+  "model": "glm-5.3"
+}

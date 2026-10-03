@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 134,
+  "translation": "En sang ved opstigningerne. Se, lovsign ⟨את⟩ Jahve, alle I Jahves træle, I som står i Jahves hus om nætterne —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningerne"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "lovsign"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "I Jahves træle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "I som står"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Jahves hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "om nætterne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:47.306096526Z",
+  "model": "glm-5.3"
+}

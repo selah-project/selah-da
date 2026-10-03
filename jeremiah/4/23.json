@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Jeg så ⟨את⟩ jorden, og se: øde og tom; og mod himlene, og deres lys var ikke.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jeg så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "øde"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "og tom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og deres lys var ikke"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "deres lys"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:57.245921818Z",
+  "model": "glm-5.3"
+}

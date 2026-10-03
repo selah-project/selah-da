@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Deres smerter skal formere sig — de som har skyndt sig efter en anden ⟨gud⟩. Jeg udgyder ikke deres drikofre af blod, og jeg nævner ikke ⟨את⟩ deres navne på mine læber.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "skal formere sig"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "deres smerter"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "de som har skyndt sig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "jeg udgyder"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "deres drikofre"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "af blod"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "jeg nævner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres navne"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "deres navne"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mine læber"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:54.562497306Z",
+  "model": "glm-5.3"
+}

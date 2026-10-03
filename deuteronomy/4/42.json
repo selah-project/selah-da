@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "så den, der dræber ⟨את⟩ sin næste ved en ulykke, uden viden, og som ikke har hadet ham før — hverken i forgårs eller i går — kan flyge derhen og flygte til én af disse byer og leve.",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "så den kan flyge derhen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "derhen"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "den der dræber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "dræber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "viden"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hadet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "i forgårs"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "i går"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "og flygte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "disse byer"
+    },
+    {
+      "surface": "האל",
+      "gloss": "disse"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og leve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:50.920101656Z",
+  "model": "glm-5.3"
+}

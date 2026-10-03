@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og du slagtede ⟨את⟩ dine sønner og gav dem, da du lod dem gå igennem for dem.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "og du slagtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "og gav dem"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "da du lod gå igennem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "for dem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:49.993136957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet ⟨er⟩ den, der ligger med sin fars hustru — thi han har blottet sin fars kappeflig — og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "den, der ligger"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har blottet"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kappeflig"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:44.101547436Z",
+  "model": "glm-5.3"
+}

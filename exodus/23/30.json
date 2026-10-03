@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Lidt efter lidt vil jeg drive dem ud fra dit ansigt, indtil du bærer frugt og arver landet ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "lidt"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "efter lidt"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "vil jeg drive dem ud"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fra dit ansigt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "du bærer frugt"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "og arver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:59.880795734Z",
+  "model": "glm-5.3"
+}

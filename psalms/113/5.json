@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "Hvem er som Jahve, vor Elohim, ham der ophøjer sig til at sidde ⟨på højen⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "som Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ham der ophøjer sig"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "til at sidde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:06.075461701Z",
+  "model": "glm-5.3"
+}

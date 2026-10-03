@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og Jahve sagde: Se, et sted ⟨את⟩ hos mig, og du skal stå på klippen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ hos mig"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "og du skal stå"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "klippen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:15.765887755Z",
+  "model": "glm-5.3"
+}

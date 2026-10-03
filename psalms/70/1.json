@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 70,
+  "translation": "Til korlederen. Af David. Til ihukommelse.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "Til ihukommelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:31.040698108Z",
+  "model": "glm-5.3"
+}

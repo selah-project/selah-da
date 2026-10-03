@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og David sagde til Urija: Gå ned til dit hus og vask dine fødder. Og Urija gik ud fra kongens hus, og kongens gave fulgte efter ham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "til Urija"
+    },
+    {
+      "surface": "רד",
+      "gloss": "gå ned"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "til dit hus"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og vask"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dine fødder"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra … hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "og fulgte ud"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "en gave"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:05.111077257Z",
+  "model": "glm-5.3"
+}

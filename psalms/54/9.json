@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Thi af al trængsel har ⟨han⟩ friet mig, og på mine fjender har mit øje set.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af al"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trængsel"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "har ⟨han⟩ friet mig"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "og på mine fjender"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "har set"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:41.220883613Z",
+  "model": "glm-5.3"
+}

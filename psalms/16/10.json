@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "For du forlader ikke min sjæl til Sheol, du giver ikke din trofaste ⟨את⟩ at se graven.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "forlader"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "din trofaste"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "at se"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "graven"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:52.426979598Z",
+  "model": "glm-5.3"
+}

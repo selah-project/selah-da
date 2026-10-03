@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og Moshe fremlagde ⟨את⟩ deres retssag for Jahves ansigt.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "fremlagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres retssag"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "deres retssag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:55.919629399Z",
+  "model": "glm-5.3"
+}

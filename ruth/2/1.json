@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Naomi havde en bekendt af sin mands ⟨slægt⟩, en mand, en væbner af dygtighed, fra Elimelechs familie, og hans navn var Boaz.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "Og Naomi havde"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "en bekendt"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "af sin mand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "en væbner"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "af dygtighed"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "fra ⟨slægten⟩"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "og hans navn"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:01.743696122Z",
+  "model": "glm-5.3"
+}

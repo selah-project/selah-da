@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "da åbenbarede Jahve sig for Shelomo anden gang, som han havde åbenbaret sig for ham i Givon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "åbenbarede sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "anden gang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "havde åbenbaret sig"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "i Givon"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:01.577149888Z",
+  "model": "glm-5.3"
+}

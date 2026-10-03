@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Måtte jeg bære daggryets vinger, måtte jeg slå mig ned ved ⟨את⟩ havets yderste grænse —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "måtte jeg bære"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vinger"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "daggry"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "måtte jeg slå mig ned"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ved yderste grænse"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:53.879870341Z",
+  "model": "glm-5.3"
+}

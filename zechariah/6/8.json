@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han råbte på ⟨את⟩ mig og talte til mig og sagde: Se, de som går ud mod nordens land, har givet ⟨את⟩ min ruach hvile i nordens land.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "og han råbte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "de som går ud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "har givet hvile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min ruach"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ruach"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:01:53.908539213Z",
+  "model": "glm-5.3"
+}

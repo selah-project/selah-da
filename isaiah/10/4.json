@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Kun at kaste sig under fanger og under dræbte falde. Trods alt dette vendte hans vrede sig ikke, og hans hånd er endnu strakt ud.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "at kaste sig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fanger"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "og under"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "falde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trods alt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte sig"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "og endnu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "strakt ud"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:54.333720127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Jeg ved, at du kan alt, og at ingen plan kan hindres af dig.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Jeg ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "du kan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "kan hindres"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "af dig"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "plan"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:14.967739527Z",
+  "model": "glm-5.3"
+}

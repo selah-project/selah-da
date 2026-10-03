@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Dag og nat går de rundt om den på dens mure, og ondskab og møjsommelighed ⟨er⟩ i dens midte.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "går de rundt om den"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "dens mure"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "og ondskab"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "og møjsommelighed"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i dens midte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.196457171Z",
+  "model": "glm-5.3"
+}

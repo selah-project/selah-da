@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og mennesket bøjes ned, og manden ydmyges, og de højes øjne senkes.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Og bøjes ned"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "og ydmyges"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "og øjne"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "de højes"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "senkes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:40.425812096Z",
+  "model": "glm-5.3"
+}

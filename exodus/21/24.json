@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "øje for øje, tand for tand, hånd for hånd, fod for fod.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fod"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:35.401627532Z",
+  "model": "glm-5.3"
+}

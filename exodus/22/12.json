@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis det flænges — virkelig flænges — skal han fremføre ⟨det⟩ som bevis; det flængede behøver han ikke at erstatte.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "flænges"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "virkelig flænges"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "skal han fremføre ⟨det⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "som bevis"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "det flængede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "behøver han at erstatte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:57.668689110Z",
+  "model": "glm-5.3"
+}

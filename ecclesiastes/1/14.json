@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jeg har set ⟨את⟩ alle de gerninger, som er gjort under solen, og se, det hele ⟨er⟩ forfængelighed og græmmelse af ruach.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de gerninger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "de gerninger"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "som er gjort"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "forfængelighed"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "og græmmelse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:22.315984945Z",
+  "model": "glm-5.3"
+}

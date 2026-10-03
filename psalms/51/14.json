@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Bring mig igen fryden over din frelse, og en villig ruach skal bære mig.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "bring igen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "fryd"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "din frelse"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og ruach"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "villig"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "skal bære mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:24.462735946Z",
+  "model": "glm-5.3"
+}

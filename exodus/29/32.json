@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Aharon og hans sønner skal spise ⟨את⟩ kødet af vædderen og ⟨את⟩ brødet, som er i kurven, ved indgangen til mødeteltet.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Og skal spise"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kødet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "af vædderen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "brødet"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "i kurven"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "til teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af møde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:18.029966148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Husk, Adonaj, dine trælles smæde — ⟨den⟩ jeg bærer i mit skød, ⟨smæden⟩ fra alle de mange folk.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Husk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "smæde"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "jeg bærer"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "i mit skød"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "de mange"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:58.892385344Z",
+  "model": "glm-5.3"
+}

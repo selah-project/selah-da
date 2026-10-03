@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Der er ingen ihukommelse af de første, og heller ikke for de sidste, som skal komme, bliver der nogen ihukommelse hos dem, der kommer sidst.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ihukommelse"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "af de første"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og heller ikke"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "for de sidste"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "som skal komme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bliver der"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ihukommelse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "de som kommer"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "sidst"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:04.548785808Z",
+  "model": "glm-5.3"
+}

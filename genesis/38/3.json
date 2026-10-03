@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og hun undfangede og fødte en søn, og han kaldte ⟨את⟩ hans navn Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Og hun undfangede"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:00.055711978Z",
+  "model": "glm-5.3"
+}

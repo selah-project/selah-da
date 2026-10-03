@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og kvinden sagde: Hvem skal jeg bringe op til dig? Og han sagde: Bring Shmuel op til mig.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "skal jeg bringe op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "bring op"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:56.834282158Z",
+  "model": "glm-5.3"
+}

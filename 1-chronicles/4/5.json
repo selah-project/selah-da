@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Ashchur, faderen til Tekoa, havde to hustruer: Chelah og Naarah.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "Og Ashchur"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faderen til"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "havde"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Chelah"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "og Naarah"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:45.409255475Z",
+  "model": "glm-5.3"
+}

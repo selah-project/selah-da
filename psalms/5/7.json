@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Du ødelægger dem, der taler løgn; en mand af blod og svig væmmes Jahve sig ved.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "du ødelægger"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "der taler"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "af blod"
+    },
+    {
+      "surface": "ו מרמה",
+      "gloss": "og svig"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "væmmes sig ved"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:20.517996703Z",
+  "model": "glm-5.3"
+}

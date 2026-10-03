@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "som gjorde himlene og jorden, ⟨את⟩ havet og ⟨את⟩ alt hvad der er i dem; han som bevarer sandhed for evigt.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "som gjorde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "og jorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt hvad der er i dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "der er i dem"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "han som bevarer"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:19.995895047Z",
+  "model": "glm-5.3"
+}

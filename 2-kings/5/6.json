@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og han bragte brevet til kongen af Jisrael, og der stod: Og nu — når dette brev kommer til dig, se, da har jeg sendt ⟨את⟩ Naaman, min træl, til dig, for at du skal helbrede ham af hans spedalskhed.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og han bragte"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "brevet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og der stod"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "når … kommer"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "brevet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "har jeg sendt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min træl"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "og du skal helbrede ham"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "af hans spedalskhed"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:03.417304627Z",
+  "model": "glm-5.3"
+}

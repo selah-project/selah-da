@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Skal jeg lyve ⟨mod⟩ min ret? Min pil-sår ⟨er⟩ dødeligt, uden overtredelse.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min ret"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "skal jeg lyve"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dødeligt"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "min pil"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "overtredelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:13.278626204Z",
+  "model": "glm-5.3"
+}

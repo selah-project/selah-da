@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Da Shaddaj spredte konger der, sneede det på Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "spredte"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "בה",
+      "gloss": "der"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "sneede det"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "på Tsalmon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:28.820231968Z",
+  "model": "glm-5.3"
+}

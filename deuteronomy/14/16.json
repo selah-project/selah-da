@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "⟨את⟩ den lille hornugle og ⟨את⟩ den store hornugle og sløruglen",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den lille hornugle"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "den lille hornugle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den store hornugle"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "den store hornugle"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "og sløruglen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:40.911999451Z",
+  "model": "glm-5.3"
+}

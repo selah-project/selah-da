@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Min sjæl har bevaret dine vidnesbyrd, og jeg elsker dem overmåde.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "har bevaret"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "og jeg elsker dem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "overmåde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:58.207733063Z",
+  "model": "glm-5.3"
+}

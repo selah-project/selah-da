@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og filisterne samlede sig og kom og slog lejr i Shunem; og Shaul samlede ⟨את⟩ hele Jisrael, og de slog lejr i Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "og samlede sig"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "og slog lejr"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "i Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "og samlede"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "og de slog lejr"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "i Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:48.769578088Z",
+  "model": "glm-5.3"
+}

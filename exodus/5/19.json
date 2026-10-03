@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og formændene for Jisraels børn så ⟨את⟩ dem i ulykke, idet der blev sagt: I må ikke mindske fra jeres tegsten, en dags sag på dens dag.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "formændene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "i ulykke"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idet der blev sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "må I mindske"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "fra jeres tegsten"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sags"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dags"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "på dens dag"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:00.069255638Z",
+  "model": "glm-5.3"
+}

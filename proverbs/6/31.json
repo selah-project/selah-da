@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og bliver han fundet, betaler han syvfold; ⟨את⟩ hele sit hus' formue giver han.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "og bliver fundet"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "betaler"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "syvfold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele sin hus' formue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הון",
+      "gloss": "formue"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus'"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:13.461909881Z",
+  "model": "glm-5.3"
+}

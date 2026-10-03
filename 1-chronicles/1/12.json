@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "og ⟨את⟩ patrusiterne og ⟨את⟩ kasluchiterne — fra dem udgik filisterne — og ⟨את⟩ kaftoriterne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "patrusiterne"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusiterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kasluchiterne"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kasluchiterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvorfra"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "udgik"
+    },
+    {
+      "surface": "משם",
+      "gloss": "fra dem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaftoriterne"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftoriterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:56.670283519Z",
+  "model": "glm-5.3"
+}

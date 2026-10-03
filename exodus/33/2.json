@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og jeg sender en malach frem for dig, og jeg driver ⟨את⟩ kanaanæeren ud, emoræeren, hittæeren, perizæeren, hivæeren og jebusæeren.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Og jeg sender"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "frem for dig"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "en malach"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "og jeg driver ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoræeren"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "og hittæeren"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "og perizæeren"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivæeren"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "og jebusæeren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:21.881682235Z",
+  "model": "glm-5.3"
+}

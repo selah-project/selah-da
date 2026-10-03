@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Stor er Jahve og højlovet i vor Elohims by, sit hellige bjerg.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "og højlovet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i by"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohims"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sit hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:21.808294589Z",
+  "model": "glm-5.3"
+}

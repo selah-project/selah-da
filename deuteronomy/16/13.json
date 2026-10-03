@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Sukkot-festen skal du holde for dig i syv dage, når du samler ⟨ind⟩ fra din tærskeplads og fra din vinperse.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "fest"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Sukkot-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du holde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "når du samler ind"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "fra din tærskeplads"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "og fra din vinperse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:48.538932852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og filisteren sagde til David: Kom til mig, og jeg vil give ⟨את⟩ dit kød til himlenes fugle og markens dyr.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og jeg vil give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit kød"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "dit kød"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "til fuglene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlenes"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "og til dyrene"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:42.855197110Z",
+  "model": "glm-5.3"
+}

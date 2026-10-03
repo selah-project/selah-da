@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og han gik ind og fortalte sin herre og sagde: Sådan og sådan har pigen talt, hun som er fra Jisraels land.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og han gik ind"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "og sådan"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "pigen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels land"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:03.825877350Z",
+  "model": "glm-5.3"
+}

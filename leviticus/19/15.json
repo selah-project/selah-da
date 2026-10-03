@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "I skal ikke gøre uret i dom; du må ikke se til ⟨den⟩ fattiges ansigt og ikke ære ⟨den⟩ mægtiges ansigt — i tsedek skal du dømme din næste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skal I gøre"
+    },
+    {
+      "surface": "עול",
+      "gloss": "uret"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i dom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "du må ikke se til"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "דל",
+      "gloss": "fattiges"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ære"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mægtiges"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "i tsedek"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "skal du dømme"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "din næste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:04.173631935Z",
+  "model": "glm-5.3"
+}

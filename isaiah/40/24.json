@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 40:24",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Knapt er de plantet, knapt er de sået, knapt har deres stamme slået rod i jorden — så ånder han på dem, og de visner, og en stormvind bærer dem bort som avner.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "knapt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "er de plantet"
+    },
+    {
+      "surface": "אף",
+      "gloss": "knapt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "er de sået"
+    },
+    {
+      "surface": "אף",
+      "gloss": "knapt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "slået rod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i jorden"
+    },
+    {
+      "surface": "גזעם",
+      "gloss": "deres stamme"
+    },
+    {
+      "surface": "ויגם",
+      "gloss": "så"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ånder"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "og de visner"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "og en stormvind"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "som avner"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "bærer dem bort"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:23.314321649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Men ⟨את⟩ Nathan profeten og Benajahu og ⟨את⟩ heltenene og ⟨את⟩ Shelomo hans bror indkaldte han ikke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Men ⟨את⟩",
+      "marks": "Nathan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "og Benajahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "heltenene"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "heltenene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans bror"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "indkaldte han"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:05.539911602Z",
+  "model": "glm-5.3"
+}

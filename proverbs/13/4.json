@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Den doves sjæl ønsker og har intet, men de flittiges sjæl bliver fed.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ønsker"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og har intet"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "den doves sjæl"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "doven"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "men sjæl"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "de flittige"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "bliver fed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:41.771121450Z",
+  "model": "glm-5.3"
+}

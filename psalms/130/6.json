@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Min sjæl ⟨venter⟩ på Adonaj mere end vogterne ⟨venter⟩ på morgenrøden — vogterne på morgenrøden.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "på Adonaj"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "mere end vogterne"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "på morgenrøden"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "vogterne"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "på morgenrøden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:04.906748036Z",
+  "model": "glm-5.3"
+}

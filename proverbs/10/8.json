@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "En vis af hjertet tager imod bud, men en snakkesalig dåre falder.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "לב",
+      "gloss": "af hjertet"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tager imod"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "men en dåre"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "snakkesalig"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "falder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:35.195990732Z",
+  "model": "glm-5.3"
+}

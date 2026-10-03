@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Så fjernt som østen ⟨er⟩ fra vesten, har han fjernet ⟨את⟩ vore overtrædelser fra os.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "så fjernt som"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "østen"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "fra vesten"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "har han fjernet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra os"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vore overtrædelser"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "vore overtrædelser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:04.614560473Z",
+  "model": "glm-5.3"
+}

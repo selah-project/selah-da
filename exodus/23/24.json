@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du skal ikke tilbede deres elohim, og du skal ikke dyrke dem, og du skal ikke gøre efter deres gerninger; thi nedrivende skal du nedrive dem, og knusende skal du knuse deres stenstøtter.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "du skal tilbede"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "deres elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "du skal dyrke dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skal gøre"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "efter deres gerninger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "nedrivende"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "skal du nedrive dem"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "og knusende"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "skal du knuse"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "deres stenstøtter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:32.062086401Z",
+  "model": "glm-5.3"
+}

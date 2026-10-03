@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og på den ottende dag skal kødet af hans forhud omskæres.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "og på dagen"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "den ottende"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "skal omskæres"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "af hans forhud"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:16.054480611Z",
+  "model": "glm-5.3"
+}

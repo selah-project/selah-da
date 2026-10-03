@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og sønnerne af Elpaal: Ever og Misham og Shemed — han byggede ⟨את⟩ Ono og ⟨את⟩ Lod og dens datterbyer.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "og sønnerne"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "af Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "og Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "og Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "og dens datterbyer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:43.800597830Z",
+  "model": "glm-5.3"
+}

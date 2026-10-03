@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Og Jaakov brød op fra Be'er-Sheva, og Jisraels sønner bar deres far Jaakov og deres småbørn og deres hustruer i de vogne, som Paro havde sendt for at bære ham.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "brød op"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "fra Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "bar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres far Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deres far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres småbørn"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "deres småbørn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres hustruer"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "deres hustruer"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "i de vogne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "havde sendt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "for at bære"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:16.078851330Z",
+  "model": "glm-5.3"
+}

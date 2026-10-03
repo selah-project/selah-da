@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Serafer stod over ham; hver havde seks vinger, seks vinger havde hver ⟨én⟩; med to dækkede han sit ansigt, og med to dækkede han sine fødder, og med to fløj han.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "serafer"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stod"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "over"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "vinger"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "vinger"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "havde hver"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "med to"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dækkede han"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "og med to"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dækkede han"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sine fødder"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "og med to"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "fløj han"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:55.491822419Z",
+  "model": "glm-5.3"
+}

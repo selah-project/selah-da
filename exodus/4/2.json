@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Jahve sagde til ham: Hvad er det i din hånd? Og han sagde: En stav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Hvad er det"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "En stav"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:12.763730672Z",
+  "model": "glm-5.3"
+}

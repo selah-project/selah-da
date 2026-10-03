@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og det skete, da hele folket var færdigt med at gå over ⟨את⟩ Yarden, at Jahve sagde til Yehoshua og sagde:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "var færdigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "med at gå over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:39.899216502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "⟨את⟩ solen til at herske om dagen, thi til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "til at herske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:39.962065466Z",
+  "model": "glm-5.3"
+}

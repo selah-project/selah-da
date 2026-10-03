@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahves ark blev i Oved-Edom gittittens hus tre måneder, og Jahve velsignede ⟨את⟩ Oved-Edom og ⟨את⟩ hele hans hus.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "blev"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gittittens"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "måneder"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele hans hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:44.253063960Z",
+  "model": "glm-5.3"
+}

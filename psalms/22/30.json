@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Alle jordens fede skal spise og tilbede; foran ham skal alle, som går ned til støvet, knæle — og hans sjæl holder ham ikke i live.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "skal spise"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og tilbede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "fede"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "af jorden"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "knæle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "som går ned"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "til støvet"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "og hans sjæl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "holder i live"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:31.981260798Z",
+  "model": "glm-5.3"
+}

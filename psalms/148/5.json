@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "De skal love ⟨את⟩ Jahves navn, for han bød, og de blev skabt.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "de skal love"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bød"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "og de blev skabt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:06.245905043Z",
+  "model": "glm-5.3"
+}

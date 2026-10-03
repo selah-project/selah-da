@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "På asor og på nevel, på higajon med kinor",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor ⟨ti-strenget⟩"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "og på"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higajon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "med kinor"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:01.723201362Z",
+  "model": "glm-5.3"
+}

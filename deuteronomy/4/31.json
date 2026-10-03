@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "For en barmhjertig El ⟨er⟩ Jahve, din Elohim; han skal ikke slippe dig og ikke ødelægge dig og ikke glemme ⟨את⟩ pagten med dine fædre, som han svor dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "barmhjertig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "skal slippe dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "ødelægge dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "glemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagten"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "dine fædre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:50.769964901Z",
+  "model": "glm-5.3"
+}

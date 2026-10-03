@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Ikke for dine offers skyld vil jeg anklage dig, og dine brændofre er stadig foran mig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ikke"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "dine offers"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "vil jeg anklage dig"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "og dine brændofre"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "foran mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stadig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:53.789004767Z",
+  "model": "glm-5.3"
+}

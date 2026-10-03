@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Han lader græs spire frem for kvæget og urter for menneskets ⟨arbejde⟩, til at frembringe brød af jorden.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "lader spire frem"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græs"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "for kvæget"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "og urter"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "for ⟨arbejdet⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "til at frembringe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:32.232331754Z",
+  "model": "glm-5.3"
+}

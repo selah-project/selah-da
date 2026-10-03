@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og det skete, når Moshe løftede sin hånd, sejrede Jisrael; og når han lod sin hånd hvile, sejrede Amalek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "når"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "løftede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "sejrede"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "og når"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "lod hvile"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "sejrede"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:21.547051796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "skal du tjene ⟨את⟩ dine fjender, som Jahve sender mod dig, i sult og i tørst og i nøgenhed og i mangel på alt; og han skal lægge et jernåg på din hals, indtil han udrydder ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "skal du tjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine fjender"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "han sender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "i sult"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "og i tørst"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "og i nøgenhed"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "og i mangel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "på alt"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og han skal lægge"
+    },
+    {
+      "surface": "על",
+      "gloss": "åg"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "af jern"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "din hals"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "han udrydder"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:01.040077838Z",
+  "model": "glm-5.3"
+}

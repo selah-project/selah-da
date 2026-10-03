@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Jeg troede, derfor taler jeg; jeg var hedtligt plaget.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "jeg troede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "taler jeg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "var jeg plaget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hedtligt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:01.184085365Z",
+  "model": "glm-5.3"
+}

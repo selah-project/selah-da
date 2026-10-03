@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Shaul tog ham til sig den dag og gav ham ikke lov til at vende tilbage til sin fars hus.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Og Shaul tog ham"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav ham lov"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "til at vende tilbage"
+    },
+    {
+      "surface": "בית",
+      "gloss": "til huset"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:21.888774209Z",
+  "model": "glm-5.3"
+}

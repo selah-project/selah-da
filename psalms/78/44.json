@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han vendte deres strømme til blod, og deres bække kunne de slet ikke drikke.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "til blod"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "deres strømme"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "deres bække"
+    },
+    {
+      "surface": "בל",
+      "gloss": "slet ikke"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:30.661574854Z",
+  "model": "glm-5.3"
+}

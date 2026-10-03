@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Manden, herren over landet, talte hårdt med os og behandlede os som spejdere af landet.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herren"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ os"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "hårdt"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han satte"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ os"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "som spejdere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:26.959728947Z",
+  "model": "glm-5.3"
+}

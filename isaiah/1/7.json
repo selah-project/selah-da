@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jeres land ⟨er⟩ øde, jeres byer er brændt med ild; jeres jord — fremmede æder den for jeres øjne, ⟨og den er⟩ øde som en fremmed omvæltning.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "jeres land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "øde"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "jeres byer"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "brændt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jeres jord"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "for jeres øjne"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "æder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (jorden)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "og øde"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "som en omvæltning"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "af fremmede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:50.535721254Z",
+  "model": "glm-5.3"
+}

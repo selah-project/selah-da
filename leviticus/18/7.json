@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Din faders blusel og din moders blusel skal du ikke blotte; hun er din mor — du skal ikke blotte hendes blusel.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "blusel"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "og blusel"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skal du blotte"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skal du blotte"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hendes blusel"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:28.937838042Z",
+  "model": "glm-5.3"
+}

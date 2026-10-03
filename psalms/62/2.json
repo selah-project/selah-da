@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Alene til Elohim ⟨er⟩ min sjæl stille; fra ham ⟨kommer⟩ min frelse.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stille"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra ham"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "min frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:24.582436651Z",
+  "model": "glm-5.3"
+}

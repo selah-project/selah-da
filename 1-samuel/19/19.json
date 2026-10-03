@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og der blev fortalt Sha'ul og der sagt: Se, David er i Najot i Rama.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "og der blev fortalt"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og der sagt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "i Najot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:38.826227189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Frelsens kopløfter jeg, og i Jahves navn vil jeg påkalde.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "kop"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frelsens"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "løfter jeg"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "og i navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vil jeg påkalde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:07.821160144Z",
+  "model": "glm-5.3"
+}

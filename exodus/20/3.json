@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Der skal ikke være dig andre guder over for mit ansigt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "על",
+      "gloss": "over for"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:44.869966249Z",
+  "model": "glm-5.3"
+}

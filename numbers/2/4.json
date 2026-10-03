@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "og hans hær og deres talte ⟨er⟩ fire og halvfjerds tusind og seks hundrede.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "og hans hær"
+    },
+    {
+      "surface": "ופקודיהם",
+      "gloss": "og deres talte"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fire"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "og halvfjerds"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:05.128089562Z",
+  "model": "glm-5.3"
+}

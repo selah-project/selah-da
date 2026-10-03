@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og kvinden blev gravid og fødte en søn, og hun så ⟨את⟩ ham, at han var god, og hun skjulte ham i tre måneder.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "og blev gravid"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "og hun så"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "og hun skjulte ham"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "måneder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:46.508103516Z",
+  "model": "glm-5.3"
+}

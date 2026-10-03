@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Hvis du sender ⟨את⟩ vor broeder ⟨med⟩ ⟨את⟩ os, vil vi gå ned og købe dig mad.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "du"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor broeder"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "vor broeder"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ os"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "vil vi gå ned"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "og købe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:04.980416981Z",
+  "model": "glm-5.3"
+}

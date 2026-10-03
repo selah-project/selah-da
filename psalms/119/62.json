@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Ved midnat står jeg op til at takke dig for dine retfærdige domme.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "ved midnat"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "af natten"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "står jeg op"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "til at takke"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "domme"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:41.760710829Z",
+  "model": "glm-5.3"
+}

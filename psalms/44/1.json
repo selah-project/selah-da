@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Til korlederen, for Korachs sønner, en Mashkil ⟨en læredigt⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne af"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en Mashkil"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:22.063428306Z",
+  "model": "glm-5.3"
+}

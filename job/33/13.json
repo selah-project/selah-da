@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Hvorfor tvider du med ham, når han ikke svarer på alle sine ord?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "tvider du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sine ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svarer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:42.929455946Z",
+  "model": "glm-5.3"
+}

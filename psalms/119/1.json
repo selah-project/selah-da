@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Salige er de uklanderlige på deres vej, de som vandrer i Jahves Tora.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "de uklanderlige"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på deres vej"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "de som vandrer"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "i Toraen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.344605542Z",
+  "model": "glm-5.3"
+}

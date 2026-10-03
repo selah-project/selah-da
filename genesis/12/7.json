@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahve åbenbarede sig for Avram og sagde: Din sæd vil jeg give ⟨את⟩ dette land. Og han byggede der et alter for Jahve, som åbenbarede sig for ham.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "åbenbarede sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "din sæd"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vil jeg give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dette land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og han byggede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "som åbenbarede sig"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:18.516768968Z",
+  "model": "glm-5.3"
+}

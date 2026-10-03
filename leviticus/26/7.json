@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og I skal forfølge ⟨את⟩ jeres fjender, og de skal falde for jer ved sværdet.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "og I skal forfølge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres fjender"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jeres fjender"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "og de skal falde"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ved sværdet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:52.792891434Z",
+  "model": "glm-5.3"
+}

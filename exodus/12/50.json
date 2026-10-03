@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og hele Jisraels børn gjorde ⟨det⟩; som Jahve befalede Moshe ⟨את⟩ og ⟨את⟩ Aharon, sådan gjorde de.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befalede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde de"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:29.616480715Z",
+  "model": "glm-5.3"
+}

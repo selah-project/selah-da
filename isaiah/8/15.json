@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og mange skal snuble iblandt dem, og de skal falde og knuses og snæres og fanges.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "Og ... skal snuble"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iblandt dem"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "og falde"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "og knuses"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "og snæres"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "og fanges"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:46.715041792Z",
+  "model": "glm-5.3"
+}

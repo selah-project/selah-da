@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Men skammen har fortæret ⟨את⟩ vort fædres møje fra vor ungdom: ⟨את⟩ deres småkvæg og ⟨את⟩ deres kvæg, ⟨את⟩ deres sønner og ⟨את⟩ deres døtre.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "Men skammen"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "har fortæret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vort fædres møje"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "møje"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "vort fædres"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "fra vor ungdom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres småkvæg"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "deres småkvæg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres kvæg"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "deres kvæg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sønner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres døtre"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "deres døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:58.232109478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Jeg fjernede hans skulder fra børden; hans hænder gik fra kurven.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Jeg fjernede"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "fra børden"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "hans skulder"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "hans hænder"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "fra kurven"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "gik"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:33.297487125Z",
+  "model": "glm-5.3"
+}

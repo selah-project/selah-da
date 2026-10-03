@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Hvis høst den sultne spiser, og fra torne tager den ⟨ham⟩, og de tørstige suger deres formue til sig.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "høst"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "den sultne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spiser"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "torne"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "tager den ⟨ham⟩"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "og suger til sig"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "de tørstige"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "deres formue"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:53.570696051Z",
+  "model": "glm-5.3"
+}

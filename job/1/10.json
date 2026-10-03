@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Har du ikke indhegnet ham og hans hus og alt, hvad han har, rundt om? Dine hænders — hans hænders gjerning har du velsignet, og hans kvæg er brudt frem i landet.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "har... ikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "du"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "indhegnet"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han har"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gjerning"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans hænder"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "har du velsignet"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "og hans kvæg"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "er brudt frem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:58.851795720Z",
+  "model": "glm-5.3"
+}

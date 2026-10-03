@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Om natten kom jeg dit navn i hu, Jahve, og jeg vogtede din Tora.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "kom jeg ... i hu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "og jeg vogtede"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:26.846659584Z",
+  "model": "glm-5.3"
+}

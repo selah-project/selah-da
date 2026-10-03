@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og Jahve var ⟨את⟩ Yoséf, og han var en mand, der havde fremgang, og han var i sin herres hus, mitsritten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoséf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han var"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "der havde fremgang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han var"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herres"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "mitsritten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:40.881967377Z",
+  "model": "glm-5.3"
+}

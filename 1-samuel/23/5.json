@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David gik med sine mænd til Keila og kæmpede mod filisterne og drev bort ⟨את⟩ deres kvæg og slog dem med et stort slag, og David frelste ⟨את⟩ indbyggerne i Keila.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "med sine mænd"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "til Keila"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mod filisterne"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "og drev bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres kvæg"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "deres kvæg"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stort"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "og frelste"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indbyggerne i Keila"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "i Keila"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:36.319225831Z",
+  "model": "glm-5.3"
+}

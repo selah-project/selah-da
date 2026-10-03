@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han giver kvæget dets føde, og unge ravne, der kalder.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "dets føde"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "unge"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ravne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "kalder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.312156891Z",
+  "model": "glm-5.3"
+}

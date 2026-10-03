@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og bestikkelse må du ikke tage, for bestikkelsen gør ⟨de⟩ seende blinde og fordrejer de retfærdiges ord.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "og bestikkelse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "må du tage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "bestikkelsen"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "gør blinde"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "de seende"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "og fordrejer"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:28.788854562Z",
+  "model": "glm-5.3"
+}

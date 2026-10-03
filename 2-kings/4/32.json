@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Elisha kom ind i huset, og se, drengen lå død på sin seng.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og … kom"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "død"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "lå"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sin seng"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:13.691037579Z",
+  "model": "glm-5.3"
+}

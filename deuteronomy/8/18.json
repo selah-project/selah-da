@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Men du skal huske ⟨את⟩ Jahve, din Elohim, for det er ham, der giver dig styrke til at skaffe velstand — for at han kan stadfæste ⟨את⟩ sin pagt, som han svor dine fædre, som på denne dag.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "men du skal huske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er ham"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "der giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כח",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til at skaffe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "velstand"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "stadfæste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin pagt"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sin pagt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "dine fædre"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som på"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne dag"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:29.025806050Z",
+  "model": "glm-5.3"
+}

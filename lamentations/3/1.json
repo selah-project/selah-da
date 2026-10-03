@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg ⟨er⟩ manden, som har set elendighed under ⟨את⟩ hans vredes ris.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har set"
+    },
+    {
+      "surface": "עני",
+      "gloss": "elendighed"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "under hans vredes ris"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "hans vrede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:20.351249058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og hele Ahabs hus skal gå til grunde, og jeg vil udrydde for Ahab ⟨enhver der⟩ tisser mod væggen, både indespærret og efterladt, i Jisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "og skal gå til grunde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "og jeg vil udrydde"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "for Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "⟨enhver der⟩ tisser"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mod væggen"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "og indespærret"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "og efterladt"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:18.156567356Z",
+  "model": "glm-5.3"
+}

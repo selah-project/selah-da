@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "til håndværkerne og til bygningstømmermændene og til murerne, og til at købe tømmer og tilhuggne sten, til at istandsætte ⟨את⟩ huset.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "til håndværkerne"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "og til bygningsmændene"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "og til murerne"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "og til at købe"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "tømmer"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "og sten"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "tilhuggne"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "til at istandsætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:12.506869813Z",
+  "model": "glm-5.3"
+}

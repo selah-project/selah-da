@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jeg har taget ⟨את⟩ jer i ed, Jerushalajims døtre, ved gazellerne eller ved markens hind: Vækker I ikke, og ægger I ikke ⟨את⟩ kærligheden, før den selv lyster.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Jeg har taget jer i ed"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer (Jerushalajims døtre)"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ved gazellerne"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "ved markens hind"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "Vækker I"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ægger I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kærligheden"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "kærligheden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "før"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "den selv lyster"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:57.349322536Z",
+  "model": "glm-5.3"
+}

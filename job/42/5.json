@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Med hørelsen af øret havde jeg hørt om dig, men nu har mit øje set dig.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "med hørelsen"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "af øret"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "havde jeg hørt om dig"
+    },
+    {
+      "surface": "וועתה",
+      "gloss": "men nu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "har set dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:47:34.861088665Z",
+  "model": "glm-5.3"
+}

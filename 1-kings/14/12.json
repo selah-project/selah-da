@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og du, stå op, gå til dit hus; når dine fødder når ind i byen, skal barnet dø.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og du"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "stå op"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "til dit hus"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "når ... når ind"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dine fødder"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:11.664555834Z",
+  "model": "glm-5.3"
+}

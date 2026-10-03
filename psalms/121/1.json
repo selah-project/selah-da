@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "En sang for stigerne. Jeg løfter mine øjne til bjergene — hvorfra skal min hjælp komme?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "for stigerne"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "jeg løfter"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hvorfra"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skal komme"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "min hjælp"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:33.156844262Z",
+  "model": "glm-5.3"
+}

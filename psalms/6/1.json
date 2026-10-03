@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Til korlederen, med strengeinstrumenter, på den ottende <sheminith>; en salme af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "med strengeinstrumenter"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "den ottende ⟨sheminith⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:47.163208032Z",
+  "model": "glm-5.3"
+}

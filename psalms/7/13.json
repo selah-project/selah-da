@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Hvis han ikke vender om, hvæsser han sit sværd; sin bue har han spændt og rettet den til.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vender om"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sit sværd"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "hvæsser"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sin bue"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "har spændt"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "og rettet den til"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:17.605877555Z",
+  "model": "glm-5.3"
+}

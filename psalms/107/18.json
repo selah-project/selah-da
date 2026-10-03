@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Al mad vægrer deres sjæl sig ved, og de nærmer sig dødens porte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "vegrer sig ved"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deres sjæl"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "og de nærmer sig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inntil"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "portene af"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:50.313466982Z",
+  "model": "glm-5.3"
+}

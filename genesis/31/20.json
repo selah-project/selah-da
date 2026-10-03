@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Jaakov stjal ⟨את⟩ hjertet fra Lavan arameeren, ved ikke at fortælle ham, at han flygtede.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Og stjal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjertet"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fra Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "arameeren"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "at fortælle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "han flygtede"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:47.724683523Z",
+  "model": "glm-5.3"
+}

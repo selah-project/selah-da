@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Thi jeg var en søn for min far, øm og eneste for min mor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var jeg"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "for min far"
+    },
+    {
+      "surface": "רך",
+      "gloss": "øm"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "og eneste"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:23.557119371Z",
+  "model": "glm-5.3"
+}

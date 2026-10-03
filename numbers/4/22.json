@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "⟨Optæl⟩ ⟨את⟩ hovedet på Gershons sønner, også dem, efter deres fædres huse, efter deres familier,",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "løft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovedet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershons"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter hus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter deres familier"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:37.985493850Z",
+  "model": "glm-5.3"
+}

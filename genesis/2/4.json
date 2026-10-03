@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Dette er himlenes og jordens frembringelser, da de blev skabt, på den dag da Jahve Elohim gjorde jord og himle.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "er … frembringelser"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlenes"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jordens"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "da de blev skabt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "da … gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "og himle"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:41.463945901Z",
+  "model": "glm-5.3"
+}

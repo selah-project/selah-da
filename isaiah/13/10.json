@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Thi himlenes stjerner og deres stjernebilleder skal ikke skinne med deres lys; solen er formørket, når den går frem, og månen skal ikke lade sit lys glide frem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "stjerner"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlenes"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "og deres stjernebilleder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "skinne"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "med deres lys"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "er formørket"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "når den går frem"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "og månen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "skal lade glide frem"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "sit lys"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:24.173083694Z",
+  "model": "glm-5.3"
+}

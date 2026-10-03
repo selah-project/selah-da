@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal føre ⟨את⟩ stængerne ind i ringene på Arons sider, så ⟨את⟩ Aron kan bæres med dem.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Og du skal føre ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stængerne"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "i ringene"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "sider"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "så … kan bæres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "med dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:05.133345071Z",
+  "model": "glm-5.3"
+}

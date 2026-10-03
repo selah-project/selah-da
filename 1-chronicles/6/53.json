@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og ⟨את⟩ Jokmeam med dens græsgange og ⟨את⟩ Beit-Khoron med dens græsgange",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jokmeam"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Jokmeam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:36.960446192Z",
+  "model": "glm-5.3"
+}

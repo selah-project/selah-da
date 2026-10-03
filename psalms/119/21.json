@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Du skældte ud ⟨de⟩ overmodige, ⟨de⟩ forbandte, som farer vild fra dine bud.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "skældte ud"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "overmodige"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "forbandte"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "som farer vild"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "fra dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:30.770981966Z",
+  "model": "glm-5.3"
+}

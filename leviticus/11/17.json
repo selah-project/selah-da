@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og ⟨את⟩ lilleuven, og ⟨את⟩ skarven, og ⟨את⟩ storuven",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lilleuven"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "lilleuven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "skarven"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "skarven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "storuven"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "storuven"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:01.559969833Z",
+  "model": "glm-5.3"
+}

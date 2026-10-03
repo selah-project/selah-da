@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Vogt dig på, at du ikke glemmer ⟨את⟩ Jahve, din Elohim, så du ikke holder hans bud og hans retsbestemmelser og hans vedtægter, som jeg byder dig i dag.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Vogt dig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på"
+    },
+    {
+      "surface": "פן",
+      "gloss": "at du ikke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glemmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så du ikke"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "holder"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "og hans retsbestemmelser"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "og hans vedtægter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "byder dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:45.237691528Z",
+  "model": "glm-5.3"
+}

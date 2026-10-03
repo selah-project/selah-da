@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og ⟨את⟩ Hamor og ⟨את⟩ Shekhem hans søn dræbte de med sværdets egg; og de tog ⟨את⟩ Dina fra Shekhems hus og gik ud.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med ... egg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra huset"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhems"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "og gik ud"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:42.696583593Z",
+  "model": "glm-5.3"
+}

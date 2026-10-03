@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Jeg er udmattet af mit råb, min hals brænder, mine øjne slukkes, mens jeg venter på min Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Jeg er udmattet"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "af mit råb"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "brænder"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "min hals"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "slukkes"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "mens jeg venter"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "på min Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:46.080909177Z",
+  "model": "glm-5.3"
+}

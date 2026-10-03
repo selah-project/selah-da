@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Jeg gav Jitschak ⟨את⟩ Jaakov og ⟨את⟩ Esav, og Jeg gav Esav Se'ir-bjerget at eje, men Jaakov og hans sønner drog ned til Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Og Jeg gav"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "og Jeg gav"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Se'ir-bjerget"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "at eje"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "men Jaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "drog ned"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "til Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:38.437000060Z",
+  "model": "glm-5.3"
+}

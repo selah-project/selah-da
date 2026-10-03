@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal sætte ⟨את⟩ bassinet mellem mødeteltet og alteret, og du skal sætte vand der.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bassinet"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bassinet"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde-"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:32.478535546Z",
+  "model": "glm-5.3"
+}

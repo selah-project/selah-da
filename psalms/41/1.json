@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Til korlederen. En mizmor af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.859647240Z",
+  "model": "glm-5.3"
+}

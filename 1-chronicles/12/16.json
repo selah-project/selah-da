@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Disse er ⟨de⟩, som gik over ⟨את⟩ Jordan i den første måned, da den var fuld over alle sine bred, og de drev på flugt ⟨את⟩ alle dalene, mod øst og mod vest.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "er de"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gik over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i måned"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "da den"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "var fuld"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "sine bred"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "og de drev på flugt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dalene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "dalene"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "mod øst"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "og mod vest"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:26.681572262Z",
+  "model": "glm-5.3"
+}

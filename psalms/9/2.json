@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Jeg vil takke Jahve med hele mit hjerte, jeg vil fortælle om alle dine under.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Jeg vil takke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "jeg vil fortælle om"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dine under"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:19.927285110Z",
+  "model": "glm-5.3"
+}

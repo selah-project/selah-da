@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og folket tørstede der efter vand, og folket klagede mod Moshe og sagde: Hvorfor er dette, at du har ført os op fra Mitsrajim for at dræbe ⟨את⟩ mig og ⟨את⟩ mine børn og ⟨את⟩ min kvæg med tørst?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "og de tørstede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "למים",
+      "gloss": "efter vand"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "og klagede"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er dette"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "har du ført os op"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "for at dræbe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mine børn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "min kvæg"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "min kvæg"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "med tørst"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:02.531225105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Shmuel førte ⟨את⟩ alle Jisraels stammer frem, og Binjamins stamme blev udtaget.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Og førte frem"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Jisraels stammer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og blev udtaget"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:25.798701202Z",
+  "model": "glm-5.3"
+}

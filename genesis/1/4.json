@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim så ⟨את⟩ lyset, at det var godt; og Elohim skilte mellem lyset og mørket.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyset"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lyset"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "og skilte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lyset"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "mørket"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:00.945808995Z",
+  "model": "glm-5.3"
+}

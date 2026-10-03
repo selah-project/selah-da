@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Syng for Jahve, ⟨I⟩ hans chassidim, og tak ved ⟨mindet om⟩ hans hellighed.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans chassidim"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "og tak"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ved ⟨mindet om⟩"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:54.076690852Z",
+  "model": "glm-5.3"
+}

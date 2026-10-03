@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og ⟨את⟩ hans sønner skal du føre frem, og du skal iføre ⟨את⟩ dem kitteler.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skal du føre frem"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "og du skal iføre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (sønnerne)"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kitteler"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.554009979Z",
+  "model": "glm-5.3"
+}

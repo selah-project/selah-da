@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Mine fjender siger ondt om mig: «Hvornår skal han dø, og hans navn gå til grunde?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Mine fjender"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "siger"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ont"
+    },
+    {
+      "surface": "לי",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hvornår"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal han dø"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "og gå til grunde"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.107943631Z",
+  "model": "glm-5.3"
+}

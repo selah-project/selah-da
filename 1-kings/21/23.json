@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og også om Izevel talte Jahve og sagde: Hundene skal æde ⟨את⟩ Izevel ved volden af Jizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "om Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundene"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "ved volden"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "af Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:07.497094035Z",
+  "model": "glm-5.3"
+}

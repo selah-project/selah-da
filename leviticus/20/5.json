@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "så vil jeg selv vende ⟨את⟩ mit ansigt mod den mand og mod hans familie, og jeg vil udrydde ⟨את ham⟩ og ⟨את⟩ alle dem, der horer efter ham, for at hore efter Molok, ud af deres folks midte.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "så vil jeg vende"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg selv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mod den mand"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "og mod hans familie"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "og jeg vil udrydde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את ham⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "der horer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "for at hore"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molok"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ud af midten af"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "deres folk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:43.523562033Z",
+  "model": "glm-5.3"
+}

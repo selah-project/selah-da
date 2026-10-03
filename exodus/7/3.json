@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og jeg vil forhærde ⟨את⟩ Farao:s hjerte, og jeg vil mangfoldiggøre ⟨את⟩ mine tegn og ⟨את⟩ mine under i Mitsrajims land.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "vil forhærde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao:s hjerte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "og jeg vil mangfoldiggøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine tegn"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mine tegn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mine under"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mine under"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:29.246685818Z",
+  "model": "glm-5.3"
+}

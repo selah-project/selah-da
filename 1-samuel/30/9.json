@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og David gik, han og seks hundrede mænd, som var med ⟨את⟩ ham, og de kom til Besor-bækken; og de tilbageblevne blev stående.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "var med ham"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bækken"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "og de tilbageblevne"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "blev stående"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:41.530039332Z",
+  "model": "glm-5.3"
+}

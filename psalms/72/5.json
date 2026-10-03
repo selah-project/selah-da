@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "De skal frygte dig med solen, og foran månen, slægt i slægter.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "skal frygte dig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "og foran"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "i slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:09.981539935Z",
+  "model": "glm-5.3"
+}

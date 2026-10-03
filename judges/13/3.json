@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og en Engel fra Jahve viste sig for kvinden og sagde til hende: Se nu, du er ufrugtbar og har ikke født, men du skal undfange og føde en søn.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og viste sig"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Engel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "du",
+      "marks": "עקרה — du er ufrugtbar"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ufrugtbar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "har født"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "men du skal undfange"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "og føde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:10.833514298Z",
+  "model": "glm-5.3"
+}

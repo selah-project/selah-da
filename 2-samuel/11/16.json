@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og det skete, mens Joav holdt byen i øje, at han satte ⟨את⟩ Urija på det sted, hvor han vidste, at der var tapre mænd.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "mens han holdt i øje"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "at han satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han vidste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tapre"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:55.344019203Z",
+  "model": "glm-5.3"
+}

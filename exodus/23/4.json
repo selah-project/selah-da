@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Hvis du møder din fjendes okse eller hans æsel, der går forgået, skal du vende det tilbage til ham.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "du møder"
+    },
+    {
+      "surface": "שור",
+      "gloss": "okse"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "din fjendes"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "hans æsel"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "forgået"
+    },
+    {
+      "surface": "השב",
+      "gloss": "skal du vende"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "tilbage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:34.481739952Z",
+  "model": "glm-5.3"
+}

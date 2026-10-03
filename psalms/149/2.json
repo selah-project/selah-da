@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "Jisrael skal glæde sig i sin skaber, Tsjions sønner skal juble i deres konge.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "skal glæde sig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "i sin skaber"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsjions"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "i deres konge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:22.012772529Z",
+  "model": "glm-5.3"
+}

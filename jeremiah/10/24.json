@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Tugt mig, Jahve, kun med ret, ikke i din vrede, for at du ikke skal gøre mig til intet.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Tugt mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "med ret"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "skal gøre mig til intet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:11:44.170899759Z",
+  "model": "glm-5.3"
+}

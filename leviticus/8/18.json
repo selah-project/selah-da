@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han frembar ⟨את⟩ vædderen til brændofferet, og Aharon og hans sønner lagde ⟨את⟩ deres hænder på vædderens hoved.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Og han frembar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vædderen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "til brændofferet"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "og lagde"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "af vædderen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:01.738307153Z",
+  "model": "glm-5.3"
+}

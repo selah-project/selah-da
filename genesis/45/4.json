@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og Josef sagde til sine brødre: Kom nær til mig, jeg beder! Og de kom nær. Og han sagde: Jeg er Josef, jeres broder, som I solgte ⟨את⟩ mig til Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom nær"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "og de kom nær"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "er Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jeres broder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "I solgte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:51.633530546Z",
+  "model": "glm-5.3"
+}

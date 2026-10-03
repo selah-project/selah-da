@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "⟨Må⟩ ⟨hovedet på⟩ dem der omgiver mig, ⟨må⟩ møjen fra deres læber dække dem.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "dem der omgiver mig"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "deres læber"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "dække dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:58.603667429Z",
+  "model": "glm-5.3"
+}

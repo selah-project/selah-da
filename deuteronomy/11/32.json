@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og I skal vogte på at gøre ⟨את⟩ alle vedtægterne og ⟨את⟩ dommene, som jeg sætter frem for jer i dag.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal vogte på"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle vedtægterne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "vedtægterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dommene"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dommene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sætter frem"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:19.919084614Z",
+  "model": "glm-5.3"
+}

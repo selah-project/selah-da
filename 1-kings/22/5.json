@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Jehoshafat sagde til kongen af Jisrael: Spørg dog i dag til ⟨את⟩ Jahves ord.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Spørg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:46.436380810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Jahve prøver ⟨את⟩ den retfærdige, men den uretfærdige og den, der elsker vold, hader hans sjæl.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "prøver"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "men den uretfærdige"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "og den der elsker"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hader"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:58.482429618Z",
+  "model": "glm-5.3"
+}

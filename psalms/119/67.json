@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Før jeg blev ydmyget, forvildede jeg mig; men nu bevarer jeg dit ord.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "før"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jeg blev ydmyget"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "forvildede jeg mig"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "men nu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "bevarer jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:10.712317995Z",
+  "model": "glm-5.3"
+}

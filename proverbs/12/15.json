@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Dårens vej er ret i hans egne øjne, men den der hører på råd, er vis.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dårens"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ret"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "men den der hører"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "på råd"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "er vis"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:14.890391499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og han forbandt ⟨את⟩ de fem tæpper, det ene med det andet, og de fem andre tæpper bandt han sammen, det ene med det andet.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "og han forbandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fem tæpper"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tæpper"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "med"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "det andet"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tæpper"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bandt han sammen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "med"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "det andet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:48.540746334Z",
+  "model": "glm-5.3"
+}

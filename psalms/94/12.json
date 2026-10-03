@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Salig er manden, som du tugter, Jah, og som du lærer af din Tora —",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig er"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "du tugter"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "og af din Tora"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "du lærer ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.409845414Z",
+  "model": "glm-5.3"
+}

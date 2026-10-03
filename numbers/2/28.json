@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hans hær og deres talte var en og fyrre tusind og fem hundrede.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Og hans hær"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "og deres talte"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:54.360159673Z",
+  "model": "glm-5.3"
+}

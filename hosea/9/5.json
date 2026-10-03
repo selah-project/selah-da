@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hvad vil I gøre på ⟨den⟩ fastsatte dag og på dagen for Jahves højtid?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vil I gøre"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fastsatte tid"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "og på dagen"
+    },
+    {
+      "surface": "חג",
+      "gloss": "højtid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:04.544721528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Nachor levede, efter at han havde avlet ⟨את⟩ Terach, nitten år og hundrede år, og avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "og levede"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "han havde avlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "og hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:23.690897689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og To'i, kongen af Hamat, hørte, at David havde slået hele hæren af Hadadezer ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og … hørte"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "To'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "af Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "havde slået"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele hæren af Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "af Hadadezer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:38.675945938Z",
+  "model": "glm-5.3"
+}

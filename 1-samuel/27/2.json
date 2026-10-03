@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og David stod op og drog over, han og seks hundrede mænd, som var med ham, til Akish, søn af Maok, konge i Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Og stod op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og drog over"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "var med ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "af Maok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "גת",
+      "gloss": "i Gat"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:56.172868688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jahve Elohim sendte ham bort fra Edens have til at dyrke ⟨את⟩ jorden, som han var taget fra.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "og sendte ham bort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "fra haven"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "til at dyrke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "han var taget"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:13.880231440Z",
+  "model": "glm-5.3"
+}

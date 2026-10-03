@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han forkastede Josefs telt, og Efrajims stamme valgte han ikke.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "og han forkastede"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "og stammen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "valgte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:26.100545192Z",
+  "model": "glm-5.3"
+}

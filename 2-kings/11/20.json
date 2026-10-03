@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og hele landets folk glædede sig, og byen havde ro; og ⟨את⟩ Atalja dræbte de med sværdet i kongens hus.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "glædede sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "og byen"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "havde ro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Atalja"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med sværdet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:10.773520057Z",
+  "model": "glm-5.3"
+}

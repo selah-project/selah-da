@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Amminadav avlede ⟨את⟩ Nachshon, og Nachshon avlede ⟨את⟩ Salmon.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Og Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "og Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:28.973886008Z",
+  "model": "glm-5.3"
+}

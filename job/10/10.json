@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Har du ikke udgydt mig som mælk og som ost stænket mig sammen?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Har du ikke"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "som mælk"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "udgydt mig"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "og som ost"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "stænket mig sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:32.694083562Z",
+  "model": "glm-5.3"
+}

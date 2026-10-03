@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Brændemærke for brændemærke, sår for sår, stribe for stribe.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "brændemærke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "brændemærke"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sår"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sår"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "strieformerige"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "strieformerige"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:11.146042367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og de lagde ⟨את⟩ hans rustning i Ashtarots hus, og ⟨את⟩ hans lig fæstede de på muren i Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "og de lagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans rustning"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans rustning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans lig"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "hans lig"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fæstede de"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "på muren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:44.321552337Z",
+  "model": "glm-5.3"
+}

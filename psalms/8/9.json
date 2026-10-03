@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Himlens fugle og havets fisk, ⟨den⟩ som vandrer gennem havets stier.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "fugle"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "og fisk"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨den⟩ som vandrer"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "gennem stier"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:31.449760995Z",
+  "model": "glm-5.3"
+}

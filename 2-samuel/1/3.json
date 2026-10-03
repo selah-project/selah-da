@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David sagde til ham: Hvorfra kommer du? Og han sagde til ham: Fra Jisraels lejr er jeg undsluppet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "fra"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kommer du"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "fra lejr"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "er jeg undsluppet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:28.915242850Z",
+  "model": "glm-5.3"
+}

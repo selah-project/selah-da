@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Han, som siger til solen, så den ikke skinner, og stjernerne forsegler ⟨han⟩.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "som siger"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "til solen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så ikke"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "skinner"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "stjernerne"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "forsegler ⟨han⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:06.345502405Z",
+  "model": "glm-5.3"
+}

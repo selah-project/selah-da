@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve skal give ⟨את⟩ regnen af dit land som støv og muld; fra himlene skal det dale ned over dig, indtil du er udryddet.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "skal give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regnen af dit land"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regnen"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "af dit land"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "støv"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "og muld"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "skal det dale ned"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over dig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du er udryddet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:45.868143924Z",
+  "model": "glm-5.3"
+}

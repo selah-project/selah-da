@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og han gjorde ⟨את⟩ brædderne til Mishkan af shittim-træ, stående.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brædderne"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brædderne"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "til Mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af træ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim-"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stående"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:16.759918806Z",
+  "model": "glm-5.3"
+}

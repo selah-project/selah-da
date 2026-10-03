@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Thi hos dig er livets kilde, i dit lys ser vi ⟨⟩ lys.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "kilde"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "i dit lys"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ser vi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:24.699537078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og mændene af Jehudah udstødte krigsråb, og det skete, mens mændene af Jehudah udstødte råbet, slog Elohim ⟨את⟩ Jerobeam og hele Jisrael foran Avia og Jehudah.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "udstødte krigsråb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "mens de udstødte råbet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "og Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerobeam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Jehudah"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:38.549124265Z",
+  "model": "glm-5.3"
+}

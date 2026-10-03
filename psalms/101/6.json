@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Mine øjne ⟨skal være⟩ på landets trofaste, til at bo hos mig; den som vandrer på en hel ⟨vej⟩, han skal tjene mig.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "på de trofaste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "til at bo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "den som vandrer"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på en vej"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "skal tjene mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:51.130069277Z",
+  "model": "glm-5.3"
+}

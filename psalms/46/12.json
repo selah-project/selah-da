@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Jahve Tsevaot ⟨er⟩ med os; Jaakobs Elohim ⟨er⟩ vor højborg. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med os"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "højborg"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:01.041577309Z",
+  "model": "glm-5.3"
+}

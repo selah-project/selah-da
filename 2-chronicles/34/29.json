@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og kongen sendte bud og samlede ⟨את⟩ alle de ældste i Jehuda og Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte bud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "og samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de ældste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "og Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:28.583890466Z",
+  "model": "glm-5.3"
+}

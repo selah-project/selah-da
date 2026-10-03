@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 99,
+  "translation": "Jahve er konge — folkeslagene skælver; ⟨han⟩ troner over keruberne — jorden bæver.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "er konge"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "skælver"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "troner"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruberne"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "bæver"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:40.070203100Z",
+  "model": "glm-5.3"
+}

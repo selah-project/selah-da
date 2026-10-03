@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Over mig er din brændende vrede gået, dine rædsler har udryddet mig.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "er gået"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "din brændende vrede"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "dine rædsler"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "har udryddet mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:46.969238511Z",
+  "model": "glm-5.3"
+}

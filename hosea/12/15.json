@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Efraim gjorde ⟨ham⟩ vred med bitterheder, og hans blod lader ⟨Adonaj⟩ blive på ham, og hans Adonaj gengælder hans smæde til ham.",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "gjorde vred"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "med bitterheder"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "og hans blod"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "lader blive"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "og hans smæde"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "gengælder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans Adonaj"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:32.492731045Z",
+  "model": "glm-5.3"
+}

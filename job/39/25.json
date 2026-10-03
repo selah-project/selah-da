@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Ved shofarens støj siger han: Heach! Og på lang afstand dufter han ⟨krigen⟩ — torden hos høvdinger og krigsråb.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "ved"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofarens"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger han"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heach!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "og på lang afstand"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "dufter"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "torden"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "og krigsråb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:45:31.008737948Z",
+  "model": "glm-5.3"
+}

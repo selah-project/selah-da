@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Jahves øjne ⟨er vendt⟩ mod de tsaddikim, og hans ører mod deres råb.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de tsaddikim"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "og hans ører"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "mod deres råb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:35.477121828Z",
+  "model": "glm-5.3"
+}

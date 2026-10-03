@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han gjorde en nådestol af rent guld — to alen og en halv var dens længde, og en alen og en halv dens bredde.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "nådestol"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "to alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dens længde"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og en alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "dens bredde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:26.960641770Z",
+  "model": "glm-5.3"
+}

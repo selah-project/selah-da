@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg vil give dette folk ⟨את⟩ yndest i Mitsrajims øjne, og det skal ske, når I går, går I ikke tomhændede bort.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og jeg vil give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yndest"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yndest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dette folk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "I går"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "går I"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tomhændede"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:55.430598550Z",
+  "model": "glm-5.3"
+}

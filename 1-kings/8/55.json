@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han stod og velsignede ⟨את⟩ hele Jisraels forsamling med høj røst, idet han sagde:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "og han stod"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisraels forsamling"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "forsamling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "קול",
+      "gloss": "med røst"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "høj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idet han sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:19.018976865Z",
+  "model": "glm-5.3"
+}

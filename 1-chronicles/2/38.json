@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Oved avlede ⟨את⟩ Jehu, og Jehu avlede ⟨את⟩ Azarja.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Og Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "og Jehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:21.496158088Z",
+  "model": "glm-5.3"
+}

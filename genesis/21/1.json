@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jahve sørgede for Sarah ⟨את⟩, som han havde sagt, og Jahve gjorde for Sarah, som han havde talt.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sørgede for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "for Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:43.145945066Z",
+  "model": "glm-5.3"
+}

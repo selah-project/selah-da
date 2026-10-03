@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og præsten skal bringe dem i røg på alteret, som brød, et ildoffer, til en behagelig duft; alt fedt ⟨tilhører⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "Og præsten skal bringe dem i røg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "som brød"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "et ildoffer"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "til en duft"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "behagelig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fedt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:07.396961722Z",
+  "model": "glm-5.3"
+}

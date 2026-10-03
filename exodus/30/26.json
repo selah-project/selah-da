@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og du skal salve med den ⟨את⟩ mødeteltet og ⟨את⟩ vidnesbyrdets ark.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "og du skal salve"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mødeteltet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vidnesbyrdets ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:03.478983597Z",
+  "model": "glm-5.3"
+}

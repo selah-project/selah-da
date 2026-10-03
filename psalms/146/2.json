@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "Jeg vil love Jahve, så længe jeg lever; jeg vil spille og synge for min Elohim, medens jeg er til.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Jeg vil love"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "så længe jeg lever"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "jeg vil spille og synge"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "for min Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "medens jeg er til"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:12.002876078Z",
+  "model": "glm-5.3"
+}

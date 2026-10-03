@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og ⟨את⟩ indvielsesvædderen skal du tage, og du skal koge dens kød på et helligt sted.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "indvielsesvædderen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "indvielsen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skal du tage"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "og du skal koge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens kød"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dens kød"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "på et sted"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:18.029802498Z",
+  "model": "glm-5.3"
+}

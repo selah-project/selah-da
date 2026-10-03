@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "De svarede og sagde til Nebukadnetsar, kongen: Konge, lev i evighed!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "svarede de"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "til Nebukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "konge"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "i evighed"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lev"
+    }
+  ],
+  "timestamp": "2026-10-03T18:57:24.783025234Z",
+  "model": "glm-5.3"
+}

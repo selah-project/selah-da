@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Ester gjorde ikke sin slægt og ⟨את⟩ sit folk kendt, sådan som Mordekaj havde pålagt hende; og ⟨את⟩ Mordekajs ord adlød Ester, sådan som da hun var i hans pleje hos ham.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "gjorde ... kendt"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "sin slægt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sit folk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sådan som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde pålagt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Mordekajs ord"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekajs"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "adlød"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sådan som"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "i hans pleje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hos ham ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:09.952023996Z",
+  "model": "glm-5.3"
+}

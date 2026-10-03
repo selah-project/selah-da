@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og der var krig mellem Asa og mellem Baasha, Jisraels konge, alle deres dage.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Og krig"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var der"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "deres dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:34.564369045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Som sammen sødede vi råd; i Elohims hus vandrede vi i mængden.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "sødede vi"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "råd"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims hus"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "vandrede vi"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "i mængden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:04.888728271Z",
+  "model": "glm-5.3"
+}

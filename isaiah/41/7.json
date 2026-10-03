@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Håndværkeren styrker ⟨את⟩ guldsmeden, ham der glatter med hammeren ⟨את⟩ ham der slår på ambolten, og siger til limpanden: Den er god — og fæster den med søm, så den ikke skal vakle.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "styrker"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "håndværkeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldsmeden"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "guldsmeden"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "ham der glatter"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "med hammeren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ham der slår på ambolten"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "ham der slår"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "på ambolten"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "til limpanden"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den er"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "og fæster den"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "med søm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "skal vakle"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:27.693784945Z",
+  "model": "glm-5.3"
+}

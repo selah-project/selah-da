@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Adonaj ler ad ham, for han ser, at hans dag kommer.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ler"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ad ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "han ser"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "hans dag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:09.747523148Z",
+  "model": "glm-5.3"
+}

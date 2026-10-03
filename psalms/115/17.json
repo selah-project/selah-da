@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "De døde priser ikke Jah, og ikke alle de, som går ned til stilhed.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de døde"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "priser"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "de, som går ned"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "til stilhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:49.913335224Z",
+  "model": "glm-5.3"
+}

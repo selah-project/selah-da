@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim gjorde ⟨את⟩ rakiaen og skilte mellem vandene under rakiaen og mellem vandene over rakiaen; og det blev sådan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakiaen"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiaen"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "og skilte"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiaen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "over"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiaen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:37.211003891Z",
+  "model": "glm-5.3"
+}

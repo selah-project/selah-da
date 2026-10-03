@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Den rige hersker over de fattige, og den, der låner, ⟨er⟩ træl for manden, der udlåner.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Den rige"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "over de fattige"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "hersker"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "og træl"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "den, der låner"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "for manden"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "der udlåner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:47.365352872Z",
+  "model": "glm-5.3"
+}

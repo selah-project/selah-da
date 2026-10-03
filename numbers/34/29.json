@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Disse er de, som Jahve bød at skifte arven ud til Jisraels ⟨את⟩ børn i Kanaans land.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bød"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "at skifte arven ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-10-03T15:18:15.858173891Z",
+  "model": "glm-5.3"
+}

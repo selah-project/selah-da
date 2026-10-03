@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og ⟨man⟩ førte ⟨את⟩ Moshe og ⟨את⟩ Aharon tilbage til Paroh, og han sagde til dem: Gå, tjene ⟨את⟩ Jahve, jeres Elohim! Hvem og hvem er de, der går?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "og førte tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gå"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "er de, der går"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:48.351160881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeg vil sende markens vilde dyr imod jer, og de skal berøve jer ⟨את⟩ børnene, og de skal udrydde jeres kvæg og gøre jer få, og jeres veje skal ligge øde.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Og jeg vil sende"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "imod jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markens vilde dyr"
+    },
+    {
+      "surface": "חית",
+      "gloss": "vilde dyr"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "og de skal berøve jer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "og de skal udrydde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres kvæg"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "jeres kvæg"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "og gøre få"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "og de skal ligge øde"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jeres veje"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:42.801662132Z",
+  "model": "glm-5.3"
+}

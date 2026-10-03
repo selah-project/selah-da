@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og ⟨את⟩ røgelseskarrene og ⟨את⟩ skålene, det som var guld, guld, og det som var sølv, sølv, tog vogternes overste.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "røgelseskarrene"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "røgelseskarrene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "skålene"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "skålene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "var guld"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og det som"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "var sølv"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "vogternes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:17.514029399Z",
+  "model": "glm-5.3"
+}

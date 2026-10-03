@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "I skødet kastes ⟨את⟩ loddet, men fra Jahve er hele dets dom.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "i skødet"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "kastes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loddet"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "loddet"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "men fra Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "dets dom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:47.748739123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "indtil jeg kommer og tager ⟨את⟩ jer med til et land ligesom jeres land, et land af korn og most, et land af brød og vingårde.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "באי",
+      "gloss": "jeg kommer"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "og tager"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "ligesom jeres land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "af korn"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "og most"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "af brød"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "og vingårde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:10.962668360Z",
+  "model": "glm-5.3"
+}

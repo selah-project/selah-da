@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Hans præster faldt for sværdet, og hans enker græd ikke.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "hans præster"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "for sværdet"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "faldt"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "og hans enker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "græd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:43.638120013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Hør, mit folk, og jeg vil vidne imod dig, Jisrael — om du vil høre mig!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "og jeg vil vidne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "du vil høre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:43.258648059Z",
+  "model": "glm-5.3"
+}

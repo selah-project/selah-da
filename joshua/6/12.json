@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Yehoshua stod tidligt op om morgenen, og præsterne bar ⟨את⟩ Jahves ark.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Og ⟨han⟩ stod tidligt op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "og bar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:01.897695739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Shelach levede tredive år og avlede ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Og Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "levede"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:11.662136068Z",
+  "model": "glm-5.3"
+}

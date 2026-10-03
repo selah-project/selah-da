@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve Elohim plantede en have i Eden mod øst, og der satte han ⟨את⟩ mennesket, som han havde formet.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "og plantede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "en have"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "i Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "mod øst"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "han havde formet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:14.291549103Z",
+  "model": "glm-5.3"
+}

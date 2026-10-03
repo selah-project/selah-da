@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Byd Aharon ⟨את⟩ og ⟨את⟩ hans sønner og sig: Dette er Tora for brændofferet; det ⟨er⟩ brændofferet, som ⟨ligger⟩ på sit brændsted på alteret hele natten indtil morgen; og alterets ild skal brænde i det.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Byd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "for brændofferet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "sit brændsted"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "og … ild"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alterets"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "skal brænde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:59.189929565Z",
+  "model": "glm-5.3"
+}

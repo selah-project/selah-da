@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Du må ikke spise nogen væmmelighed.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "spise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "væmmelighed"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:43.590557894Z",
+  "model": "glm-5.3"
+}

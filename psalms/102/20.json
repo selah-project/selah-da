@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Thi han har set ned fra sin helligdoms højde, Jahve, fra himlene til jorden har han skuet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "har set ned"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "fra højden"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sin helligdom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "fra himlene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "har skuet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:11.622688052Z",
+  "model": "glm-5.3"
+}

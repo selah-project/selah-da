@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Elsker tsedek og ret; af Jahves chesed er jorden fuld.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og ret"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "er fuld"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.430949068Z",
+  "model": "glm-5.3"
+}

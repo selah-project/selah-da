@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Til korlederen, efter Machalat, en maskil af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:16.478176263Z",
+  "model": "glm-5.3"
+}

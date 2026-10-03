@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "Pris Jah! Pris ⟨את⟩ Jahve fra himlene, pris ham i højderne!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pris"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pris ham"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "i højderne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.358353806Z",
+  "model": "glm-5.3"
+}

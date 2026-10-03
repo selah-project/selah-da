@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "En ende sætter ⟨han⟩ til mørket, og til det yderste gransker ⟨han⟩ — sten i mørke og dødsskygge.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "en ende"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sætter"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "til mørket"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og til alt"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "det yderste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "gransker"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "sten"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "i mørke"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "og dødsskygge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:39.531089358Z",
+  "model": "glm-5.3"
+}

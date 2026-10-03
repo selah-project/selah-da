@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og jeg vil skaffe mig troværdige vidner: ⟨את⟩ Urija præsten og ⟨את⟩ Zekarja, søn af Jeberekjahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "og jeg vil lade vidne"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vidner"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "troværdige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekarja"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekjahu"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:14.701273110Z",
+  "model": "glm-5.3"
+}

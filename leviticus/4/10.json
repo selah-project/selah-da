@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Ligesom det løftes af fra oksen ved shlamim-ofret, og præsten skal bringe dem i røg på brændofferalteret.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ligesom"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "løftes af"
+    },
+    {
+      "surface": "משור",
+      "gloss": "af fra oksen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofret"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shlamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "og skal bringe dem i røg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:36.828027874Z",
+  "model": "glm-5.3"
+}

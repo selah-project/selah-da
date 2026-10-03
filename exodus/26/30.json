@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og du skal rejse ⟨את⟩ Mishkan efter dens forskrift, som du fik vist på bjærget.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Og du skal rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "efter dens forskrift"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "du fik vist"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjærget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:42:44.461003798Z",
+  "model": "glm-5.3"
+}

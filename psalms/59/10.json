@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Min styrke, til dig vil jeg vogte; for Elohim er min højborg.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Min styrke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "vil jeg vogte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "min højborg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:09.893872875Z",
+  "model": "glm-5.3"
+}

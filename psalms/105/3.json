@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Pris jer selv af i hans hellige navn; hjertet skal glæde sig, de der søger Jahve.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Pris jer selv af"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellige"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "skal glæde sig"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de der søger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.950485620Z",
+  "model": "glm-5.3"
+}

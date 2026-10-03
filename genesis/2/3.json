@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Elohim velsignede ⟨את⟩ den syvende dag og helligede ⟨את⟩ den, for på den holdt ⟨han⟩ Shabbat fra alt sit værk, som Elohim havde skabt for at gøre.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den syvende dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "og helligede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "holdt ⟨han⟩ Shabbat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alt"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "sit værk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "havde skabt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "for at gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:41.463783157Z",
+  "model": "glm-5.3"
+}

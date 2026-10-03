@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "De flakker om for at finde føde; hvis de ikke mættes, tærsker de ⟨gennem natten⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "flakker om"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "for at finde føde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "tærsker de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:05.123626870Z",
+  "model": "glm-5.3"
+}

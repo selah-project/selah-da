@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og det skete, da han var færdig med at bringe brændofferet op — og se, Shmuel kom; og Shaul gik ud i møde ham for at velsigne ham.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "da han var færdig"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "med at bringe op"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "i møde ham"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "for at velsigne ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:22.339331128Z",
+  "model": "glm-5.3"
+}

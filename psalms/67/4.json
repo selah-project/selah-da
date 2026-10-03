@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 67,
+  "translation": "Folkeslag skal prise dig, Elohim; alle folkeslag skal prise dig.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "skal prise dig"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "skal prise dig"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.289583070Z",
+  "model": "glm-5.3"
+}

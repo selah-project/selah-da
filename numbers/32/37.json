@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Rubens sønner opbyggede ⟨את⟩ Chesjbon og ⟨את⟩ Elale og ⟨את⟩ Kirjatajim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og sønnerne"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "opbyggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chesjbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesjbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Kirjatajim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjatajim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:14.638733591Z",
+  "model": "glm-5.3"
+}

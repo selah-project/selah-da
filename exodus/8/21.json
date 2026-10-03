@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Paroh kaldte på Moshe og på Aharon og sagde: Går I, slagter I for jeres Elohim i landet!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "og på Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "går I"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "slagter I"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "for jeres Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:13.323205412Z",
+  "model": "glm-5.3"
+}

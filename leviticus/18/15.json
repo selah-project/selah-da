@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Din svigerdatters blottelse må du ikke blottele; hun er din søns hustru — hendes blottelse må du ikke blottele.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "blottelse"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "din svigerdatter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "må du blottele"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun ⟨er⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skal du blottele"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hendes blottelse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:27.599636978Z",
+  "model": "glm-5.3"
+}

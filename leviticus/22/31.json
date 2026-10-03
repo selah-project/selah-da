@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og I skal vogte mine bud og gøre ⟨את⟩ dem; jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal vogte"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mine bud"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:33.241639738Z",
+  "model": "glm-5.3"
+}

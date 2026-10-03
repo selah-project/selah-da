@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Jahves råd står til evig tid, hans hjertes planer til slægt og slægt.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "råd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "står"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planer"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjertes"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:21.758201591Z",
+  "model": "glm-5.3"
+}

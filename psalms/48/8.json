@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Med en østenvind knuser du ⟨את⟩ skibene fra Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "med ruach"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "østen-"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "knuser du"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "skibene"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "fra Tarshish"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:56.410421052Z",
+  "model": "glm-5.3"
+}

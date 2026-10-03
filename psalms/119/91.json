@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Efter dine retsbestemmelser står de ⟨fast⟩ den dag i dag, for alt ⟨er⟩ dine tjenere.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "efter dine retsbestemmelser"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "står de"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den dag i dag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine tjenere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.654943800Z",
+  "model": "glm-5.3"
+}

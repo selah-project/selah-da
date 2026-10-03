@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Må de være for Jahves ansigt bestandigt, og han udrydde deres minde fra jorden.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må de være"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "for ansigtet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "og udrydde"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra jorden"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deres minde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:38.850016011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Min søn, gå ikke i vej med ⟨את⟩ dem, hold din fod tilbage fra deres sti.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "i vej"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "med ⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "hold tilbage"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fod"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "fra deres sti"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:25.228536140Z",
+  "model": "glm-5.3"
+}

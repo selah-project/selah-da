@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den som stoler på sit hjerte, han er en tåbe, men den som vandrer i visdom, han skal undslippe.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "stoler"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "på sit hjerte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en tåbe"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "men vandrer"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "i visdom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "skal undslippe"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:56.802946269Z",
+  "model": "glm-5.3"
+}

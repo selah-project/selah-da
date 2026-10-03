@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "For så siger Adonaj Jahve: Mitsrajim gik mit folk ned til i begyndelsen for at gæste dér, og Ashur — uden grund undertrykte det det.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "gik … ned"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "i begyndelsen"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "for at gæste"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "og Ashur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "uden grund"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "undertrykte det"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:25.698710482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Marken, som Avraham købte ⟨את⟩ af Hetts sønner; dér blev Avraham begravet og Sarah, hans hustru.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "Marken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "købte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "af Hetts sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hett"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dér"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "blev begravet"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "og Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:39.605277330Z",
+  "model": "glm-5.3"
+}

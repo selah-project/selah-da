@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Og folkeslagene skal frygte ⟨את⟩ Jahves navn, og alle jordens konger ⟨את⟩ din herlighed.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Og ... skal frygte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din herlighed"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "din herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.144901993Z",
+  "model": "glm-5.3"
+}

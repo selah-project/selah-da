@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og ⟨את⟩ fedtet og ⟨את⟩ nyrerne og ⟨את⟩ lappen fra leveren fra syndofferet gjorde han til røg på alteret, således som Jahve havde befaler ⟨את⟩ Moshe — men fedtet og nyrerne og lappen brændte han på alteret, som Jahve havde befalet Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nyrerne"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nyrerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lappen"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lappen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "leveren"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferet"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "gjorde til røg"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befaler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:35.529350499Z",
+  "model": "glm-5.3"
+}

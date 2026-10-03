@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og de samlede det morgen efter morgen, hver mand efter sit spisebehov; og da solen blev varm, smeltede det.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "og de samlede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": " Morgen efter morgen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sit spisebehov"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "og blev varm"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "smeltede det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:40.589763981Z",
+  "model": "glm-5.3"
+}

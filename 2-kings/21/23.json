@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Amons trælle sammensvor sig imod ham, og de dræbte ⟨את⟩ kongen i hans hus.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "og de sammensvor sig"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trællene"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amons"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "imod ham"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "og de dræbte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:42.413715745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 67,
+  "translation": "Jorden gav sin afgrøde; Elohim, vor Elohim, velsigner os.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gav"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sin afgrøde"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "velsigner os"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:25.585977477Z",
+  "model": "glm-5.3"
+}

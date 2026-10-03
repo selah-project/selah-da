@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Halleluja! For Jahve er god; lovsynge hans navn, for det er lifligt!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "lovsynge"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "lifligt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:21.547888476Z",
+  "model": "glm-5.3"
+}

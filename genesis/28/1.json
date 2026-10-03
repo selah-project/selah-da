@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Jitschak kaldte på Jaakov og velsignede ham og bød ham og sagde til ham: Du må ikke tage en hustru blandt døtrene af Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Jaakov)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "og bød ham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "du må tage"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en hustru"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "blandt døtrene af"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:43.047710280Z",
+  "model": "glm-5.3"
+}

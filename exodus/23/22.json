@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Thi hvis du lydende lytter til hans røst og gør alt, hvad jeg taler, så vil jeg være fjendtlig mod dine fjender og trænge dem, der trænger dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lydende"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "lytter"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "til hans røst"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "jeg taler"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "så vil jeg være fjendtlig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine fjender"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "og trænge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem der trænger dig"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dem der trænger dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:32.061747223Z",
+  "model": "glm-5.3"
+}

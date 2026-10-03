@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og det skete, da de kom, at han så ⟨את⟩ Eliav og sagde: Sandelig, foran Jahve står hans salvede.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "da de kom"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og han så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hans salvede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:29.906473309Z",
+  "model": "glm-5.3"
+}

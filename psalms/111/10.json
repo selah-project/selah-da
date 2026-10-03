@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Frygten for Jahve er visdommens begyndelse; god forstand have alle, der gør ⟨dem⟩; hans pris står til evig tid.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "begyndelse"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdommens"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frygten for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "forstand"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "have alle"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "der gør ⟨dem⟩"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans pris"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:05.475885434Z",
+  "model": "glm-5.3"
+}

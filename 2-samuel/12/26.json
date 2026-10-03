@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Joav kæmpede mod Rabbat i Ammons børns ⟨land⟩ og indtog kongestaden.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "kæmpede"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "mod Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og indtog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongestaden"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "konge-"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:50.763526760Z",
+  "model": "glm-5.3"
+}

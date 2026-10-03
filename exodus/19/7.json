@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Moshe kom og kaldte sammen folkets ældste og lagde frem for dem ⟨את⟩ alle disse ord, som Jahve havde påbudt ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte sammen"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og lagde frem"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "havde påbudt ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:26.509371751Z",
+  "model": "glm-5.3"
+}

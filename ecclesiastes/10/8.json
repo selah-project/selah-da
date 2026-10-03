@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den der graver en grav, falder i den, og den der bryder et gærde, bides af en slange.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "den der graver"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "en grav"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "og den der bryder"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "et gærde"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bider"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "en slange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:23.238800560Z",
+  "model": "glm-5.3"
+}

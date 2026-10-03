@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Shaul frygtede for Davids ansigt, fordi Jahve var med ham, og var vendt bort fra Shaul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og frygtede"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "var vendt bort"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:04.435909013Z",
+  "model": "glm-5.3"
+}

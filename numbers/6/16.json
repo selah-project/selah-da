@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og præsten skal bringe dem frem for Jahves ansigt og fremstille hans syndoffer og hans brændoffer ⟨את⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Og præsten skal bringe frem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og fremstille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans syndoffer"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hans syndoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans brændoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "hans brændoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:40.705409357Z",
+  "model": "glm-5.3"
+}

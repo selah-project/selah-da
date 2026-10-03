@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Jeg har hørt ⟨את⟩ Jisraels børns klager. Tal til dem og sig: Mellem aftenstiderne skal I spise kød, og om morgenen skal I mættes med brød, og I skal vide, at jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Jeg har hørt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børns klager"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "klager"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Tal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Mellem"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aftenstiderne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I spise"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "og om morgenen"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "skal I mættes"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med brød"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "og I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:26.591807670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Haman-sønnen, Hamdatas søn, jødernes fjendes ti sønner dræbte de, men byttet rakte de ikke ⟨את⟩ deres hånd.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "fjende"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jødernes"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "men byttet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "rakte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hånd"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:31.479253873Z",
+  "model": "glm-5.3"
+}

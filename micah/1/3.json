@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "For se, Jahve går ud fra sit sted, og han skal stige ned og træde på ⟨de⟩ høje steder i landet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "fra sit sted"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og … skal stige ned"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "og træde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "⟨de⟩ høje steder"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:01.010326633Z",
+  "model": "glm-5.3"
+}

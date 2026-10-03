@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Hvem står op for mig mod dem, der gør ondt? Hvem træder frem for mig mod ondskabens udøvere?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "står op"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "dem, der gør ondt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "træder frem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "udøvere"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:31.942284430Z",
+  "model": "glm-5.3"
+}

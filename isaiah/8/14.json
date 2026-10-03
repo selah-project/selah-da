@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han skal være til helligdom, og til en stødens sten og til en anstødsklippe for de to huse i Jisrael, til fælde og til snare for dem der bor i Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og han skal være"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "til helligdom"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "og til en sten"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "stødens"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "og til en klippe"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "anstøds-"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "for de to"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "til fælde"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "og til snare"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "for dem der bor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:46.714917814Z",
+  "model": "glm-5.3"
+}

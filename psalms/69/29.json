@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Lad dem udslettes af de levendes bog, og med ⟨de⟩ tsedek skal de ikke skrives.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "udslettes"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "af bogen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "de levendes"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "skal skrives"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:59.465359751Z",
+  "model": "glm-5.3"
+}

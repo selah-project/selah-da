@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Se min elendighed og min møje, og tilgiv ⟨את⟩ alle mine synder.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min elendighed"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "og min møje"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "og tilgiv"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "mine synder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:17.213828116Z",
+  "model": "glm-5.3"
+}

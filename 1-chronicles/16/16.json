@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "som han skar ⟨med⟩ ⟨את⟩ Avraham, og hans ed til Jitschak —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "skar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "og hans ed"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "til Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:29.397713559Z",
+  "model": "glm-5.3"
+}

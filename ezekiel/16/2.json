@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Menneskesøn, gør Jerushalajim ⟨את⟩ kendt med ⟨את⟩ sine væmmeligheder",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "gør … kendt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine væmmeligheder"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "sine væmmeligheder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:32.998092619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Til korlederen. Af David. Hos Jahve har jeg søgt ly — hvordan siger I så til min sjæl: Fly til jeres bjerg som en fugl!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "hos Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jeg søgt ly"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "siger I"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "til min sjæl"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "fly"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "til jeres bjerg"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "som en fugl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.012327506Z",
+  "model": "glm-5.3"
+}

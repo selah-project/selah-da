@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og ikke skal dit navn ⟨את⟩ længere kaldes Avram, men dit navn skal være Avraham, for en fader for en mængde folkeslag har jeg gjort dig.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "skal kaldes"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit navn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "men det skal være"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אב",
+      "gloss": "en fader"
+    },
+    {
+      "surface": "המון",
+      "gloss": "en mængde"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "har jeg gjort dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:47.530036933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og de tynde ax slugte ⟨את⟩ de syv gode ax; og jeg sagde til tryllekunstnerne, men der var ingen, der kunne sige mig det.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "og de slugte"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ax"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "de tynde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de syv gode ax"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de syv"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ax"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "de gode"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og jeg sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "tryllekunstnerne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der var ikke"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "en der kunne sige"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:26:47.543435017Z",
+  "model": "glm-5.3"
+}

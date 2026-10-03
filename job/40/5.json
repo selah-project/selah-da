@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Én gang har jeg talt, og jeg svarer ikke; ja, to gange, og jeg tilføjer intet.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "én gang"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "har jeg talt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "jeg svarer"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja, to gange"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "jeg tilføjer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:45:07.690307438Z",
+  "model": "glm-5.3"
+}

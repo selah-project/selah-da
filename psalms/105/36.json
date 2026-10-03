@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Og han slog hver førstefødt i deres land, begyndelsen af al deres styrke.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "og han slog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "førstefødt"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "i deres land"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "begyndelsen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "af al"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "deres styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:20.113282689Z",
+  "model": "glm-5.3"
+}

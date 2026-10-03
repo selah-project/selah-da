@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Kan bytte røves fra den vældige, og kan en retfærdigs fange undslippe?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "kan røves"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "fra den vældige"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "bytte"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og kan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "fange"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdigs"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "undslippe"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:37.245598378Z",
+  "model": "glm-5.3"
+}

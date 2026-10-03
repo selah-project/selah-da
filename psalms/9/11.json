@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og de, der kender dit navn, fortrøster på dig; for du har ikke forladt dem, der søger dig, Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "og de fortrøster"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "de der kender"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "har du forladt"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "dem der søger dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:47.717596282Z",
+  "model": "glm-5.3"
+}

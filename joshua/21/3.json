@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jisraels børn gav levitterne af deres arv, efter Jahves ord, ⟨את⟩ disse byer og ⟨את⟩ deres græsgange.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "gav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "af deres arv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse byer"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres græsgange"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "deres græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:32.527950588Z",
+  "model": "glm-5.3"
+}

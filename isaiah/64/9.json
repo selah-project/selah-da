@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "Dine hellige byer er blevet til ørken, Tzion er blevet til ørken, Jerushalajim til ødemark.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dine hellige"
+    },
+    {
+      "surface": "היו",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "til ørken"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ørken"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "til ødemark"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:27.952734682Z",
+  "model": "glm-5.3"
+}

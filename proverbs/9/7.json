@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Den som tuger ⟨את⟩ en spotter, skaffer sig skam, og den som irettesætter en rådvild, ⟨får⟩ sin plet.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "tuger"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "en spotter"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "skaffer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sig"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "skam"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "irettesætter"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "en rådvild"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "sin plet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:25.900970620Z",
+  "model": "glm-5.3"
+}

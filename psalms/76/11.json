@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Thi menneskets vrede skal prise dig; ⟨af⟩ resten af vrede skal du ⟨binde om⟩ dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "skal prise dig"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resten"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "af vrede"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "skal du binde om dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.903394667Z",
+  "model": "glm-5.3"
+}

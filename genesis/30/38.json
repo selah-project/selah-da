@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 30:38",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og han stillede ⟨את⟩ stavnene, som han havde skåret, i rendestenen i vandtrugene, hvor fårene kom for at drikke, foran fårene; og de blev brune, når de kom for at drikke.",
+  "tokens": [
+    {
+      "surface": "ויצג",
+      "gloss": "og han stillede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stavnene"
+    },
+    {
+      "surface": "המקלות",
+      "gloss": "stavnene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פצל",
+      "gloss": "han havde skåret"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "i rendestenen"
+    },
+    {
+      "surface": "בשקתות",
+      "gloss": "i trugene"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "תבאן",
+      "gloss": "kom"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fårene"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "for at drikke"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "foran"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fårene"
+    },
+    {
+      "surface": "ויחמנה",
+      "gloss": "og de blev brune"
+    },
+    {
+      "surface": "בבאן",
+      "gloss": "når de kom"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "for at drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:26.840107600Z",
+  "model": "glm-5.3"
+}

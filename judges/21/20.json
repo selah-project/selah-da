@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og de bød ⟨את⟩ Binyamins sønner og sagde: Gå i lur i vingårdene.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og de bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamins sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "af Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "i lur"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "i vingårdene"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:52.112895951Z",
+  "model": "glm-5.3"
+}

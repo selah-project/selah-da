@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og når han er færdig med at gøre soning over helligdommen og ⟨את⟩ mødeteltet og ⟨את⟩ alteret, skal han fremstille ⟨את⟩ den levende buk.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Og når han er færdig"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "med at gøre soning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helligdommen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helligdommen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mødeteltet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "mødeteltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødeteltet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alteret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "skal han fremstille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den levende buk"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bukken"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den levende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:08.721051607Z",
+  "model": "glm-5.3"
+}

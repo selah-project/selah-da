@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David klagede ⟨את⟩ denne klagesang over Shaul og over Jehonatan, hans søn,",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "og klagede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne klagesang"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "klagesangen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:06.234638711Z",
+  "model": "glm-5.3"
+}

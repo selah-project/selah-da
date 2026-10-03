@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hans hærskar og hans talt-opråbne: seks og fyrre tusinde og fem hundrede.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Og hans hærskar"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "og hans talt-opråbne"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "seks"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:38.920622762Z",
+  "model": "glm-5.3"
+}

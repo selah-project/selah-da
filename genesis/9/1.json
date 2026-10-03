@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Elohim velsignede ⟨את⟩ Noach og ⟨את⟩ hans sønner, og han sagde til dem: Vær frugtbare og bliv mange, og opfyld ⟨את⟩ jorden.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "vær frugtbare"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "og bliv mange"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "og opfyld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:24.246271738Z",
+  "model": "glm-5.3"
+}

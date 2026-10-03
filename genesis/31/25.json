@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Lavan indhentede ⟨את⟩ Jaakov — og Jaakov havde slået ⟨את⟩ sit telt op på bjerget, og Lavan slog op ⟨את⟩ sine brødre på Gilad-bjerget.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "indhentede"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "og Jaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "havde slået op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit telt"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sit telt"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjerget"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "og Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "slog op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjerget"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:28.458651114Z",
+  "model": "glm-5.3"
+}

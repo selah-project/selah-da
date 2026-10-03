@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Kendt ⟨er⟩ Elohim i Jehuda, stor ⟨er⟩ hans navn i Jisrael.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "kendt"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:47.506044589Z",
+  "model": "glm-5.3"
+}

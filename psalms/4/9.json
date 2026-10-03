@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "I fred lægger jeg mig ned og sover ⟨sammen⟩, for du, Jahve, lader mig alene ⟨⟩ bo i tryghed.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "lægger jeg mig ned"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "og sover"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "alene"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "i tryghed"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "lader mig bo"
+    }
+  ],
+  "timestamp": "2026-10-03T18:03:56.976094151Z",
+  "model": "glm-5.3"
+}

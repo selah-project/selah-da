@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og de skyndte sig og tog hver mand sin sæk ned ⟨את⟩ til jorden, og hver mand åbnede sin sæk.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Og de skyndte sig"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "og tog ned"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin sæk"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sin sæk"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "og åbnede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sin sæk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:37.425714089Z",
+  "model": "glm-5.3"
+}

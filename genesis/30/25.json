@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og det skete, da Rachel havde født ⟨את⟩ Josef, at Jaakov sagde til Lavan: Send mig af sted, så jeg kan gå til mit sted og til mit land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "havde født"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Send mig af sted"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "så jeg kan gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "mit sted"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "og til mit land"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:51.884047551Z",
+  "model": "glm-5.3"
+}

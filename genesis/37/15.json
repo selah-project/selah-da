@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og en mand fandt ham, og se, ⟨han⟩ forvildede sig på marken. Og manden spurgte ham og sagde: Hvad søger du?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Og … fandt ham"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "forvildede sig"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "Og … spurgte ham"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "søger du"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:59.342366758Z",
+  "model": "glm-5.3"
+}

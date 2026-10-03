@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Mange ⟨er⟩ de onders trængsler for ⟨den⟩ tsadik, og af dem alle vil Jahve fri ham.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Mange"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "onders trængsler"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "og af dem alle"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "vil fri ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.271740016Z",
+  "model": "glm-5.3"
+}

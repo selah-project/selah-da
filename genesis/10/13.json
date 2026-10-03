@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Mitsrajim avlede ⟨את⟩ luditterne og ⟨את⟩ anamitterne og ⟨את⟩ lehabitterne og ⟨את⟩ naftuchitterne.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Og Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luditterne"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "luditterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "anamitterne"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamitterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lehabitterne"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehabitterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "naftuchitterne"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftuchitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:01.660387849Z",
+  "model": "glm-5.3"
+}

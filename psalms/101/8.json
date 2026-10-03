@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Om morgenerne udrydder jeg alle landets gudløse, for at udrydde fra Jahves by alle dem, der øver ondskab.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "om morgenerne"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "udrydder jeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "gudløse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "for at udrydde"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "fra byen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem der øver"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:51.130510221Z",
+  "model": "glm-5.3"
+}

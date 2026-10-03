@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "I Elohim har jeg sat min lid; jeg frygter ikke — hvad kan et menneske gøre mod mig?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg sat min lid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "jeg frygter"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan gøre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:51.147727538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Uskyld hos de retfærdige vejleder dem, men fordærv hos forrædere ⟨ødelægger⟩ dem.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "uskyld"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "vejleder dem"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "men fordærv"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "forrædere"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "⟨ødelægger⟩ dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:35.015376472Z",
+  "model": "glm-5.3"
+}

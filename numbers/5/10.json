@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og enhver mand — ⟨את⟩ hans hellige ting skal være hans; hvad en mand giver til præsten, skal være hans.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "og enhver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hellige ting"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hans hellige ting"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til præsten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:00.763644107Z",
+  "model": "glm-5.3"
+}

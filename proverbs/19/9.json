@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Et falsk vidne går ikke fri, og den der puster løgne ud, går til grunde.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "vidne"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "falsk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "går fri"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "og den der puster ud"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "løgne"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "går til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:45.267659090Z",
+  "model": "glm-5.3"
+}

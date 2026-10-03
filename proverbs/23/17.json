@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Dit hjerte skal ikke misunde synderne, men ⟨være⟩ i Jahves frygt hele dagen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "skal misunde"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "synderne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:32.176672690Z",
+  "model": "glm-5.3"
+}

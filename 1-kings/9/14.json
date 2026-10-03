@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Hjiram sendte til kongen hundrede og tyve talenter guld.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hjiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyve"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenter"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:06.192634131Z",
+  "model": "glm-5.3"
+}

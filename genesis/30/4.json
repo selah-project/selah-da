@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og hun gav ham ⟨את⟩ Bilha, sin trælkvinde, til hustru, og Jaakov gik ind til hende.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "og hun gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "sin trælkvinde"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og gik ind"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:47.888753531Z",
+  "model": "glm-5.3"
+}

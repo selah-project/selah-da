@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David sagde til den unge mand, som fortalte ham det: Hvordan ved du, at Shaul er død, og Yonatan, hans søn?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge mand"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "som fortalte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Hvordan"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ved du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מת",
+      "gloss": "er død"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "og Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:41.921988224Z",
+  "model": "glm-5.3"
+}

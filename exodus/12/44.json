@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og hver træl, en mands, købt for sølv — og du omskærer ⟨את⟩ ham — så må han spise af den.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og hver"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "træl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "købt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "for sølv"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "og du omskærer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "אז",
+      "gloss": "så"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må han spise"
+    },
+    {
+      "surface": "בו",
+      "gloss": "af den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:39.908546065Z",
+  "model": "glm-5.3"
+}

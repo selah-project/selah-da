@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahve gav folket ⟨את⟩ yndest i Mitsrajims øjne, og de gav dem det bedte om — således tomte de ⟨את⟩ Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yndest"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yndest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i … øjne"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "og de gav dem det bedte om"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "således tomte de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:03.965966571Z",
+  "model": "glm-5.3"
+}

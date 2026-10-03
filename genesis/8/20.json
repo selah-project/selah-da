@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Noach byggede et alter for Jahve og tog af alt det rene kvæg og af alle rene fugle og bar brændofre op på alteret.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Og byggede"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "det rene"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "og af alle"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "rene fugle"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "rene"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og bar op"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brændofre"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "på alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:25.961725537Z",
+  "model": "glm-5.3"
+}

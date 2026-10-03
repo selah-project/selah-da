@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Samle ikke min sjæl sammen med syndere, og mit liv ⟨sammen⟩ med blodsmænd.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "samle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndere"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og sammen med"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "af blod"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mit liv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:03.322208857Z",
+  "model": "glm-5.3"
+}

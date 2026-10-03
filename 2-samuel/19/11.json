@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Avshalom, som vi salvede over os, er død i slaget — og hvorfor er I tavse med at bringe kongen ⟨את⟩ tilbage?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Og Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "salvede vi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "מת",
+      "gloss": "er død"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i slaget"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "er tavse"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "med at bringe tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:44.015678931Z",
+  "model": "glm-5.3"
+}

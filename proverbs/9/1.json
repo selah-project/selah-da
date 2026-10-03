@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Visdom har bygget sit hus, hun har hugget sine søjler ud — syv.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Visdom"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "har bygget"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "har hugget ud"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "sine søjler"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:31.948489119Z",
+  "model": "glm-5.3"
+}

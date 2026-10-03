@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Thi Jahve er retfærdig, retfærdighed elsker han; de oprigtige skal skue hans ansigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "retfærdighed"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "de oprigtige"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "skal skue"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "hans ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:58.482875103Z",
+  "model": "glm-5.3"
+}

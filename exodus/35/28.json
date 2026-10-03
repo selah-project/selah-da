@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og ⟨את⟩ krydderiet og ⟨את⟩ olien — til lyset og til salveolien og til røgelsen af krydderierne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krydderiet"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "krydderiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olien"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "til lyset"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "og til salveolien"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "salve"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "og til røgelsen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "af krydderierne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:23.044988830Z",
+  "model": "glm-5.3"
+}

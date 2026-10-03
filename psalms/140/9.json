@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "Giv ikke, Jahve, ⟨de⟩ onde deres ønsker; lad ikke hans rænker lykkes, ⟨for at⟩ de ikke skal ophøje sig. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "ønsker"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "hans rænker"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "lad lykkes"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "de skal ophøje sig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:58.603444128Z",
+  "model": "glm-5.3"
+}

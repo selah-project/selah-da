@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "⟨את⟩ arken med vidnesbyrdet og ⟨את⟩ dens bærerestave og ⟨את⟩ soningsstedet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken med vidnesbyrdet"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "med vidnesbyrdet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens bærerestave"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dens bærerestave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "soningsstedet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "soningsstedet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:34.179978827Z",
+  "model": "glm-5.3"
+}

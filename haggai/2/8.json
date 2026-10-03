@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Mit er sølvet, og mit er guldet, siger Jahve Tsevaot.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mit"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "er sølvet"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "og mit"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "er guldet"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:14.331742389Z",
+  "model": "glm-5.3"
+}

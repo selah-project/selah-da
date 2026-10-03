@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Se, holder han vandene tilbage, tørrer de ud; og sender han dem ud, vender de jorden om.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "holder tilbage"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "tørrer ud"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "sender dem ud"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "vender om"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:44.863913177Z",
+  "model": "glm-5.3"
+}

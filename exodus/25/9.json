@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Efter alt, hvad jeg viser ⟨את⟩ dig — ⟨את⟩ mønsteret af Mishkan og ⟨את⟩ mønsteret af alle dets kar — således skal I gøre.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "efter alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "viser"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mønsteret af Mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mønsteret"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mønsteret af alle dets kar"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mønsteret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets kar"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "således"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skal I gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:01.057750499Z",
+  "model": "glm-5.3"
+}

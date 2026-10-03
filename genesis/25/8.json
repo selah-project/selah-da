@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Avraham udåndede og døde i en god alderdom, gammel og mæt ⟨af dage⟩, og han blev samlet til sit folk.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Og udåndede"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "i en alderdom"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "god"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gammel"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og mæt"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "og han blev samlet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "sit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:04.665372692Z",
+  "model": "glm-5.3"
+}

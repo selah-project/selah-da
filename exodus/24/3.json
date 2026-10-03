@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Moshe kom og fortalte folket ⟨את⟩ alle Jahves ord og ⟨את⟩ alle dommene; og hele folket svarede med én røst og sagde: Alle de ord, som Jahve har talt, vil vi gøre.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle Jahves ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dommene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dommene"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vil vi gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:50.259624160Z",
+  "model": "glm-5.3"
+}

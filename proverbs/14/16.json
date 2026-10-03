@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "En vis frygter og vender sig bort fra det onde, men en dåre raser og er selvsikker.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "en vis"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "og vender sig bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fra det onde"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men en dåre"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "raser"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "og er selvsikker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:37.133658463Z",
+  "model": "glm-5.3"
+}

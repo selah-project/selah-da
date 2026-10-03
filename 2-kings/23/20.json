@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han ofrede ⟨את⟩ alle præsterne ved højerne, som var dér, på alterne, og brændte ⟨את⟩ menneskers knogler på dem; og han vendte tilbage til Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Og han ofrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle præsterne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ved højerne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "var dér"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "alterne"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "og brændte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menneskers knogler"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "knogler"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskers"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og han vendte tilbage"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:05.898578152Z",
+  "model": "glm-5.3"
+}

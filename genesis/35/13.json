@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og Elohim steg op fra ham, på ⟨det⟩ sted hvor han havde talt med ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "og steg op"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "fra ham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:20.296488281Z",
+  "model": "glm-5.3"
+}

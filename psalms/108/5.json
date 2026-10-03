@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Thi stor over himlene er din chesed, og indtil skyerne din trofasthed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "over"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:35.846683410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Jeres øjne har set ⟨את⟩ det, som Jahve gjorde ved Baal-Peor; for enhver mand, som fulgte Baal-Peor, ham udryddede Jahve, jeres Elohim, fra jeres midte.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Jeres øjne"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Jahve gjorde ved Baal-Peor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ved Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fulgte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "udryddede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "fra jeres midte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:44.716302086Z",
+  "model": "glm-5.3"
+}

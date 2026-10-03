@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Nådig er Jahve og retfærdig, og vor Elohim er barmhjertig.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "og retfærdig"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "og vor Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "er barmhjertig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:15.077787681Z",
+  "model": "glm-5.3"
+}

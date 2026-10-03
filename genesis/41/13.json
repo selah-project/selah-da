@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og det skete, som han tydede for os, således skete det: mig satte han tilbage på min post, og ⟨את⟩ ham hængte han op.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "tydede"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "היה",
+      "gloss": "skete det"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "satte han tilbage"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כני",
+      "gloss": "min post"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "og ⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "hængte han op"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:23.757887613Z",
+  "model": "glm-5.3"
+}

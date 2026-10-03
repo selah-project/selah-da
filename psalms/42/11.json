@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Som ⟨et sværd⟩ i mine knogler håner mine fjender mig, når de siger til mig hele dagen: Hvor er din Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "som et drab"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "i mine knogler"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "håner mig"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "når de siger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hvor er"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.537630719Z",
+  "model": "glm-5.3"
+}

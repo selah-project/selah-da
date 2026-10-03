@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han tog og lagde ⟨את⟩ vidnesbyrdet i arken og anbragte ⟨את⟩ stængerne på arken og satte ⟨את⟩ sonestolen på arken, øverst derover.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og lagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vidnesbyrdet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og anbragte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stængerne"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonestolen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sonestolen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "øverst derover"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:59.058137702Z",
+  "model": "glm-5.3"
+}

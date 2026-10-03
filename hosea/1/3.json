@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han gik og tog ⟨את⟩ Gomer, datter af Diblajim, og hun blev frugtsommelig og fødte ham en søn.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og han gik"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "af Diblajim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "og hun blev frugtsommelig"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:08.579530031Z",
+  "model": "glm-5.3"
+}

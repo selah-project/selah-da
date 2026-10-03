@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Du — din hånd drev folkeslagene ud og plantede dem, du knuste folkene og sendte dem bort.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "drev ud"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "og plantedes dem"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "knuste"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "og sendte dem bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:22.063877630Z",
+  "model": "glm-5.3"
+}

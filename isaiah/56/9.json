@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Allesammen, jeres dyr i marken, kom for at æde, allesammen dyrene i skoven!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allesammen"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "marken"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "for at æde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allesammen"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dyrene"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "i skoven"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:12.861811834Z",
+  "model": "glm-5.3"
+}

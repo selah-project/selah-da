@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve sagde til Yehoshua: Se, jeg har givet i din hånd ⟨את⟩ Jericho og ⟨את⟩ dens konge, heltene af krigen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg har givet"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jericho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens konge"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "dens konge"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "heltene"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "af krigen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:38:07.323557860Z",
+  "model": "glm-5.3"
+}

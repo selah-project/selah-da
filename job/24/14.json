@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Ved lyset står morderen op, myrder ⟨את⟩ den arme og ⟨את⟩ den fattige, og om natten er han som en tyv.",
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "ved lyset"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "står op"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "morderen"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "myrder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den arme"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og den fattige"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "og om natten"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "er han"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "som en tyv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:23.269785042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Ve over ⟨det⟩ land, vingesus ⟨af⟩ vinger, som ligger hinsides floderne i Kush!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve over"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "vingesus"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "vinger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "hinsides"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "floderne i"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:50.971612808Z",
+  "model": "glm-5.3"
+}

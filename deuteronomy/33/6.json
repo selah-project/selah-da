@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Leve Reuben og ikke dø, og hans mænd være ⟨et⟩ antal!",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Leve"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "dø"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og være"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "hans mænd"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨et⟩ antal"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:47.895945751Z",
+  "model": "glm-5.3"
+}

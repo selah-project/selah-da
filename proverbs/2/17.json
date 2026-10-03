@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "som forlader fortroligvennen fra sin ungdom og ⟨את⟩ pagten med sin Elohim har glemt.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "som forlader"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ven"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "sin ungdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagten med sin Elohim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "har glemt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:07.389743562Z",
+  "model": "glm-5.3"
+}

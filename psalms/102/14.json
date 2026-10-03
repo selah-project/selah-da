@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Du vil rejse dig, du vil forbarme dig over Tsiyon, for det er tid at vise hende chesed, ja, den fastsatte tid er kommet.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "vil rejse dig"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "vil forbarme dig"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "over Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "at vise hende chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בא",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "den fastsatte tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.144608985Z",
+  "model": "glm-5.3"
+}

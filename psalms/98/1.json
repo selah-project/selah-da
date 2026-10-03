@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "En mizmor. Syng for Jahve en ny sang, for han har gjort underverker; frelse har hans højre hånd og hans hellige arm vundet ⟨for ham⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "underverker"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hans højre hånd"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "og hans arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:23.545321370Z",
+  "model": "glm-5.3"
+}

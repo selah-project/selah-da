@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og dette er slægterne efter Perets: Perets avlede ⟨את⟩ Chetsron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "slægterne"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "efter Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:28.973573513Z",
+  "model": "glm-5.3"
+}

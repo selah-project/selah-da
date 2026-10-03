@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og Pinechas stod frem og greb ind, og plagen blev standset.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "stod frem"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "og greb ind"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "og blev standset"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "plagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:38.546987279Z",
+  "model": "glm-5.3"
+}

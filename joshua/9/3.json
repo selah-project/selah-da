@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Men indbyggerne i Giv'on hørte ⟨את⟩ det, som Yehoshua havde gjort mod Jericho og mod Aj —",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Men indbyggerne i"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Yehoshua havde gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "mod Jericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "og mod Aj"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:44.298679069Z",
+  "model": "glm-5.3"
+}

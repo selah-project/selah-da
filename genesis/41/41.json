@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og Paroh sagde til Yosef: Se, jeg har sat dig ⟨את⟩ over hele landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg har sat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:35.014620535Z",
+  "model": "glm-5.3"
+}

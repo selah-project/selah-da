@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Frugtbar jord til saltmark, for ondskab fra dens indbyggere.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugtbar"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "til saltmark"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "for ondskab"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggere"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:51.697676708Z",
+  "model": "glm-5.3"
+}

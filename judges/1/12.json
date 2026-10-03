@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Kalev sagde: Den der slår Kirjat-Sefer og ⟨את⟩ indtager den, ham vil jeg give ⟨את⟩ Akssa, min datter, til hustru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Den der"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "og indtager den"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "vil jeg give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akssa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akssa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "min datter"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T15:45:37.842960074Z",
+  "model": "glm-5.3"
+}

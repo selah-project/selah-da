@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den som rover sin far og sin mor og siger: ⟨Der er⟩ ingen overtrædelse — han er en fælle til en mand som ødelægger.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "rover"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "og sin mor"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "overtrædelse"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "en fælle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "til en mand"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "som ødelægger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:50.987525567Z",
+  "model": "glm-5.3"
+}

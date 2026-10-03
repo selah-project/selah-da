@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "hvormed dine fjender har smædet, Jahve — hvormed de har smædet spor af din Mashiach.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hvormed"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "har smædet"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvormed"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "de har smædet"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "spor"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "af din Mashiach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:58.892509811Z",
+  "model": "glm-5.3"
+}

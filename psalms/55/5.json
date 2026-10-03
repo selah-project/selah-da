@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Mit hjerte vrider sig i mit indre, og dødsrædsler er faldet over mig.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "vrider sig"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "i mit indre"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "og rædsler"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døds"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "er faldet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.334869989Z",
+  "model": "glm-5.3"
+}

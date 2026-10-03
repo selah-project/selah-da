@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og præsten skal brænde ⟨את⟩ dem på alteret som et ildoffer for Jahve; det er et skyldoffer.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "skal brænde (som røgelse)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (fedtstykkerne og organerne)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ildoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "skyldoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:45.366377599Z",
+  "model": "glm-5.3"
+}

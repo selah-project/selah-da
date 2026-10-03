@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "I din tsedek skal du række mig ud og fri mig; bøj dit øre til mig og frels mig.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din tsedek"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "skal du række mig ud"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "og fri mig"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bøj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "og frels mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:42.939406942Z",
+  "model": "glm-5.3"
+}

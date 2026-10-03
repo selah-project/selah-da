@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og nu: Min far lagde et tungt åg på jer, men jeg vil lægge ⟨endnu⟩ mere på jeres åg. Min far tugtede jer med pisk, men jeg vil tugte jer med skorpioner.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Min far"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "på jer"
+    },
+    {
+      "surface": "על",
+      "gloss": "åg"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tungt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "vil lægge mere på"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jeres åg"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Min far"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tugtede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "med pisk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "vil tugte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "med skorpioner"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:31.522737217Z",
+  "model": "glm-5.3"
+}

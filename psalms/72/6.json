@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Han skal stige ned som regn på klippet græs, som byger, der gennemstrømmer jorden.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "skal stige ned"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "som regn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גז",
+      "gloss": "klippet græs"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "som byger"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "der gennemstrømmer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:09.981786494Z",
+  "model": "glm-5.3"
+}

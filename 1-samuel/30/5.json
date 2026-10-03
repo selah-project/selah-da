@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og Davids to hustruer var blevet ført bort som fanger: Achinoam fra Jisreel og Avigajil, Navals hustru fra Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Og … to"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "var blevet ført bort som fanger"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "fra Jisreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "og Avigajil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navals"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "fra Karmel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:27.610228318Z",
+  "model": "glm-5.3"
+}

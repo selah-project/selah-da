@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og du skal sige til dem: Sådan siger Jahve: Falder man, og rejser man sig ikke op igen? Vender nogen bort, og vender han ikke tilbage?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Og du skal sige"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Falder man"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "rejser man sig op"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Vender"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "nogen bort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vendér han tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T17:13:01.225321043Z",
+  "model": "glm-5.3"
+}

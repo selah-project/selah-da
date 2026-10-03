@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Jeg skal ikke dø, men leve og fortælle Jahs gerninger.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "skal jeg dø"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "leve"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "og fortælle"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "gerninger"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:04.787525427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Hvem vækkede fra østen ⟨en⟩ i tsedek? Han kalder ham til sin fod; han giver folkeslag foran ham, og konger træder han ned; han giver dem som støv for hans sværd, som bortblæste avner for hans bue.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vækkede"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "fra østen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "kalder ham"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "til sin fod"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "han giver"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "og konger"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "træder han ned"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "han giver"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "som støv"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "for hans sværd"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "som avner"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "bortblæste"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "for hans bue"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:40.599092611Z",
+  "model": "glm-5.3"
+}

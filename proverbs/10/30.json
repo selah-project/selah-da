@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den retfærdige skal aldrig i evighed vakle, men de gudløse skal ikke bo i landet.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighed"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aldrig"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "vakle"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "men de gudløse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "skal bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:48.523296396Z",
+  "model": "glm-5.3"
+}

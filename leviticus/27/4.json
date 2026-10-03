@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis det er en hun, da skal din vurdering være tredive shekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "en hun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "da skal være"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "din vurdering"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:34.570008699Z",
+  "model": "glm-5.3"
+}

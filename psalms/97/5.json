@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Bjergene smeltede som voks for Jahves åsyn, for ansigtet af Adonaj, hele jordens herre.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "som voks"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "smeltede"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "for ... åsyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:40.609203002Z",
+  "model": "glm-5.3"
+}

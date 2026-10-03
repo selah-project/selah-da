@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jordens konge rejser sig, og høvdingerne rådslår i flok mod Jahve og mod hans salvede:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "rejser sig"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "og høvdingerne"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "rådslår"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "i flok"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hans salvede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:04.965556374Z",
+  "model": "glm-5.3"
+}

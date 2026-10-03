@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Parohs høvedsmænd så hende ⟨את⟩, og de roste hende ⟨את⟩ over for Paroh, og kvinden blev taget ind i Parohs hus.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Og … så"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvedsmænd"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "og de roste"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over for"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "og blev taget"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ind i … hus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.815122533Z",
+  "model": "glm-5.3"
+}

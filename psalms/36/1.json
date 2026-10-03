@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Til korlederen. Af Jahves træl, af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "træl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:58.369545127Z",
+  "model": "glm-5.3"
+}

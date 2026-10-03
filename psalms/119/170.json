@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Lad min bøn komme for dit ansigt; efter dit lovord fri mig.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Lad … komme"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit ansigt"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "efter dit lovord"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "fri mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:53.792664209Z",
+  "model": "glm-5.3"
+}

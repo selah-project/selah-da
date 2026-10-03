@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨han⟩ sagde: I morgen. Og han sagde: Som dit ord — for at du skal vide, at der ⟨er⟩ ingen som Jahve, vor Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde ⟨han⟩"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "til i morgen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "som dit ord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "du skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der ikke er"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "som Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:03.326752968Z",
+  "model": "glm-5.3"
+}

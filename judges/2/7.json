@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 2:7",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og folket tjente ⟨את⟩ Jahve alle Jehoshuas dage og alle dage for de ældste, som levede længe efter Jehoshua, de som havde set ⟨את⟩ hele Jahves store gerning, som han gjorde for Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Og folket tjente"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de ældste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "levede længe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "יהושוע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "havde set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele … gerning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gerning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "store"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:01.308537289Z",
+  "model": "glm-5.3"
+}

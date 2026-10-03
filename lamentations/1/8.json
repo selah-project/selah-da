@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Synd har Jerushalajim syndet; derfor er hun blevet som en uren; alle de, som ærede hende, foragter hende, for de har set hendes blottethed; også hun sukker og vendte sig bagud.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "synd"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "har syndet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "der"
+    },
+    {
+      "surface": "כן",
+      "gloss": "for (på den grund)"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "som en uren"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "er hun blevet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "de som ærede hende"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "foragter hende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "de har set"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hendes blottethed"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "sukker"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "og vendte sig"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bagud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:50:23.610524508Z",
+  "model": "glm-5.3"
+}

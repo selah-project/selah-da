@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Balak sagde til Bileam: Hverken forband ham, eller velsign ham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hverken"
+    },
+    {
+      "surface": "קב",
+      "gloss": "forband"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsign"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:34.097678325Z",
+  "model": "glm-5.3"
+}

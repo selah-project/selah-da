@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal slagte ⟨את⟩ den ene fugl i et kar af ler over levende vand.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "og han skal slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ene fugl"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "fuglen"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "af ler"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:54.424350089Z",
+  "model": "glm-5.3"
+}

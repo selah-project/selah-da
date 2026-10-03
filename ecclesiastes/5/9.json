@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Elskeren af sølv mættes ikke af sølv, og den, der elsker vældighed, ikke af indtægt; også dette er hevel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elskeren"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og den, der"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "vældighed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "indtægt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:31.279874564Z",
+  "model": "glm-5.3"
+}

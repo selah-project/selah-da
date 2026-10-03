@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skal ske, når mitsriterne ser ⟨את⟩ dig, at de vil sige: Dette er hans hustru; og de vil dræbe ⟨את⟩ mig, men ⟨את⟩ dig lader de leve.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ser"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "mitsriterne ser ⟨את⟩ dig"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mitsriterne"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "de vil sige"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "de vil dræbe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "de vil dræbe ⟨את⟩ mig"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "⟨את⟩ dig lader de leve"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "lader de leve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:02.619583196Z",
+  "model": "glm-5.3"
+}

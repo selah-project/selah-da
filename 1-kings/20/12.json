@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og det skete, da han hørte ⟨את⟩ dette ord — mens han drak, han og kongerne i hytterne — at han sagde til sine trælle: Still jer op. Og de stillede sig op mod byen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da han hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mens han"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "og kongerne"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "i hytterne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at han sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælle"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Still jer op"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "Og de stillede sig op"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:59.168969335Z",
+  "model": "glm-5.3"
+}

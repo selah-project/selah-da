@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og vandet slap op i dunken, og hun kastede ⟨את⟩ drengen ned under en af buskene.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Og slap op"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "dunken"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "og hun kastede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drengen"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "drengen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ned under"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "en af"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "buskene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:25.303472458Z",
+  "model": "glm-5.3"
+}

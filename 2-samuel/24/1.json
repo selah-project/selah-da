@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Jahves vrede tillagde at brænde mod Jisrael, og han eggede ⟨את⟩ David imod dem, idet han sagde: Gå, tæl ⟨את⟩ Jisrael og ⟨את⟩ Jehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "og tillagde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "at brænde"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mod Jisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "og han eggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "imod dem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idetsagde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "tæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:29.759971838Z",
+  "model": "glm-5.3"
+}

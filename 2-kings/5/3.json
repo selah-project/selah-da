@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og hun sagde til sin frue: Gid min herre var hos profeten i Shomron! Så ville han tage ⟨את⟩ ham bort fra hans spedsot.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "sin frue"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Gid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hos"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som er"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "så"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ville han tage bort"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "fra hans spedsot"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:03.825746317Z",
+  "model": "glm-5.3"
+}

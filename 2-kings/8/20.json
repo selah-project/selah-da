@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "I hans dage gjorde Edom oprør fra under Judas hånd, og de satte en konge til at regere over sig.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "I hans dage"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "gjorde oprør"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "fra under"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "og de satte ... til at regere"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over sig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:18.271130546Z",
+  "model": "glm-5.3"
+}

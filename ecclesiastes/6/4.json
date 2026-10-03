@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "For i tomhed kommer det, og i mørket går det bort, og i mørket dækkes dets navn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "i tomhed"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "og i mørket"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "går det bort"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "og i mørket"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dets navn"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "dækkes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:17.178613917Z",
+  "model": "glm-5.3"
+}

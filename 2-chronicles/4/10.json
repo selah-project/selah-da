@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og ⟨את⟩ havet satte han på den højre skulder, øst for, over for syd.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "satte han"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "på skulderen"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "den højre"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mod øst"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "over for"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "syd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:32.965683096Z",
+  "model": "glm-5.3"
+}

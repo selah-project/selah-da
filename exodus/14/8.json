@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Jahve styrkede ⟨את⟩ hjertet på Paroh, Mitsrajims konge, så han forfulgte Jisraels børn — men Jisraels børn gik ud med opløftet hånd.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og styrkede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjertet på Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "så han forfulgte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "men Jisraels børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "gik ud"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hånd"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "opløftet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:50.873329612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Han giver brød til alt kød, for til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til alt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:36.820133784Z",
+  "model": "glm-5.3"
+}

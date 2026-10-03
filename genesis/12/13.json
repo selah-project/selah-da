@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Sig, jeg beder dig, at du er min søster, for at det går mig godt for din skyld, og min sjæl får leve for din skyld.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder dig"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min søster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du (Saraj)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "går godt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "for din skyld"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "og får leve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "for din skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.814692903Z",
+  "model": "glm-5.3"
+}

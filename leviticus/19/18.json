@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Du skal ikke hævne, og du skal ikke nære nag til ⟨את⟩ dit folks børn; og du skal elske din næste som dig selv — jeg ⟨er⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "skal du hævne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "skal du nære nag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit folks børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "og du skal elske"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "din næste"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "som dig selv"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:38.872069164Z",
+  "model": "glm-5.3"
+}

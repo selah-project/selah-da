@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "og han fastsatte den for Jaakov som ⟨en⟩ lov, for Jisrael en evig pagt",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "og han fastsatte den"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Jaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "som lov"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Jisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.214172518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "Foran Adonaj, skælvt, du jord, foran Eloah, Jaakovs ⟨Gud⟩!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "skælvt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "du jord"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:28.365358334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Adonaj sagde: Fra Bashan vil jeg føre tilbage, føre tilbage fra havets dybder.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Fra Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vil jeg føre tilbage"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "føre tilbage"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "fra dybet"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:17.110872973Z",
+  "model": "glm-5.3"
+}

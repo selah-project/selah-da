@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "og han friede os fra vore fjender, for til evigheden ⟨varer⟩ hans chesed",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "og han friede os"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "fra vore fjender"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:38.551594635Z",
+  "model": "glm-5.3"
+}

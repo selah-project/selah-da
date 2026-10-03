@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Jahve stadfæstede ⟨את⟩ kongeriget i hans hånd, og hele Jehuda gav gaver til Jehoshafat, og han fik rigdom og ære i overflod.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "stadfæstede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongeriget"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "gav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "gaver"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "til Jehoshafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han fik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rigdom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "og ære"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i overflod"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:03.296528987Z",
+  "model": "glm-5.3"
+}

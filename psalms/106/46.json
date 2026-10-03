@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "og gav ⟨את⟩ dem til barmhjertighed for øjnene af alle deres fangenskabere.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "til barmhjertighed"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for øjnene af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "deres fangenskabere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:40.124273470Z",
+  "model": "glm-5.3"
+}

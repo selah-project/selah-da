@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Led mig i din trofasthed og lær mig, for du ⟨er⟩ Elohim, min frelse; ⟨את⟩ på dig venter jeg hele dagen.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Led mig"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din trofasthed"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "og lær mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "min frelse"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ på dig"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "venter jeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:20.111127759Z",
+  "model": "glm-5.3"
+}

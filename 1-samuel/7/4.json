@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Israels sønner fjernede ⟨את⟩ Ba'alim og ⟨את⟩ Ashtarot, og de tjente ⟨את⟩ Jahve alene.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Og fjernede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'alim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'alim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "og de tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:38.289906608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han satte brødet i orden på det, foran Jahve, således som Jahve havde budt ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "og han satte i orden"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "en række"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde budt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:27.925297845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Se, jeg har lutret dig, men ikke med sølv; jeg udvalgte dig i nødens smelteovn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "jeg har lutret dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "med sølv"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "jeg udvalgte dig"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ovn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "i nød"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:55.400582384Z",
+  "model": "glm-5.3"
+}

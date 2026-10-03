@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Men Jahve ⟨er⟩ i sit hellige tempel — ti stille for hans ansigt, hele jorden!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "men Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i tempel"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sitt hellige"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ti stille"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "for hans ansigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:40.336559754Z",
+  "model": "glm-5.3"
+}

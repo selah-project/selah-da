@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Ever levede, efter at han havde avlet ⟨את⟩ Peleg, tre år og fire hundrede år, og avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og Ever levede"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "han havde avlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tre(tyve)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "og fire"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:37.961379552Z",
+  "model": "glm-5.3"
+}

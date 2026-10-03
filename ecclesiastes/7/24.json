@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Fjern er det, som ⟨er⟩ sket, og dyb, dyb — hvem kan finde det?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "fjern"
+    },
+    {
+      "surface": "מה",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "er sket"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "og dyb"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dyb"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "kan finde det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:19.598891507Z",
+  "model": "glm-5.3"
+}

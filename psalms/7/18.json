@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Jeg vil takke Jahve efter hans tsedek, og jeg vil lovsynge Jahves navn, Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "jeg vil takke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "efter hans tsedek"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "og jeg vil lovsynge"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:01.655521999Z",
+  "model": "glm-5.3"
+}

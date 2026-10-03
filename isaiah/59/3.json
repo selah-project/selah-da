@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "For jeres hænder er besudlede med blod, og jeres fingre med ondskab; jeres læber har talt løgn, jeres tunge mumler uret.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "jeres håndflader"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "er besudlede"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "med blod"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "og jeres fingre"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "med ondskab"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "jeres læber"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "jeres tunge"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "uret"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mumler"
+    }
+  ],
+  "timestamp": "2026-10-03T17:06:25.837403061Z",
+  "model": "glm-5.3"
+}

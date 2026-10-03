@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "⟨Han⟩ der bringer havenes brus til hvile, deres bølgers brus og folkeslagenes larm.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "bringer til hvile"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "brus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havenes"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "brus"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "deres bølgers"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "og larm"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "folkeslagenes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:31.129737647Z",
+  "model": "glm-5.3"
+}

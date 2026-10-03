@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Vis den bort fra dig, gå ikke ind på den; vig fra den, og drag forbi.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Vis den bort fra dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "gå ind på"
+    },
+    {
+      "surface": "בו",
+      "gloss": "den"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "vig fra"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "fra den"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "og drag forbi"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:20.523510356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og han vendte tilbage og byggede ⟨את⟩ højsederne, som hans far Chizkijahu havde ødelagt, og han rejste altre for Ba'al og lavede en Ashera, ligesom Achav, kongen af Jisrael, havde gjort, og han bøjede sig for hele himmelens hær og tjente ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og han vendte tilbage"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "højsederne"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "højsederne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "havde ødelagt"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "og han rejste"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "altre"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "for Ba'al"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og lavede"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "en Ashera"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ligesom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og han bøjede sig"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hær"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "og tjente"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (himmelens hær)"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:57.847327647Z",
+  "model": "glm-5.3"
+}

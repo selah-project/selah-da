@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og jeg vil lægge ⟨את⟩ ligene af Jisraels børn foran deres afguder, og jeg vil sprede ⟨את⟩ jeres knogler rundt om jeres altre.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil lægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ligene af Jisraels børn"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ligene af"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "deres afguder"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "og jeg vil sprede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres knogler"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "jeres knogler"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "jeres altre"
+    }
+  ],
+  "timestamp": "2026-10-03T17:31:31.782301587Z",
+  "model": "glm-5.3"
+}

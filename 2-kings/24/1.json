@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 24:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "I hans dage drog Nevukhadnetsar, kongen af Babel, op, og Jehojakim blev hans træl i tre år; derefter vendte han sig og gjorde oprør mod ham.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "I hans dage"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "af Babel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og ⟨han blev⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "træl"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "vendte han sig"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "og gjorde oprør"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mod ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:52.763886379Z",
+  "model": "glm-5.3"
+}

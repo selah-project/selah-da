@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Byrde for sin far ⟨er⟩ en tåbes søn, og bitterhed for hende, der fødte ham.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "byrde"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "for sin far"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tåbe"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "og bitterhed"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "for hende, der fødte ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:39.109053717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Og jeg knuser hans fjender foran hans ansigt, og hans hatere slår jeg ned.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "og jeg knuser"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "foran hans ansigt"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "hans fjender"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "og hans hatere"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "slår jeg ned"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:32.684419735Z",
+  "model": "glm-5.3"
+}

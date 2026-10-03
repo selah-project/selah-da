@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og David var da i fæstningen, og filisternes forpost var da i Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Og David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "i fæstningen"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "og forposten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisternes"
+    },
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:17.173598273Z",
+  "model": "glm-5.3"
+}

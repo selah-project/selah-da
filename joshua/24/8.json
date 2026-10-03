@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og jeg førte jer ind i emoræernes land, de der boede på den anden side af Jordan, og de kæmpede ⟨את⟩ mod jer, og jeg gav dem i jeres hånd, og I tog deres land i eje, og jeg udryddede dem for jeres åsyn.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "og jeg førte ind"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoræernes"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "de der boede"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på den anden side af"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "og de kæmpede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mod jer"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "og jeg gav"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "i jeres hånd"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "i jeres hånd"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "og I tog i eje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "og jeg udryddede dem"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "for jeres åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:33.179716013Z",
+  "model": "glm-5.3"
+}

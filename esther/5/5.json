@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og kongen sagde: Skynd jer med Haman, så ⟨את⟩ Esters ord bliver gjort. Og kongen og Haman kom til gæstebudet, som Ester havde gjort.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "skynd jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esters ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esters"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "og Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "gæstebudet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:11.431246561Z",
+  "model": "glm-5.3"
+}

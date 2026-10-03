@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 23:43",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "for at jeres slægter skal vide, at jeg lod ⟨את⟩ Jisraels sønner bo i hytter, da jeg førte ⟨את⟩ dem ud af Mitsrajims land; jeg er Jahve jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "skal vide"
+    },
+    {
+      "surface": "דרתיכם",
+      "gloss": "jeres slægter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "i hytter"
+    },
+    {
+      "surface": "הושבתי",
+      "gloss": "lod jeg bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "da jeg førte ud"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ud af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:01.549021106Z",
+  "model": "glm-5.3"
+}

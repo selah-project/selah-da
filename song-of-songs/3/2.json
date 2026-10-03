@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Vil jeg stå op, nu, og gå rundt i byen, på torvene og på gaderne, vil jeg søge ⟨את⟩ ham, som min sjæl elsker; jeg søgte ham, men fandt ham ikke.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "vil jeg stå op"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "og gå rundt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "på torvene"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "og på gaderne"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "vil jeg søge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ham, som min sjæl elsker"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "som … elsker"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "jeg søgte ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "fandt ham jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:58.712945693Z",
+  "model": "glm-5.3"
+}

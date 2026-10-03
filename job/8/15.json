@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Han læner sig til sit hus, men det holder ikke stand; han griber fast i det, men det rejser sig ikke.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "læner sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "holder stand"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "griber fast"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "rejser sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:37.900469198Z",
+  "model": "glm-5.3"
+}

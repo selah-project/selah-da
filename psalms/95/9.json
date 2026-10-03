@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 95,
+  "translation": "hvor jeres fædre prøvede mig, ransagede mig, og de så min gerning.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "prøvede mig"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ransagede mig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "de så"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "min gerning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:57.219033902Z",
+  "model": "glm-5.3"
+}

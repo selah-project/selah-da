@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og det skete ved ⟨lyden⟩ af hendes utugt, at hun vanhelligede ⟨את⟩ landet og drev utugt med ⟨את⟩ stenen og ⟨את⟩ træet.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ved lyden af"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "hendes utugt"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "vanhelligede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "drev utugt med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenen"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "træet"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "træet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:08:07.377258831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis du låner sølv til ⟨את⟩ mit folk — ⟨את⟩ den fattige hos dig — skal du ikke være for ham som en långiver; I skal ikke lægge åger på ham.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "du låner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den fattige"
+    },
+    {
+      "surface": "העני",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal du være"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "som en långiver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "I skal lægge"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "åger"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:01.891364639Z",
+  "model": "glm-5.3"
+}

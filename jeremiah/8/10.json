@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Derfor giver jeg ⟨את⟩ deres hustruer til andre, deres marker til dem, der tager dem i arv; for fra den mindste til den største er alle griske efter urette vinding, fra profeten til præsten gør alle falskhed.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hustruer"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "deres hustruer"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "til andre"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "deres marker"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "til dem, der tager dem i arv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "fra den mindste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "til"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "den største"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "er griske efter urette vinding"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "urette vinding"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "fra profeten"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "til"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falskhed"
+    }
+  ],
+  "timestamp": "2026-10-03T17:11:53.860407441Z",
+  "model": "glm-5.3"
+}

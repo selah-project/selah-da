@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "således har jeg vendt mig tilbage og planlagt i disse dage at gøre godt mod ⟨את⟩ Jerushalajim og ⟨את⟩ Jehudas hus: frygt ikke!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "har jeg vendt mig tilbage"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "og planlagt"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dage"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "at gøre godt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jehudas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "frygt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:02:23.168174478Z",
+  "model": "glm-5.3"
+}

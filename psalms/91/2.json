@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Jeg siger til Jahve: Min tilflugt og min borg, min Elohim, jeg sætter min lid til ham.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Jeg siger"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tilflugt"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og min borg"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "jeg sætter min lid til"
+    },
+    {
+      "surface": "בו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.859763237Z",
+  "model": "glm-5.3"
+}

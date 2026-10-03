@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Alt iblandt kvæget, der har klove og er helt spaltet i klove og opgiver drøv, det må I æde ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alt"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "der har klove"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klove"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "og er spaltet"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "helt"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "i klove"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "og opgiver"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "drøv"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "iblandt kvæget"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I æde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:06.445076351Z",
+  "model": "glm-5.3"
+}

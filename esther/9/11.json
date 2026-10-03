@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "På den dag kom tallet på de dræbte i borgen Shushan frem for kongen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tallet"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "de dræbte"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "i Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "borgen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frem for"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:31.479407397Z",
+  "model": "glm-5.3"
+}

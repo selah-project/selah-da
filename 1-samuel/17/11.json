@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Sha'ul og hele Jisrael hørte ⟨את⟩ denne filisters ord, og de blev forfærdede og frygtede meget.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne filisters ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "denne filisters"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "og de blev forfærdede"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "og frygtede"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:38.685491768Z",
+  "model": "glm-5.3"
+}

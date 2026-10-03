@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og Jahve svarede ⟨את⟩ Ijob fra stormen og sagde:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "fra"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "stormen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:45:07.690637883Z",
+  "model": "glm-5.3"
+}

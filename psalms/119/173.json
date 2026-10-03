@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Din hånd være mig til hjælp, for dine bud har jeg valgt.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "være"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "mig til hjælp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "har jeg valgt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.117722803Z",
+  "model": "glm-5.3"
+}

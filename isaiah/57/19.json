@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Jeg skaber læbers frugt: Fred, fred for den fjerne og for den nære, siger Jahve; og jeg vil læge ham.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "skaber"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "læbers"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "for den fjerne"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "og for den nære"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "og jeg vil læge ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:49.310405243Z",
+  "model": "glm-5.3"
+}

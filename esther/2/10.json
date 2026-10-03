@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Ester fortalte ikke ⟨את⟩ sit folk og ⟨את⟩ sin slægt, for Mordechai havde påbudt hende, at hun ikke skulle fortælle det.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit folk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin slægt"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "sin slægt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "skulle fortælle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:20.523016158Z",
+  "model": "glm-5.3"
+}

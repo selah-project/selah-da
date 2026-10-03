@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Jeg — se, min pagt ⟨er⟩ med dig, og du skal blive far til en mangfoldighed af folkeslag.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "med dig"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "og du skal blive"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "til far"
+    },
+    {
+      "surface": "המון",
+      "gloss": "en mangfoldighed"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "af folkeslag"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:40.926602018Z",
+  "model": "glm-5.3"
+}

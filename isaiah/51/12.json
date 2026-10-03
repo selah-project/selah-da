@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Jeg, ja jeg, er ⟨den⟩, der trøster jer. Hvem er du, at du frygter et menneske, der skal dø, og en menneskesøn, der gis som græs?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ja jeg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ⟨den⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "der trøster jer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "את",
+      "gloss": "er du"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "at du frygter"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "der skal dø"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "og en søn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "af mennesker"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "som græs"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "gis"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:36.278636018Z",
+  "model": "glm-5.3"
+}

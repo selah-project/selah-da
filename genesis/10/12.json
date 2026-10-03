@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "og ⟨את⟩ Resen mellem Ninive og mellem Kalach — det ⟨er⟩ den store by.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "den store by"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "den store by"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:06.222179285Z",
+  "model": "glm-5.3"
+}

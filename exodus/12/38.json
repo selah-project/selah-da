@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og også en blandet skare drog op ⟨med dem⟩, og får og kvæg, kvæg i meget stort antal.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "en blandet skare"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "med dem"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "og får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "og kvæg"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "kvæg"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "i stort antal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:40.842281009Z",
+  "model": "glm-5.3"
+}

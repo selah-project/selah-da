@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og ⟨את⟩ alle deres byer i deres bopæle og ⟨את⟩ alle deres borge brændte de med ild.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle deres byer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "deres byer"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "i deres bopæle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle deres borge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "deres borge"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "brændte de"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:10.774335949Z",
+  "model": "glm-5.3"
+}

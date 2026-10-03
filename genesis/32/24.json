@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han tog dem og førte dem over ⟨את]] strømmen og førte over ⟨את⟩ det, han ejede.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Og han tog dem"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "og førte dem over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strømmen"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "strømmen"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og førte over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, han ejede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han ejede"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:19.499276439Z",
+  "model": "glm-5.3"
+}

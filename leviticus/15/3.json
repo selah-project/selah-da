@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og dette skal være hans urenhed i hans flydning: enten at hans krop flyder med sin flydning, eller at hans krop er tilstoppet fra sin flydning — det ⟨er⟩ hans urenhed.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "hans urenhed"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "i hans flydning"
+    },
+    {
+      "surface": "רר",
+      "gloss": "flyder"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans krop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin flydning"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "sin flydning"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "er tilstoppet"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans krop"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "fra sin flydning"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "hans urenhed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:07.104062302Z",
+  "model": "glm-5.3"
+}

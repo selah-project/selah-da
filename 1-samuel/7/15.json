@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Shmuel dømte ⟨את⟩ Jisrael alle sit livs dage.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dømte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sitt livs"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:00.716904982Z",
+  "model": "glm-5.3"
+}

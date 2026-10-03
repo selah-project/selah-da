@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Thi vor sjæl er bukket ned til støvet, vor bug klæber til jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "er bukket ned"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "til støvet"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vor sjæl"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "klæber"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "vor bug"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:25.449484369Z",
+  "model": "glm-5.3"
+}

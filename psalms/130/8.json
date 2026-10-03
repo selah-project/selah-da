@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Og han skal forløse ⟨את⟩ Jisrael fra alle hans misgerninger.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "skal forløse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "hans misgerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:58.241850056Z",
+  "model": "glm-5.3"
+}

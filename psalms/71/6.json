@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "På dig har jeg støttet mig fra livet, fra min mors livmoder var du ⟨den⟩, der tog mig ud; min lovsang er vedvarende om dig.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "har jeg støttet mig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fra livet"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "fra indvolde"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "tog mig ud"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ved dig"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "min lovsang"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vedvarende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:06.335829901Z",
+  "model": "glm-5.3"
+}

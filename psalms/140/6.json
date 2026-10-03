@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "De højhjertede har skjult en snare for mig og reb; de har bredt et net ud ved vejens side, fælder har de sat for mig. Sela.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "har skjult"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "de højhjertede"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "og reb"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "har de bredt ud"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "et net"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ved siden af"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "stien"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "fælder"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "har de sat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:18.431605184Z",
+  "model": "glm-5.3"
+}

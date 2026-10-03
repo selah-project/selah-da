@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Skal de, der øver ondskab, ikke vide det? De æder mit folk, som de æder brød; Elohim har de ikke kaldt på.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "skal... ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vide"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "de, der øver"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "de æder"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "de æder"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "har kaldt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:10.679751528Z",
+  "model": "glm-5.3"
+}

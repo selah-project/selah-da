@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det skete ved enden af de syv år, at kvinden vendte tilbage fra filistrenes land og gik ud for at råbe til kongen om sit hus og sin mark.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ved enden af"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistrenes"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "for at råbe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "om"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og om"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sin mark"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:27.270626306Z",
+  "model": "glm-5.3"
+}

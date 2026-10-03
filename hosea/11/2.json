@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "De kaldte på dem — jo mere de kaldte, jo mere vendte de sig bort fra dem; de ofrede til Ba'alim og røgelse til udskårne billeder.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "de kaldte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jo mere"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "jo mere vendte de sig bort"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "fra dem"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "til Ba'alim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "de ofrede"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "og til udskårne billeder"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "røgelse de bar frem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:22.185783866Z",
+  "model": "glm-5.3"
+}

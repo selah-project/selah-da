@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal lægge ⟨את⟩ dem på én kurv og frembære dem i kurven sammen med tyren og de to væddere.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Og du skal lægge"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (brødene)"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kurv"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "og frembære"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (brødene)"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "i kurven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tyren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de to væddere"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "væddere"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:31.103870504Z",
+  "model": "glm-5.3"
+}

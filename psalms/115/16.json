@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Himlene — himlene hører Jahve til, men jorden har han givet menneskenes børn.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "men jorden"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givet"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "børnene af"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:52.170021747Z",
+  "model": "glm-5.3"
+}

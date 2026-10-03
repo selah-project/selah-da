@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Jahve sagde til Kajin: Hvorfor er du vred, og hvorfor er dit ansigt faldet?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "er du vred"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "er faldet"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:06.086312776Z",
+  "model": "glm-5.3"
+}

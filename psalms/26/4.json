@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Jeg har ikke siddet sammen med mænd ⟨af⟩ tomhed, og med dem der skjuler sig kommer jeg ikke.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "har siddet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tomhed"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "dem der skjuler sig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kommer jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.246714823Z",
+  "model": "glm-5.3"
+}

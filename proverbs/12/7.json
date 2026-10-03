@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Styrtes de ondskabsfulde, og de ⟨er⟩ der ikke ⟨mere⟩; men de retfærdiges hus står.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "styrtes"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondskabsfulde"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "og de er der ikke"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "men huset"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "står"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:07.689332678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Meget skaber ⟨kaos⟩ — alt ⟨gør⟩ han; og den som hyrer en dåre, hyrer forbipasserende.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "meget"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "skaber ⟨kaos⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og den som hyrer"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "hyrer"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "forbipasserende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:54.613996359Z",
+  "model": "glm-5.3"
+}

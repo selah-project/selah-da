@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "og I skal lade ⟨את⟩ min far leve, og ⟨את⟩ min mor, og ⟨את⟩ mine brødre, og ⟨את⟩ mine søstre, og ⟨את⟩ alt, hvad de har, og fri ⟨את⟩ vore sjæle fra døden.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "og I skal lade leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min far"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "min mor"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine brødre"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mine brødre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine søstre"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mine søstre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt, hvad de har"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de har"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "og fri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vore sjæle"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "vore sjæle"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "fra døden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:36:57.002169826Z",
+  "model": "glm-5.3"
+}

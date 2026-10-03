@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Du gav glæde i mit hjerte, fra ⟨den⟩ tid deres korn og deres most var rigelige.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "gav"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glæde"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mit hjerte"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "fra ⟨den⟩ tid"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "deres korn"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "og deres most"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "var rigelige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:41.468068017Z",
+  "model": "glm-5.3"
+}

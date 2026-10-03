@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og kald på mig på trængselens dag — jeg vil fri dig, og du skal ære mig.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Og kald på mig"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ⟨dagen⟩"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trængselens"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "jeg vil fri dig"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "og du skal ære mig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:32.259114696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Jahves ed skal være mellem dem begge, ⟨for at afgøre⟩ om han ikke har rakt sin hånd ud mod sin næstes ejendom; ejeren skal tage imod ⟨eden⟩, og han skal ikke erstatte.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dem begge"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "har rakt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "ud mod sin næstes ejendom"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næstes"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "skal tage imod"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ejeren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal erstatte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:57.668440943Z",
+  "model": "glm-5.3"
+}

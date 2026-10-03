@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Før jeres gryder fornemmer tornen, skal ⟨han⟩ — som det levende, som det brændende — styrte dem bort.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "før"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fornemmer"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "jeres gryder"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "tornen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "חי",
+      "gloss": "det levende"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "det brændende"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "styrte dem bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:19.053131046Z",
+  "model": "glm-5.3"
+}

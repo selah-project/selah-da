@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Men jeg ⟨er⟩ en orm og ikke et menneske, menneskers spot og folkets foragt.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "en orm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "spot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskers"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "og foragt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.516953407Z",
+  "model": "glm-5.3"
+}

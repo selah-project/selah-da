@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Den, der plyndrer sin far og jager sin mor bort, ⟨er⟩ en søn, der bringer skam og vanære.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "plyndrer"
+    },
+    {
+      "surface": "אב",
+      "gloss": "far"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "jager ... bort"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "bringer skam"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "og vanære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:32.316180292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og ⟨את⟩ kødet og ⟨את⟩ huden brændte han med ild uden for lejren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kødet"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huden"
+    },
+    {
+      "surface": "העור",
+      "gloss": "huden"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:35.529505489Z",
+  "model": "glm-5.3"
+}

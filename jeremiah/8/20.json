@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Høsten er gået forbi, sommeren er endt, og vi er ikke blevet frelst.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "er gået forbi"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "høsten"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "er endt"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sommeren"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "og vi"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "er blevet frelst"
+    }
+  ],
+  "timestamp": "2026-10-03T17:13:02.948102885Z",
+  "model": "glm-5.3"
+}

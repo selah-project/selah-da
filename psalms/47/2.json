@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Alle folkeslag, klappi hænder! Juble til Elohim med jubelråb!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "klappi"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jubelråb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.023533681Z",
+  "model": "glm-5.3"
+}

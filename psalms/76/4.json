@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Der knuste han ⟨את⟩ buens flammende pile, skjold og sværd og krig. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "der"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "knuste han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buens flammende pile"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "flammende pile"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "buens"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjold"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "og sværd"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "og krig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:47.506341928Z",
+  "model": "glm-5.3"
+}

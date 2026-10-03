@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Til korlederen: 'Ødelæg ikke' — af David, en Mikhtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ødelæg"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:48.327779238Z",
+  "model": "glm-5.3"
+}

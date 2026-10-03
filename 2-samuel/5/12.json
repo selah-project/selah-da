@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og David vidste, at Jahve havde rejst ham til konge over Jisrael, og at han havde ophøjet hans kongerige for sit folk Jisraels skyld.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "vidste"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "havde rejst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til konge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og at"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "havde ophøjet"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "hans kongerige"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "for"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:33.134705179Z",
+  "model": "glm-5.3"
+}

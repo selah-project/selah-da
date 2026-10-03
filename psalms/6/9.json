@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Vend bort fra mig, alle I, som øver ondskab; for Jahve har hørt min græds stemme.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "vend bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "I, som øver"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "har hørt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stemme"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "min græd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:03.143955623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og I skal tælle for jer selv, fra dagen efter Shabbat, fra den dag I bragte ⟨את⟩omeren, det svingede offer: syv Shabbatot, fuldkomne skal de være.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "Og I skal tælle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer selv"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "fra dagen efter"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "fra den dag"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "I bragte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeren"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omeren"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "det svingede offer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Shabbatot"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "fuldkomne"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "skal de være"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:10.126605350Z",
+  "model": "glm-5.3"
+}

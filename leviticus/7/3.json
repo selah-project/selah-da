@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og ⟨את⟩ alt dets fedt skal han bringe deraf: ⟨את⟩ fedthalen og ⟨את⟩ fedtet, som dækker ⟨את⟩ indvoldene,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "alt dets fedt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "dets fedt"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "skal han bringe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "deraf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedthalen"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "fedthalen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "som dækker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indvoldene"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "indvoldene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:22.593228411Z",
+  "model": "glm-5.3"
+}

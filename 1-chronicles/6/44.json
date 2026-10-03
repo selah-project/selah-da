@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og ⟨את⟩ Ashan og ⟨את⟩ dens græsgange, ⟨את⟩ Beit Shemesh og ⟨את⟩ dens græsgange.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:34.114108005Z",
+  "model": "glm-5.3"
+}

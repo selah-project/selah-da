@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og folket bar ⟨את⟩ sin dej, før den blev syret — deres æltetrug bundet ind i deres klæder på deres skuldre.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "bar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin dej"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "sin dej"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "før"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "den blev syret"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "deres æltetrug"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "bundet ind"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "i deres klæder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "deres skuldre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:03.965629559Z",
+  "model": "glm-5.3"
+}

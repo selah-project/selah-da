@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og de kørte Elohims ⟨את⟩ ark på en ny vogn fra Avinadavs hus; og Uzza og hans bror drev vognen.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "og de kørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "vogn"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ny"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra huset"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavs"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "og Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "og hans bror"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "drev"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vognen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:58.343563988Z",
+  "model": "glm-5.3"
+}

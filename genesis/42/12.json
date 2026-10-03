@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og han sagde til dem: Nej — men landets nøgenhed er I kommet for at se.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nøgenhed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "er I kommet"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:37.846123079Z",
+  "model": "glm-5.3"
+}

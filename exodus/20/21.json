@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og folket stod i det fjerne, og Moshe trådte nær til det tætte mørke, hvor Elohim var.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "i det fjerne"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "og Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "trådte nær"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "det tætte mørke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:58.007166611Z",
+  "model": "glm-5.3"
+}

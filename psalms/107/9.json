@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Thi han mættede ⟨den⟩ sjæl, som længes, og ⟨den⟩ sultne sjæl fyldte han med godt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "mættede"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "som længes"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "og sjæl"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "sultne"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "med godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:03.595492473Z",
+  "model": "glm-5.3"
+}

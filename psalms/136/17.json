@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Ham ⟨der⟩ slog store konger, for hans chesed ⟨varer⟩ til evigheden:",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ham ⟨der⟩ slog"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "store"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed ⟨varer⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:44.644557348Z",
+  "model": "glm-5.3"
+}

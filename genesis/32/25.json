@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jaakov blev tilbage alene, og en mand kæmpede med ham, indtil morgenrøden steg op.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "og blev tilbage"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "⟨the⟩ morgenrøden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:21.858813610Z",
+  "model": "glm-5.3"
+}

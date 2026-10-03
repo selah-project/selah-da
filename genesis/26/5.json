@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "fordi Avraham adlød min røst og bevogtede min vagt, mine bud, mine vedtægter og mine Tora'er.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨at⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "adlød"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "og bevogtede"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "min vagt"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mine bud"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mine vedtægter"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "og mine Tora'er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:43.681346145Z",
+  "model": "glm-5.3"
+}

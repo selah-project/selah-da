@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og Jahve din Elohim vil lægge ⟨את⟩ alle disse forbandelser på dine fjender og på dine hadere, de der forfulgte dig.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "og lægge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse forbandelser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "disse forbandelser"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "ו על",
+      "gloss": "og på"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "dine hadere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de der"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "forfulgte dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:05.605502590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "I det tredje år af Jehojakims, kongen af Judas, regering kom Nevukadnetsar, kongen af Bavel, til Jerushalajim og belejrede den.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i det år"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tredje"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "af regeringen"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakims"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "og belejrede"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:02.361705959Z",
+  "model": "glm-5.3"
+}

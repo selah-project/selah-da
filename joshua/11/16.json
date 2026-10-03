@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Jehosjua tog ⟨את⟩ hele dette land: bjergegnen og ⟨את⟩ hele Neg ev og ⟨את⟩ hele landet Goshen og ⟨את⟩ lavlandet og ⟨את⟩ Arabah og ⟨את⟩ Jisraels bjerg og dets lavland.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og … tog"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele dette land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjergegnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele Negev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele landet Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lavlandet"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "lavlandet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Arabah"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jisraels bjerg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "dets lavland"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:56.608575592Z",
+  "model": "glm-5.3"
+}

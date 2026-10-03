@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Salige er de, der holder ret, gør tsedek ⟨rettighed⟩ på alle tidspunkter.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige er"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "de, der holder"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek ⟨rettighed⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på alle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tidspunkter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:41.534292685Z",
+  "model": "glm-5.3"
+}

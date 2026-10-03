@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Hvis du vogter på misgerninger, Jah — Adonaj, hvem kan da stå?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "på misgerninger"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "du vogter"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan stå"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:52.013218941Z",
+  "model": "glm-5.3"
+}

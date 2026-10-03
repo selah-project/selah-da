@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Thi kongen sætter sin lid til Jahve, og ved den Højestes chesed skal han ikke rokkes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "sætter sin lid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "og ved chesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Højestes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "rokkes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:22.990061084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Han frier mig ud fra mine fjender, ja, du ophøjer mig over dem, der står imod mig; fra en mand af vold redder du mig.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "fri mig ud"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "fra mine fjender"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "dem der står imod mig"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "ophøjer du mig"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "af vold"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "redder du mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:09.121863500Z",
+  "model": "glm-5.3"
+}

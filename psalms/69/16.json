@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Lad ikke vandstrømmen skylle over mig, og lad ikke dybet sluge mig, og lad ikke brønden lukke sin mund over mig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "skylle over mig"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "strømmen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og lad ikke"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "sluge mig"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "dybet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og lad ikke"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "lukke"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "באר",
+      "gloss": "brønden"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sin mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:31.923045353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Vend tilbage, min sjæl, til din hvile, for Jahve har handlet godt mod dig.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "til din hvile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "har handlet godt"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:15.078117918Z",
+  "model": "glm-5.3"
+}

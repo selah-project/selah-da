@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og folket råbte til Moshe, og Moshe bad til Jahve, og ilden slog ⟨ned⟩.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Og råbte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "og bad"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "og slog ⟨ned⟩"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:02.721602506Z",
+  "model": "glm-5.3"
+}

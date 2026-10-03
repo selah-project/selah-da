@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skete i kong Jehoash's treogtyvende år, at præsterne ikke havde udbedret ⟨את⟩ skaderne på huset.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "i ... år"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "og tre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "for kong"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "havde udbedret"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skaderne på huset"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "skaderne"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "på huset"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:43.472770597Z",
+  "model": "glm-5.3"
+}

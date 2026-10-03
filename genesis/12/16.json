@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og ⟨Paroh⟩ handlede godt med Avram for hendes skyld, og der kom ham får og kvæg og hanæsler og trælle og trælkvinder og æselføl og kameler.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "med Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "handlede godt"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "for hendes skyld"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og der kom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "kvæg"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "hanæsler"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "trælkvinder"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "æselføl"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "kameler"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.815271098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Thi hvem i skyerne kan stilles Jahve lig, hvem ligner Jahve blandt Els sønner?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "i skyerne"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "kan stilles lig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ligner"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "blandt sønnerne"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "af El'er"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:59.818645227Z",
+  "model": "glm-5.3"
+}

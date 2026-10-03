@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "Om jeg går midt i trængsel, livgør du mig; mod mine fjenders vrede rækker du din hånd ud, og din højre hånd frelser mig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jeg går"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trængsel"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "livgør du mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjenders"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "rækker du ud"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "og frelser mig"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:13.430207065Z",
+  "model": "glm-5.3"
+}

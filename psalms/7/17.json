@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Hans møje vender tilbage på hans eget hoved, og på hans isse styrter hans vold ned.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "hans møje"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "på hans hoved"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "hans isse"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "hans vold"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "styrter ned"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:01.655098935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal befale, at de skal bryde ⟨את⟩ stenene ud, hvori svampen er, og kaste ⟨את⟩ dem uden for byen, til et urent sted.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Og han skal befale"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "at de skal bryde ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenene"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "svampen"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "og de skal kaste"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urent"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:16.836137065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Han førte mig ind i vinens hus, og hans banner over mig ⟨er⟩ kærlighed.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "han førte mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinens"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "og hans banner"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kærlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:47.575126179Z",
+  "model": "glm-5.3"
+}

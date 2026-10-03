@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Pagt mellem mig og dig og mellem min far og din far. Se, jeg har sendt dig sølv og guld. Gå, bryd din pagt ⟨את⟩ med Baasha, kongen af Jisrael, så vender han op fra mig!",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Pagt"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "jeg har sendt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og guld"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bryd"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "din pagt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "med Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "så vender han op"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fra mig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:03.464542644Z",
+  "model": "glm-5.3"
+}

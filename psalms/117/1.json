@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 117,
+  "translation": "Lovsynger ⟨את⟩ Jahve, alle folkeslag; priser ham, alle folk!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lovsynger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "priser ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:51.742742191Z",
+  "model": "glm-5.3"
+}

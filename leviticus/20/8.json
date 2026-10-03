@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og I skal holde ⟨את⟩ mine anordninger og gøre ⟨את dem⟩ — jeg er Jahve, jerers helliger.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal holde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine anordninger"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mine anordninger"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את dem⟩",
+      "marks": "mine anordninger"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "der helliger jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:43.524132123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Sechs dage skal du arbejde og gøre alt dit arbejde —",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sechs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skal du arbejde"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "dit arbejde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:02.032218840Z",
+  "model": "glm-5.3"
+}

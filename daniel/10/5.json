@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og jeg løftede ⟨את⟩ mine øjne og så, og se, én klædt i lærredstøj, og hans lænder var omgjordet med guld fra Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "og jeg løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine øjne"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "én"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "klædt"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "i lærredstøj"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "og hans lænder"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "omgjordet"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "fra Uphaz"
+    }
+  ],
+  "timestamp": "2026-10-03T19:00:47.334292665Z",
+  "model": "glm-5.3"
+}

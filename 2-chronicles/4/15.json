@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "⟨את⟩ det ene hav og ⟨את⟩ de tolv okser under det.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ene hav"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de tolv okser"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "okserne"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "under det"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:40.072400269Z",
+  "model": "glm-5.3"
+}

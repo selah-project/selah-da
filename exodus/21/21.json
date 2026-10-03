@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Dog, hvis han står op en dag eller to dage, skal han ikke straffes ⟨med døden⟩, for ⟨trællen⟩ er hans sølv.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "to dage"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "står op"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "skal straffes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "hans sølv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ⟨trællen⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:35.401029711Z",
+  "model": "glm-5.3"
+}

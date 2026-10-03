@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 87,
+  "translation": "Af Korachs sønner, en salme, en sang. Dens grundvold ⟨er⟩ på hellige bjerge.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "af ... sønner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "dens grundvold"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "på bjerge"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:27.467749164Z",
+  "model": "glm-5.3"
+}

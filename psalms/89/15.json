@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Tsedek og ret ⟨er⟩ din trones grundvold; chesed og sandhed går foran dit ansigt.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og ret"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "grundvold"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "din trones"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "og sandhed"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "går foran"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:07.226530239Z",
+  "model": "glm-5.3"
+}

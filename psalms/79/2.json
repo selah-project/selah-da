@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "De gav ⟨את⟩ dine trælles lig som føde for himlens fugle, dine frommes kød for jordens vilddyr.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "De gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine trælles lig"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "lig"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælles"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "som føde"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "for"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himmelens fugle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dine frommes"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "for"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens vilddyr"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:32.112481875Z",
+  "model": "glm-5.3"
+}

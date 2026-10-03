@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Elohim, med vore ører har vi hørt; vore fædre har fortalt os ⟨om⟩ det værk, du virkede i deres dage, i dagene i fordums tid.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "med vore ører"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "har vi hørt"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "vore fædre"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "har fortalt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "det værk"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "du virkede"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "i deres dage"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dagene i"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fordums tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:22.063705109Z",
+  "model": "glm-5.3"
+}

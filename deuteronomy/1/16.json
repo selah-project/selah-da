@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og jeg bød ⟨את⟩ jeres dommere på den tid og sagde: Hør ⟨mellem⟩ jeres brødre, og døm tsedek, mellem en mand og hans broder og hans fremmede.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Og jeg bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres dommere"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "jeres dommere"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den tid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨mellem⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jeres brødre"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "og døm"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "hans fremmede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:14.800380831Z",
+  "model": "glm-5.3"
+}

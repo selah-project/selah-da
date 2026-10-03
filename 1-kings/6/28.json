@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han overtrak ⟨את⟩ keruberne med guld.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "og han overtrak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruberne"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruberne"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    }
+  ],
+  "timestamp": "2026-10-03T16:24:56.538844033Z",
+  "model": "glm-5.3"
+}

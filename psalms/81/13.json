@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Så gav jeg dem efter deres hjertes trods, de gik i deres egne råd.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "gav jeg dem"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "etter trods"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjertes"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "gik de"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "i deres egne råd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:00.209007969Z",
+  "model": "glm-5.3"
+}

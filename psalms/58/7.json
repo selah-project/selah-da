@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Elohim, knus deres tænder i deres mund; ungeløvernes kindtænder, riv ud, Jahve!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "knus"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "deres tænder"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "i deres mund"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "kindtænder"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ungeløvers"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "riv ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:47.346668428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og jeg vil befale ⟨את⟩ min velsignelse over jer i det sjette år, så det giver ⟨את⟩ afgrøden for tre år.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "og jeg vil befale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min velsignelse"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "min velsignelse"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "over jer"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "i året"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "det sjette"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "så det giver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afgrøden"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "afgrøden"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "for tre"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:09.612287645Z",
+  "model": "glm-5.3"
+}

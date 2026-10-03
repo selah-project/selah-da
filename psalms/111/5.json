@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Føde gav han til dem, der frygter ham; til evindelig tid husker han sin pagt.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "føde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "til dem, der frygter ham"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "husker"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evindelig tid"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sin pagt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:30.728204815Z",
+  "model": "glm-5.3"
+}

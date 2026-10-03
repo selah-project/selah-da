@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Alle er vendt bort, alle sammen er blevet fordærvede; der er ingen, som gør godt, der er ikke engang én.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "סר",
+      "gloss": "er vendt bort"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "er blevet fordærvede"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "גם",
+      "gloss": "engang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:13.037071070Z",
+  "model": "glm-5.3"
+}

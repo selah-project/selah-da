@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og en løvhytte skal være til skygge om dagen mod heden, og til tilflugt og til skjul mod stormen og mod regnen.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "og en løvhytte"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "til skygge"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "mod heden"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "og til tilflugt"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "og til skjul"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "mod stormen"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "og mod regnen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:20.922963650Z",
+  "model": "glm-5.3"
+}

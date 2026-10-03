@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Shaul sagde til sin unge tjener: Dit ord er godt; kom, lad os gå. Og de gik til byen, hvor Guds mand var.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "til sin unge tjener"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "lad os gå"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og de gik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Guds"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:10.554473418Z",
+  "model": "glm-5.3"
+}

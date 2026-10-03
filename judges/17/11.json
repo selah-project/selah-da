@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og levitten samtykkede i at bo hos manden ⟨את⟩, og den unge mand blev ham som én af hans sønner.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "Og samtykkede"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levitten"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "i at bo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "hos manden"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge mand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "som én"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "af hans sønner"
+    }
+  ],
+  "timestamp": "2026-10-03T15:53:41.236718575Z",
+  "model": "glm-5.3"
+}

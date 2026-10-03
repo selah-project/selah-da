@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Der er intet sundt i mit kød foran dit raseri, der er intet shalom i mine knogler foran min synd.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Der er intet"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sundt"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "i mit kød"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "dit raseri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er intet"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "i mine knogler"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.707781631Z",
+  "model": "glm-5.3"
+}

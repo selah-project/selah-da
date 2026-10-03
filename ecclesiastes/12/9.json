@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og desuden: Fordi Kohelet var vis, underviste han stadig ⟨את⟩ folket i viden, og han lyttede og granskede og ordnede mange ordsprog.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "og desuden"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "fordi … var"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "למד",
+      "gloss": "underviste"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "i viden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "og han lyttede"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "og granskede"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "ordnede"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ordsprog"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:45.061639528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Jahve frikøber sine trælles sjæl, og ingen af dem, der søger ly hos ham, dømmes skyldige.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "frikøber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælles"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "dømmes skyldige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "der søger ly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:17.587247578Z",
+  "model": "glm-5.3"
+}

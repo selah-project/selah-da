@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og han lagde sine hænder ⟨את⟩ på ham og gav ham påbud, således som Jahve havde talt ved Moshes hånd.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "og han lagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine hænder"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sine hænder"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "og gav ham påbud"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved ... hånd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshes"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:56.888436686Z",
+  "model": "glm-5.3"
+}

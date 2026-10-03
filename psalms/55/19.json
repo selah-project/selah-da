@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Han har frikøbt i fred min sjæl fra dem, der var nær mig, thi de var mange, de var hos mig.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "har frikøbt"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "fra dem der var nær"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "de var mange"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:08.540707354Z",
+  "model": "glm-5.3"
+}

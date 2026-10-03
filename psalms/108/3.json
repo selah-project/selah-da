@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Vågn op, nevel og kinnor! Jeg vil vække ⟨את⟩ morgenrøden.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vågn op"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevelen"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "og kinnoren"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "jeg vil vække"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "morgenrøden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:30.154539527Z",
+  "model": "glm-5.3"
+}

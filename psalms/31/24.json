@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Elsk ⟨את⟩ Jahve, alle hans chasidim! Jahve bevogter de trofaste og gengælder overmålt den hovmodige.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "elsk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hans chasidim"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "de trofaste"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "bevogter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "og gengælder"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "overmålt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "den der gør"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "hovmod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:29.771936252Z",
+  "model": "glm-5.3"
+}

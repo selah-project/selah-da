@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Uden tale og uden ord, uden at deres røst høres —",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Uden"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tale"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og uden"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "høres"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "deres røst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:16.943997804Z",
+  "model": "glm-5.3"
+}

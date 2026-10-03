@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "For dag og nat var din hånd tung over mig, min saft blev vendt til sommerens tørke. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "var tung"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "blev vendt"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "min saft"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "til tørken"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sommerens"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.986998833Z",
+  "model": "glm-5.3"
+}

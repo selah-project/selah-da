@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Tsion hørte og glædede sig, og Jehudahs døtre jublede for dine dommes skyld, Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "og glædede sig"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "og jublede"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudahs"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine domme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:40.609750533Z",
+  "model": "glm-5.3"
+}

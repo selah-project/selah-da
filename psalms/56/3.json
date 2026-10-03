@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Mine fjender snapper efter mig hele dagen, for mange er de, som kæmper imod mig, ⟨o Højeste⟩.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "snapper efter"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "kæmper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨o Højeste⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:26.723786292Z",
+  "model": "glm-5.3"
+}

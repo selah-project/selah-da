@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Moshe rakte ⟨את⟩ sin hånd ud mod himlene, og der blev et tykt mørke i hele Mitsrajims land i tre dage.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Og rakte ud"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og der blev"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "tykt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "i tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:50.809508374Z",
+  "model": "glm-5.3"
+}

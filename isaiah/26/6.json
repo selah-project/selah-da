@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Foden skal trampe den ned — fødderne af ⟨den⟩ arme, skridtene af ⟨den⟩ fattige.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "skal trampe den ned"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "foden"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fødderne af"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den arme"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "skridtene af"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "den fattige"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:37.021124970Z",
+  "model": "glm-5.3"
+}

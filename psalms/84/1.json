@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Til korlederen, efter guit-tonen, for Korachsønnerne, en mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "guit-tonen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:37.506671127Z",
+  "model": "glm-5.3"
+}

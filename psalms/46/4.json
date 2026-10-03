@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Dets vande larmer, skummer, dets bjerge skælver ved dets svulm. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "larmer"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "skummer"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "dets vande"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "skælver"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ved dets svulm"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:15.765363374Z",
+  "model": "glm-5.3"
+}

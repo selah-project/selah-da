@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Din tsedek ⟨er⟩ tsedek til evigheden, og din Tora ⟨er⟩ sandhed.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og din Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:06.853132017Z",
+  "model": "glm-5.3"
+}

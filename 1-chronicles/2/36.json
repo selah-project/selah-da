@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Attaj avlede ⟨את⟩ Natan, og Natan avlede ⟨את⟩ Zavad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Og Attaj"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zavad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavad"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:53.369860691Z",
+  "model": "glm-5.3"
+}

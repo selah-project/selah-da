@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Se, Adonaj Jahve kommer med styrke, og hans arm hersker for ham; se, hans løn er ⟨את⟩ hos ham, og hans gerning foran ham.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "med styrke"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "og hans arm"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "hersker"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "hans løn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hos ham"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "og hans gerning"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:35.722636177Z",
+  "model": "glm-5.3"
+}

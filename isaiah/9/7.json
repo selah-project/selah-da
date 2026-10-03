@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Et ord sendte Adonaj i Jaakov, og det faldt i Jisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Et ord"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Jaakov"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "og faldt"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:19.646311896Z",
+  "model": "glm-5.3"
+}

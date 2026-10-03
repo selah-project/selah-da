@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og fjendskab vil jeg sætte mellem dig og kvinden og mellem dit sæd og hendes sæd; han skal knuse dit hoved, og du skal knuse hans hæl.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Og fjendskab"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "vil jeg sætte"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "mellem dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit sæd"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "hendes sæd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "skal knuse dig"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "… hoved"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "skal knuse ham"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "… hæl"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:50.968017873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Tomhed af tomheder, siger Kohelet, det hele er tomhed.",
+  "tokens": [
+    {
+      "surface": "הֶבֶל",
+      "gloss": "tomhed"
+    },
+    {
+      "surface": "הֲבָלִים",
+      "gloss": "af tomheder"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "הַקּוֹהֶלֶת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הַכֹּל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "הָבֶל",
+      "gloss": "er tomhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:09.774329021Z",
+  "model": "glm-5.3"
+}

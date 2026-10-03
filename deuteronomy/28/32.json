@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 28:32",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Dine sønner og dine døtre givet til et andet folk, og dine øjne ser og tæres hen efter dem hele dagen, og der er intet i din hånds magt.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "og dine døtre"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "givet"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "til et folk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "et anden"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "og dine øjne"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ser"
+    },
+    {
+      "surface": "וכלות",
+      "gloss": "tæres hen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "efter dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "i magt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:04.376747534Z",
+  "model": "glm-5.3"
+}

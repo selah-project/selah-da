@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Belials ⟨mænd⟩ ⟨er⟩ som en torn, der er revet bort — alle sammen; thi ikke med hånd tages de.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "og Belials ⟨mænd⟩"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "som en torn"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "der er revet bort"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hånd"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "tages de"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:47.253698270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal tage af log-olien og udgyde den på sin egen venstre håndflade.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Og præsten skal tage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "af log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "og udgyde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כף",
+      "gloss": "håndfladen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præstens"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "venstre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:45.090365713Z",
+  "model": "glm-5.3"
+}

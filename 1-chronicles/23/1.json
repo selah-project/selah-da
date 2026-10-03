@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David blev gammel og mæt af dage, og han gjorde sin søn ⟨את⟩ Shelomo til konge over Jisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Og David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "blev gammel"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og mæt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "af dage"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "gjorde til konge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T19:17:05.440663361Z",
+  "model": "glm-5.3"
+}

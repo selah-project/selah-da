@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Og du har løftet mit horn som vildoksens; jeg er salvet med frisk olie.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "og du har løftet"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "som vildoksens"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mit horn"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jeg er salvet"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olie"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "frisk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:57.220511794Z",
+  "model": "glm-5.3"
+}

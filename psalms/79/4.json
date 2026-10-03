@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "Vi er blevet en smæde for vores naboer, til spot og hån for dem omkring os.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Vi er blevet"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "en smæde"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "for vores naboer"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "til spot"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "og hån"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "for dem omkring os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:32.112793392Z",
+  "model": "glm-5.3"
+}

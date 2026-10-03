@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den retfærdiges tsedek gør hans vej ret; og i sin ondskab falder den onde.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "den fuldkomnes"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "gør ret"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hans vej"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "og i sin ondskab"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "falder"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:57.071665045Z",
+  "model": "glm-5.3"
+}

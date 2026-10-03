@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Hvor elsker jeg din Tora! Hele dagen er den min samtale ⟨og⟩ eftertanke.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "elsker jeg"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "er min samtale og eftertanke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.462073684Z",
+  "model": "glm-5.3"
+}

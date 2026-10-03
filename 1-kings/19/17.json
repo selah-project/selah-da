@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og det skal ske: Den som undslipper Chazaels sværd, ham skal Jehu dræbe, og den som undslipper Jehus sværd, ham skal Elisha dræbe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "den som undslipper"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaels"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "skal dræbe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "og den som undslipper"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehus"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "skal dræbe"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:51.785297749Z",
+  "model": "glm-5.3"
+}

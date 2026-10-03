@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Minde om din store godhed vil de lade strømme frem, og din tsedek vil de juble om.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "minde om"
+    },
+    {
+      "surface": "רב",
+      "gloss": "store"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "godhed"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "vil de lade strømme frem"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "og din tsedek"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vil de juble om"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.260873800Z",
+  "model": "glm-5.3"
+}

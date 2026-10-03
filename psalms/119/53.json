@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Brennende harm har grebet mig over ⟨de⟩ onde, der forlader din Tora.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "brennende harm"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "har grebet mig"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "over ⟨de⟩ onde"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "der forlader"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:26.846179735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og opsynsmanden tog ⟨את⟩ deres delikatesser bort og vin at drikke ⟨af⟩, og gav dem grøntsager.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "opsynsmanden"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tog bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres delikatesser"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "deres delikatesser"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vin"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "deres drikke"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "grøntsager"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:27.101802697Z",
+  "model": "glm-5.3"
+}

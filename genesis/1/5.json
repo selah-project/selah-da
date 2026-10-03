@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim kaldte lyset dag, og mørket kaldte han nat. Og det blev aften, og det blev morgen — dag én.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "lyset"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "og mørket"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:37.210384346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og der blev fundet i den en fattig vis mand, og han frelste ved sin visdom ⟨את⟩ byen; men intet menneske huskede ⟨את⟩ den fattige mand, han.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "og der blev fundet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "og han frelste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ved sin visdom"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "men menneske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den fattige mand"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:39.523137307Z",
+  "model": "glm-5.3"
+}

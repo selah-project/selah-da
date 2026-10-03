@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Men ⟨han⟩ sagde til ham: Jeg vil ikke gå, men til mit land og til min fødeby vil jeg gå.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "vil jeg gå"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(uden at)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mit land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "min fødeby"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "vil jeg gå"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:42.011428787Z",
+  "model": "glm-5.3"
+}

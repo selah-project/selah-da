@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Paroh skal gøre ⟨det⟩ og udnævne tilsynsmænd over landet og indfange en femtedel af landet Mitsrajim i de syv års overflod.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "skal gøre"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "og udnævne"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "tilsynsmænd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ויחמש",
+      "gloss": "og indfange en femtedel af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet Mitsrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "i de syv"
+    },
+    {
+      "surface": "שני",
+      "gloss": "år"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "overflod"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:47.425837136Z",
+  "model": "glm-5.3"
+}

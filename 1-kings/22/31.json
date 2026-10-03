@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Arams konge havde budt ⟨את⟩ høvdingerne over vognene, som han havde, toogtredive, og sagt: I må ikke kæmpe mod ⟨את⟩ lille eller ⟨את⟩ store, men kun mod ⟨את⟩ Jisraels konge alene.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde budt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "høvdingerne over vognene"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "over vognene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han havde"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og to"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "I må kæmpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "mod ⟨את⟩",
+      "marks": "lille"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "lille"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eller ⟨את⟩",
+      "marks": "store"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "store"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "mod ⟨את⟩",
+      "marks": "Jisraels konge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:18.797934738Z",
+  "model": "glm-5.3"
+}

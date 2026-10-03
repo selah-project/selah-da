@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Denne måned skal være jer månedenes hoved; den er jer den første af årets måneder.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Denne måned"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "månederne"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den er"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "af månederne"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "årets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:20.828311322Z",
+  "model": "glm-5.3"
+}

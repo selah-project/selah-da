@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Vore laden ⟨er⟩ fulde, de bringer frem af slags til slags; vort småkvæg føder tusinder, titusinder i vore gader.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "vore laden"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fulde"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "de bringer frem"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "af slags"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "זן",
+      "gloss": "slags"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "vort småkvæg"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "føder tusinder"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "titusinder"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "i vore gader"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:50.014831934Z",
+  "model": "glm-5.3"
+}

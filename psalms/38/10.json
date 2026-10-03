@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Adonaj, al min længsel ⟨er⟩ foran dit ansigt, og mit suk er ikke skjult for dig.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "foran dit ansigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "min længsel"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "og mit suk"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "skjult"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:39.465245449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og du, menneskesøn, vil du dømme, vil du dømme ⟨את⟩ blodbyen? Og du skal kende den alle dens vederstyggeligheder.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "vil du dømme"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "vil du dømme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodbyen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "blodets"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "og du skal kende den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dens vederstyggeligheder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "dens vederstyggeligheder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:37:51.788804562Z",
+  "model": "glm-5.3"
+}

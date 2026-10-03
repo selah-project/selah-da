@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og du så ⟨את⟩ vores fædres nød i Mitsrajim, og ⟨את⟩ deres råb hørte du ved Sivsøen.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "og du så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vores fædres nød"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nød"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "vores fædre"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres råb"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "deres råb"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hørte du"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "ים",
+      "gloss": "søen"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sivsøen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:07:32.071066999Z",
+  "model": "glm-5.3"
+}

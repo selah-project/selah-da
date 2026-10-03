@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Og jeg sagde: Kun mørket skal knuse mig, og natten ⟨er⟩ lys omkring mig —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "og jeg sagde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørket"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "skal knuse mig"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og natten"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "omkring mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:53.880219995Z",
+  "model": "glm-5.3"
+}

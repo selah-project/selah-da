@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "De søger ud ondskaber; ⟨det er⟩ fuldendt, det gennem søgte søgning; og et menneskes indre og hjerte er dybt.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "de søger ud"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ondskaber"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "fuldendt ⟨det er⟩"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "søgning"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "gennem søgt"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "og indre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneskes"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "og hjerte"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "er dybt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:54.273645170Z",
+  "model": "glm-5.3"
+}

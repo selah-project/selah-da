@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "og jeres yngste bror skal I bringe til mig, så ⟨bliver⟩ jeres ord troet, og I skal ikke dø. Og de gjorde så.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres yngste bror"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jeres bror"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "skal I bringe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "så bliver troet"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jeres ord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "I skal dø"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "og de gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:06.505108978Z",
+  "model": "glm-5.3"
+}

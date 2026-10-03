@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "For aske som brød har jeg spist, og min drik har jeg blandet med gråd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "aske"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "som brød"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "har jeg spist"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "og min drik"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "med gråd"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "har jeg blandet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:11.841646170Z",
+  "model": "glm-5.3"
+}

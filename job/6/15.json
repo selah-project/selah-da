@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Mine brødre har svigtet ⟨mig⟩ som et vandløb, som en bæk af strømme, der løber væk.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Mine brødre"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "har svigtet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "et vandløb"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "som en bæk"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "af strømme"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "der løber væk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:42.145001075Z",
+  "model": "glm-5.3"
+}

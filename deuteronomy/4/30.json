@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 4:30",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "I jeres trængsel, når alle disse ting rammer dig, i de sidste dage, skal du vende om til Jahve, din Elohim, og lyde hans røst.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "I din trængsel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ומצאוך",
+      "gloss": "og de rammer dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "disse ting"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "i de sidste"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "og du skal vende om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "og du skal lyde"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "hans røst"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:10.884208538Z",
+  "model": "glm-5.3"
+}

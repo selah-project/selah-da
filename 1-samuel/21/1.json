@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og han stod op og gik bort, og Jonatan kom ind i ⟨den⟩ by.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og han stod op"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik bort"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "og Jonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom ind"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i byen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:33.565782362Z",
+  "model": "glm-5.3"
+}

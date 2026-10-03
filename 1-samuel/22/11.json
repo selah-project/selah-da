@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Da sendte kongen bud efter ⟨את⟩ præsten Achimelek, søn af Achitub, og ⟨את⟩ hele hans fædrenehus, præsterne som var i Nob; og de kom alle sammen til kongen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte bud efter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "at kalde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "præsten Achimelek"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "af Achitub"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele hans fædrenehus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fædrenehus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans faders"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "var i Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:57.498715020Z",
+  "model": "glm-5.3"
+}

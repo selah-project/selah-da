@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han stillede ⟨את⟩ hele folket, hver mand med sit våben i sin hånd, fra højre side af huset til venstre side af huset, ved alteret og ved huset, omkring kongen rundt om.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "og han stillede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sit våben"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hånd"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "fra skulderen af"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "højre side"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "skulderen af"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "venstre side"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ved alteret"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "og ved huset"
+    },
+    {
+      "surface": "על",
+      "gloss": "omkring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:56.362171006Z",
+  "model": "glm-5.3"
+}

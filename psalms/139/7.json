@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Whither — hvorhen skal jeg gå fra din ruach, og hvorhen skal jeg flygte fra dit ansigt?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "hvorhen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "skal jeg gå"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "fra din ruach"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "og hvorhen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fra dit ansigt"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "skal jeg flygte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:51.624444034Z",
+  "model": "glm-5.3"
+}

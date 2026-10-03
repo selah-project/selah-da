@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "For så siger Jahve: Juble med glæde for Jaakov, og råb højt blandt folkets ⟨fremmeste⟩; lad det høres, lov, og sig: Frels, Jahve, ⟨את⟩ dit folk, ⟨את⟩ resten af Jisrael!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כה",
+      "gloss": "så"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "for Jaakov"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "med glæde"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "og råb højt"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "blandt fremmeste"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "af folkene"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "lad det høres"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lov"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "frels"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit folk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resten af Jisrael"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T17:20:33.715869271Z",
+  "model": "glm-5.3"
+}

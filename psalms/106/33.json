@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Thi de gjorde hans ruach bitter ⟨את⟩, og han talte forhastet med sine læber.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "gjorde bitter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans ruach"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hans ruach"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "og han talte forhastet"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "med sine læber"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:38.290679292Z",
+  "model": "glm-5.3"
+}

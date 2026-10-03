@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Jeg — jeg har kaldt på dig, for du vil svare mig, El; bøj dit øre til mig, hør min tale.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jeg har kaldt på dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "du vil svare mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "bøj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min tale"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:11.919932621Z",
+  "model": "glm-5.3"
+}

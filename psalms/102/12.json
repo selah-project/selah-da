@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Mine dage ⟨er⟩ som en skygge der strækker sig, og jeg ⟨er⟩ visnet som græs.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Mine dage"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "som en skygge"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "der strækker sig"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "som græs"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "⟨er⟩ visnet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:11.841995545Z",
+  "model": "glm-5.3"
+}

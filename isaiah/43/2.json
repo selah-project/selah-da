@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Når du går gennem vandene, ⟨את⟩ dig er jeg med, og gennem floderne skal de ikke oversvømme dig; når du vandrer gennem ild, skal du ikke sviddes, og luen skal ikke fortære dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "du går gennem"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "og gennem floderne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "skal de oversvømme dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du vandrer"
+    },
+    {
+      "surface": "במו",
+      "gloss": "gennem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "skal du sviddes"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "og luen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "skal fortære"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:36.982984105Z",
+  "model": "glm-5.3"
+}

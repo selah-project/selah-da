@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Og ⟨et⟩ menneske siger: Sikkert er der frugt for den retfærdige; sikkert er der Elohim, ⟨som dømmer⟩ på jorden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨et⟩ menneske"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sikkert"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "for den retfærdige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sikkert"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er der"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dommere"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:19.053472178Z",
+  "model": "glm-5.3"
+}

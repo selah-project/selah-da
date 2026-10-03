@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Der falder tusind ved din side og titusind ved din højre hånd; ⟨det⟩ skal ikke nå hen til dig.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "Der falder"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ved din side"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "og titusind"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ved din højre hånd"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hen til dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "skal nå"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:13.217121388Z",
+  "model": "glm-5.3"
+}

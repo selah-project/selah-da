@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "I læbernes overtrædelse er ⟨der⟩ en snare for den onde, men den retfærdige går ud af trængsel.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "i overtrædelse"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "læbernes"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "en snare"
+    },
+    {
+      "surface": "רע",
+      "gloss": "for den onde"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "men ... går ud"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "af trængsel"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:14.889950205Z",
+  "model": "glm-5.3"
+}

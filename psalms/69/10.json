@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Thi nidkærheden for dit hus har fortæret mig, og hånene fra dem der håner dig, er faldet på mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "nidkærheden"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "for dit hus"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "har fortæret mig"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "og hånene"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "fra dem der håner dig"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "er faldet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:23.745204585Z",
+  "model": "glm-5.3"
+}

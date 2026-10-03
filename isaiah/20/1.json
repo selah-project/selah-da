@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "I året da Tartan kom til Ashdod — da Sargon, kongen af Ashshur, sendte ⟨ham⟩ — og han kæmpede mod Ashdod og erobrede ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "i året"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "til Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "da … sendte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashshur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og han kæmpede"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "mod Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "og erobrede den"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:36.288996723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Jisrael har syndet; de har også overtrådt ⟨את⟩ min pagt, som jeg bød ⟨את⟩ dem, og de har også taget af det bandlyste, og de har også stjålet, og de har også løjet, og de har også lagt det blandt deres ejendele.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "har syndet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "har overtrådt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jeg bød"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "har taget"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "det bandlyste"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "har stjålet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "har løjet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "har lagt"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "blandt deres ejendele"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:21.131075087Z",
+  "model": "glm-5.3"
+}

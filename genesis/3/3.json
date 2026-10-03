@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "men af frugten af det træ, som ⟨er⟩ midt i haven, har Elohim sagt: I må ikke spise af det og ikke røre ved det, for at I ikke skal dø.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "men af frugten"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "af det træ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "haven"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "I må spise"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "røre ved"
+    },
+    {
+      "surface": "בו",
+      "gloss": "det"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at I ikke"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:22.425579916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "En Tora befalede Moshe os, en arvedel for Jaakovs menighed.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "befalede"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "arvedel"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "menighed"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:29.820674567Z",
+  "model": "glm-5.3"
+}

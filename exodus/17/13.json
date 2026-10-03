@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Yehoshua nedkæmpede ⟨את⟩ Amalek og ⟨את⟩ hans folk med sværdets æg.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "Og nedkæmpede"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans folk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hans folk"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æggen af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:30.136147283Z",
+  "model": "glm-5.3"
+}

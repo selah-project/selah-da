@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Men netop derfor har jeg ladet dig stå ⟨op⟩, for at vise dig ⟨את⟩ min kraft, og for at mit navn kan fortælles i hele landet.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "men netop"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "har jeg ladet dig stå"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "for at"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "vise dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min kraft"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min kraft"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og for at"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kan fortælles"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mit navn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:29.777951670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "For Jahve har behag i sit folk, han pryder de ydmyge med frelse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "har behag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "i sit folk"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "pryder"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ydmyge"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "med frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:22.013057365Z",
+  "model": "glm-5.3"
+}

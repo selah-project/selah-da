@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Og han skal leve, og man skal give ham guld fra Sheva, og man skal bede for ham bestandigt; hele dagen skal man velsigne ham.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og han skal leve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og man skal give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "fra Sheva"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "og man skal bede"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "skal velsigne ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:52.453661032Z",
+  "model": "glm-5.3"
+}

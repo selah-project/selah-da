@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Af David, da han ændrede ⟨את⟩ sin opførsel foran Avimelech, og han drev ham bort, og han gik.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "da han ændrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin opførsel"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "sin opførsel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "og han drev ham bort"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og han gik"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.097437012Z",
+  "model": "glm-5.3"
+}

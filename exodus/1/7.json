@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jisraels børn var frugtbare og yrkede og blev talrige og blev meget, meget mægtige; og landet blev fyldt ⟨את⟩ med dem.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og Jisraels børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "var frugtbare"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "og yrkede"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "og blev talrige"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "og blev mægtige"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "og blev fyldt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ med dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:37.545878128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og Rivka tog ⟨את⟩ klæderne, som tilhørte Esav, hendes ældste søn — de dejlige, som var ⟨hos hende⟩ i huset — og hun klædte ⟨את⟩ Jaakov, hendes yngste søn, i dem.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Og hun tog"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klæderne"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæderne"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hendes søn"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "den ældste"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "de dejlige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hos hende"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "og hun klædte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hendes søn"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:48.303580515Z",
+  "model": "glm-5.3"
+}

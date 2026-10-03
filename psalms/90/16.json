@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Lad dit værk ses af dine trælle og din pragt over deres børn.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "lad … ses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "af"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "dit værk"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "og din pragt"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres børn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.409095416Z",
+  "model": "glm-5.3"
+}

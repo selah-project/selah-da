@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Jeg vil gå frem i Adonaj Jahves vældige gerninger; jeg vil ihukomme din tsedek, dig alene.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Jeg vil gå frem"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "i vældige gerninger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "jeg vil ihukomme"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "dig alene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:26.865391217Z",
+  "model": "glm-5.3"
+}

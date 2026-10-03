@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Se, langt bort ville jeg flygte, jeg ville overnatte i ørkenen. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "langt bort"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ville flygte"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "jeg ville overnatte"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.335388742Z",
+  "model": "glm-5.3"
+}

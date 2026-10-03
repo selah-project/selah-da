@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jahves forbandelse er i ⟨את⟩ den gudløses hus, men de retfærdiges bolig velsigner han.",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "forbandelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i ⟨את⟩ hus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløses"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "men bolig"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsigner han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:02.299397508Z",
+  "model": "glm-5.3"
+}

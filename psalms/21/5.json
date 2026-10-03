@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Liv bad han dig om, og du gav ham det — dages længde, til evig tid og for evigt.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "liv"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bad"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "om dig"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "længde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dages"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:22.989314210Z",
+  "model": "glm-5.3"
+}

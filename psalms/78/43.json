@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "da han satte sine tegn i Mitsrajim og sine under i Tsoans mark.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "sine tegn"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "sine under"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "i Tsoans mark"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:30.661440329Z",
+  "model": "glm-5.3"
+}

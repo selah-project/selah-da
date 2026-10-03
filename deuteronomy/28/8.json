@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve skal påbyde ⟨את⟩ velsignelsen i dine lader og i alt, hvad din hånd rækker ud til, og han skal velsigne dig i det land, som Jahve, din Elohim, giver dig.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "skal påbyde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velsignelsen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "velsignelsen"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "i dine lader"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og i alt"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hvad ... rækker ud"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "og han skal velsigne dig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i det land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:52.817148925Z",
+  "model": "glm-5.3"
+}

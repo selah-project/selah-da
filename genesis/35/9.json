@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og Elohim åbenbarede sig for Jaakov endnu en gang, da han kom fra Paddan-Aram, og velsignede ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og åbenbarede sig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu en gang"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "da han kom"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "fra Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Jaakov)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:27.502960236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Du splintrede i din styrke ⟨את⟩ havet, du knuste hovederne på tanninim over vandene.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "splintrede"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "i din styrke"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "knuste"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hovederne"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:54.142745411Z",
+  "model": "glm-5.3"
+}

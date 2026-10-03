@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Bakbakkar, Cheresh og Galal, og Mattanja, søn af Mika, søn af Zikri, søn af Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Og Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Cheresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "og Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "og Mattanja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "af Mika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "af Zikri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "af Asaf"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:17.436015380Z",
+  "model": "glm-5.3"
+}

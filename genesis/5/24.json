@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Chanok vandrede med ⟨את⟩ Elohim, og han var der ikke meer, for Elohim tog ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "og han vandrede"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "med ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "og han var der ikke meer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:11.033510887Z",
+  "model": "glm-5.3"
+}

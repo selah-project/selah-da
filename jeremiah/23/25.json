@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Jeg har hørt ⟨את⟩ det, som profeterne sagde, de profeterer løgn i mit navn, idet de siger: Jeg har drømt, jeg har drømt!",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Jeg har hørt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeterne"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeterer"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "i mit navn"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idet de siger"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Jeg har drømt"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "jeg har drømt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:57.188811639Z",
+  "model": "glm-5.3"
+}

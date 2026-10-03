@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Du har ladet dem spise brød af tårer og givet dem tårer at drikke i trefoldigt mål.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "har ladet dem spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "af tårer"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "og givet dem at drikke"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "tårer"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "i trefoldigt mål"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:04.264388890Z",
+  "model": "glm-5.3"
+}

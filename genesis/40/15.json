@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "For jeg blev stjålet bort, stjålet, fra hebraernes land, og heller ikke her har jeg gjort noget som helst — ⟨את⟩ mig satte de i gruben.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "stjålet"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "stjålet blev jeg"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra land"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebraernes"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og heller ikke"
+    },
+    {
+      "surface": "פה",
+      "gloss": "her"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har jeg gjort"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "noget som helst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "satte de"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "i gruben"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "i gruben"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:41.365608274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og I selv ved, at med al min styrke tjente jeg ⟨את⟩ jeres far.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Og I selv"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med al"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min styrke"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "tjente jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres far"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "jeres far"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:57.298370467Z",
+  "model": "glm-5.3"
+}

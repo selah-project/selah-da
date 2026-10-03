@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Det, som har været, ⟨er⟩ allerede, og det, som skal komme, har allerede været — og Elohim søger ⟨את⟩ det forfulgte.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Det, som"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "har været"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allerede"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og det, som"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "skal komme"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allerede"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har været"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "og Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det forfulgte"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "det forfulgte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:23.580674032Z",
+  "model": "glm-5.3"
+}

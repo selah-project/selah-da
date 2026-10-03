@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Stød i shofar i Giv'a, i trompet i Rama; råb op i Bet-Aven: bag dig, Binjamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Stød"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "i shofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "i Giv'a"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "i trompet"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "råb op"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bag dig"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:04.775432891Z",
+  "model": "glm-5.3"
+}

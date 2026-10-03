@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og hele forsamlingen sagde, at de ville gøre sådan, for sagen var ret i hele folkets øjne.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "forsamlingen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ret"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:00.980719456Z",
+  "model": "glm-5.3"
+}

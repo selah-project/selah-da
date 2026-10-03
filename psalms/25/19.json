@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Se mine fjender, for de er blevet mange, og med had af vold hader de mig.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "de er blevet mange"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "og med had"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "af vold"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "hader de mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:17.213965574Z",
+  "model": "glm-5.3"
+}

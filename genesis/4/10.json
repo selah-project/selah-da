@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han sagde: Hvad har du gjort? Din broders blods røst skriger til mig fra jorden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blods"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "skriger"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.610931108Z",
+  "model": "glm-5.3"
+}

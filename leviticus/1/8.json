@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Aharons sønner, præsterne, skal ordne ⟨את⟩ stykkerne, ⟨את⟩ hovedet og ⟨את⟩ fedtet ovenpå brændet, som er på ilden, som er på alteret.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "og de skal ordne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stykkerne"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "stykkerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovedet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovenpå"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "brændet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "er på"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "er på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:16.018845496Z",
+  "model": "glm-5.3"
+}

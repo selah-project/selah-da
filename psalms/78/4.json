@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "vi vil ikke skjule dem for deres børn; for den sidste slægt fortæller vi Jahves pris og hans styrke og hans undergerninger, som han har gjort.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "vi vil skjule"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "for deres børn"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "for slægten"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "den sidste"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "fortæller vi"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "pris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "og hans styrke"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "og hans undergerninger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han har gjort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:19.976367470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Men de og vores fædre handlet overmodigt, og de forhærdede ⟨את⟩ deres nakke og hørte ikke på dine bud.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "og vores fædre"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "handlet overmodigt"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "og de forhærdede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres nakke"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "deres nakke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T19:07:33.119017771Z",
+  "model": "glm-5.3"
+}

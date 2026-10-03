@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og de som gengælder ondt med godt, de anklager mig, mig som forfølger ⟨det⟩ gode.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "Og de som gengælder"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "med"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "de anklager mig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨mig som⟩"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "forfølger"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:35.077115672Z",
+  "model": "glm-5.3"
+}

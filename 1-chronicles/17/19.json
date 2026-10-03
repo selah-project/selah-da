@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Jahve, for din træls skyld og efter dit hjerte har du gjort ⟨את⟩ al denne storhed, for at gøre ⟨את⟩ alle storhederne kendt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "for"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "og efter dit hjerte"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al denne storhed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "storhed"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "for at gøre kendt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle storhederne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "storhederne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:50.439058062Z",
+  "model": "glm-5.3"
+}

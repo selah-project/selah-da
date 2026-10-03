@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Således siger Jahve Tsevaot: Jeg har gjestet ⟨את⟩ det, Amalek gjorde mod Jisrael, da han lagde sig for ham på vejen, da han drog op fra Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "har jeg gjestet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, Amalek gjorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mod Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da han"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "da han drog op"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:47.874402767Z",
+  "model": "glm-5.3"
+}

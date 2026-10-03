@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Ansigt til ansigt talte Jahve med jer på bjerget, ud af midten af ilden.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Ansigt"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "til ansigt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med jer"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på bjerget"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ud af midten"
+    },
+    {
+      "surface": "האש",
+      "gloss": "af ilden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:21.261404741Z",
+  "model": "glm-5.3"
+}

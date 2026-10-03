@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Mordechai fortalte ham ⟨את⟩ alt, hvad der var hændt ham, og ⟨את⟩ beløbet af det sølv, som Haman havde sagt at ville veje ind i kongens skatkamre, ⟨nemlig⟩ over jøderne, for at udrydde dem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "var hændt ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "beløbet af det sølv"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "beløbet af"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "at veje"
+    },
+    {
+      "surface": "על",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "skatkamrene"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "over jøderne"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "for at udrydde dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:52.741416054Z",
+  "model": "glm-5.3"
+}

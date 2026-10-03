@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "⟨את⟩ dine chukkim vil jeg bevare; forlad mig ikke i høj grad!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine chukkim"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dine chukkim"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "vil jeg bevare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke (bønhør)"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "forlad mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "høj grad"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:15.462086412Z",
+  "model": "glm-5.3"
+}

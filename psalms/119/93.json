@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Til evigheden glemmer jeg ikke dine påbud, for ved dem har du gjort mig levende.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "glemmer jeg"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine påbud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "har du gjort mig levende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:45.678599046Z",
+  "model": "glm-5.3"
+}

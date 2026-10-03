@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og din vingård skal du ikke beskjære helt, og de nedfaldne druer af din vingård skal du ikke samle; til den fattige og til fremmedlingen skal du lade ⟨את⟩ dem tilbage. Jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "Og din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "skal du ikke beskjære helt"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "og de nedfaldne druer"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "af din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skal du samle"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "til den fattige"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "og til fremmedlingen"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "skal du lade tilbage"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "er Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:06.809532916Z",
+  "model": "glm-5.3"
+}

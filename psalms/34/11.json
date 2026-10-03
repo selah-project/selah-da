@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Unge løver lider nød og sultes, men de, der søger Jahve, mangler intet godt.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Unge løver"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "lider nød"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "og sultes"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "men de der søger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "mangler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noget som helst"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:31.053386431Z",
+  "model": "glm-5.3"
+}

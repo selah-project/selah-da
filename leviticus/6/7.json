@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og dette er Tora for minchaen: Aharons sønner skal bringe den ⟨את⟩ frem for Jahves ansigt, foran alteret.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "er Tora for"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "skal bringe frem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (minchaen)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frem for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet af"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:40.179471814Z",
+  "model": "glm-5.3"
+}

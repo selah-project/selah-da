@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Thi Elohim ⟨er⟩ dommer; ⟨den ene⟩ ydmyger han, og ⟨den anden⟩ ophøjer han",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dommer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨den ene⟩"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ydmyger han"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "og ⟨den anden⟩"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ophøjer han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:53.701479439Z",
+  "model": "glm-5.3"
+}

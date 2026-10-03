@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Vend dig bort fra ondt, og gør godt; søg shalom og forfølg den.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Vend dig bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fra ondt"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "søg"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "og forfølg den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:35.476957618Z",
+  "model": "glm-5.3"
+}

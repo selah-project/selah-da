@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Elohim, du har stødt os bort, du har brudt os ned, du er blevet vred — vend tilbage til os!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "du har stødt os bort"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "du har brudt os ned"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "du er blevet vred"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "til os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:22.246934757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og jeg vendte mig, og jeg så ⟨את⟩ alle de undertrykte, som bliver undertrykt under solen, og se, de undertryktes tårer, og der er ingen til at trøste dem, og fra deres undertrykkeres hånd ⟨er der⟩ magt, og der er ingen til at trøste dem.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Og jeg vendte mig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "og jeg så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de undertrykte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "de undertrykte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "bliver undertrykt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "tårer"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "de undertryktes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "at trøste"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "og fra hånd"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "deres undertrykkeres"
+    },
+    {
+      "surface": "כח",
+      "gloss": "magt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "at trøste"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:44.819343485Z",
+  "model": "glm-5.3"
+}

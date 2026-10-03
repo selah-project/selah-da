@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Da sagde jeg: Se, jeg er kommet — i en bogrulle er det skrevet om mig.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Da"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde jeg"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jeg er kommet"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "i en bogrulle"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bog"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "er skrevet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "om mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:04.140317766Z",
+  "model": "glm-5.3"
+}

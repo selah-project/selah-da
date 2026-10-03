@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "De huskede ikke ⟨את⟩ hans hånd, dagen da han løskøbte dem fra fjenden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "løskøbte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fjenden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:30.661292044Z",
+  "model": "glm-5.3"
+}

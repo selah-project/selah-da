@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og I skal sige sådan: ⟨Leve⟩! Og du — fred, og dit hus — fred, og alt hvad du har — fred!",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Og I skal sige"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨Leve⟩!"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du har"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:28.218234171Z",
+  "model": "glm-5.3"
+}

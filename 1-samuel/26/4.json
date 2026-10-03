@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og David udsendte spejdere og erfarede, at Shaul virkelig var kommet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og han udsendte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spejdere"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "og han erfarede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "בא",
+      "gloss": "var kommet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "virkeligt (Nakhon)"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:44.873000845Z",
+  "model": "glm-5.3"
+}

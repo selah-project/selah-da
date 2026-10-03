@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og Mitsrajim begravede ⟨את⟩ dem, som Jahve havde slået iblandt dem, hver førstefødt; og mod deres guder udøvede Jahve domme.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Og Mitsrajim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "begravede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem, som Jahve havde slået"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "havde slået"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iblandt dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "førstefødt"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "og mod deres guder"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udøvede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "domme"
+    }
+  ],
+  "timestamp": "2026-10-03T15:18:56.591884214Z",
+  "model": "glm-5.3"
+}

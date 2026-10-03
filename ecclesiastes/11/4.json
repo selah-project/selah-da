@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den, der passer på ruachen, sår ikke; og den, der ser på skyerne, høster ikke.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "passer på"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruachen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sår"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og ser på"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "høster"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:02.485690831Z",
+  "model": "glm-5.3"
+}

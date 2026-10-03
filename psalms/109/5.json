@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og de satte ondskab over mig i stedet for godhed, og had i stedet for min kærlighed.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "og de satte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "godhed"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "og had"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "min kærlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.300526865Z",
+  "model": "glm-5.3"
+}

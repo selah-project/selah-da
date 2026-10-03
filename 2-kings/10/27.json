@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og de nedbrød ⟨את⟩ Ba'als stenstøtte og nedbrød ⟨את⟩ Ba'als hus og gjorde den til latriner ind til denne dag.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "og de nedbrød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'als stenstøtte"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stenstøtte"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'als"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "og nedbrød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'als hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ba'als"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "og gjorde den"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "til latriner"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ind til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denne dag"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:14.526896546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Avram var firs år og seks år, da Hagar fødte ⟨את⟩ Jishmael til Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Og Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨var⟩"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "firs"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "da hun fødte"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "til Avram"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:17.478413075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Mine hellige ting har du foragtet, og ⟨את⟩ mine Shabbatter har du vanhelliget.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "mine hellige ting"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "har du foragtet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mine Shabbatter"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mine Shabbatter"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "har du vanhelliget"
+    }
+  ],
+  "timestamp": "2026-10-03T17:37:24.487182766Z",
+  "model": "glm-5.3"
+}

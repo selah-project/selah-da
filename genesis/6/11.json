@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og jorden blev ødelagt foran Elohim, og jorden var fyldt med vold.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Og blev ødelagt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "og var fyldt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:48.475086287Z",
+  "model": "glm-5.3"
+}

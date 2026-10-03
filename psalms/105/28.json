@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han sendte mørke, og det blev mørkt, og de trodsede ikke ⟨את⟩ hans ord.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Han sendte"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "og det blev mørkt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "trodsede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans ord"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "hans ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:25.597393939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "For at du skal frygte ⟨את⟩ Jahve din Elohim, så du vogter ⟨את⟩ alle hans bestemmelser og hans bud, som jeg byder dig — du og din søn og din søns søn — alle dit livs dage, og for at dine dage skal blive lange.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "For at"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "du skal frygte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "så du vogter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle hans bestemmelser og hans bud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "hans bestemmelser"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "og hans bud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "byder dig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "og din søn"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søns søn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "af dit liv"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og for at"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "skal blive lange"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dine dage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:45.922767480Z",
+  "model": "glm-5.3"
+}

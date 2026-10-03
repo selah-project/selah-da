@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "og jeg sønderrev ⟨את⟩ kongerigmet fra Davids hus og gav det til dig; og du har ikke været som min træl David, som vogtede mine bud og fulgte mig med hele sit hjerte, så han kun gjorde det, som er ret i mine øjne —",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "og jeg sønderrev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongeriget"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra … hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "det til dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har du været"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "som min træl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogtede"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mine bud"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og som"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fulgte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sit hjerte"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "så han gjorde"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det, som er ret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:36.060960235Z",
+  "model": "glm-5.3"
+}

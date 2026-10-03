@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 51:31",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Løber mod løber iler, og bud mod bud, for at fortælle Babels konge, at hans by ⟨er⟩ indtaget fra ⟨den ene⟩ ende.",
+  "tokens": [
+    {
+      "surface": "רץ",
+      "gloss": "løber"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mod"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "løber"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "iler"
+    },
+    {
+      "surface": "ומגיד",
+      "gloss": "og bud"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mod"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "bud"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "for at fortælle"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "er indtaget"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "hans by"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "fra enden"
+    }
+  ],
+  "timestamp": "2026-10-03T17:29:48.181076725Z",
+  "model": "glm-5.3"
+}

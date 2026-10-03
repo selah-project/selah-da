@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Shelomo søgte at dræbe ⟨את⟩ Jerobeam; så stod Jerobeam op og flygtede til Mitsrajim, til Shishak, kongen af Mitsrajim, og han var i Mitsrajim indtil Shelomos død.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Og søgte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerobeam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "og stod op"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "af Mitsrajim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "מות",
+      "gloss": "død"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomos"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:22.339815831Z",
+  "model": "glm-5.3"
+}

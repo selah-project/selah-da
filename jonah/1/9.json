@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han sagde til dem: En hebraer er jeg, og Jahve, Elohim ⟨את⟩ — himlenes Elohim — frygter jeg, han som gjorde ⟨את⟩ havet og ⟨את⟩ det tørre land.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "en hebraer"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er jeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨af⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det tørre land"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "det tørre land"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:10.402792977Z",
+  "model": "glm-5.3"
+}

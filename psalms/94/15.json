@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Thi dommen vender tilbage til tsedek, og efter den ⟨kommer⟩ alle, som er rette af hjertet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dommen"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "og efter den"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "rette"
+    },
+    {
+      "surface": "לב",
+      "gloss": "af hjertet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:31.942119591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Kloke kvinder har bygget sit hus, men dårskab river det ned med sine hænder.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "kloke kvinder"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kvinder"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "har bygget"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "men dårskab"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "med sine hænder"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "river det ned"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:03.215755151Z",
+  "model": "glm-5.3"
+}

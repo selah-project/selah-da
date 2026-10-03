@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og han kaldte den første ved navn Jemima, og den anden ved navn Ketsia, og den tredje ved navn Keren-haPuch.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ved navn"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den første"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og ved navn"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketsia"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og ved navn"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "haPuch"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:31.115859205Z",
+  "model": "glm-5.3"
+}

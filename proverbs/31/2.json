@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Hvad, min søn? og hvad, søn af min livmoder? og hvad, søn af mine løfter?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvad"
+    },
+    {
+      "surface": "בר",
+      "gloss": "søn"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "af min livmoder"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvad"
+    },
+    {
+      "surface": "בר",
+      "gloss": "søn"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "af mine løfter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:23.733714758Z",
+  "model": "glm-5.3"
+}

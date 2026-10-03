@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete dagen efter, at Moshe sad for at dømme ⟨את⟩ folket; og folket stod omkring Moshe fra morgen til aften.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dagen efter"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sad"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "for at dømme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "על",
+      "gloss": "omkring"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morningen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:20.324072439Z",
+  "model": "glm-5.3"
+}

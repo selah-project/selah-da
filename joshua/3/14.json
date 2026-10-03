@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og det skete, da folket brød op fra deres telte for at gå over ⟨את⟩ Jordan, at præsterne, som bar arken for pagten, gik foran folket.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "da … brød op"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "fra deres telte"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "for at gå over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ווהכהנים",
+      "gloss": "at præsterne"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "som bar"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "for pagten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:29.919082427Z",
+  "model": "glm-5.3"
+}

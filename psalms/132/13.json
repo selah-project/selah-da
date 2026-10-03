@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Thi Jahve har udvalgt ⟨את⟩ Tzion, han har attrået den som bolig for sig:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "har udvalgt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "har attrået den"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "som bolig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:47.554924170Z",
+  "model": "glm-5.3"
+}

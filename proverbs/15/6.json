@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Den retfærdiges hus ⟨har⟩ megen rigdom, men i de ondes afgrøde ⟨er⟩ forvirring.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "rigdom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "men i afgrøden"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "forvirring"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:59.612136656Z",
+  "model": "glm-5.3"
+}

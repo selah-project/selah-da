@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "De vises ord høres i rohved mere end herskerens råben blandt dårer.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vises"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "i rohved"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "høres"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "mere end råben"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "herskerens"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "blandt dårer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:03.389769417Z",
+  "model": "glm-5.3"
+}

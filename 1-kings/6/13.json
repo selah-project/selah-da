@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og jeg skal bo midt iblandt Jisraels børn og ikke forlade ⟨את⟩ mit folk Jisrael.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "og jeg skal bo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "forlade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk Jisrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:28.959446245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "For min klippe og min fæstning ⟨er⟩ du; og for dit navns skyld, led mig og vejled mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og min fæstning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og for … skyld"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navns"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "led mig"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "og vejled mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:52.737963176Z",
+  "model": "glm-5.3"
+}

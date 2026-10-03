@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han gjorde ⟨את⟩ bordet af akacietræ: to alen var dets længde, og én alen dets bredde, og én alen og en halv dets højde.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træ af"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "to alen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dets længde"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og én alen"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dets bredde"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og én alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dets højde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:46.238468089Z",
+  "model": "glm-5.3"
+}

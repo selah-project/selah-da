@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og ⟨את⟩ husets gulv beklædte han med guld, indvendigt og udvendigt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "husets gulv"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "gulv"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "beklædte han"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "indvendigt"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "og udvendigt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:24:19.100037871Z",
+  "model": "glm-5.3"
+}

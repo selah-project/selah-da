@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Jahve vendte ⟨את⟩ Ijobs fangenskab, mens han bad for sin ven; og Jahve gav ⟨את⟩ alt, hvad Ijob ejede, ⟨til⟩ dobbelt.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijobs fangenskab"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "fangenskab"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijobs"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "mens han bad"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin ven"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt, hvad Ijob ejede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ijob ejede"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "til dobbelt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:51.976468434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Den der spotter ⟨den⟩ fattige, håner hans Skaber; den som glæder sig over ulykke, bliver ikke frikendt.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "spotter"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "⟨den⟩ fattige"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "håner"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "hans Skaber"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "over ulykke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bliver frikendt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:22.988927031Z",
+  "model": "glm-5.3"
+}

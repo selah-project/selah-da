@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Som røg drives bort, ⟨sådan drives de bort⟩; som voks smelter for ildens ansigt, sådan skal de onde gå til grunde for Elohims ansigt.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "som drives bort"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "røg"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "drives bort"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "som smelter"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "voks"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ... ansigt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ildens"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "skal gå til grunde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ... ansigt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:59.502944064Z",
+  "model": "glm-5.3"
+}

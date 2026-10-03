@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og hele jorden søgte ⟨את⟩ Shelomos ansigt for at høre ⟨את⟩ hans visdom, som Elohim havde lagt i hans hjerte.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "søgte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomos ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomos"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "for at høre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans visdom"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "hans visdom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "havde lagt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i hans hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:04.042684494Z",
+  "model": "glm-5.3"
+}

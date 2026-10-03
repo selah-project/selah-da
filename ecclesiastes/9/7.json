@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Gå bort, spis dit brød med glæde og drik din vin med et godt hjerte, thi Elohim har allerede behaget ⟨את⟩ dine gerninger.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spis"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glæde"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "dit brød"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "og drik"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "med et hjerte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "din vin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allerede"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "har behaget"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine gerninger"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dine gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:08.869582968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og de sagde til ham: Nej, min herre, men dine tjenere er kommet for at købe mad.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "men dine tjenere"
+    },
+    {
+      "surface": "באו",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "for at købe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:37.845824902Z",
+  "model": "glm-5.3"
+}

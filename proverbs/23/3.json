@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Læng ikke efter hans delikatesser, for det er løgnens brød.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "Læng"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "efter hans delikatesser"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "for det"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "er brød"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "løgnes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:38.720255410Z",
+  "model": "glm-5.3"
+}

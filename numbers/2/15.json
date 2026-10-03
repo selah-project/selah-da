@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "og hans hær og deres optalte: fem og fyrre tusind og seks hundrede og halvtreds.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "og hans hær"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "og deres optalte"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og seks"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "og halvtreds"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:54.326251912Z",
+  "model": "glm-5.3"
+}

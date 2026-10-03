@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve er deres styrke, og han er et frelsens værn for sin Mashiach.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "למו",
+      "gloss": "deres"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "og et værn"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frelsens"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "sin Mashiach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.571330586Z",
+  "model": "glm-5.3"
+}

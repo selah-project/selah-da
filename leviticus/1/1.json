@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han kaldte på Moshe, og Jahve talte til ham fra mødeteltet og sagde:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og han kaldte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "fra teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:19.972110797Z",
+  "model": "glm-5.3"
+}

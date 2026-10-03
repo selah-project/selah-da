@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jahves vrede brændte mod Jisrael, og han solgte dem i filistrenes hånd og i Ammons børns hånd.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Og … brændte"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mod Jisrael"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "og han solgte dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i … hånd"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistrenes"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og i … hånd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    }
+  ],
+  "timestamp": "2026-10-03T15:51:18.258048745Z",
+  "model": "glm-5.3"
+}

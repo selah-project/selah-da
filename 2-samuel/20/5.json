@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Amasa gik for at sammenkalde ⟨את⟩ Juda, og han drøjede længere end den fastsatte tid, som han havde aftalt ham.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og gik"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "for at sammenkalde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "og han drøjede"
+    },
+    {
+      "surface": "מן",
+      "gloss": "længere end"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "den fastsatte tid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "han havde aftalt ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:48.444135320Z",
+  "model": "glm-5.3"
+}

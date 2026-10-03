@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Du giver os som får til føde og spreder os blandt folkeslagene.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Du giver os"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som får"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "til føde"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "og blandt folkeslagene"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "spreder du os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:28.831182891Z",
+  "model": "glm-5.3"
+}

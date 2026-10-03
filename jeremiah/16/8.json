@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og et gildehus skal du ikke gå ind i for at sidde hos dem ⟨את⟩, for at spise og drikke.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "og et hus"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gilde (drikkefest)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skal du gå ind i"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "for at sidde"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (gæsterne)"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "for at spise"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "og drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:22.223570301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Kun blodet må I ikke spise; på jorden skal du udgyde det som vand.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "skal du udgyde det"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:31.549335842Z",
+  "model": "glm-5.3"
+}

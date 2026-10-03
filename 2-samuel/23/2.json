@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Jahves ruach talte gennem mig, og hans ord var på min tunge.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "gennem mig"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "og hans ord"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunge"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:35.256791812Z",
+  "model": "glm-5.3"
+}

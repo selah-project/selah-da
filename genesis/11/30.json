@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Saraj var ufrugtbar; hun havde intet barn.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ufrugtbar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לה",
+      "gloss": "havde hun"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "barn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:20.731997854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Thi mod højre og mod venstre skal du bryde frem, og din sæd skal arve folkeslagene, og de forladte byer skal de genbefolke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mod højre"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "og mod venstre"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "skal du bryde frem"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "og din sæd"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "skal arve"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "og ... byer"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "forladte"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "skal de genbefolke"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:40.209587613Z",
+  "model": "glm-5.3"
+}

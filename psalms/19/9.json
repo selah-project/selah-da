@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Jahves bud er rette, de glæder hjertet; Jahves befaling er ren, den oplyser øjnene.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "rette"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "de glæder"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "befaling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "den oplyser"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "øjnene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:52.293484986Z",
+  "model": "glm-5.3"
+}

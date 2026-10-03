@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Jitro, Moshes svigerfar, tog ⟨את⟩ Tsiport, Moshes hustru, efter at ⟨han⟩ havde sendt hende bort,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "svigerfar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiport"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiport"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "at han havde sendt hende bort"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:33.323791247Z",
+  "model": "glm-5.3"
+}

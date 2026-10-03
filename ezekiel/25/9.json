@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Derfor, se, jeg åbner ⟨את⟩ Moabs skulder fra byerne, fra hans byer, fra hans yderste grænse, landets herlighed, Beit ha-Jeshimot, Baal-Meon og Kirjataim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "jeg åbner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabs skulder"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "skulder"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "fra byerne"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "fra hans byer"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "fra hans yderste grænse"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "ha-Jeshimot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "og Kirjataim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:38:32.184982850Z",
+  "model": "glm-5.3"
+}

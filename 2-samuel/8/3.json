@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og David slog ⟨את⟩ Hadadezer, søn af Rechov, konge af Zova, da han gik for at vende sin hånd ved ⟨ved⟩ floden.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "da han gik"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "for at vende"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ved floden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:39.752165642Z",
+  "model": "glm-5.3"
+}

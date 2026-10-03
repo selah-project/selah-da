@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim sagde: Vandene skal vrimle med vrimmel af levende sjæl, og fugle skal flyve over jorden, over rakia'ens ansigt i himlene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "skal vrimle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Vandene"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "med vrimmel"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "levende"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "og fugle"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "skal flyve"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakia'ens"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.761181239Z",
+  "model": "glm-5.3"
+}

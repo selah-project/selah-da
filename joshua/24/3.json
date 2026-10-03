@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Jeg tog jeres far, ⟨את⟩ Avraham, fra den anden side af floden, og Jeg førte ham gennem hele Kana'ans land, og jeg gjorde hans æt talrig, og Jeg gav ham ⟨את⟩ Jitschak.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Og Jeg tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres far"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "jeres far"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "fra den anden side af"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "og Jeg førte"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gennem hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kana'ans"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "og jeg gjorde talrig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans æt"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans æt"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "og Jeg gav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:38.436785560Z",
+  "model": "glm-5.3"
+}

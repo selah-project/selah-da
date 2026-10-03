@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg har set ⟨את⟩ den møje, som Elohim har givet menneskenes børn at slide med i den.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jeg har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den møje"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "den møje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "børnene af"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "at slide med"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:08.359947274Z",
+  "model": "glm-5.3"
+}

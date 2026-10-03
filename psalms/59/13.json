@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "⟨For⟩ deres munds synd, deres læbers ord — lad dem fanges i deres hovmod, og for banden og løgnen, som de fortæller.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "deres mund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "deres læber"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "lad dem fanges"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "i deres hovmod"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "og for banden"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "og løgnen"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "de fortæller"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:05.123082693Z",
+  "model": "glm-5.3"
+}

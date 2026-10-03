@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "På pilene midt i den hængte vi vores kinorrer op.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "pilene"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "midt i den"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "hængte vi op"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "vores kinorrer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:14.065660137Z",
+  "model": "glm-5.3"
+}

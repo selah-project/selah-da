@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og hæren af kasditere forfulgte kongen, og de indhentede ⟨את⟩ ham på sletterne ved Jericho; og hele hans hær blev spredt væk fra ham.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "forfulgte"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasditere"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "indhentede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "på sletterne"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hans hær"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "blev spredt"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "væk fra ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:11.784726677Z",
+  "model": "glm-5.3"
+}

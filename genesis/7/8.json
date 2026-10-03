@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Af husdyrene, de rene, og af husdyrene, som ikke ⟨er⟩ rene, og af fuglene og alt det, som kryber på jorden —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "husdyrene"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "de rene"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og af"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "husdyrene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "rene"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og af"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "fuglene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kryber"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:08.631739743Z",
+  "model": "glm-5.3"
+}

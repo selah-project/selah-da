@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og folket gik ud og plyndrede ⟨את⟩ Arams lejr; og der blev en seah fint mel for en shekel og to sea byg for en shekel, som Jahve havde sagt.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og gik ud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "og plyndrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arams lejr"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lejr"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og der blev"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "en seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fint mel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "for en shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "og to sea"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "byg"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "for en shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "som sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:17.944733292Z",
+  "model": "glm-5.3"
+}

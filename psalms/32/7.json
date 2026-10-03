@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Du er et skjul for mig; fra trengsel bevarer du mig, med jubel over udfrielse omgiver du mig. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "et skjul"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "fra trengsel"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "bevarer du mig"
+    },
+    {
+      "surface": "רני",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "over udfrielse"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "omgiver du mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:10.824421223Z",
+  "model": "glm-5.3"
+}

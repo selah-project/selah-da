@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Del som del skal de spise, foruden det, der kommer fra hans salg af ⟨de fædrene⟩ arv.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "del"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "som del"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal de spise"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "foruden"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "fra hans salg"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "fædrene"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:05.427731124Z",
+  "model": "glm-5.3"
+}

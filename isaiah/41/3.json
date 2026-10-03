@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Han forfølger dem, går forbi i shalom; en vej med sine fødder betræder han ikke.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "forfølger dem"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "går forbi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i shalom"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "en vej"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "med sine fødder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "betræder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:41.885408848Z",
+  "model": "glm-5.3"
+}

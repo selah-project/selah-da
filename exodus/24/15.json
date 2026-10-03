@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Moshe gik op til bjerget, og skyen dækkede ⟨את⟩ bjerget.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Og … gik op"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "og … dækkede"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bjerget"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjerget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:32.277838980Z",
+  "model": "glm-5.3"
+}

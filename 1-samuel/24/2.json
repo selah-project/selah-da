@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og det skete, da Shaul vendte tilbage fra filisterne, fortalte de ham og sagde: Se, David er i ørkenen ved En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "fra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "de ham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:04.210023876Z",
+  "model": "glm-5.3"
+}

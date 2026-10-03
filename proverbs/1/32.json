@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "For de enfoldiges afvigelse skal slå dem ihjel, og dårers tryghed skal ødelægge dem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "afvigelse"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "de enfoldiges"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "skal slå dem ihjel"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "og tryghed"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårers"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "skal ødelægge dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:35.675680308Z",
+  "model": "glm-5.3"
+}

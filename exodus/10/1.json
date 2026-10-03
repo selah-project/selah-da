@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jahve sagde til Moshe: Gå ind til Paroh, for jeg har gjort ⟨את⟩ hans hjerte tungt og ⟨את⟩ hjertet hos hans tjenere, for at jeg kan sætte disse mine tegn i hans midte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "har gjort tungt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hjerte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hjertet"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hos hans tjenere"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "jeg kan sætte"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mine tegn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i hans midte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:03.102493486Z",
+  "model": "glm-5.3"
+}

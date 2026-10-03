@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Præsten, som syndes den, skal spise den; på et helligt sted skal den spises, i forgården til mødeteltet.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Præsten"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "som syndes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "skal spise den"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på et sted"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal … spises"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "i forgården"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "til teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:49.399822945Z",
+  "model": "glm-5.3"
+}

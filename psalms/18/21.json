@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Jahve gengælder mig efter min tsedek, efter rensheden af mine hænder giver han mig tilbage.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "gengælder mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "efter min tsedek"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "efter rensheden"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "af mine hænder"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "giver han tilbage"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:48.710467387Z",
+  "model": "glm-5.3"
+}

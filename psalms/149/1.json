@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "Halleluja! Syng for Jahve en ny sang, hans lovprisning i ⟨de⟩ troendes forsamling.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lovprisning"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i forsamling"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "troendes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:22.012542104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Du prøvede mit hjerte, du gjorde tilsyn om natten, du raffinerede mig — intet fandt du; min plan går ikke ud over min mund.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "du prøvede"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "du gjorde tilsyn"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "du raffinerede mig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "intet"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "fandt du"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "min plan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "går ud over"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.858449846Z",
+  "model": "glm-5.3"
+}

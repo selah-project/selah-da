@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "På hænder skal de bære dig op, for at du ikke skal støde din fod mod en sten.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "På"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "skal de bære dig op"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at du ikke"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "skal støde"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "mod en sten"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:53.403381650Z",
+  "model": "glm-5.3"
+}

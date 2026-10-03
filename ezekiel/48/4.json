@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Og ved Naftalis grænse, fra øst-siden til hav-siden ⟨vest⟩: Menashe, én ⟨del⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Og ved"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænse"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalis"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "fra siden af"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "øst"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "siden af"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "havet ⟨vest⟩"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T17:48:34.179263467Z",
+  "model": "glm-5.3"
+}

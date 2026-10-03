@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og kong Koresh bragte ⟨את⟩ karrene fra Jahves hus frem, dem som Nevukadnetsar havde ført ud fra Jerushalajim og lagt i sin guds hus.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "bragte frem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karrene fra Jahves hus"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "karrene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "havde ført ud"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "fra Jerushalajim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "og lagde dem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin guds"
+    }
+  ],
+  "timestamp": "2026-10-03T19:02:31.546656955Z",
+  "model": "glm-5.3"
+}

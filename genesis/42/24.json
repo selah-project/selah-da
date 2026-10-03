@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og han vendte sig bort fra dem og græd; og han vendte tilbage til dem og talte til dem og tog fra dem ⟨את⟩ Shimon og bandt ham for deres øjne.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "og han vendte sig"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "bort fra dem"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "og græd"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og han vendte tilbage"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ fra dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "og bandt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "for deres øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:11.847206452Z",
+  "model": "glm-5.3"
+}

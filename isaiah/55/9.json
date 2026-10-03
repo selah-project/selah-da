@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "For så højt som himlene er over jorden, så høje er mine veje over jeres veje og mine tanker over jeres tanker.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "så højt ... er"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "over jorden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "høje er"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mine veje"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "over jeres veje"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "og mine tanker"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "over jeres tanker"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:56.186215692Z",
+  "model": "glm-5.3"
+}

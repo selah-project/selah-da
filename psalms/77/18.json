@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Skyerne strømmede vand ud, skyerne gav ⟨et⟩ brøl, ja, dine pile fløj frem og tilbage.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "strømmede ud"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "קול",
+      "gloss": "brøl"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "dine pile"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "fløj frem og tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:56.830448066Z",
+  "model": "glm-5.3"
+}

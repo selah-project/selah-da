@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Du må ikke begære din næstes hus; du må ikke begære din næstes hustru, heller ikke hans træl eller hans trælkvinde, hans okse eller hans æsel, eller noget som helst, der tilhører din næste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begære"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din næste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begære"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din næste"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "og hans træl"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "og hans trælkvinde"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "og hans okse"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "og hans æsel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "tilhører din næste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:50.163922988Z",
+  "model": "glm-5.3"
+}

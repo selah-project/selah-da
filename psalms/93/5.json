@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 93,
+  "translation": "Dine vidnesbyrd ⟨er⟩ blevet faste ⟨i⟩ høj grad; til dit hus sømmer hellighed sig, Jahve, i dages længde.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "⟨er⟩ blevet faste"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i høj grad"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "til dit hus"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sømmer sig"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "i længde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "af dage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:50.685861488Z",
+  "model": "glm-5.3"
+}

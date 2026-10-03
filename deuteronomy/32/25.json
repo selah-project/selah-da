@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Udenfor skal sværdet gøre barnløs, og i kamrene rædsel; både den unge mand og jomfruen, diebarnet sammen med den gråhårede mand.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "udenfor"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "skal gøre barnløs"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "og i kamrene"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "den unge mand"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "jomfruen"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "diebarnet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "den gråhårede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:21.974080635Z",
+  "model": "glm-5.3"
+}

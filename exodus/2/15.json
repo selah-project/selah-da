@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Par'o hørte ⟨את⟩ denne sag og søgte at dræbe ⟨את⟩ Moshe; men Moshe flygtede for Par'os ansigt og bosatte sig i Midjans land og satte sig ved brønden.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne sag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "og søgte"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "men flygtede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og bosatte sig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og satte sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "brønden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:00.922905454Z",
+  "model": "glm-5.3"
+}

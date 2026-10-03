@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Og jeg trampede folkene ned i min vrede og gjorde dem drukne i min harme, og jeg væltede deres saft ned på jorden.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "Og jeg trampede"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "og gjorde dem drukne"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "i min harme"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "og jeg væltede ned"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "deres saft"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:02.416668079Z",
+  "model": "glm-5.3"
+}

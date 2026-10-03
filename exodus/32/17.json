@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Yehoshua hørte ⟨את⟩ lyden af folket, da det råbte, og han sagde til Moshe: Lyden af krig ⟨er⟩ i lejren!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "af folket"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "da det råbte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "af krig"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:52.257210239Z",
+  "model": "glm-5.3"
+}

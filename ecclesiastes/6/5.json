@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Selv solen har den ikke set og heller ikke kendt ⟨den⟩; mere hvile har denne end hin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "selv"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har set"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og heller ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kendt"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "hvile"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "har denne"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "end hin"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:50.266067791Z",
+  "model": "glm-5.3"
+}

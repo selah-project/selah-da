@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Lad ikke ⟨den⟩ knuste vende tilbage skammet; ⟨den⟩ fattige og ⟨den⟩ nødlidende skal prise dit navn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": " vende tilbage"
+    },
+    {
+      "surface": "דך",
+      "gloss": "den knuste"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "skammet"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og den nødlidende"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "skal prise"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:40.831120934Z",
+  "model": "glm-5.3"
+}

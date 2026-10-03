@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han sagde: Frygt ikke, for de ⟨er⟩ flere, ⟨de⟩ som ⟨er⟩ med ⟨את⟩ os, end ⟨de⟩ som ⟨er⟩ med ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Frygt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "flere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "med ⟨את⟩ os"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "end de som"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "med ⟨את⟩ dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:35.567289759Z",
+  "model": "glm-5.3"
+}

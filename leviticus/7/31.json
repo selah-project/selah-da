@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og præsten skal bringe ⟨את⟩ fedtet i røg på alteret, og brystet skal tilhøre Aharon og hans sønner.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Og ... skal bringe i røg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedtet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fedtet"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal være"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "brystet"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "for Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og for hans sønner"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:31.536592665Z",
+  "model": "glm-5.3"
+}

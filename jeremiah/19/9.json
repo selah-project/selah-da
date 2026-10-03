@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og jeg vil få dem til at spise ⟨את⟩ kødet fra deres sønner og ⟨את⟩ kødet fra deres døtre, og hver mand skal spise kødet af sin næste, i belejring og trængsel, som deres fjender og de der søger deres ⟨sjæl⟩, vil påføre dem.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "og jeg vil få dem til at spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kødet fra deres sønner"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fra deres sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kødet fra deres døtre"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "fra deres døtre"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "af sin næste"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal spise"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "i belejring"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "og i trængsel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "vil påføre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "og de der søger"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deres sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T17:16:43.081077035Z",
+  "model": "glm-5.3"
+}

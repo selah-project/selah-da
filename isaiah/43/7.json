@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Enhver, som kaldes med mit navn, og til min ære — jeg skabte ham, jeg formede ham, ja, jeg gjorde ham.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Enhver"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "som kaldes"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "med mit navn"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "og til min ære"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "jeg skabte ham"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "jeg formede ham"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "jeg gjorde ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:49.680429264Z",
+  "model": "glm-5.3"
+}

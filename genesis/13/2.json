@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Avram var ⟨meget⟩ tung ⟨af ejendom⟩, i kvæg, i sølv og i guld.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Og Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "var tung"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "i kvæg"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "i sølv"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "og i guld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:12.381112877Z",
+  "model": "glm-5.3"
+}

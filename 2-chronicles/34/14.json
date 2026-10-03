@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og da de bar ⟨את⟩ pengene, der var bragt ind i Jahves hus, ud, fandt præsten Chilkija ⟨את⟩ bogen, Toráen fra Jahve, skrevet af Moshe.",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "Og da de bar ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pengene"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pengene"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "der var bragt ind"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fandt"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bogen"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toráen fra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "af (bogstaveligt: ved hånden)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:24.183799051Z",
+  "model": "glm-5.3"
+}

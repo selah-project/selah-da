@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve troner til evig tid; han har rejst sin trone til dom.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "troner"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "har rejst"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "til dom"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sin trone"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:49.676672866Z",
+  "model": "glm-5.3"
+}

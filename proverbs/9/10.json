@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Frygten for Jahve er visdommens begyndelse, og kundskab om ⟨de⟩ hellige er forstand.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "begyndelsen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "og kundskab"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "om ⟨de⟩ hellige"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "forstand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:43.595868397Z",
+  "model": "glm-5.3"
+}

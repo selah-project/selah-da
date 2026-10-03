@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten, som renser, skal stille manden, som skal renses, og ⟨את⟩ dem foran Jahves ansigt ved indgangen til mødeteltet.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "og skal stille"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "som renser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manden, som skal renses"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "som skal renses"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "og ⟨את⟩ dem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen til"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af mødet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:02.963570610Z",
+  "model": "glm-5.3"
+}

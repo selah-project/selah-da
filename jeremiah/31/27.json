@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Se, dage kommer, siger Jahve, og jeg skal så ⟨את⟩ Israels hus og ⟨את⟩ Judas hus med sæd af mennesker og sæd af dyr.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "og jeg skal så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Judas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "af mennesker"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "og sæd"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "af dyr"
+    }
+  ],
+  "timestamp": "2026-10-03T17:19:52.163054244Z",
+  "model": "glm-5.3"
+}

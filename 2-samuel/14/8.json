@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og kongen sagde til kvinden: Gå til dit hus, og jeg vil pålægge vedrørende dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "til dit hus"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "vil pålægge"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "vedrørende dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:14:40.508948379Z",
+  "model": "glm-5.3"
+}

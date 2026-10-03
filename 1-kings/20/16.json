@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og de drog ud ved middagstid; og Ben-Hadad drak sig drukken i hytterne, han og kongerne, de to og tredive konger, der hjalp ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "og de drog ud"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ved middagstid"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drak"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "drukken"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "i hytterne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "og kongerne"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konger"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjalp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:27.778806806Z",
+  "model": "glm-5.3"
+}

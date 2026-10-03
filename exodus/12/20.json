@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Alt syret må I ikke spise; i alle jeres bopæle skal I spise usyrede brød.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alt"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "syret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "jeres bopæle"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I spise"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "usyrede brød"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:12.438249798Z",
+  "model": "glm-5.3"
+}

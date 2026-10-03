@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og det skete ved den syvende gang, da præsterne stødte i shofarerne, at Yehoshua sagde til folket: Råb! For Jahve har givet jer ⟨את⟩ byen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ved"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "den syvende gang"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "stødte"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "i shofarerne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "at ... sagde"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Råb!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:42.783573654Z",
+  "model": "glm-5.3"
+}

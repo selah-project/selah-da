@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og mine fjender lever og er mægtige, og de der hader mig ⟨uden grund⟩, er blevet mange.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Og mine fjender"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lever"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "er mægtige"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "er blevet mange"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "de der hader mig"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "uden grund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.339876690Z",
+  "model": "glm-5.3"
+}

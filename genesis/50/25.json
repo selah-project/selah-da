@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og Yosef tog Jisraels ⟨את⟩ sønner i ed og sagde: Elohim vil visseligen besøge ⟨את⟩ jer, og I skal føre ⟨את⟩ mine knogler op herfra.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "tog i ed"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "besøge"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "visseligen besøge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "og I skal føre op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine knogler"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mine knogler"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "herfra"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:15.737517678Z",
+  "model": "glm-5.3"
+}

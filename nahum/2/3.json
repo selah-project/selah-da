@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Thi Jahve vender ⟨tilbage⟩ Jaakobs glans, som Jisraels glans; thi de der tømmer, har tømt dem ud og ødelagt deres ranker.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "שב",
+      "gloss": " vender tilbage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobs glans"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "glans"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "som glansen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "har tømt"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "de der tømmer"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "og deres ranker"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "har ødelagt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:59.786035438Z",
+  "model": "glm-5.3"
+}

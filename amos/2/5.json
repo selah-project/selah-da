@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg sender ild ind i Judá, og den fortærer Jerushalajims borge.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Og jeg sender"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ind i Judá"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og den fortærer"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "borge"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    }
+  ],
+  "timestamp": "2026-10-03T19:40:57.424569760Z",
+  "model": "glm-5.3"
+}

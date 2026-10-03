@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Men jeg ⟨er⟩ arm og pinet; din frelse, Elohim, skal sætte mig i det høje.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men jeg"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "og pinet"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "din frelse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "skal sætte mig i det høje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:59.465617136Z",
+  "model": "glm-5.3"
+}

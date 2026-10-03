@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Skammet blive alle de, der tjener udskårne billeder, de der praler af elilim — tilbed ⟨ham⟩, alle guder!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "skammet blive"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de der tjener"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "udskåret billede"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "de der praler"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "af elilim"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "tilbed (bøj jer)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ham⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:40.609618801Z",
+  "model": "glm-5.3"
+}

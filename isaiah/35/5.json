@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Da åbnes de blindes øjne, og de døves ører åbnes.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "åbnes"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blinde"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "og ører"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "døve"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "åbnes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:00.652447118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "På den dag fjerner Adonaj ⟨את⟩ pragten af ankelringene og hovedbåndene og halvmånerne,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "fjerner"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pragten"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "pragten"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ankelringene"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "hovedbåndene"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "halvmånerne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:37.957321373Z",
+  "model": "glm-5.3"
+}

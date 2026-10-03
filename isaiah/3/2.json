@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "helt og krigsmand, dommer og profet og spåmand og ældste.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "helt"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krigsmand"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "dommer"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "og profet"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "og spåmand"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "og ældste"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:45.811405249Z",
+  "model": "glm-5.3"
+}

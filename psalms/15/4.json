@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "En usling er foragtet i hans øjne, forkastet; men ⟨dem der frygter Jahve⟩ — ⟨את⟩ dem ærer han; han har svoret, selv til skade, og ændrer ikke.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "en foragtet"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "forkastet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem der frygter Jahve"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dem der frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ærer han"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "til skade"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ændrer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:36.631405521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 10:27",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og det skal ske på den dag: hans byrde skal vige fra din skulder, og hans åg fra din nakke; og åget skal brydes på grund af ⟨oliven⟩olie.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på … dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "skal vige"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "hans byrde"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שכמך",
+      "gloss": "din skulder"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "og hans åg"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "din nakke"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "og … skal brydes"
+    },
+    {
+      "surface": "על",
+      "gloss": "åget"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "⟨oliven⟩olie"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:28.889726116Z",
+  "model": "glm-5.3"
+}

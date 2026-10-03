@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og deraf gjorde han ⟨את⟩ soklerne til indgangen af mødestedets telt og ⟨את⟩ kobberalteret og ⟨את⟩ kobbergitteret, som hørte det til, og ⟨את⟩ alt tilbehøret til alteret",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og deraf gjorde han"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deraf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soklerne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "soklerne"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "til indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødestedets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kobberalteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kobber-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kobbergitteret"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "gitteret"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kobber-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hørte det til"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt tilbehøret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tilbehøret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "til alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:21.204106645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Når en mands veje behager Jahve, gør han selv hans fjender ⟨את⟩ ham i fred.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "når … behager"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "veje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selv"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "hans fjender"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "gør … i fred"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:10.905553355Z",
+  "model": "glm-5.3"
+}

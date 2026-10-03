@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han overtrak ⟨את⟩ huset — bjælkerne, tærsklerne og dets vægge og dets døre — med guld, og han skar keruber ud på væggene.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "og han overtrak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "bjælkerne"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "tærsklerne"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "og dets vægge"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "og dets døre"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "og han skar ud"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keruber"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "væggene"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:54.295400244Z",
+  "model": "glm-5.3"
+}

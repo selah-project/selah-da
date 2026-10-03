@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Den der forbander sin far og sin mor, hans lampe slukkes i mørkets øjesten.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "Den der forbander"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "og sin mor"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "slukkes"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "hans lampe"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "i øjestenen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørkets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:07.827859818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "og ⟨את⟩ jebusiteren og ⟨את⟩ emoriteren og ⟨את⟩ girgashiteren,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jebusiteren"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusiteren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "emoriteren"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriteren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "girgashiteren"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashiteren"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:22.787052236Z",
+  "model": "glm-5.3"
+}

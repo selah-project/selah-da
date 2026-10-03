@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Jeg kundgør din tsedek og ⟨את⟩ dine gerninger — og de skal ikke gavne dig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kundgør"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dine gerninger"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dine gerninger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "skal gavne dig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:14.727153033Z",
+  "model": "glm-5.3"
+}

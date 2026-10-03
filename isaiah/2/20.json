@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "På den dag skal mennesket kaste ⟨את⟩ sine sølvafguder og ⟨את⟩ sine guldafguder, som de har lavet sig at tilbede, til muldvarpene og flagermusene.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "skal kaste"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine sølvafguder"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "afguder af"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sine guldafguder"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "afguder af"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de har lavet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sig"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "at tilbede"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "til muldvarpene"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "gravende (dyr)"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "og flagermusene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:39.870913413Z",
+  "model": "glm-5.3"
+}

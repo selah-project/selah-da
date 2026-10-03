@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "En iboende og en lejet mand må ikke spise af den.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "en iboende"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "og en lejet mand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spise"
+    },
+    {
+      "surface": "בו",
+      "gloss": "af den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:53.882289324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og David, han ⟨var⟩ den yngste, og de tre ældste var gået efter Shaul.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Og David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "og de tre"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "var gået"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:56.759796881Z",
+  "model": "glm-5.3"
+}

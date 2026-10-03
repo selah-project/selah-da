@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "fordi David gjorde ⟨את⟩ det rette i Jahves øjne og ikke veg fra alt, hvad han befalede ham, alle sine livsdage — kun i sagen med Urija hetitten.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det rette"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "det rette"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "סר",
+      "gloss": "veg"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "befalede ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sine livs"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "i sagen"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetitten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:34.563695302Z",
+  "model": "glm-5.3"
+}

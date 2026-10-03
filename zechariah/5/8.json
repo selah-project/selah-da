@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og han sagde: Dette er ondskaben. Og han kastede hende ⟨את⟩ ind midt i efaen og kastede blystenen ⟨את⟩ over dens mund.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "er ondskaben"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "og han kastede"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "midt"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "i efaen"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "og han kastede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blystenen"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stenen"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "af bly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "dens mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:01:40.292180690Z",
+  "model": "glm-5.3"
+}

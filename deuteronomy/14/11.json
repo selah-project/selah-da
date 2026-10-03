@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Al ren fugl må I spise.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ren"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:35.075723669Z",
+  "model": "glm-5.3"
+}

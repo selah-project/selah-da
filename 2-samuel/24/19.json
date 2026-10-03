@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og David gik op efter Gads ord, som Jahve havde befalet.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Og gik op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter … ord"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gads"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befalet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:48.816725645Z",
+  "model": "glm-5.3"
+}

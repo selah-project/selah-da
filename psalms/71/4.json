@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Min Elohim, fri mig fra den onde hånd, fra den grufulde og voldsmæns kløer.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "fri mig"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "fra kløen"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "den grufulde"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "og voldsmændene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:42.939705608Z",
+  "model": "glm-5.3"
+}

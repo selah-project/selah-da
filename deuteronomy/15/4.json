@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Dog: der skal ikke være nogen fattig hos dig, for velsigne vil Jahve velsigne dig i det land, som Jahve din Elohim giver dig i arv, til at tage det i besiddelse.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nogen fattig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsigne"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "vil velsigne dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i det land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "i arv"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "til at tage det i besiddelse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:11.190392331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "For hvem er Eloah uden Jahve? Og hvem er klippen uden vor Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "er Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "צור",
+      "gloss": "er klippen"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:37.795421233Z",
+  "model": "glm-5.3"
+}

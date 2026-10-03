@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Lad dit ansigt skinne over din træl, frels mig i din chesed.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "lad … skinne"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "frels mig"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "i din chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:28.524551710Z",
+  "model": "glm-5.3"
+}

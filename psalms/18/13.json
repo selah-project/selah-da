@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Fra skæret foran ham gik hans tætte skyer forbi — hagl og gløder af ild.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "fra skæret"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "hans tætte skyer"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gik forbi"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagl"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "og gløder"
+    },
+    {
+      "surface": "אש",
+      "gloss": "af ild"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:09.434029581Z",
+  "model": "glm-5.3"
+}

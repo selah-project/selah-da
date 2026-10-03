@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Babels konge slog ⟨אתם⟩ dem ihjel i Rivla i landet Chamat, og Jehuda blev ført bort fra sin jord.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "slog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "dræbte dem"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "i Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "og blev ført bort"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sin jord"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:50.102435670Z",
+  "model": "glm-5.3"
+}

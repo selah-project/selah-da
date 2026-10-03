@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Sådan siger Jahve Tsevaot: Spørg nu præsterne ⟨את⟩ om Tora og sig:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Spørg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "præsterne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "om Tora"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:59:52.175742181Z",
+  "model": "glm-5.3"
+}

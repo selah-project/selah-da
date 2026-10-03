@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Bryd den i stykker ⟨את⟩ — i bidder — og hvis olie over den; en mincha ⟨er⟩ den.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Bryd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (i bidder)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "i bidder"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "over den"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "en mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:34.314400291Z",
+  "model": "glm-5.3"
+}

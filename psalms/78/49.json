@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Han sendte over dem sin vrede's brænden, raseri og harme og nød — et udsendelseskor af onde sendebud.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "בם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "brænden"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sin vrede"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "raseri"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "og harme"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "og nød"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "et udsendelseskor"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "sendebud"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "onde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:26.881141196Z",
+  "model": "glm-5.3"
+}

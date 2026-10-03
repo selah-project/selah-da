@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "For fjendens røst, for den ondes trængsel — for de vælter ⟨את⟩ ulykke ned over mig, og i vrede forfølger de mig.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "For fjendens røst"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjendens"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "trængsel"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "de vælter ned"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "און",
+      "gloss": "ulykke",
+      "marks": "ulykke"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨את⟩",
+      "marks": "ulykke"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "og i vrede"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "forfølger de mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:27.179593143Z",
+  "model": "glm-5.3"
+}

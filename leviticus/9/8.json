@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Aharon trådte frem til alteret og slagtede ⟨את⟩ kalven, syndofferet, som var hans eget.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Og trådte frem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "og slagtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalven"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kalven"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "var hans eget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:40.640082643Z",
+  "model": "glm-5.3"
+}

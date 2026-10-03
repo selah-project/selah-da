@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Lad min skam vige, den jeg frygter; for dine domme er gode.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "lad vige"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "min skam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "jeg frygter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine domme"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "er gode"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:14.377074935Z",
+  "model": "glm-5.3"
+}

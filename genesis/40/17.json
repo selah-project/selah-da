@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og i den øverste kurv ⟨var der⟩ af al slags mad til Paroh, en bagers værk; og fuglene spiste ⟨את⟩ dem ud af kurven, fra mit hoved.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "Og i kurven"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "den øverste"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "af bageren"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "og fuglene"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spiste"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (maden)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ud af"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "kurven"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mit hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:03.023697526Z",
+  "model": "glm-5.3"
+}

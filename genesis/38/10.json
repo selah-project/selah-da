@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og ⟨det⟩ var ondt i Jahves øjne, hvad han gjorde, og han dræbte også ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "var ondt"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han dræbte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:35.436390922Z",
+  "model": "glm-5.3"
+}

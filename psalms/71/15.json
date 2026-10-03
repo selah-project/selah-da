@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Min mund skal fortælle din tsedek, hele dagen din frelse; thi jeg kender ikke dens tal.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Min mund"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "skal fortælle"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "din frelse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg kender"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "dens tal"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:26.865247333Z",
+  "model": "glm-5.3"
+}

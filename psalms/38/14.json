@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og jeg er som en døv, ⟨som⟩ ikke hører, og som en stum, ⟨som⟩ ikke åbner sin mund.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "som en døv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "og som en stum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "åbner"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sin mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:44.769414951Z",
+  "model": "glm-5.3"
+}

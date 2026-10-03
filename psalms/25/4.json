@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Dine veje, Jahve, gør mig kendt med; dine stier lær mig.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Dine veje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "gør mig kendt med"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "dine stier"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lær mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:36.225513076Z",
+  "model": "glm-5.3"
+}

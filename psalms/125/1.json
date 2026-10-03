@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 125,
+  "translation": "En sang ved opstigningerne. De som betrager ⟨i⟩ Jahve, er som bjerget Tzion — det skal ikke rokkes, til evigheden bor det.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningerne"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "de som betrager"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "som bjerget"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "skal rokkes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:23.867965736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Jahves højre hånd ⟨er⟩ ophøjet, Jahves højre hånd gør med magt.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "højre hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "ophøjet"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "højre hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "med magt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:09.631885247Z",
+  "model": "glm-5.3"
+}

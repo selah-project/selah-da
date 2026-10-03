@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "De ugudelige er vendt fra ⟨den⟩ livmoder; de forvilder sig fra bugen, ⟨som⟩ løgnens talere.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "er vendt fra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "De ugudelige"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "fra livmoderen"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "forvilder sig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fra bugen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "talere"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:48.328389351Z",
+  "model": "glm-5.3"
+}

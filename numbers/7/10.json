@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og høvdingene bar frem ⟨את⟩ indvielsen af alteret den dag, ⟨את⟩ det blev salvet; og høvdingene bar ⟨את⟩ deres offer frem foran alteret.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "og de bar frem"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "høvdingene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indvielsen af alteret"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "indvielsen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "det blev salvet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "og de bar frem"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "deres høvdinge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres offer"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "deres offer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:17.842000389Z",
+  "model": "glm-5.3"
+}

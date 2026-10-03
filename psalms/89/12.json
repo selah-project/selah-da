@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Dine ⟨er⟩ himlene, ja, din ⟨er⟩ også jorden; verden og dens fylde — dem har du grundlagt.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Dine"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja, også"
+    },
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "og dens fylde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "har grundlagt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:10.857945316Z",
+  "model": "glm-5.3"
+}

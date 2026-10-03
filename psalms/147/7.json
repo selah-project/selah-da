@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Syng for Jahve med tak; spil for vor Elohim på kinor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tak"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spil"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "for vor Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "på kinor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:09.511123512Z",
+  "model": "glm-5.3"
+}

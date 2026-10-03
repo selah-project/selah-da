@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og endnu en kort stund, og der er ingen ond ⟨mere⟩; og du ser grundigt på hans sted, og han er ikke ⟨der⟩.",
+  "tokens": [
+    {
+      "surface": "וְעוֹד",
+      "gloss": "og endnu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "en kort stund"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "og du ser grundigt på"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "hans sted"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "og han er ikke ⟨der⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:06.874806419Z",
+  "model": "glm-5.3"
+}

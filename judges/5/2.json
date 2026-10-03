@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Da håret blev løsnet i Jisrael, da folket viste sig villige, velsign Jahve!",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "da blev løsnet"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "håret"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "da viste sig villige"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "velsign"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:48:20.735154384Z",
+  "model": "glm-5.3"
+}

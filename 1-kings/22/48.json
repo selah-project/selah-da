@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og en konge — der var ingen i Edom; en statholder var konge.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "og en konge"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der var ingen"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "en statholder"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "var konge"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:09.213213666Z",
+  "model": "glm-5.3"
+}

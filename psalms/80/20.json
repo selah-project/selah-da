@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Tsevaot, vend os tilbage; lad dit ansigt skinne, og vi skal frelses.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "vend os tilbage"
+    },
+    {
+      "surface": "האר",
+      "gloss": "lad skinne"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "og vi skal frelses"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:07.809886147Z",
+  "model": "glm-5.3"
+}

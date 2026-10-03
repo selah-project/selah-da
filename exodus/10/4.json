@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "For hvis du nægter at lade ⟨את⟩ mit folk gå, se, da fører jeg i morgen arbeh ind i dine grænser.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "du nægter"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "at lade gå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "fører jeg ind"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgen"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "i dine grænser"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:03.103167231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Din hånd være over manden ved din højre hånd, over menneskesønnen, som du gjorde stærk for dig selv.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "være"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ved din højre hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sønnen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "gjorde stærk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig selv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:07.809633231Z",
+  "model": "glm-5.3"
+}

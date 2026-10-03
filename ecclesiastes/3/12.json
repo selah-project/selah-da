@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg ved, at der ikke er noget godt i dem, uden at glæde sig og gøre godt i sit liv.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Jeg ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke er"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "at"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "glæde sig"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "i sit liv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:08.360412384Z",
+  "model": "glm-5.3"
+}

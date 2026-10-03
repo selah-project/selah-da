@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og du skal gøre ⟨את⟩ den til røgelse, en blanding, et blandingsarbejde, saltet, ren, hellig.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal gøre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (røgelsen)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "røgelse"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "en blanding"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "af en blender"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "saltet"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:37.861753337Z",
+  "model": "glm-5.3"
+}

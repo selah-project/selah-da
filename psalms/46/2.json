@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Elohim er os til ly og styrke, en hjælp i trængsler, som findes i høj grad.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "til ly"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "og styrke"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "en hjælp"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "i trængsler"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "som findes"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i høj grad"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:15.765107595Z",
+  "model": "glm-5.3"
+}

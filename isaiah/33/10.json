@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Nu vil jeg stå op, siger Jahve; nu vil jeg ophøje mig; nu vil jeg løfte mig.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "vil jeg stå op"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "vil jeg ophøje mig"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "vil jeg løfte mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:55.160539578Z",
+  "model": "glm-5.3"
+}

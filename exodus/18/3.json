@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "og ⟨את⟩ hendes to sønner — navnet på den ene var Gersjhom, for han sagde: Fremmed har jeg været i et fremmed land —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hendes to sønner"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hendes sønner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "på den ene"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersjhom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde han"
+    },
+    {
+      "surface": "גר",
+      "gloss": "fremmed"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har jeg været"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i et land"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "fremmed"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:33.323985003Z",
+  "model": "glm-5.3"
+}

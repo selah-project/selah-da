@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Enhver forsigtig handler med kundskab, men en tåbe breder dumhed ud.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "forsigtig"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "handler"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "med kundskab"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men en tåbe"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "breder ud"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dumhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:35.267260338Z",
+  "model": "glm-5.3"
+}

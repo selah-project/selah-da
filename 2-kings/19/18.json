@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "og har kastet ⟨את⟩ deres guder i ilden; for det er ikke guder, men menneskehænders værk, træ og sten — og dem har de tilintetgjort.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "og har kastet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres guder"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres guder"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "המה",
+      "gloss": "det er"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hænders"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og sten"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "og dem har de tilintetgjort"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:42.343444885Z",
+  "model": "glm-5.3"
+}

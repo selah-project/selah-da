@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Adoni-Bezek flygtede, og de forfulgte ham og greb ham og huggede tommelfingrene af hans hænder og storetæerne af hans fødder.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "Og flygtede"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "og de forfulgte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "og greb"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "og huggede af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tommelfingrene og storetæerne"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "tommelfingrene og storetæerne"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "af hans hænder"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "og af hans fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:27.107076482Z",
+  "model": "glm-5.3"
+}

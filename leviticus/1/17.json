@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han skal flække den ⟨את⟩ ved vingerne, ikke skille den ad, og præsten skal bringe den ⟨את⟩ i røgoffer på alteret, over træet, som er over ilden — et brændoffer er det, et ildoffer, en duft, en behagelig lugt for Jahve.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "Og han skal flække"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "ved vingerne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "skille den ad"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og bringe i røgoffer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "træet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "er over"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ildoffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "en duft"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "en behagelig lugt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:56.611532163Z",
+  "model": "glm-5.3"
+}

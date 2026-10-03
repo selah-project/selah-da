@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Noach vågnede af sin vin og fik at vide ⟨את⟩ det, som hans yngste søn havde gjort imod ham.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "og vågnede"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "af sin vin"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "og fik at vide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som hans yngste søn havde gjort imod ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imod ham"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den yngste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:34.332047189Z",
+  "model": "glm-5.3"
+}

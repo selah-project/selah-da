@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de stod tidligt op om morgenen, og solen skinnede over vandet, og Moab så på den anden side ⟨את⟩ vandet rødt som blod.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "og de stod tidligt op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "og solen"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "skinnede"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "og så"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "på den anden side"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rødt"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "som blod"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:21.043839940Z",
+  "model": "glm-5.3"
+}

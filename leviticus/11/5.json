@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og ⟨את⟩ klippegrævlingen, fordi den opgiver dræv, men en spaltet hov spalter den ikke — uren er den for jer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "klippegrævlingen"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "klippegrævlingen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "opgiver"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "dræv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "hov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "spalter"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "uren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:17.262078792Z",
+  "model": "glm-5.3"
+}

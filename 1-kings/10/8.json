@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Salige er dine mænd, salige er disse dine trælle, som står foran dig bestandig, de som hører ⟨את⟩ din visdom.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "salige"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "dine mænd"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "salige"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "som står"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "de som hører"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din visdom"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "din visdom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:05.633487550Z",
+  "model": "glm-5.3"
+}

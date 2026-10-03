@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Joav sendte ⟨bud⟩ og meldte David ⟨את⟩ alle krigens begivenheder.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og meldte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle krigens begivenheder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "begivenheder"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:03.442459377Z",
+  "model": "glm-5.3"
+}

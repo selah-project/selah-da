@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Hvor længe, Jahve, skal du glemme mig — for evigt? Hvor længe skal du skjule ⟨את⟩ dit ansigt for mig?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "skal du glemme mig"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "skal du skjule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:11.712877189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "En rasha flygter, og der er ingen forfølger; men de retfærdige er trygge som en ung løve.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "flygter"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "forfølger"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rasha"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "men de retfærdige"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "som en ung løve"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "er trygge"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:17.798363883Z",
+  "model": "glm-5.3"
+}

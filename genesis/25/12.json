@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og dette er Jishmaels, Avrahams søns, slægtsrulle, ham som Hagar, egypterinden, Saras trælkvinde, fødte for Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "slægtsrulle"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmaels"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ham som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egypterinden"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "trælkvinde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saras"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "for Avraham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:39.605579Z",
+  "model": "glm-5.3"
+}

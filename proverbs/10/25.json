@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Som en stormvind der går over, ⟨er⟩ den onde ikke mere; men den retfærdige ⟨er⟩ en grundvold for evigt.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "som en gåen-over"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "stormvind"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ikke-er"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "men den retfærdige"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "grundvold"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:42.138725455Z",
+  "model": "glm-5.3"
+}

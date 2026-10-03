@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det skete, fordi jordemødrene frygtede Elohim ⟨את⟩, at ⟨han⟩ gjorde dem huse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "frygtede"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "jordemødrene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "at han gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:09.977823030Z",
+  "model": "glm-5.3"
+}

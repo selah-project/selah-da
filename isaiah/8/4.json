@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "For før barnet kan sige 'min far' og 'min mor', skal ⟨את⟩ rigdommen fra Damaskes og ⟨את⟩ byttet fra Shomron føres bort foran kongen af Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "før"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sige"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "og min mor"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal føres bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigdommen fra Damaskes"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rigdommen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "byttet fra Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "byttet"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:14.701704206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Døm mig efter din tsedek, Jahve, min Elohim, og lad dem ikke glæde sig over mig!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "døm mig"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "efter din tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "må de glæde sig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.347631417Z",
+  "model": "glm-5.3"
+}

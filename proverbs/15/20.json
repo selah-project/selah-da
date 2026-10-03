@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "En vis søn gør sin fader glad, men en tåbe trodser ⟨sin⟩ moder.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "en vis"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gør glad"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fader"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "men en tåbe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "trodser"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin moder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:02.387576478Z",
+  "model": "glm-5.3"
+}

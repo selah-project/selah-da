@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en mand, som ligger med ⟨את⟩ sin faders hustru — sin faders nøgenhed har han blottet — de begge skal døden dø; deres blod er over dem.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin faders hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin faders"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nøgenhed"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin faders"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har blottet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skal de dø"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de begge"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "deres blod"
+    },
+    {
+      "surface": "בם",
+      "gloss": "er over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:10.188377680Z",
+  "model": "glm-5.3"
+}

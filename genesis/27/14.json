@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og han gik og hentede og bragte ⟨det⟩ til sin mor, og hans mor lavde lækker retter, sådan som hans far elskede.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og han gik"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og hentede"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og bragte"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "til sin mor"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "og hun lavde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans mor"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "lækker retter"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sådan som"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:48.303353162Z",
+  "model": "glm-5.3"
+}

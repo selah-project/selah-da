@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Skal får og kvæg slagtes for dem, så det finder ⟨dem⟩ nok? Eller skal ⟨את⟩ alle havens fisk samles for dem, så det finder ⟨dem⟩ nok?",
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "og kvæg"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slagtes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "så det finder"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem nok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle havens fisk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "fisk"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havens"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "samles"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "så det finder"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem nok"
+    }
+  ],
+  "timestamp": "2026-10-03T15:08:44.113023950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Avram brød op, stadig vandrende sydpå, mod Negev.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "brød op"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "vandrende"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "mod Negev"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:02.618905539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han sender sit ord, og de smelter; han lader sin ruach blæse — vandene strømmer.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sit ord"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "og de smelter"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lader blæse"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sin ruach"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "strømmer"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:58.490958794Z",
+  "model": "glm-5.3"
+}

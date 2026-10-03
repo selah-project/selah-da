@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Men Sarah fornægtede det og sagde: Jeg lo ikke — for hun var bange. Og ⟨han⟩ sagde: Nej, du lo.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Men fornægtede"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "Jeg lo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "var bange"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "du lo"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:04.655262643Z",
+  "model": "glm-5.3"
+}

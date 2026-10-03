@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og de tog ⟨את⟩ soden fra ovnen og stod foran Paro, og Moshe strøede ⟨את⟩ den mod himlen, og der kom bylder med blærer, der brast ud, på mennesket og på dyret.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soden fra ovnen"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "soden"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "fra ovnen"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "og strøede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "mod himlen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og der kom"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bylder"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "med blærer"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "der brast ud"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "på mennesket"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "og på dyret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:51.576835350Z",
+  "model": "glm-5.3"
+}

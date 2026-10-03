@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "til at lade ham sidde blandt fyrster, blandt fyrsterne i sit folk.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "til at lade sidde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "fyrster"
+    },
+    {
+      "surface": "עם",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "fyrsterne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i sit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:06.075991141Z",
+  "model": "glm-5.3"
+}

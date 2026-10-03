@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Dette er din lod, din tilmålte del fra mig, siger Jahve, fordi du har glemt mig og sat din lid til løgnen.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "din lod"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "del"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "din tilmålte"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ fra mig",
+      "marks": "din lod"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "du har glemt"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "glemt"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "og sat din lid til"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "løgnen"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:20.579410129Z",
+  "model": "glm-5.3"
+}

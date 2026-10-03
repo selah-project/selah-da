@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og du skal sammenføje ⟨את⟩ de fem tæpper for sig og ⟨את⟩ de seks tæpper for sig, og du skal folde ⟨את⟩ det sjette tæppe dobbelt foran ansigtet af teltpendanten.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "og du skal sammenføje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fem tæpper"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tæpperne"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "for sig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de seks tæpper"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tæpperne"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "for sig"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "og du skal folde dobbelt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det sjette tæppe"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tæppet"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "det sjette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "imod"
+    },
+    {
+      "surface": "מול",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet af"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:06.539439826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Hvem er denne, der skjuler råd uden viden? Derfor har jeg talt og forstod ikke — ting forunderlige for mig, som jeg ikke kendte.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er denne"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "skjuler"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "viden"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Derfor"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "har jeg talt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "forstod"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ting forunderlige"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kendte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:14.967912328Z",
+  "model": "glm-5.3"
+}

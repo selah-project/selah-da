@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "For se, dine fjender larmer, og de der hader dig, løfter ⟨det⟩ hoved.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "larmer"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "og de der hader dig"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:11.789694843Z",
+  "model": "glm-5.3"
+}

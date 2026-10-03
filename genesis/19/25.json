@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og han styrtede ⟨את⟩ disse byer og ⟨את⟩ hele sletten og ⟨את⟩ alle byernes indbyggere og jordens vækst.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "og han styrtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse byer"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "האל",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele sletten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sletten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle byernes indbyggere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggere"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byernes"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "og væksten"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:24.856903493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Hvorfor er dine klæder røde, og din dragt som ⟨den⟩, der træder i vinperken?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "røde"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "dine klæder"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "din dragt"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "som ⟨den⟩, der træder"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "i vinperken"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:08.916443013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David sagde: Jahve, Elohims ⟨af⟩ Jisrael, din træl har sandelig hørt, at Shaul søger at komme til Keila for at ødelægge byen for min skyld.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohims ⟨af⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørt"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "at komme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "for at ødelægge"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "for min skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:41.394939413Z",
+  "model": "glm-5.3"
+}

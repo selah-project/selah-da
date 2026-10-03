@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 8:6",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og David satte garnisoner i Aram fra Damaskus, og aramæerne blev Davids trælle, som bar mincha; og Jahve frelste David, overalt hvor han gik.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "garnisoner"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "i Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramæerne"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "til trælle"
+    },
+    {
+      "surface": "נושאי",
+      "gloss": "som bar"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "og frelste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "overalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "han gik"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:58.860899644Z",
+  "model": "glm-5.3"
+}

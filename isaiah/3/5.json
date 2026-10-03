@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og folket skal træde ⟨på⟩ hinanden, hver mand ⟨på⟩ sin næste, og hver mand ⟨på⟩ sin ven; den unge skal optræde frækt mod den gamle, og den ringe mod den ærede.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "og skal træde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨på⟩ sin næste"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "⟨på⟩ sin ven"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "skal optræde frækt"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "mod den gamle"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "og den ringe"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "mod den ærede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:16.498338438Z",
+  "model": "glm-5.3"
+}

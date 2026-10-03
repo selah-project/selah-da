@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Thi se, dine fjender, Jahve, thi se, dine fjender skal gå til grunde, alle dem, der øver ondskab, skal adskilles.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "skal gå til grunde"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "skal adskilles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem der øver"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:57.220347165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Thi til evigheden skal han ikke rokkes; ⟨den⟩ retfærdige skal være til evig ihukommelse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "rokkes"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "til ihukommelse"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:34.753293144Z",
+  "model": "glm-5.3"
+}

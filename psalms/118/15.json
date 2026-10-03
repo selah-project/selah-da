@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "En røst af jubel og frelse ⟨er⟩ i de retfærdiges telte: Jahves højre hånd gør med magt.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "en røst"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "af jubel"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "og frelse"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "i … telte"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "højre hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "med magt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:09.631744366Z",
+  "model": "glm-5.3"
+}

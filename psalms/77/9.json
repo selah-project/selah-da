@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Er hans chesed udslettet for evigt, er hans ord endt for slægt og slægt?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "er udslettet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "er endt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "for slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:38.520742707Z",
+  "model": "glm-5.3"
+}

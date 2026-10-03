@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "De skal komme og forkynde hans tsedek for et folk, der fødes, at han har gjort det.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "De skal komme"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "og forkynde"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "hans tsedek"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for et folk"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "der fødes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:31.981514134Z",
+  "model": "glm-5.3"
+}

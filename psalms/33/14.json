@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Fra sin boligs faste sæde skuer han skarpt efter alle jordens beboere.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Fra boligs"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "sin sæde"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "skuer skarpt efter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "beboere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:44.412371104Z",
+  "model": "glm-5.3"
+}

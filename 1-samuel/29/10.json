@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og nu, stå tidligt op om morgenen, du og din herres trælle, som er kommet ⟨את⟩ med dig, og når I står tidligt op om morgenen, og det bliver lyst, så går bort.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "stå tidligt op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "og trællene"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באו",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig",
+      "marks": "trællene, din herres"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "og når I står tidligt op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "og det bliver lyst"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "så går bort"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:22.353919209Z",
+  "model": "glm-5.3"
+}

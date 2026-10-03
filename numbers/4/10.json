@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og de skal lægge den og ⟨את⟩ alle dens kar i et overtreæk af takhash-skind og sætte den på bær estokken.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "og de skal lægge"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dens kar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dens kar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "et overtreæk"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skind"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhash-"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "og de skal sætte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "bær estokken"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:06.215140609Z",
+  "model": "glm-5.3"
+}

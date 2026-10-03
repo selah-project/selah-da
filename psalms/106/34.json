@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "De udryddede ikke ⟨את⟩ folkeslagene, som Jahve havde sagt til dem,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "udryddede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkeslagene"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:38.290909787Z",
+  "model": "glm-5.3"
+}

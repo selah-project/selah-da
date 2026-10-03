@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et øjeblik at dræbe, og et øjeblik at læge; et øjeblik at nedbryde, og et øjeblik at bygge.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "at dræbe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "at læge"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "at nedbryde"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "at bygge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:26.146353885Z",
+  "model": "glm-5.3"
+}

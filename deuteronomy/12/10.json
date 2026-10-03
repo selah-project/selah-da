@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og I skal gå over ⟨את⟩ Jordan og bo i landet, som Jahve jeres Elohim giver jer i arv, og han skal give jer hvile fra alle jeres fjende rundt om jer, og I skal bo i sikkerhed.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "Og I skal gå over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "og bo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "giver i arv"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "og han skal give hvile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jeres fjende"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "og I skal bo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "i sikkerhed"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:15.761136181Z",
+  "model": "glm-5.3"
+}

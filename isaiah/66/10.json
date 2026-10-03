@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Glæd jer ⟨את⟩ Jerushalajim og juble over hende, alle I, som elsker hende; fryd jer ⟨את⟩ hende med fryd, alle I, som sørger over hende!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Glæd jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "og juble"
+    },
+    {
+      "surface": "בה",
+      "gloss": "over hende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "der elsker hende"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "fryd jer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ med"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "med fryd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "som sørger"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "over hende"
+    }
+  ],
+  "timestamp": "2026-10-03T17:08:18.321928130Z",
+  "model": "glm-5.3"
+}

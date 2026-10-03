@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og David var konge over hele Jisrael, og David gjorde ret og tsedekah for hele sit folk.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "var konge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedekah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:18.769878163Z",
+  "model": "glm-5.3"
+}

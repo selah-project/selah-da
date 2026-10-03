@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jahve styrkede ⟨את⟩ Faraos hjerte, og han ville ikke lade dem gå.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og styrkede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faraos hjerte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "lade dem gå"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:54.003644428Z",
+  "model": "glm-5.3"
+}

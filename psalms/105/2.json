@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Syng for ham, spil for ham, tal om alle hans under.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "tal om"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hans under"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.950298500Z",
+  "model": "glm-5.3"
+}

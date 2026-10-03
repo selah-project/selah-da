@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "⟨Han⟩ tæller stjernernes tal, til alle kalder ⟨han⟩ deres navne.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "tæller"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "stjernernes"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "til alle"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kalder ⟨han⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.631221726Z",
+  "model": "glm-5.3"
+}

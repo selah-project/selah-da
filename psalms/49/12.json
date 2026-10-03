@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Deres indre ⟨tanke er⟩, at deres huse ⟨staar⟩ for evigt, deres mishkaner slægt efter slægt; de har kaldt deres navne over jorderne.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Deres indre"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "at deres huse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "deres mishkaner"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter slægt"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "de har kaldt"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "deres navne"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "jorderne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:51.198766968Z",
+  "model": "glm-5.3"
+}

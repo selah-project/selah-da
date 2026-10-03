@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 142,
+  "translation": "Mit suk udgyder jeg foran ham, min trængsel kundgør jeg foran ham.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "udgyder jeg"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mit suk"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "min trængsel"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kundgør jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:08.993672082Z",
+  "model": "glm-5.3"
+}

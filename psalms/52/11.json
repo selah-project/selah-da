@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Jeg takker dig til evigheden, fordi du har gjort det, og jeg håber på dit navn, for det er godt foran dine chasidim.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jeg takker dig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "du har gjort"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "og jeg håber"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "på dit navn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "dine chasidim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:54.878312802Z",
+  "model": "glm-5.3"
+}

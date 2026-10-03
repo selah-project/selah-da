@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Han gør floder til ⟨en⟩ ødemark og vandkilder til tørstigt land.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "gør"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "til ødemark"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "og kilder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "til tørstigt land"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:51.697452429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han var en modstander for Jisrael alle Shlomos dage, udover ⟨את⟩ det onde, som Hadad gjorde; og han fandt det kedelig med Jisrael og regerede over Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og han var"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "en modstander"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det onde"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "gjorde; og han fandt det kedelig"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "med Jisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og regerede"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:40.009067067Z",
+  "model": "glm-5.3"
+}

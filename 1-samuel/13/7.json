@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og hebraere gik over ⟨את⟩ Yarden til landet Gad og Gil'ad; og Shaul var endnu i Gilgal, og hele folket bævede efter ham.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Og hebraere"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gik over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "til landet"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "og Gil'ad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "og Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "var endnu"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "i Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "bævede"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:20.838635638Z",
+  "model": "glm-5.3"
+}

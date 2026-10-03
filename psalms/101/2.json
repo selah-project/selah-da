@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Jeg vil handle klogt på ⟨den⟩ fuldkomne vej. ⟨Men⟩ hvornår vil du komme til mig? Jeg vil vandre i et helt hjerte midt i mit hus.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "vil jeg handle klogt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på ⟨den⟩ ... vej"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fuldkomne"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hvornår"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vil du komme"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "vil jeg vandre"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "i et helt"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:41.306038269Z",
+  "model": "glm-5.3"
+}

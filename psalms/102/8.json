@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Jeg ligger vågen og er som en enlig fugl på ⟨את⟩ taget.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Jeg ligger vågen"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "og er"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "som en fugl"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "enlig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גג",
+      "gloss": "taget"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:02.874182613Z",
+  "model": "glm-5.3"
+}

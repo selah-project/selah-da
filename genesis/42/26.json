@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og de læssede ⟨את⟩ deres korn på deres æsler og gik derfra.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "læssede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres korn"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "deres korn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "deres æsler"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:29.070715462Z",
+  "model": "glm-5.3"
+}

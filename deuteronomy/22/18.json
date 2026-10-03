@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og de ældste i den by skal tage ⟨את⟩ manden og tugte ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Og de ældste skal tage"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "og tugte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:13.621660422Z",
+  "model": "glm-5.3"
+}

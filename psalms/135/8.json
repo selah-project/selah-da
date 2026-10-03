@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Han slog Mitsrajims førstefødte, fra mennesker til kvæg.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Han slog"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "førstefødte"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fra mennesker"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:19.372175553Z",
+  "model": "glm-5.3"
+}

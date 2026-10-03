@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Mad for penge skal du sælge mig, så jeg kan spise, og vand for penge skal du give mig, så jeg kan drikke; lad mig blot gå igennem til fods.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "for penge"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "skal du sælge mig"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "så jeg kan spise"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vand"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "for penge"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skal du give"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "så jeg kan drikke"
+    },
+    {
+      "surface": "רק",
+      "gloss": "blot"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "lad mig gå igennem"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "til fods"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:50.335182062Z",
+  "model": "glm-5.3"
+}

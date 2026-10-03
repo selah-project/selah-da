@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "En bøn af ⟨den⟩ trængte, når han er omsløret, og udøser sin klage foran Jahve.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "bøn"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "af den trængte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "er omsløret"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "og foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "udøser"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "sin klage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:27.037212020Z",
+  "model": "glm-5.3"
+}

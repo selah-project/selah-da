@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Se, vi hørte om den i Efrata, vi fandt den på Jaars marker.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "vi hørte om den"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "i Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "vi fandt den"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "på ... marker"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Jaars"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:44.764795802Z",
+  "model": "glm-5.3"
+}

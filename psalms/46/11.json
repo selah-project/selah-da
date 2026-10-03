@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Giv slip og ved, at jeg ⟨er⟩ Elohim; jeg ophøjes blandt folkene, jeg ophøjes på jorden.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Giv slip"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "og ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ophøjes"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ophøjes"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:01.041432447Z",
+  "model": "glm-5.3"
+}

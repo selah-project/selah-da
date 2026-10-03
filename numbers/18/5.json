@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og I skal vogte ⟨את⟩ vagten ved det hellige og ⟨את⟩ vagten ved alteret, så der ikke mere kommer vrede over Jisraels børn.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vagten ved det hellige"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vagten"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ved det hellige"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagten ved alteret"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vagten"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ved alteret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så der ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T15:11:39.057593751Z",
+  "model": "glm-5.3"
+}

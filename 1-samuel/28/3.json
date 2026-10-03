@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Shmuel var død, og hele Jisrael holdt dødklage over ham, og de begravede ham i Rama, i hans egen by. Og Shaul havde fjernet åndemanerne og ⟨את⟩ troldkarlene fra landet.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Og Shmuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var død"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "holdt dødklage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "og de begravede ham"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "i hans by"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Og Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "havde fjernet"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "åndemanerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "troldkarlene"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "troldkarlene"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "fra landet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:48.769399280Z",
+  "model": "glm-5.3"
+}

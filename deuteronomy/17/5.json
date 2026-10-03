@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "så skal du føre den mand eller den kvinde, som har gjort ⟨את⟩ denne onde gerning, ud til dine porte — ⟨את⟩ manden eller ⟨את⟩ kvinden — og de skal stenes med stene, og de skal dø.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "så skal du føre ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den mand"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "den mand"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne onde gerning"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gerningen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dine porte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "og de skal stenes"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med stene"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "og de skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:28.640525899Z",
+  "model": "glm-5.3"
+}

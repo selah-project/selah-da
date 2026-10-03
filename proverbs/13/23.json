@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Der er rigelig mad i de fattiges nyligt pløjede jord, men ⟨der er⟩ det, der fejres bort uden ret.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "rigelig"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "nyligt pløjede jord"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "de fattiges"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "men ⟨der er⟩"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "fejres bort"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:06.754987754Z",
+  "model": "glm-5.3"
+}

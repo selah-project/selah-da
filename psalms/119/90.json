@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Slægt efter slægt ⟨er⟩ din trofasthed; du grundfæstede jorden, og den består.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "slægt efter"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthed"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "grundfæstede"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "og den består"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.654794048Z",
+  "model": "glm-5.3"
+}

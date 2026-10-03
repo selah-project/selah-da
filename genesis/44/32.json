@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "For din tjener gik i kaution for ⟨את⟩ drengen over for min far og sagde: Hvis jeg ikke bringer ham tilbage til dig, så har jeg syndet mod min far alle dagene.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjener"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gik i kaution"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drengen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengen"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "over for"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "jeg bringer ham tilbage"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "så har jeg syndet"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "mod min far"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:50.906974211Z",
+  "model": "glm-5.3"
+}

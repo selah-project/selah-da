@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "den gør sit brød klar om sommeren, samler sin føde ind ved høsten.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "gør klar"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "om sommeren"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "sit brød"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "samler ind"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ved høsten"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "sin føde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:41.003166540Z",
+  "model": "glm-5.3"
+}

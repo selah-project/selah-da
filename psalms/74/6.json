@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Og nu slår de dets udskæringer ned i ét med økser og hamre.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "dets udskæringer"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "i ét"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "med økser"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "og hamre"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "slår de ned"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:49.907500277Z",
+  "model": "glm-5.3"
+}

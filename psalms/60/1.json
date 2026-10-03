@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Til korlederen, over Shushan-Edut, en mikhtam af David, til at lære.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "til at lære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:22.246462802Z",
+  "model": "glm-5.3"
+}

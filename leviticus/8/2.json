@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Tag Aharon og hans sønner ⟨את⟩ sammen med ham, og ⟨את⟩ klæderne og ⟨את⟩ salveolien og ⟨את⟩ syndoffer-tyren og ⟨את⟩ de to væddere og ⟨את⟩ kurven med de usyrede brød:",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sammen med ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "klæderne"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "klæderne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "salveolien"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "til salvelse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "syndoffer-tyren"
+    },
+    {
+      "surface": "פר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de to væddere"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "væddere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kurven"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kurven"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "med de usyrede brød"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:50.505397818Z",
+  "model": "glm-5.3"
+}

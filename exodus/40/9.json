@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal tage salvelsesolien og salve ⟨את⟩ Mishkanet og ⟨את⟩ alt hvad der er i det, og du skal hellige det og ⟨את⟩ alle dets redskaber, og det skal være helligt.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Og du skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salvelsesolien"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "salvelses-"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "og salve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "der er i det"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og du skal hellige"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (Mishkanet)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets redskaber"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal være"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.410823569Z",
+  "model": "glm-5.3"
+}

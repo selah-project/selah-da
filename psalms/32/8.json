@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Jeg giver dig indsigt og vejleder dig på den vej, du skal gå; jeg råder — mit øje ⟨er⟩ på dig.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "jeg giver dig indsigt"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "og vejleder dig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "den"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du skal gå"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "jeg råder"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:10.824566504Z",
+  "model": "glm-5.3"
+}

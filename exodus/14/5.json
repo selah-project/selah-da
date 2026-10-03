@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og det blev fortalt Mitsrajims konge, at folket var flygtet, og hjertet hos Paroh og hans tjenere vendte sig mod folket, og de sagde: Hvad er dette, vi har gjort, at vi har sendt ⟨את⟩ Jisrael bort fra at tjene os?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Og det blev fortalt"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Mitsrajims konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "var flygtet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "vendte sig"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "og hans tjenere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "vi har gjort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "vi har sendt bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "fra at tjene os"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:50.872612003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og de glemte hansgerninger og hans under, som han havde vist dem.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Og de glemte"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hansgerninger"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "og hans under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "han havde vist dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:10.614108559Z",
+  "model": "glm-5.3"
+}

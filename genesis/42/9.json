@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Yosef huskede ⟨את⟩ drømmene, som han havde drømt om dem, og han sagde til dem: I er spioner — for at se ⟨את⟩ landets nøgenhed er I kommet.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "og han huskede"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drømmene"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "drømmene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "han havde drømt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "om dem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioner"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets nøgenhed"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nøgenhed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "er I kommet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:37.845521905Z",
+  "model": "glm-5.3"
+}

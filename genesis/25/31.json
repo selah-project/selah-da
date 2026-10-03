@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Jaakov sagde: Sælgs i dag ⟨את⟩ din førstefødselsret til mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Sælgs"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din førstefødselsret"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "din førstefødselsret"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:00.476884391Z",
+  "model": "glm-5.3"
+}

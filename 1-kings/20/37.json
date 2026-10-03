@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og han fandt en anden mand og sagde: Slå mig ⟨נא⟩! Og manden slog ham, så han ved slaget blev såret.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "og han fandt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "slå mig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨נא⟩"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "og slog ham"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ved slaget"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "så han blev såret"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:37.754826166Z",
+  "model": "glm-5.3"
+}

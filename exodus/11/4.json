@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Moshe sagde: Sådan siger Jahve: Ved midnat går jeg ud midt i Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "Ved midnat"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "af natten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:12.527206130Z",
+  "model": "glm-5.3"
+}

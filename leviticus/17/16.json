@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Men hvis han ikke vasker ⟨dem⟩ og ikke bader sit kød, skal han bære sin misgerning.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "han vasker"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "og sit kød"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "bader"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "skal bære"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sin misgerning"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:32.810523415Z",
+  "model": "glm-5.3"
+}

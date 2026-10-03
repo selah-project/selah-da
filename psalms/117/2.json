@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 117,
+  "translation": "Thi hans chesed ⟨er⟩ mægtig over os, og Jahves trofasthed ⟨varer⟩ til evig tid. Halleluja!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨er⟩ mægtig"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "og trofasthed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "⟨Jah⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:51.742963117Z",
+  "model": "glm-5.3"
+}

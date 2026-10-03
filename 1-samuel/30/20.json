@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og David tog ⟨את⟩ hele småkvæget og storkvæget; de drev dem foran det kvæg, og de sagde: Dette er Davids bytte.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele småkvæget og storkvæget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "småkvæget"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "og storkvæget"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "de drev"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kvæg"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bytte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:33.614204240Z",
+  "model": "glm-5.3"
+}

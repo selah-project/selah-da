@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Velsignet ⟨er⟩ han, som kommer i Jahves navn; vi velsigner jer fra Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "han, som kommer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "vi velsigner jer"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra ... hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:28.011639135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og det blev fortalt Shaul, at David var flygtet til Gat, og han søgte ikke mere efter ham.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Og det blev fortalt"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "var flygtet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "til Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "tilføjede"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "at søge ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:56.173259343Z",
+  "model": "glm-5.3"
+}

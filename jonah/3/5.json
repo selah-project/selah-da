@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Ninives mænd troede Elohim, og de udråbte en faste og iførte sig sækkeklæder, fra deres største og til deres mindste.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "og troede"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninives"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "og de udråbte"
+    },
+    {
+      "surface": "צום",
+      "gloss": "en faste"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "og iførte sig"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sækkeklæder"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "fra deres største"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "deres mindste"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:54.081615888Z",
+  "model": "glm-5.3"
+}

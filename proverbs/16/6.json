@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Ved chesed og trofasthed sones skyld, og ved frygt for Jahve vender man sig bort fra ondt.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "ved chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "og trofasthed"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "sones"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "og ved frygt for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סור",
+      "gloss": "vendes bort"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fra ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:10.905378668Z",
+  "model": "glm-5.3"
+}

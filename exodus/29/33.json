@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og de skal spise ⟨את⟩ dem, hvormed der er sonet, for at fylde ⟨את⟩ deres hånd, for at hellige ⟨את⟩ dem; men en fremmed må ikke spise, for hellige er de.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "og de skal spise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "der er sonet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "for at fylde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hånd"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hånd"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "for at hellige"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "men en fremmed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal spise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "הם",
+      "gloss": "er de"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:56.961746191Z",
+  "model": "glm-5.3"
+}

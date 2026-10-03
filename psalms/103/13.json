@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Som en fader viser ømhed for sine børn, viser Jahve ømhed for dem, der frygter ham.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Som … viser ømhed"
+    },
+    {
+      "surface": "אב",
+      "gloss": "en fader"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sine børn"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "viser ømhed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem, der frygter ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.749666183Z",
+  "model": "glm-5.3"
+}

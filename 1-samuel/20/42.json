@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 20:42",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jonatan sagde til David: Gå i fred, eftersom vi to har svoret ved Jahves navn og sagt: Jahve skal være mellem mig og dig og mellem mit sæd og dit sæd til evig tid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eftersom"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "vi to"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ved navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mit sæd"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit sæd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:15.245700576Z",
+  "model": "glm-5.3"
+}

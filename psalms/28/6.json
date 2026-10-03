@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Lovet være Jahve, for han har hørt ⟨stemmen af⟩ mine bønners røst.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "lovet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "har hørt"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mine bønners"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.571059999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Min vingård, min egen, står foran mig: de tusind ⟨går⟩ til dig, Shelomo, og de to hundrede til vogterne af ⟨את⟩ dens frugt.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "min vingård"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "min egen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "de tusind"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "og de to hundrede"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "til vogterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens frugt"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "dens frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:47:58.657851768Z",
+  "model": "glm-5.3"
+}

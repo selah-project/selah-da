@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Sheols veje ⟨er⟩ hendes hus, ⟨det går⟩ ned til dødens kamre.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "veje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheols"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hendes hus"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "⟨det går⟩ ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "kamre"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dødens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:44.352090248Z",
+  "model": "glm-5.3"
+}

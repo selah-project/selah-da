@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Glæd jer i Jahve, og juble, I tsadikim; og fryd jer, alle I retfærdige af hjertet!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "glæd jer"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "og juble"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "I tsadikim"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "og fryd jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "retfærdige"
+    },
+    {
+      "surface": "לב",
+      "gloss": "af hjertet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:24.243466206Z",
+  "model": "glm-5.3"
+}

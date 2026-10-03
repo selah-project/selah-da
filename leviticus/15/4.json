@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Hvert leje, som den med flydningen ligger på, bliver urent, og hvert kar, som han sidder på, bliver urent.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hvert"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "leje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger på"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "(på)"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "den med flydningen"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bliver urent"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hvert"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sidder på"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "(på)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bliver urent"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:07.104248793Z",
+  "model": "glm-5.3"
+}

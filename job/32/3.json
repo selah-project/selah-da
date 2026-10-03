@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og mod hans tre venner brændte hans vrede, fordi de ikke fandt et svar og dog dømte ⟨את⟩ Ijob skyldig.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "og mod de tre"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "hans venner"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fandt"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "et svar"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "og dømte skyldig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:51.858712772Z",
+  "model": "glm-5.3"
+}

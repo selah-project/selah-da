@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Hvorfor støder du min sjæl fra dig, Jahve, og skjuler dit ansigt for mig?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "støder du fra dig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "skjuler du"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.791999241Z",
+  "model": "glm-5.3"
+}

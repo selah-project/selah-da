@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim gjorde ⟨את⟩ de to store lysilder, ⟨את⟩ den store lysilde til at herske over dagen, og ⟨את⟩ den lille lysilde til at herske over natten, ⟨את⟩ stjernerne.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to store lysilder"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "lysilder"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "store"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den store lysilde"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "lysilde"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "den store"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "til at herske over"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den lille lysilde"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "lysilde"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den lille"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "til at herske over"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stjernerne"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "stjernerne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:40.545649141Z",
+  "model": "glm-5.3"
+}

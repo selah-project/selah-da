@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Hurtig skrider den bøjede frem for at blive løst, og han skal ikke dø i graven, og hans brød skal ikke mangle.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "hurtig"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "den bøjede"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "for at blive løst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "i graven"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "skal mangle"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hans brød"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:55.876605310Z",
+  "model": "glm-5.3"
+}

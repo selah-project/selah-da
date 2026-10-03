@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "I hele ⟨den⟩ jorden er deres målesnor gået ud, og deres ord til ⟨enden af⟩ verden; for solen har han sat et telt iblandt dem.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "er gået ud"
+    },
+    {
+      "surface": "קום",
+      "gloss": "deres målesnor"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "og til enden af"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "deres ord"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "for solen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "har sat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "et telt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:48.984581196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Så faldt Jisrael fra Davids hus — indtil denne dag.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "Så faldt ... fra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "denne dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:00.411350963Z",
+  "model": "glm-5.3"
+}

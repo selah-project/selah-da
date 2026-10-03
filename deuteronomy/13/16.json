@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "så skal du visselig slå ⟨את⟩ indbyggerne i den by med sværdets æg; læg den i band og ⟨את⟩ alt hvad der er i den, og ⟨את⟩ dens kvæg, med sværdets æg.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "visselig slå"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "skal du slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indbyggerne i den by"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "af sværd"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "læg i band"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den",
+      "marks": "byen (den)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt hvad der er i den"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "der er i den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens kvæg"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "dens kvæg"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "af sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:18.781376551Z",
+  "model": "glm-5.3"
+}

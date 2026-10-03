@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og kongen sad i vinterhuset i den niende måned, og ⟨את⟩ ildkedlen foran ham ⟨var⟩ brændende.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Og kongen"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "vinter-"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i måned"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "den niende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ildkedlen"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ildkedlen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "brændende"
+    }
+  ],
+  "timestamp": "2026-10-03T17:23:46.301813089Z",
+  "model": "glm-5.3"
+}

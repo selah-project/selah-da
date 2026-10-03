@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Skam dem og lad dem stå med skammen sammen, de som søger min sjæl for at udrydde den; lad dem vige tilbage og blive til skamme, de som vil mig ondt.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "skam dem"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "og lad dem stå med skammen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som søger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "for at udrydde den"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "lad dem vige"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tilbage"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "og blive til skamme"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "de som vil"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mig ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:58.806351267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Han knækkede min styrke på vejen, forkortede mine dage.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Han knækkede"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "min styrke"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "forkortede"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mine dage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:56.876579593Z",
+  "model": "glm-5.3"
+}

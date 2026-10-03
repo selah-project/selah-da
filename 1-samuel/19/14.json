@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Shaul sendte sendebud for at hente ⟨את⟩ David, og hun sagde: Han er syg.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sendebud"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "for at hente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "syg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:09.540594583Z",
+  "model": "glm-5.3"
+}

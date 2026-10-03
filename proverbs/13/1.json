@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "En vis søn ⟨hører⟩ sin fars tugt, men en spotter hører ikke revselse.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugt"
+    },
+    {
+      "surface": "אב",
+      "gloss": "far"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "spotter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "revselse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:41.770468101Z",
+  "model": "glm-5.3"
+}

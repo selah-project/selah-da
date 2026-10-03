@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Fast står mit hjerte, Elohim, fast står mit hjerte; jeg vil synge og lovsynge.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "fast står"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "fast står"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "jeg vil synge"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "og lovsynge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:42.793799726Z",
+  "model": "glm-5.3"
+}

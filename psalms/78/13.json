@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Han kløvede havet og lod dem gå igennem, og han fik vandene til at stå som en dynge.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "kløvede"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "lod dem gå igennem"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "fik … til at stå"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "נד",
+      "gloss": "en dynge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.603178475Z",
+  "model": "glm-5.3"
+}

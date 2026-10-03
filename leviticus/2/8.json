@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og du skal bringe ⟨את⟩ minchaen, som laves af disse ting, til Jahve, og den skal frembæres for præsten, og han skal bringe den hen til alteret.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Og du skal bringe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchaen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "laves"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "af disse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "og den skal frembæres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "og han skal bringe den hen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:34.314729409Z",
+  "model": "glm-5.3"
+}

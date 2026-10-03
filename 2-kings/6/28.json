@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og kongen sagde til hende: Hvad fejler dig? Og hun sagde: Denne kvinde sagde til mig: Giv ⟨את⟩ din søn, og lad os æde ham i dag, og ⟨את⟩ min søn æder vi i morgen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fejler dig"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din søn"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "og lad os æde ham"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "min søn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "æder vi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "i morgen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:13.313298703Z",
+  "model": "glm-5.3"
+}

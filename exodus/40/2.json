@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "På den første måneds første dag skal du rejse ⟨את⟩ Mishkan, mødeteltet.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "på den første"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "af måneden"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "skal du rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af mødet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:03.579806961Z",
+  "model": "glm-5.3"
+}

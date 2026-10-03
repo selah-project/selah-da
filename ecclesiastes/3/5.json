@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et tidspunkt at kaste sten og et tidspunkt at samle sten; et tidspunkt at omfavne og et tidspunkt at fjerne sig fra omfavnelse.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "at kaste"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "at samle"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "at omfavne"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "at fjerne sig"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "fra omfavnelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:04.254024312Z",
+  "model": "glm-5.3"
+}

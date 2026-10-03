@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Joktan avlede ⟨את⟩ Almodad og ⟨את⟩ Shelef og ⟨את⟩ Chatsarmavet og ⟨את⟩ Jarach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Og Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jarach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jarach"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:30.934868076Z",
+  "model": "glm-5.3"
+}

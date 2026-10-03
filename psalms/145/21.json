@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Jahves pris skal min mund tale, og alt kød skal velsigne hans hellige navn til evig tid og evighed.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "pris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "skal … tale"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og skal velsigne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellige"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og evighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:37.120928365Z",
+  "model": "glm-5.3"
+}

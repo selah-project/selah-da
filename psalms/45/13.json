@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og Tsors datter med en gave — dit ansigt søger de, de rige blandt folket.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Og datter"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsors"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "med en gave"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "søger de"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "de rige"
+    },
+    {
+      "surface": "עם",
+      "gloss": "blandt folket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:02.052938995Z",
+  "model": "glm-5.3"
+}

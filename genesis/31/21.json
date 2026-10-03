@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og han flygtede, han og alt hvad han havde, og han stod op og gik over ⟨את⟩ floden og vendte ⟨את⟩ sit ansigt mod Gilads bjerg.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "og han flygtede"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han havde"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "og han stod op"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og gik over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "floden"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og vendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit ansigt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mod bjerget"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:52.370503599Z",
+  "model": "glm-5.3"
+}

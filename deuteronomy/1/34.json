@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jahve hørte ⟨את⟩ lyden af jeres ord, og han blev vred og svor og sagde:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "af jeres ord"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "og blev vred"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "og svor"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:57.541809304Z",
+  "model": "glm-5.3"
+}

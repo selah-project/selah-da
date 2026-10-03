@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og ⟨את⟩ mændene, der var ved indgangen til huset, slog de medblindhed, fra den mindste og til den største; og de udmattede sig med at finde indgangen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "mændene"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "til huset"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "slog de"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "med blindhed"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "fra den mindste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "den største"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "og de udmattede sig"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "med at finde"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "indgangen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:21.428655718Z",
+  "model": "glm-5.3"
+}

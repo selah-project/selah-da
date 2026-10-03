@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han kaster sin is ud som smuler; foran sin kulde — hvem kan stå?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "kaster ud"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "sin is"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "som smuler"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sin kulde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan stå"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:58.490727111Z",
+  "model": "glm-5.3"
+}

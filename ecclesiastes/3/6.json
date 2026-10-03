@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et tidspunkt at søge og et tidspunkt at miste; et tidspunkt at bevare og et tidspunkt at kaste bort.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "at søge"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "at miste"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "at bevare"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "at kaste bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:04.254227986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun stod op for at samle aks, og Boas bød ⟨את⟩ sine unge karle og sagde: Også mellem negene skal hun samle, og I skal ikke gøre hende skam.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Og hun stod op"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "for at samle aks"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "og bød"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine unge karle"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "sine unge karle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "negene"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skal hun samle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "skulle I gøre hende skam"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:32.752151330Z",
+  "model": "glm-5.3"
+}

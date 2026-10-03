@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Hør råd og modhold tukt, for at du kan blive vis i din fremtid.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "og modhold"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tukt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "bliver vis"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "i din fremtid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:37.191651252Z",
+  "model": "glm-5.3"
+}

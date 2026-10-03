@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Der er en, der gør sig rig ⟨og⟩ har slet intet; en, der gør sig fattig, og ⟨dog⟩ har han overflod af gods.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "der er"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "gør sig rig"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og har intet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "slet intet"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "gør sig fattig"
+    },
+    {
+      "surface": "והון",
+      "gloss": "og gods"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overflod"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:52.182172942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og præsterne og levitterne rensede sig selv, og de renede ⟨את⟩ folket og ⟨את⟩ portene og ⟨את⟩ muren.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "Og ... rensede"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og levitterne"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "og de renede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "portene"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "og portene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muren"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "og muren"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:51.949231229Z",
+  "model": "glm-5.3"
+}

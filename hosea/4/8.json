@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Mit folks synd æder de, og mod deres skyld løfter de deres sjæl.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folks"
+    },
+    {
+      "surface": "יֹאכלו",
+      "gloss": "æder de"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "deres skyld"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "løfter de"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "deres sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:46.225408477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Vist skal Elohim knuse hovedet på sine fjender, isseens hårtop på den, der vandrer i sin skyld.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vist"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "skal knuse"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "på sine fjender"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "isse"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hårtop"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "den der vandrer"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "i sin skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:17.110733838Z",
+  "model": "glm-5.3"
+}

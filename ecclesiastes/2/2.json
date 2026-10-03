@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Om latter sagde jeg: ⟨Den er⟩ vanvittig, og om glæde: Hvad udretter denne?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Om latter"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde jeg"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "vanvittig"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "og om glæde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udretter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:48.953332888Z",
+  "model": "glm-5.3"
+}

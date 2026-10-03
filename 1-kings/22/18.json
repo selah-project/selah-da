@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og kongen af Jisrael sagde til Jehoshafat: Har jeg ikke sagt dig, at han ikke profeterer godt om mig, men kun ondt?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Har ikke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "profeterer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "om mig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:24.187771184Z",
+  "model": "glm-5.3"
+}

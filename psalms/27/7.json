@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Hør, Jahve, min røst, når jeg råber; og vær mig nådig og svar mig.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "når jeg råber"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "og vær mig nådig"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "og svar mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:45.963377768Z",
+  "model": "glm-5.3"
+}

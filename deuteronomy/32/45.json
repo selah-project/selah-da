@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Moshe fuldendte at tale ⟨את⟩ alle disse ord til hele Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "og fuldendte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "at tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "disse ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:27.237004370Z",
+  "model": "glm-5.3"
+}

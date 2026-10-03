@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og I skal ikke vanhellige ⟨את⟩ mit hellige navn, og jeg skal helliges midt i Jisraels børn; jeg er Jahve, der helliger jer.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og I skal ikke"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "vanhellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit hellige navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mit hellige"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "og jeg skal helliges"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "der helliger jer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:24.488387970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Dog — Elohim vil fri min sjæl fra Sheols hånd, for han tager mig ⟨til sig⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "vil fri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra Sheols hånd"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "tager mig ⟨til sig⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:19.793098202Z",
+  "model": "glm-5.3"
+}

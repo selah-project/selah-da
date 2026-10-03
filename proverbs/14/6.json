@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Spotteren søger chokmá, og ⟨der er⟩ ingen, men da'at er let for den forstandige.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "spotteren"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "chokmá"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨der er⟩ ingen"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "men da'at"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "for den forstandige"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "er let"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:43.321003819Z",
+  "model": "glm-5.3"
+}

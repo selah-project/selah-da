@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Men Jahves chesed ⟨er⟩ fra evighed og til evighed over dem, der frygter ham, og hans tsedek over børnebørn —",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "men chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "fra evighed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem der frygter ham"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "og hans tsedek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "til børn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:23.547461202Z",
+  "model": "glm-5.3"
+}

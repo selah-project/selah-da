@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Når du låner din næste noget, hvad som helst, må du ikke gå ind i hans hus for at tage hans pant.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "du låner"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "din næste"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "lån"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hvad som helst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "må du ikke gå ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "for at tage i pant"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "hans pant"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:49.832259142Z",
+  "model": "glm-5.3"
+}

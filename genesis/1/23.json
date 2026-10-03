@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det blev aften, og det blev morgen — dag fem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "fem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.739154006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Der skal være rigdom af korn på jorden, på bjergenes toppe; dets frugt skal svaje som Libanon, og de skal blomstre fra byen som jordens græs.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Der skal være"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "rigdom"
+    },
+    {
+      "surface": "בר",
+      "gloss": "af korn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "på toppen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "af bjergene"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "skal svaje"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "som Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "dets frugt"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "og de skal blomstre"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "fra byen"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "som græs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:52.453807990Z",
+  "model": "glm-5.3"
+}

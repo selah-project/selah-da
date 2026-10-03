@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og min sjæl er stærkt forfærdet — og du, Jahve, ⟨hvor længe⟩?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "og min sjæl"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "er forfærdet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "stærkt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨hvor længe⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨hvor længe⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:47.163975931Z",
+  "model": "glm-5.3"
+}

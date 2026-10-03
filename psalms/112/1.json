@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Halleluja! Salig ⟨er⟩ manden, der frygter ⟨את⟩ Jahve, som har sin glæde i stor ⟨mål⟩ i hans bud.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "salig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "i hans bud"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "har sin glæde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "stor mål"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:22.344698616Z",
+  "model": "glm-5.3"
+}

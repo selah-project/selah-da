@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "En tunge-mand skal slet ikke bestå i ⟨det⟩ land; en voldsmann — det onde skal jage ham ⟨ned⟩ i styrtedymbler.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "בל",
+      "gloss": "slet ikke"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "bestå"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "skal jage ham"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "i styrtedymbler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:58.603979296Z",
+  "model": "glm-5.3"
+}

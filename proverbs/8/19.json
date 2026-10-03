@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Min frugt er bedre end guld, ja end fint guld, og min indkomst bedre end udvalgt sølv.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "min frugt"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "end guld"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ja end fint guld"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "og min indkomst"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "end sølv"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "udvalgt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:13.785789737Z",
+  "model": "glm-5.3"
+}

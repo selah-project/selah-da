@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "⟨את⟩ forhængene til forgården, ⟨את⟩ dens søjler og ⟨את⟩ dens sokler, og ⟨את⟩ forhenget til forgårdens port,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forhængene til forgården"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "forhængene"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens søjler"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "dens søjler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens sokler"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "dens sokler"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "forhenget til forgårdens port"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhenget"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:13.368451954Z",
+  "model": "glm-5.3"
+}

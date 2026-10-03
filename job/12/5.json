@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "En lampe til foragt for den trygges tanker, rede for dem, hvis fod glider.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "en lampe"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "til foragt"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "for ... tanker"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "den trygges"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "rede"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "for dem, hvis"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:03.463675987Z",
+  "model": "glm-5.3"
+}

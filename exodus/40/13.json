@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal iføre Aharon ⟨את⟩ ⟨את⟩ de hellige klæder, og du skal salve ham og hellige ham, og han skal tjene som præst for mig.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "og du skal iføre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hellige klæder"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæder"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "de hellige"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "og du skal salve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Aharon)"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og hellige"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Aharon)"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "og han skal tjene som præst"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.553734154Z",
+  "model": "glm-5.3"
+}

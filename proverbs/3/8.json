@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Det skal ⟨være⟩ lægedom for din krop og lindring for dine knogler.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "lægedom"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "for din krop"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "og lindring"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "for dine knogler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:09.321100220Z",
+  "model": "glm-5.3"
+}

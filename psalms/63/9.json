@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Min sjæl hænger fast ved dig; din højre hånd støtter mig.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "hænger fast ved"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ved mig"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "støtter"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:13.509031034Z",
+  "model": "glm-5.3"
+}

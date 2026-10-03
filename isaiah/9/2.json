@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Du har gjort folket talrigt, du har ikke gjort glæden stor; de glæder sig foran dig, som man glæder sig ved høsten, som når de fryder sig over at dele bytte.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "Du har gjort ... talrigt"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "du har gjort ... stor"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "glæden"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "de glæder sig"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "som glæden"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ved høsten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som når"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "de fryder sig"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "over at dele"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "bytte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:00.444129124Z",
+  "model": "glm-5.3"
+}

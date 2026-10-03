@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og hans trælle satte ham ⟨død⟩ op ⟨på en vogn⟩ fra Megiddo og bragte ham til Jerushalajim og begravede ham i hans grav; og landets folk tog ⟨את⟩ Yehoachaz, Yoshiahus søn, og salvede ⟨את⟩ ham og gjorde ⟨את⟩ ham til konge i stedet for hans fader.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "og de satte ham op"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans trælle"
+    },
+    {
+      "surface": "מת",
+      "gloss": "død"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "fra Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "og bragte ham"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "og begravede ham"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "og salvede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "og gjorde til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:34.256895986Z",
+  "model": "glm-5.3"
+}

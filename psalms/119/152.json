@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "For længe siden kendte jeg ⟨fra⟩ dine vidnesbyrd, at til evig tid har du grundlagt dem.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "for længe siden"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kendte jeg"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "har du grundlagt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:40.701864003Z",
+  "model": "glm-5.3"
+}

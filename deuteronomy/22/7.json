@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Sende bort skal du sende moderen ⟨את⟩ bort, og ungerne ⟨את⟩ må du tage til dig, for at det må gå dig godt, og du må få lange dage.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sende bort"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "skal du sende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moderen"
+    },
+    {
+      "surface": "האם",
+      "gloss": "moderen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ungerne"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ungerne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "må du tage"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "det må gå godt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "og du får lange"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:04.589506368Z",
+  "model": "glm-5.3"
+}

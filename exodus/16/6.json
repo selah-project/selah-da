@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Moshe og Aharon sagde til alle Jisraels børn: I aften skal I vide, at det var Jahve, som førte ⟨את⟩ jer ud af Mitsrajims land.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "og I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "førte ud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer (ud af Mitsrajims land)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:46.538230190Z",
+  "model": "glm-5.3"
+}

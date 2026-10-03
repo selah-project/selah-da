@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Velstand og rigdom ⟨er⟩ i hans hus, og hans tsedek står fast til evig tid.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "velstand"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "og rigdom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "og hans tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står fast"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:22.345077886Z",
+  "model": "glm-5.3"
+}

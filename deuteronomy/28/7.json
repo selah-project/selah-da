@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve skal give ⟨את⟩ dine fjender, som rejser sig mod dig, slagne for dit åsyn; på én vej skal de drage ud mod dig, og ad syv veje skal de flygte for dit åsyn.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "skal give"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine fjender"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "som rejser sig"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "slagne"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit åsyn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på én vej"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "skal de drage ud"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "og ad syv veje"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "veje"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "skal de flygte"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:52.816931491Z",
+  "model": "glm-5.3"
+}

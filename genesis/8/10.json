@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han ventede yderligere syv andre dage og sendte atter ⟨את⟩ duen ud fra arken.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "og han ventede"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yderligere"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "og tilføjede"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "at sende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duen"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ud fra"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:50.672847142Z",
+  "model": "glm-5.3"
+}

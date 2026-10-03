@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et øjeblik at fødes, og et øjeblik at dø; et øjeblik at plante, og et øjeblik at rykke op det, som ⟨er⟩ plantet.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "at fødes"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "למות",
+      "gloss": "at dø"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "at plante"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "at rykke op"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "det, som ⟨er⟩ plantet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:26.146176893Z",
+  "model": "glm-5.3"
+}

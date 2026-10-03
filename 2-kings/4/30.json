@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og drengens mor sagde: Så sandt Jahve lever, og så sandt din sjæl lever, jeg forlader dig ikke. Da stod han op og gik efter hende.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "til drengens"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og så sandt … lever"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din sjæl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeg … ikke"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "forlader dig"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Da stod han op"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "efter hende"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:13.690548789Z",
+  "model": "glm-5.3"
+}

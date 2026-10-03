@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Han gør sine sendebud til rúachot, sine tjenere til flammende ild.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sine sendebud"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "rúachot"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sine tjenere"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "להט",
+      "gloss": "flammende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.226993922Z",
+  "model": "glm-5.3"
+}

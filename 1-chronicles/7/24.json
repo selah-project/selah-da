@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og hans datter var Sheera; hun byggede ⟨את⟩ Beit-Khoron, det nedre, og ⟨את⟩ det øvre, og ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "og hans datter"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "hun byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "det nedre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det øvre"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "det øvre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "-Sheera"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:11.391173102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Kongen af Jeriko, én; kongen af Aj, som ⟨ligger⟩ ved siden af Beit-El, én;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ved siden af"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:31.730618338Z",
+  "model": "glm-5.3"
+}

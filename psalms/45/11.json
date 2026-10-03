@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Hør, datter, og se, og bøj dit øre; og glem dit folk og din fars hus —",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "og se"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "og bøj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "og glem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og ... hus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:48.121047099Z",
+  "model": "glm-5.3"
+}

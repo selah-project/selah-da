@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Disse var de ⟨mænd⟩ der tjente ⟨את⟩ kongen, foruden dem som kongen havde sat i de befæstede byer i hele Jehuda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "de der tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "foruden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "havde sat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i byerne"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "befæstede"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:12.925044539Z",
+  "model": "glm-5.3"
+}

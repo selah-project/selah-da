@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Rehavam gik til Shekem, for til Shekem var hele Jisrael kommet for at gøre ham til konge ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "var kommet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "for at gøre til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:55.206381926Z",
+  "model": "glm-5.3"
+}

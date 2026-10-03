@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon og ⟨את⟩ dens græsgange, ⟨את⟩ Gat-Rimmon og ⟨את⟩ dens græsgange — fire byer",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:09.637580158Z",
+  "model": "glm-5.3"
+}

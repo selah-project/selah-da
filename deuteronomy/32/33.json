@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Deres vin er gift fra taninim, og hovedet af kobbere er grusomt.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "gift"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "taninim"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "deres vin"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "og hovedet"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "af kobbere"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "grusomt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:29.982926232Z",
+  "model": "glm-5.3"
+}

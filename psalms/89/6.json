@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Og himlene skal prise dine under, Jahve, ja din trofasthed i de helliges forsamling.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "og de skal prise"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dine under"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthed"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i forsamlingen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "af hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:59.818459504Z",
+  "model": "glm-5.3"
+}

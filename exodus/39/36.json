@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "⟨את⟩ bordet, ⟨את⟩ alle dets kar og ⟨את⟩ skuebrødet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dets kar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets kar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skuebrødet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "skue- (ansigternes)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:34.180090023Z",
+  "model": "glm-5.3"
+}

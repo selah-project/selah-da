@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Opslug, Adonaj, sønderdel deres tunge, for jeg har set vold og trætte i byen.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "opslug"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "sønderdel"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "deres tunge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "og trætte"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.196308327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Enhver der slår en sjæl ihjel, skal ⟨את⟩ drabsmanden dræbes efter vidners vidnesbyrd; men én vidne skal ikke vidne imod en sjæl ⟨til⟩ døden.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Enhver"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "der slår ihjel"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "en sjæl"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vidners vidnesbyrd"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "skal dræbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drabsmanden"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "drabsmanden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "men en vidne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "skal vidne"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "imod en sjæl"
+    },
+    {
+      "surface": "למות",
+      "gloss": "til døden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:19:32.005143289Z",
+  "model": "glm-5.3"
+}

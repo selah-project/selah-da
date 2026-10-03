@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "og som morgenens lys, når solen står op — en morgen uden skyer; fra skær, fra regn, græs af jorden.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "og som … lys"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgenens"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "står op"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "en morgen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "skyer"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "fra skær"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "fra regn"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "græs"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:35.257136228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Sæt, Jahve, en vagt for min mund, bevogt døren til mine læber.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Sæt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "en vagt"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "for min mund"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "bevogt"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "דל",
+      "gloss": "døren"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mine læber"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:10.387964779Z",
+  "model": "glm-5.3"
+}

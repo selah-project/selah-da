@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shaul sagde til Shemuel: Jeg har syndet; thi jeg brød ⟨את⟩ Jahves befaling og ⟨את⟩ dine ord, for jeg frygtede ⟨את⟩ folket og lyttede til deres røst.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jeg har syndet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "jeg brød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves befaling"
+    },
+    {
+      "surface": "פי",
+      "gloss": "befaling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dine ord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dine ord"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "jeg frygtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "og lyttede"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "til deres røst"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:05.813465950Z",
+  "model": "glm-5.3"
+}

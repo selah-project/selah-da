@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "sådan ⟨er⟩ den mand, der bedrager ⟨את⟩ sin næste og siger: Lege jeg ikke?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "den mand"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "bedrager"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Lege jeg ikke"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "lege"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:06.753878435Z",
+  "model": "glm-5.3"
+}

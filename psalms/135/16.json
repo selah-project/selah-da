@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "En mund har de, men taler ikke; øjne har de, men ser ikke.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "en mund"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taler"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "להם",
+      "gloss": "har de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:07.634862546Z",
+  "model": "glm-5.3"
+}

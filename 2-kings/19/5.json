@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og kongen Hizkijas trælle kom til Jesaja.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:41.304929251Z",
+  "model": "glm-5.3"
+}

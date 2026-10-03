@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og han satte ⟨את⟩ overdruiden tilbage til sit drikkeembede, og han gav bægeret i Parohs hånd.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "satte tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "overdruiden"
+    },
+    {
+      "surface": "שר",
+      "gloss": "overdruiden"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "drikkerne"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "sit drikkeembede"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han gav"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "bægeret"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "כף",
+      "gloss": "hånd (håndfladen)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:05.514623137Z",
+  "model": "glm-5.3"
+}

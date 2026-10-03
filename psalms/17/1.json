@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "En bøn af David. Hør, Jahve, ⟨den⟩ ret! Lyt til mit råb,giv øre til min bøn — uden læbers svig.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "en bøn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hør"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ret"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mit råb"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "giv øre"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "læbers"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.858033837Z",
+  "model": "glm-5.3"
+}

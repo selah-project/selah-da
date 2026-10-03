@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og jeg vil sende ⟨את⟩ hvepsen foran dig, og den skal drive ⟨את⟩ hivviten, ⟨את⟩ kana'anæeren og ⟨את⟩ hittiten bort fra dit åsyn.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Og jeg vil sende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvepsen"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "hvepsen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "og den skal drive bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hivviten"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivviten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kana'anæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kana'anæeren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hittiten"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittiten"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "fra dit åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:57.550126153Z",
+  "model": "glm-5.3"
+}

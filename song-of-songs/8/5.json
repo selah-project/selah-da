@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Hvem er denne, der stiger op fra ørkenen, læner sig mod sin elskede? Under æbletræet vækkede jeg dig; dér fødte din mor dig, dér var hun i fødselsveer, hun som fødte dig.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "stiger op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ørkenen"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "læner sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "sin elskede"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "æbletræet"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "vækkede jeg dig"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dér"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "var i fødselsveer med dig"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dér"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "var hun i fødselsveer"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "hun som fødte dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:51.822814887Z",
+  "model": "glm-5.3"
+}

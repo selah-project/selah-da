@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og Yosef kaldte den førstefødtes navn Menashe, for Elohim har fået mig til at glemme ⟨את⟩ al min møje og ⟨את⟩ hele min fars hus.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "har fået mig til at glemme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al min møje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "min møje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele min fars hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:25.475147081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Mennesket lignes ved en damp, hans dage som en skygge, der går forbi.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ved en damp"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "lignes"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hans dage"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "som en skygge"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "der går forbi"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:31.016060642Z",
+  "model": "glm-5.3"
+}

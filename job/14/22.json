@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Kun hans kød har smerte over ham, og hans sjæl sørger over ham.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans kød"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "har smerte"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "og hans sjæl"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "sørger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:39.662265557Z",
+  "model": "glm-5.3"
+}

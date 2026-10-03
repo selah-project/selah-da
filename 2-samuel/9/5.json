@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og kong David sendte bud og hentede ham fra Machirs hus, Ammiels søn, fra Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte bud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "hentede ham"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra huset"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machirs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "fra Lo-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:26.304433509Z",
+  "model": "glm-5.3"
+}

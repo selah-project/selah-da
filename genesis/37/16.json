@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han sagde: ⟨את⟩ mine brødre søger jeg. Fortæl mig dog, hvor de vogter ⟨flokken⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine brødre"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mine brødre"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Fortæl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vogter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:59.342513646Z",
+  "model": "glm-5.3"
+}

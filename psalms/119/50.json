@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Dette er min trøst i min nød, at dit ord har gjort mig levende.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "min trøst"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "i min nød"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "har gjort mig levende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:33.043079088Z",
+  "model": "glm-5.3"
+}

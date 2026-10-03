@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og alle de ældste i den by, der er nærmest ⟨den⟩ dræbte, skal vaske ⟨את⟩ deres hænder over kvæget, hvis nakke er brækket, i dalen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "der er nærmest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "den dræbte"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "skal vaske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "hvis nakke er brækket"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "i dalen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:32.923273886Z",
+  "model": "glm-5.3"
+}

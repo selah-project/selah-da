@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "I bliver gravide med ⟨halm⟩, I føder strå; jeres ruach ⟨som⟩ ild skal fortære jer.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "I bliver gravide"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "med halm"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "I føder"
+    },
+    {
+      "surface": "קש",
+      "gloss": "strå"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "jeres ruach"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "skal fortære jer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:55.160687514Z",
+  "model": "glm-5.3"
+}

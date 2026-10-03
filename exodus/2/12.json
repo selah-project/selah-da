@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og han vendte sig den vej og den vej og så, at der ikke var nogen mand; og han slog ⟨את⟩ mitsriteren og skjulte ham i sandet.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Og han vendte sig"
+    },
+    {
+      "surface": "כה",
+      "gloss": "den vej"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "og den vej"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke var"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen mand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitsriteren"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "mitsriteren"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "og skjulte ham"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "i sandet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:30.452569914Z",
+  "model": "glm-5.3"
+}

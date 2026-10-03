@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han rørte ved min mund og sagde: Se, denne har rørt ved dine læber, og din skyld er vendt bort, og din synd er sonet.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Og han rørte"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "har rørt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "dine læber"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "er vendt bort"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "din skyld"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "og din synd"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "er sonet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:39.064744470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Jahves eng lejrer sig rundt om dem, der frygter ham, og udfrier dem.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "lejrer sig"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "eng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "dem der frygter ham"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "og udfrier dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:25.345074482Z",
+  "model": "glm-5.3"
+}

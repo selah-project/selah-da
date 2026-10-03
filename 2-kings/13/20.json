@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Elisja døde, og de begravede ham. Og Moabs stridsbander plejede at komme ind i landet, når året kom.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Og døde"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisja"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "og de begravede ham"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "Og stridsbanderne"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "plejede at komme"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ind i landet"
+    },
+    {
+      "surface": "בא",
+      "gloss": "når ... kom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "året"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:13.898175966Z",
+  "model": "glm-5.3"
+}

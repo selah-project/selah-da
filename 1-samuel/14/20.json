@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Shaul og hele folket, som var hos ⟨את⟩ ham, blev kaldt sammen, og de kom til slaget; og se, hver mands sværd ⟨var⟩ mod hans næste — en meget stor forvirring.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "blev kaldt sammen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (med preposition)"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "slaget"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mands"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "mod hans næste"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "forvirring"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:05.337375161Z",
+  "model": "glm-5.3"
+}

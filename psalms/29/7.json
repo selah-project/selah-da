@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Jahves røst hugger flammer af ild.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "hugger"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "flammee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "af ild"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:30.295465790Z",
+  "model": "glm-5.3"
+}

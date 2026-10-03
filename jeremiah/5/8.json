@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Mætte heste er de blevet, om morgenen vandrer de i lyst; hver mand vrinsker efter sin næstes hustru.",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "heste"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "mætte"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "vandrer i lyst"
+    },
+    {
+      "surface": "היו",
+      "gloss": "er de blevet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næstes"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "vrinsker"
+    }
+  ],
+  "timestamp": "2026-10-03T17:11:00.157052475Z",
+  "model": "glm-5.3"
+}

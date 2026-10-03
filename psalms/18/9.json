@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Røg steg op i hans næsebor, og ild fra hans mund fortærer; gløder blev tændt af den.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "røg"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i hans næsebor"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "og ild"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "fra hans mund"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "fortærer"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gløder"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "blev tændt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:00.444574022Z",
+  "model": "glm-5.3"
+}

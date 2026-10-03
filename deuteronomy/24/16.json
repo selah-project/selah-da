@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Fædre skal ikke dø for børn, og børn skal ikke dø for fædre; hver mand skal dø for sin egen synd.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skal dø (dræbes)"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fædre"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "og børn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skal dø (dræbes)"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fædre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "for sin egen synd"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skal dø (dræbes)"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:41.784616790Z",
+  "model": "glm-5.3"
+}

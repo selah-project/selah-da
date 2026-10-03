@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal tage ⟨את⟩ skyldofferlammet og ⟨את⟩ log-olien, og præsten skal vifte dem som anvifelse foran Jahve.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Og han skal tage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skyldofferlammet"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "af skyldofferet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "log-olien"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "og ... vifte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "som anvifelse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:58.418465127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og du skal huske, at du var træl i Mitsrajim, og du skal vogte og gøre ⟨את⟩ disse vedtægter.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Og du skal huske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "træl"
+    },
+    {
+      "surface": "היית",
+      "gloss": "du var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "og du skal vogte"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse vedtægter"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "vedtægter"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:51.753798743Z",
+  "model": "glm-5.3"
+}

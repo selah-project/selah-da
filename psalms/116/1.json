@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Jeg elsker, fordi Jahve hører ⟨את⟩ min røst, mine bønner.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Jeg elsker"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min røst"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mine bønner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:16.474468818Z",
+  "model": "glm-5.3"
+}

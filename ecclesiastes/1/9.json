@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Det, som var blevet, er det, som skal blive, og det, som blev gjort, er det, som skal gøres; og der er intet nyt under solen.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "var blevet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "som skal blive"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og det, som"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "blev gjort"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "som skal gøres"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noget som helst"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:33.169083793Z",
+  "model": "glm-5.3"
+}

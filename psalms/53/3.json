@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Elohim skuede ned fra himlene over menneskebørnene for at se, om der var en forstandig, en som søgte ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "fra himlene"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "skuede ned"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "af mennesker"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "היש",
+      "gloss": "om der var"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en forstandig"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "en som søgte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:16.478619581Z",
+  "model": "glm-5.3"
+}

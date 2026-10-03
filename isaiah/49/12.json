@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Se, disse kommer fra det fjerne, og se, disse fra nord og fra havet, og disse fra Sinims land.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fra det fjerne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "fra nord"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og fra havet"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "og disse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "Sinim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:04.553370344Z",
+  "model": "glm-5.3"
+}

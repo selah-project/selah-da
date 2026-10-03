@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 87,
+  "translation": "Jahve elsker Tsions porte frem for alle Jaakovs Mishkaner.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "porte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frem for alle"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mishkaner"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:27.467962966Z",
+  "model": "glm-5.3"
+}

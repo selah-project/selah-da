@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Thi Elohim er konge over hele jorden; syng lovsang med forstand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "syng lovsang"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "med forstand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.346162653Z",
+  "model": "glm-5.3"
+}

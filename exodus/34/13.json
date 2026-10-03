@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Thi ⟨את⟩ deres altere skal I nedrive, og ⟨את⟩ deres stenstøtter skal I knuse, og ⟨את⟩ deres asheraer skal I fælde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres altere"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "deres altere"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "skal I nedrive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres stenstøtter"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "deres stenstøtter"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "skal I knuse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres asheraer"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "deres asheraer"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "skal I fælde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:38.355082216Z",
+  "model": "glm-5.3"
+}

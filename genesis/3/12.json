@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og mennesket sagde: Kvinden, som du satte hos mig, hun gav mig af træet, og jeg spiste.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Kvinden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du satte"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "træet"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og jeg spiste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:01.700019920Z",
+  "model": "glm-5.3"
+}

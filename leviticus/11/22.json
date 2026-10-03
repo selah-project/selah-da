@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Af ⟨את⟩ disse må I spise: ⟨את⟩ arbeh efter sin art, og ⟨את⟩ selaam efter sin art, og ⟨את⟩ hargol efter sin art, og ⟨את⟩ chagab efter sin art.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "af"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "efter sin art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "selaam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "selaam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sin art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sin art"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "chagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sin art"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:56.054084698Z",
+  "model": "glm-5.3"
+}

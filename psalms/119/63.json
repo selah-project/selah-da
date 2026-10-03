@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg ⟨er⟩ fælle for alle, der frygter dig, og for dem, der vogter dine bud.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "fælle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "frygter dig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "og for dem der vogter"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:41.760883142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Forbandet ⟨er⟩ du i byen, og forbandet ⟨er⟩ du på marken.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "og forbandet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:51.708720238Z",
+  "model": "glm-5.3"
+}

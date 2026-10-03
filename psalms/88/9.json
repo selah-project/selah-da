@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Du har fjernet mine bekendte fra mig; du har gjort mig til en vederstyggelighed for dem; jeg er indespærret og kan ikke komme ud.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "har fjernet"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "mine bekendte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "gjorde mig"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "til en vederstyggelighed"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "indespærret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "komme ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:55.777394770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "For en fjende forfølger min sjæl, knuser mit liv mod jorden, lader mig bo i mørket som de døde fra fortiden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "forfølger"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "en fjende"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "knuser"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mod jorden"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "mit liv"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "lader mig bo"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "som de døde"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fra fortiden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:59.771594829Z",
+  "model": "glm-5.3"
+}

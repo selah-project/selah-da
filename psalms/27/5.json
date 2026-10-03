@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "For han skjuler mig i sin hytte på ondskens dag; han gemmer mig i skjulene i sit telt; på en klippe ophøjer han mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "skjuler mig"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "i sin hytte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskens dag"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "gemmer mig"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i skjulene"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "i sit telt"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "på en klippe"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ophøjer han mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:45.962870820Z",
+  "model": "glm-5.3"
+}

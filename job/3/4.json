@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Den dag — må den blive mørke; må Eloah ikke søge den fra oven, og må intet lys skinne på den.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "må den blive"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "søge den"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "fra oven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og må ikke"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "skinne"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "lys"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:40.446897704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jahve ville ikke tilintetgøre ⟨את⟩ Juda, for sin træl Davids skyld, således som han havde sagt ham, at give ham en lampe for hans sønner alle dage.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "tilintetgøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "at give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "en lampe"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "for hans sønner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:39:18.270979607Z",
+  "model": "glm-5.3"
+}

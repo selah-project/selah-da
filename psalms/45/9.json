@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Myrra og aloe og kassia — alle dine klæder; fra elfenbenspaladser har strengeinstrumenter glædet dig.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Myrra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "og aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "og kassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "dine klæder"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "paladser"
+    },
+    {
+      "surface": "שן",
+      "gloss": "elfenben"
+    },
+    {
+      "surface": "מני",
+      "gloss": "strengeinstrumenter"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "har glædet dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:48.120673279Z",
+  "model": "glm-5.3"
+}

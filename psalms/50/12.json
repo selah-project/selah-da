@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Hvis jeg blev sulten, ville jeg ikke sige det til dig; for mig tilhører jorden og dens fylde.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "jeg blev sulten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ville jeg sige"
+    },
+    {
+      "surface": "לך",
+      "gloss": "det til dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig tilhører"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "og dens fylde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:45.926105795Z",
+  "model": "glm-5.3"
+}

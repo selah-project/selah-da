@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Sådan siger Jahve: Hvis I kan bryde min pagt med ⟨את⟩ dagen og min pagt med ⟨את⟩ natten, så dag og nat ikke mere er på deres tid —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "I kan bryde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagen"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "med dagen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "natten"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "med natten"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "så at ikke"
+    },
+    {
+      "surface": "היות",
+      "gloss": "er"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "på deres tid"
+    }
+  ],
+  "timestamp": "2026-10-03T17:22:08.611234451Z",
+  "model": "glm-5.3"
+}

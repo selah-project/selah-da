@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Men mit folk hørte ikke min røst, og Jisrael vilde mig ikke.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Men ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "og Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "vilde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:43.259100598Z",
+  "model": "glm-5.3"
+}

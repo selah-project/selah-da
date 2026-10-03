@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Og vadestederne er besat, og ⟨את⟩ sivene har de brændt med ild, og krigsmændene grebes af rædsel.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "og vadestederne"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "er besat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sivene"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "sivene"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "har brændt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "og mændene"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "af krigen"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "grebes af rædsel"
+    }
+  ],
+  "timestamp": "2026-10-03T17:29:48.181287873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og det skete, da Ammons sønner kæmpede mod Jisrael, gik de ældste i Gilad af sted for at hente ⟨את⟩ Jiftach fra landet Tov.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "kæmpede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste i"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "for at hente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiftach"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tov"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:00.966556701Z",
+  "model": "glm-5.3"
+}

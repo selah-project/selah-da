@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kongen sagde: Skær barnet ⟨את⟩ det levende i to, og giv den ene halvdel til ⟨den ene⟩ og ⟨את⟩ den anden halvdel til ⟨den anden⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og kongen sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "skær"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet det levende"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "החי",
+      "gloss": "det levende"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "i to"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "og giv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ene halvdel"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "den ene halvdel"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "til den ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den anden halvdel"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "den anden halvdel"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "til den anden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:58.439144701Z",
+  "model": "glm-5.3"
+}

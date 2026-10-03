@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og af det tvættede Moshe og Aharon og hans sønner ⟨את⟩ deres hænder og ⟨את⟩ deres fødder.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "og tvættede"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres fødder"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "deres fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:00.638390626Z",
+  "model": "glm-5.3"
+}

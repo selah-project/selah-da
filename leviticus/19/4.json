@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Vend jer ikke til guderne ⟨af støbt metal⟩, og elohim af støbning skal I ikke lave ⟨til jer⟩; jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vend jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "guderne (af støbt metal)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "af støbning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skal I lave"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": " jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:40.439229798Z",
+  "model": "glm-5.3"
+}

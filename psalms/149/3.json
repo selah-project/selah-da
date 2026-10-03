@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "De skal prise hans navn i dansen, med tromme og lyre skal de spille for ham.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "De skal prise"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "i dansen"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "med tromme"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "og lyre"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "skal de spille"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:22.012930384Z",
+  "model": "glm-5.3"
+}

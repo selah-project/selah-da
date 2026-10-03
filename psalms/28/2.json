@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Hør røsten af mine bønner, når jeg råber til dig, når jeg løfter mine hænder mod dit hellige allerhelligste.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "קול",
+      "gloss": "røsten"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "af mine bønner"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "når jeg råber"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "når jeg løfter"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mine hænder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "allerhelligste"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dit hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:02.401984086Z",
+  "model": "glm-5.3"
+}

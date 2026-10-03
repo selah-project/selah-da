@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "Chasidim skal juble i herlighed, de skal raabe af glæde på deres lejer.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "Chasidim"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "i herlighed"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "de skal raabe af glæde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "deres lejer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.697103575Z",
+  "model": "glm-5.3"
+}

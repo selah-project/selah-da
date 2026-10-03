@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Ram avlede ⟨את⟩ Amminadav, og Amminadav avlede ⟨את⟩ Nachshon, høvding for Judas sønner.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Og Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "og Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "בני",
+      "gloss": "for sønnerne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "af Juda"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:36.088604784Z",
+  "model": "glm-5.3"
+}

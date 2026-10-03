@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han rejste et vidnesbyrd i Jaakov, og en Tora satte han i Jisrael, som han bød ⟨את⟩ vore fædre at kundgøre dem for deres børn.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og han rejste"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "et vidnesbyrd"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Jaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "og en Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte han"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "han bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vore fædre"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "vore fædre"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "at kundgøre dem"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "for deres børn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:15.453777997Z",
+  "model": "glm-5.3"
+}

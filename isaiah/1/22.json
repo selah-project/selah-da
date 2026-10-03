@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Dit sølv er blevet til slagger, din drik er udvandet med vand.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "Dit sølv"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "til slagger"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "din drik"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "udvandet"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:15.413241890Z",
+  "model": "glm-5.3"
+}

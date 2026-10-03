@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Gilad er mit, Menashe er mit, og Efrayim er værn for mit hoved, Yehuda er min lovgiver.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "er mit"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er mit"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "og Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "vern"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "for mit hoved"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "min lovgiver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.937266737Z",
+  "model": "glm-5.3"
+}

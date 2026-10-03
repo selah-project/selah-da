@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en mand, som giver sin kønligen med et kvæg — døden skal han dø, og ⟨את⟩ kvægget skal I slå ihjel.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sin kønligen"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "med et kvæg"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal han dø"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kvægget"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvægget"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "skal I slå ihjel"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:19.353299865Z",
+  "model": "glm-5.3"
+}

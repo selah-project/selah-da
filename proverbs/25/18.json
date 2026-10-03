@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "En kølle og et sværd og en spids pil — ⟨er⟩ den mand, der afgiver falsk vidnesbyrd mod sin ven.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "en kølle"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "og et sværd"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "og en pil"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "spids"
+    },
+    {
+      "surface": "איש",
+      "gloss": "den mand"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "afgiver vidnesbyrd"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "mod sin ven"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vidnesbyrd"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsk"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:48.508429748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Giv Jahve hans navns ære, bær en mincha frem og kom ind i hans forgårde!",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ære"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navns"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "bær … frem"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "og kom ind"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "i hans forgårde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.774020053Z",
+  "model": "glm-5.3"
+}

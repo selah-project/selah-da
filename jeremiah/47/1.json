@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Det som var Jahves ord til Yirmeyahu, profeten, mod filisterne, førend Paro slog ⟨את⟩ Aza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "førend"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    }
+  ],
+  "timestamp": "2026-10-03T17:26:28.175161229Z",
+  "model": "glm-5.3"
+}

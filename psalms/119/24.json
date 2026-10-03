@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Ja, dine vidnesbyrd er min glæde, ⟨de⟩ er mine rådgivere.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "min glæde"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨de⟩ er"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mine rådgivere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:30.771572732Z",
+  "model": "glm-5.3"
+}

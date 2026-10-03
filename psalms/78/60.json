@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han forlod Mishkan i Shilo, ⟨den⟩ telt han havde bolig sig blandt mennesker.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "og han forlod"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "i Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telt"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "havde bolig sig"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "blandt mennesker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:24.216945506Z",
+  "model": "glm-5.3"
+}

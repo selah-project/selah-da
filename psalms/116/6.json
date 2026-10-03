@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Jahve vogter ⟨de⟩ enfoldige; jeg var bragt lavt, og mig frelste han.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "de enfoldige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "jeg var bragt lavt"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "og mig"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "frelste han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:15.077999178Z",
+  "model": "glm-5.3"
+}

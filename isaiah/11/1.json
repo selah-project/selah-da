@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og en kvist skal gå ud fra Jishajs stamme, og en skud fra hans rødder skal bære frugt.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "skal gå ud"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "en kvist"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "fra stamme"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishajs"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "og et skud"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "fra hans rødder"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "skal bære frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:36.281349610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Må din chesed ⟨blive⟩ til min trøst, som du har sagt til din træl.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Må ... ⟨blive⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "til min trøst"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "som du har sagt"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "til din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.473242848Z",
+  "model": "glm-5.3"
+}

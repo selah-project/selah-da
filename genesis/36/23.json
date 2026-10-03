@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og disse er Shovals sønner: Alvan, Manachat, Eval, Shefo og Onam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "og disse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "af Shoval"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Alvan"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "Manachat"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "Eval"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Shefo"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "og Onam"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:24.103040149Z",
+  "model": "glm-5.3"
+}

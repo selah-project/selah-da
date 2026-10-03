@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han sagde: Åh, Adonaj, send dog ved den hånd, du vil sende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Åh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "du vil sende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:08.902476082Z",
+  "model": "glm-5.3"
+}

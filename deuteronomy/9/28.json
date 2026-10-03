@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 9:28",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "for at ikke landet, som du førte os ud fra, skal sige: Det var fordi Jahve ikke formåede at føre dem ind i det land, han havde talt til dem om, og fordi han hadede dem, førte han dem ud for at lade dem dø i ørkenen.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "for at ikke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוצאתנו",
+      "gloss": "du førte os ud"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "fordi ... ikke"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "formåede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "at føre dem ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "han havde talt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "ומשנאתו",
+      "gloss": "og fordi han hadede dem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (hadede)"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "førte han dem ud"
+    },
+    {
+      "surface": "להמתם",
+      "gloss": "for at lade dem dø"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:23.224082205Z",
+  "model": "glm-5.3"
+}

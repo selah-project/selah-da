@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Han banede en vej for sin vrede; han sparede ikke deres sjæl fra døden, men gav deres liv i pestens vold.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "banede"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "en vej"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "for sin vrede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sparede"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "fra døden"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "deres sjæl"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "men deres liv"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "i pestens"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "gav i vold"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:26.881408430Z",
+  "model": "glm-5.3"
+}

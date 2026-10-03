@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "så vil jeg give jeres regnninger i deres tid, og jorden skal give sit udbytte, og markens træer skal give deres frugt.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "så vil jeg give"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "jeres regnninger"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "i deres tid"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "og skal give"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sit udbytte"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "og træerne"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "skal give"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "deres frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:09.760482860Z",
+  "model": "glm-5.3"
+}

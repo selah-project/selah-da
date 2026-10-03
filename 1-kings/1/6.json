@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og hans far havde ikke bedrøvet ham nogen af hans dage ved at sige: Hvorfor har du gjort sådan? Og han var også meget smuk af skikkelse, og hans mor fødte ham efter Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "havde bedrøvet"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ham hans far"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "nogen af hans dage"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ved at sige"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Og også"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "smuk"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "af skikkelse"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:14.708456029Z",
+  "model": "glm-5.3"
+}

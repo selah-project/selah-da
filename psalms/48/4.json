@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Elohim ⟨er⟩ kendt i dens borge som ⟨en⟩ fast borg.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "i dens borge"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "kendt"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "som fast borg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:21.808581310Z",
+  "model": "glm-5.3"
+}

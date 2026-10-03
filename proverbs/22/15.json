@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 22:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Dårskab er bundet i ungens hjerte; tugtens kår driver den langt bort fra ham.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "dårskab"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "er bundet"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i … hjerte"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ungen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kår"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugtens"
+    },
+    {
+      "surface": "ירחיקנה",
+      "gloss": "driver den langt bort"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:03.216379468Z",
+  "model": "glm-5.3"
+}

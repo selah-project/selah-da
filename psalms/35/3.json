@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og ryst spydet frem og spær vejen for mine forfølgere; sig til min sjæl: Jeg ⟨er⟩ din frelse.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Og ryst frem"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spydet"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "og spær"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vejen for"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mine forfølgere"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sig"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "til min sjæl"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "din frelse"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:57.131454552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Thi ⟨את⟩ åget, hans børde, og ⟨את⟩ staven på hans skulder, hans undertrykkers kæp — du har knust ⟨dem⟩ som på Midjans dag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "åget, hans børde"
+    },
+    {
+      "surface": "על",
+      "gloss": "åget"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "hans børde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "staven på hans skulder"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staven"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "på hans skulder"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kæp"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "hans undertrykkers"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "du har knust"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som på ... dag"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjans"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:00.444372402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve lader ⟨את⟩ pesten klæbe sig til dig, indtil han har udryddet dig fra den jord, som du går dertil for at tage i besiddelse.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "lader klæbe sig til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesten"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pesten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "har udryddet"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "den jord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בא",
+      "gloss": "går"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dertil"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "for at tage den i besiddelse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:45.867465639Z",
+  "model": "glm-5.3"
+}

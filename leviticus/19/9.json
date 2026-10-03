@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og når I høster ⟨את⟩ høsten på jeres land, skal du ikke helt høste kanten af din mark, og efterhøsten af din høst skal du ikke samle.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Og når I høster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "høsten"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "høsten"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "på jeres land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "skal du ikke helt"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kanten"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "af din mark"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "høste"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "og efterhøsten"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "af din høst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skal du samle"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:06.809109155Z",
+  "model": "glm-5.3"
+}

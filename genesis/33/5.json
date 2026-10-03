@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og han løftede ⟨את⟩ sine øjne og så ⟨את⟩ kvinderne og ⟨את⟩ børnene, og han sagde: Hvem er disse for dig? Og han sagde: Børnene, som Elohim har vist nåde mod ⟨את⟩ din tjener.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "og han løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine øjne"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sine øjne"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinderne"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinderne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "børnene"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "børnene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "er disse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "børnene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "har vist nåde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din tjener"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din tjener"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:43.148090309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "De så sig om, men der var ingen frelser; til Jahve, men han svarede dem ikke.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "så sig om"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der var ingen"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "svarede dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:52.748661424Z",
+  "model": "glm-5.3"
+}

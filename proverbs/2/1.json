@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Min søn, hvis du tager imod mine ord og gemmer mine bud hos ⟨את⟩ dig —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "du tager imod"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "og mine bud"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "du gemmer"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig",
+      "marks": "hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:26.941732910Z",
+  "model": "glm-5.3"
+}

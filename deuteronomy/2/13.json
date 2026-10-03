@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Nu, stå op og gå over for jer ⟨את⟩ bækken Zered; og vi gik over ⟨את⟩ bækken Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "stå op"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "og gå over"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bækken Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bækken"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "og vi gik over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bækken Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "bækken"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:22.298495704Z",
+  "model": "glm-5.3"
+}

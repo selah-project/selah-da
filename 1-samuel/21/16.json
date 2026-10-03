@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Mangler jeg gale mænd, siden I har bragt ⟨את⟩ denne hid for at være gal imod mig? Skal denne komme ind i mit hus?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "mangler"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "gale mænd"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siden"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "I har bragt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "for at være gal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "skal komme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:12.015387710Z",
+  "model": "glm-5.3"
+}

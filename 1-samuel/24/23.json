@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og David svor Shaul ⟨את⟩; og Shaul gik til sit hus, og David og hans mænd steg op til fæstningen.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Og David svor"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "og hans mænd"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "fæstningen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:10.973803789Z",
+  "model": "glm-5.3"
+}

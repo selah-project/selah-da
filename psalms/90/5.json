@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Du har skyllet dem bort som en strøm; de blev som en søvn; om morgenen ⟨er de⟩ som græs, der skyder op.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "du har skyllet dem bort"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "en søvn"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de blev"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som græs"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "der skyder op"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.356922698Z",
+  "model": "glm-5.3"
+}

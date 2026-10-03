@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal sætte ⟨את⟩ sonestedet oven på arken, og i arken skal du lægge ⟨את⟩ vidnesbyrdet, som jeg vil give dig.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonestedet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sonestedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "oven på"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "foroven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og i"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arken"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skal du lægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vidnesbyrdet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "jeg vil give"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:12.489471770Z",
+  "model": "glm-5.3"
+}

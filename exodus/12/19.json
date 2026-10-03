@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 12:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "I syv dage skal der ikke findes surdej i jeres huse; for hver den som spiser noget syret, den sjæl skal udskæres af Israels menighed, både den fremmede og den hjemfødte i landet.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "I syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "surdej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "skal findes"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "i jeres huse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver den"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "som spiser"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "noget syret"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "skal udskæres"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "den sjæl"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "af menigheden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "בגר",
+      "gloss": "både den fremmede"
+    },
+    {
+      "surface": "ובאזרח",
+      "gloss": "og den hjemfødte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:12.438111221Z",
+  "model": "glm-5.3"
+}

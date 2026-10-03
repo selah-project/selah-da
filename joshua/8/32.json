@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han skrev der på stenene ⟨את⟩ en afskrift af Moshes Tora, som han skrev foran Jisraels børn.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "og han skrev"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en afskrift af Moshes Tora"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "en afskrift"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "af Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "han skrev"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:38:33.131971686Z",
+  "model": "glm-5.3"
+}

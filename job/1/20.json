@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Da stod Ijjov op og flængede ⟨את⟩ sin kåbe og skalerede ⟨את⟩ sit hoved og faldt til jorden og tilbad.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og stod op"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "og flængede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin kåbe"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "sin kåbe"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "og skalerede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit hoved"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sit hoved"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "og faldt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og tilbad"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:02.099810048Z",
+  "model": "glm-5.3"
+}

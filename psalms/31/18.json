@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Jahve, lad mig ikke skamme mig, thi jeg har kaldt på dig; lad de onde skamme sig, lad dem tie i Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "lad mig skamme mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jeg har kaldt på dig"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "lad dem skamme sig"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "lad dem tie"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Sheol"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:28.524826278Z",
+  "model": "glm-5.3"
+}

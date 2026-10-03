@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og de svarede dem ⟨את⟩ og sagde: Ja, se, han er foran dig; skynd dig nu, for han er i dag kommet til byen, for folket har i dag et slagtningsoffer på højen.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "og de svarede"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (Shaul og hans tjener)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ja, han er"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skynd dig"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "בא",
+      "gloss": "er han kommet"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "til byen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slagningsoffer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "på højen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:10.554855412Z",
+  "model": "glm-5.3"
+}

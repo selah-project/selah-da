@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "så skal han regne ud ⟨את⟩ årene for sit salg og tilbagebetale ⟨את⟩ resten til den mand, som han solgte det til, og vende tilbage til sin ejendom.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "så skal han regne ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "årene"
+    },
+    {
+      "surface": "שני",
+      "gloss": "årene"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "for sit salg"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "og tilbagebetale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resten"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "resten"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "til den mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "han solgte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og vende tilbage"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "til sin ejendom"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:01.011453708Z",
+  "model": "glm-5.3"
+}

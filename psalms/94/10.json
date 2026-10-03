@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Han, der tugter folkeslagene — skal han ikke rette? Han, der lærer mennesket ⟨את⟩ kundskab — ⟨skal han ikke vide det?⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Han, der tugter"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "skal han ikke"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "rette"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Han, der lærer"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kundskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.409607515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Shmuel sagde til folket: Jahve ⟨er⟩ den, som gjorde ⟨את⟩ Moshe og ⟨את⟩ Aharon, og som førte ⟨את⟩ jeres fædre op fra landet Mitsrajim —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og som"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "førte … op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres fædre"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:40.062029439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og alle dørene og dørstolperne var firkantede ⟨med⟩ overstykning, og vindue stod over for vindue, tre gange.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og alle"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "dørene"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "og dørstolperne"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "firkantede"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "overstyrkning"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "og over for"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "vindue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over for"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "vindue"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gange"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:08.222127691Z",
+  "model": "glm-5.3"
+}

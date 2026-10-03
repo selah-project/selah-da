@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "De gudløse vender tilbage til Sheol, alle folkeslag, der glemmer Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "til Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "der glemmer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:07.577695388Z",
+  "model": "glm-5.3"
+}

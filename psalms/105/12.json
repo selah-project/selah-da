@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Da de var mænd fåtallige, kun ganske få, og fremmede i det",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "da de var"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "fåtallige"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kun ganske få"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "og fremmede"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.214488576Z",
+  "model": "glm-5.3"
+}

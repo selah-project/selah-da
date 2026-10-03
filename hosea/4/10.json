@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og de skal spise, men ikke mættes; de har drevet utugt, men skal ikke formere sig; for ⟨את⟩ Jahve har de forladt, da de ikke ville holde ⟨fast ved⟩ ⟨ham⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "og de skal spise"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "har drevet utugt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "formere sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "har forladt"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "at holde fast ved"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:06.115337722Z",
+  "model": "glm-5.3"
+}

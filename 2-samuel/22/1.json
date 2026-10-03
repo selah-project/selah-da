@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og David talte til Jahve ⟨את⟩ ordene til denne sang, den dag da Jahve reddede ⟨את⟩ ham af hånden på alle hans fjender og af hånden på Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordene"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "til sangen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "reddede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "af hånden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "hans fjender"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "og af hånden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "på Shaul"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:06.761435852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Lovsyng Jahve, for han er god, for til evighed ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lovsyng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evighed"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:47.084534988Z",
+  "model": "glm-5.3"
+}

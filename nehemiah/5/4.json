@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og der var nogle, som sagde: Vi har lånt sølv til kongens skat ⟨på⟩ vore marker og vore vingårde.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "og der var nogle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "har lånt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "til skatten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "vore marker"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "og vore vingårde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:06:01.662355344Z",
+  "model": "glm-5.3"
+}

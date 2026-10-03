@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Men du er i det højeste til evigheden, Jahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "i det højeste"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:57.220106333Z",
+  "model": "glm-5.3"
+}

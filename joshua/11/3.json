@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "kana'anæeren mod øst og mod vest, og emoræeren og hetæeren og perizzæeren og jevusæeren i bjergegnen, og hivvæeren ved foden af Chermon i landet Mitzpa —",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "kana'anæeren"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "mod øst"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og mod vest"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "og emoræeren"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "og hetæeren"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "og perizzæeren"
+    },
+    {
+      "surface": "ויבוסי",
+      "gloss": "og jevusæeren"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bjergegnen"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "og hivvæeren"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ved foden af"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:35.871007219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Et Elohims bjerg er Bashans bjerg, et bjerg af tinder er Bashans bjerg.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims bjerg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "er"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashans bjerg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "et bjerg"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "af tinder"
+    },
+    {
+      "surface": "הר",
+      "gloss": "er"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashans bjerg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:28.820370823Z",
+  "model": "glm-5.3"
+}

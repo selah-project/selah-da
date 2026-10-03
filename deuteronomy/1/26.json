@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og I ville ikke gå op, men I trodsede ⟨את⟩ munden af Jahve jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ville I"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "gå op"
+    },
+    {
+      "surface": "ויתמרו",
+      "gloss": "men I trodsede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munden af Jahve jeres Elohim"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:26.880867124Z",
+  "model": "glm-5.3"
+}

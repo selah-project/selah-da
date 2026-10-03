@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han øste af salvingsolien på Aharons hoved og salvede ham til at hellige ham.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Og han øste"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "af salvingsolien"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "salvings-"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "og salvede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "til at hellige ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:19.320111038Z",
+  "model": "glm-5.3"
+}

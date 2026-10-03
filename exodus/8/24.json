@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Paroh sagde: Jeg sender jer ⟨את⟩, og I skal slagte for Jahve jeres Elohim i ørkenen; blot fjern jer ikke for langt at gå. Bed for mig!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "og I skal slagte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "רק",
+      "gloss": "blot"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "fjern jer langt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "skal I fjerne jer"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "at gå"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "bed"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:13.323976873Z",
+  "model": "glm-5.3"
+}

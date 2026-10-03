@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skete på selveste denne dag: Jahve førte ⟨את⟩ Jisraels børn ud af landet Mitsrajim, efter deres hærskarer.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "på selveste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "førte ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ud af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "deres hærskarer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:29.616684948Z",
+  "model": "glm-5.3"
+}

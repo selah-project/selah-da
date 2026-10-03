@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Sin hånd strakte han ud over havet, han fik rigerne til at skælve; Jahve gav bud imod Kanaan om at ødelægge dets fæstninger.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "strakte han ud"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "fik ... til at skælve"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "rigerne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gav bud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "imod"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "om at ødelægge"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "dets fæstninger"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:30.941371440Z",
+  "model": "glm-5.3"
+}

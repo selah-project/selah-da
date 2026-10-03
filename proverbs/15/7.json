@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "De vises læberudså kundskab, men dåbers hjerte ⟨gør⟩ ikke sådan.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "læber"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vises"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "udså"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kundskab"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "men hjertet"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dåbers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:59.612274883Z",
+  "model": "glm-5.3"
+}

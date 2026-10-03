@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve satte en stor fisk i stand til at sluge ⟨את⟩ Jona; og Jona var i fiskens indre tre dage og tre nætter.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "sat i stand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "en fisk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "til at sluge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "i fiskens indre"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "fiskens"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "og tre"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nætter"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:08.815268312Z",
+  "model": "glm-5.3"
+}

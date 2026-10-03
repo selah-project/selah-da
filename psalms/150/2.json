@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 150,
+  "translation": "Lovsynger ham i hans vældige gerninger; lovsynger ham efter mangfoldigheden af hans storhed.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lovsynger ham"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "i hans vældige gerninger"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lovsynger ham"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "efter mangfoldigheden"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "af hans storhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:47.917405742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Thi således er det budt mig ved Jahves ord og sagt: Du skal ikke spise brød, og ikke drikke vand, og ikke vende tilbage ad den vej, du gik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "er det budt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ved ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "Du skal spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "drikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vende tilbage"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ad vejen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "du gik"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:21.051227431Z",
+  "model": "glm-5.3"
+}

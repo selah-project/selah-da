@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "De retfærdige ser ⟨det⟩ og glæder sig, og al ondskab lukker sin mund.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ser"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "og glæder sig"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og al"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "lukker"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sin mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:50.846350606Z",
+  "model": "glm-5.3"
+}

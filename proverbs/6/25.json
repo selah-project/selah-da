@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Begær ikke hendes skønhed i dit hjerte, og lad hende ikke fange dig med sine øjenlåg.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begær"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "hendes skønhed"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "i dit hjerte"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "fange dig"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "med sine øjenlåg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:03.855589975Z",
+  "model": "glm-5.3"
+}

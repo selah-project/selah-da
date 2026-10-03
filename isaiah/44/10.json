@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Hvem har dannet en el og støbt et udskåret billede, til ingen gavn?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "har dannet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en el"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "og et udskåret billede"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "støbt"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "til ikke"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "gavn"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:53.328651812Z",
+  "model": "glm-5.3"
+}

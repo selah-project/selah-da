@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "De væmmes ved mig, de fjerner sig fra mig, og for mit ansigt tilbageholder de ikke spyttet.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "De væmmes ved mig"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "de fjerner sig"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "og for mit ansigt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "tilbageholder de"
+    },
+    {
+      "surface": "רק",
+      "gloss": "spyttet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:01.591487557Z",
+  "model": "glm-5.3"
+}

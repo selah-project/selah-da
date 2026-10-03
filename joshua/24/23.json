@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og nu: fjern de fremmede ⟨את⟩ guder, som ⟨er⟩ i jeres midte, og vend ⟨את⟩ jert hjerte mod Jahve, Jisraels Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "fjern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fremmede guder"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de fremmede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "i jeres midte"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "og vend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jert hjerte"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jert hjerte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:12.405361820Z",
+  "model": "glm-5.3"
+}

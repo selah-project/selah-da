@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og det skete, da Avrahams træl hørte ⟨את⟩ deres ord, kastede han sig til jorden for Jahve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "træl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres ord"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "deres ord"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kastede han sig ned"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:14.369351453Z",
+  "model": "glm-5.3"
+}

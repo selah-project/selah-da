@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og hun sagde: Bad jeg om en søn hos min herre? Sagde jeg ikke: Du må ikke bedrage mig ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Bad jeg"
+    },
+    {
+      "surface": "בן",
+      "gloss": "om en søn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hos ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Sagde jeg ikke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde jeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "Du må bedrage"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:20.523027931Z",
+  "model": "glm-5.3"
+}

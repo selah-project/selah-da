@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og du, menneskesøn, tag dig en tegelsten, og læg den foran dig, og tegn på den en by, ⟨את⟩ Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "en tegelsten"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "og læg"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "den (tegelstenen)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "og tegn"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en by"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:32:24.419765183Z",
+  "model": "glm-5.3"
+}

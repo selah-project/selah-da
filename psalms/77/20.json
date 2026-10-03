@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "I havet var din vej, dine stier i mange vande, og dine fodspor blev ikke kendt.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "i havet"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din vej"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "dine stier"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "dine fodspor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "blev kendt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:56.830719841Z",
+  "model": "glm-5.3"
+}

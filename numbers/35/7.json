@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Alle de byer, som I giver levitterne, skal være otteogfyrre byer, ⟨את⟩ ⟨dem⟩ og ⟨את⟩ deres udmarker.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "I giver"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "og otte"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "byer"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ ⟨dem⟩",
+      "marks": "otteogfyrre byer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres udmarker"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "deres udmarker"
+    }
+  ],
+  "timestamp": "2026-10-03T15:19:20.963584029Z",
+  "model": "glm-5.3"
+}

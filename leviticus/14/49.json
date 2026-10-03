@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal tage for at rense ⟨את⟩ huset to fugle og cedertræ og skarlagen og isop.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "og han skal tage"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "for at rense"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "fugle"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "og træ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ceder"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "og skarlagen"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "≪skarlagen⟩"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "og isop"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:54.424047722Z",
+  "model": "glm-5.3"
+}

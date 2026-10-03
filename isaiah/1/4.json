@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Ve, syndigt folk, en tung af ondskab, en sæd af ondgørere, sønner der ødelægger! De har forladt Jahve, de har foragtet ⟨את⟩ Jisraels Hellige, de er vendt baglæns.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syndigt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "en tung"
+    },
+    {
+      "surface": "עון",
+      "gloss": "af ondskab"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "en sæd"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "af ondgørere"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "der ødelægger"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "de har forladt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "de har foragtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels Hellige"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Hellige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "de er vendt"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baglæns"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:07.065075740Z",
+  "model": "glm-5.3"
+}

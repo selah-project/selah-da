@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Du kender min smæde og min skam og min vanære; foran dig ⟨er⟩ alle mine modstandere.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kender"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "min smæde"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "og min skam"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "og min vanære"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mine modstandere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:47.415681929Z",
+  "model": "glm-5.3"
+}

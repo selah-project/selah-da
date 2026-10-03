@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Jahve slog kongen, og han var spælsk indtil sin dødsdag, og han boede i isolationens hus; og Jotam, kongens søn, var over huset og dømte ⟨את⟩ landets folk.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han var"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "spælsk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sin død"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og han boede"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "isolationens"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "og Jotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dømte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets folk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:32.655637367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Vis ikke venskab med ⟨את⟩ en vred mand, og med ⟨את⟩ en heftig mand skal du ikke gå.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "vis venskab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en vred mand"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "en herre over"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "af heftighed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skal du gå"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:09.588447642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "De stærkes bue er knust, og de vaklende har bundet styrke om sig.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "de stærkes"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "er knust"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "og de vaklende"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "har bundet om sig"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:44.527862914Z",
+  "model": "glm-5.3"
+}

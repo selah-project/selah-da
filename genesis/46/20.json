@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Og til Josef blev der født, i landet Mitsrajim, dem som Asnat, datter af Poti-Fera, præst i On, fødte ham: ⟨את⟩ Menashe og ⟨את⟩ Efrajim.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Og … blev født"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "til Josef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dem som"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter af"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "-Fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præst"
+    },
+    {
+      "surface": "אן",
+      "gloss": "i On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:08.638414204Z",
+  "model": "glm-5.3"
+}

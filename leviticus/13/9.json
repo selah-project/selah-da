@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Når et tsaraat-slag er på et menneske, skal han føres til præsten.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "et slag"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "er"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "på et menneske"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "skal han føres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:19.436020579Z",
+  "model": "glm-5.3"
+}

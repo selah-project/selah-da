@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Min søn, vogt din fars bud, og forlad ikke din mors Tora,",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "vogt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fars"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "forlad"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mors"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:54.756917204Z",
+  "model": "glm-5.3"
+}

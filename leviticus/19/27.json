@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "I skal ikke rundklippe håret på jeres hoveds ⟨hjørner⟩, og du skal ikke ødelægge ⟨את⟩ hjørnet af dit skæg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "rundklippe"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨hjørner⟩ af"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "jeres hoved"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ødelægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjørnet af dit skæg"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "hjørnet af"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "dit skæg"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:09.942282280Z",
+  "model": "glm-5.3"
+}

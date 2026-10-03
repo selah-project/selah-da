@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og hele Jisrael gik ned til filisterne for at slebe, hver mand ⟨את⟩ sin plovskær og ⟨את⟩ sin hakke og ⟨את⟩ sin økse og ⟨את⟩ sin gravestok.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "gik ned"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "til filisterne"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "for at slebe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin plovskær"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sin plovskær"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin hakke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sin hakke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin økse"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sin økse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin gravestok"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sin gravestok"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:03.820016555Z",
+  "model": "glm-5.3"
+}

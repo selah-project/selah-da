@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og du skal mindes dem om ⟨את⟩ vedtægterne og ⟨את⟩ Toraerne, og du skal kundgøre dem ⟨את⟩ vejen, de skal vandre på den, og ⟨את⟩ den gerning, som de skal gøre.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Og du skal mindes"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedtægterne"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "vedtægterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Toraerne"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Toraerne"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "og du skal kundgøre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vejen"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "de skal vandre"
+    },
+    {
+      "surface": "בה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "den gerning"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "den gerning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "de skal gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:30.188259532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og ⟨du⟩ fortalte i dag ⟨את⟩ det, du gjorde mod mig — det gode: ⟨at⟩ Jahve havde overgivet mig i din hånd, og du dræbte mig ikke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨du⟩"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, du gjorde mod mig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "du gjorde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mod mig"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "at Jahve havde overgivet mig i din hånd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "overgivet mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "dræbte mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:43.745055890Z",
+  "model": "glm-5.3"
+}

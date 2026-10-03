@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Achimaats, i Naftali; også han tog ⟨את⟩ Bosmat, datter af Shlomo, til hustru.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "i Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "af Shlomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:58.019844402Z",
+  "model": "glm-5.3"
+}

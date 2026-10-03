@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og jeg vil give græs på din mark til dit kvæg, og du skal spise og blive mæt.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil give"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "græs"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "på din mark"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "til dit kvæg"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "og du skal spise"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "og blive mæt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:10.385076257Z",
+  "model": "glm-5.3"
+}

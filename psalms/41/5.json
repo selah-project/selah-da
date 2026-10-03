@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Jeg sagde: Jahve, vær mig nådig, læg min sjæl, for jeg har syndet mod dig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "læg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "har syndet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.107623662Z",
+  "model": "glm-5.3"
+}

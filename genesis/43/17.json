@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og manden gjorde, som Yosef havde sagt, og manden bragte ⟨את⟩ mændene ind i Yosefs hus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og … gjorde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og … bragte ind"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mændene"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:13.648043111Z",
+  "model": "glm-5.3"
+}

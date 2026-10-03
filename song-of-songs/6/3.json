@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Jeg tilhører min elskede, og min elskede tilhører mig — ham, der græsser blandt liljerne.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "tilhører min elskede"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "og min elskede"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tilhører mig"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ham, der græsser"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "blandt liljerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:47:17.524160940Z",
+  "model": "glm-5.3"
+}

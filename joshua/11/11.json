@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og de slog ⟨את⟩ alle sjælene, som var i den, med sværdets æg; ⟨de⟩ lagde dem under banden — der blev ikke levnet nogen ånde — og ⟨את⟩ Chatzor brændte han med ild.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle sjælene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sjælene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "med æggen af"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "lagde under banden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "blev levnet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ånde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:49.869175394Z",
+  "model": "glm-5.3"
+}

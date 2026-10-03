@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Skjul dit ansigt for mine synder, og udslet alle mine misgerninger.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "skjul"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "for mine synder"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mine misgerninger"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "udslet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:03.352265152Z",
+  "model": "glm-5.3"
+}

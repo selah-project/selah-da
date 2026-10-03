@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Jisraels børn skal holde ⟨את⟩ Shabbat, ved at holde ⟨את⟩ Shabbat i deres slægter — en evig pagt.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Og ... skal holde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ved at holde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "i deres slægter"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:12.569679606Z",
+  "model": "glm-5.3"
+}

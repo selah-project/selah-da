@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Dens furer væder du, dens kamme jævner du; med regnbyger gør du den blød; dens spire velsigner du.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "Dens furer"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "væder du"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "jævner du"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "dens kamme"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "med regnbyger"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "gør du den blød"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "dens spire"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "velsigner du"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:29.321812168Z",
+  "model": "glm-5.3"
+}

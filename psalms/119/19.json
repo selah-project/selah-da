@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "En fremmed er jeg på jorden; skjul ikke dine bud for mig.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "En fremmed"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er jeg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skjul"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.430448688Z",
+  "model": "glm-5.3"
+}

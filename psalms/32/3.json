@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Da jeg tav, blev mine knogler slidt op ved mit brøl hele dagen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Da"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "jeg tav"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "blev slidt op"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mine knogler"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ved mit brøl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.986868569Z",
+  "model": "glm-5.3"
+}

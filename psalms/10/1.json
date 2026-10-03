@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Hvorfor står Jahve fjernt, hvorfor skjuler du dig i trængselens tider?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "står du"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "fjernt"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "skjuler du dig"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "i tider"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "af trængsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:27.685485931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "En fjende skal ikke udbytte ham, og en søn af uret skal ikke kue ham.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal udbytte"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "en fjende"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og en søn"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "af uret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "skal kue ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:32.684304837Z",
+  "model": "glm-5.3"
+}

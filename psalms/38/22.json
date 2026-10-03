@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Forlad mig ikke, Jahve, min Elohim, drag ikke langt bort fra mig!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "Forlad mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "drag langt bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:35.077369984Z",
+  "model": "glm-5.3"
+}

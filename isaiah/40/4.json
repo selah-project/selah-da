@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Hver dal skal ophøjes, og hvert bjerg og hver høj skal gøres lavt, og det krokede skal blive til slette, og kragerne til dal.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "skal ophøjes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hvert"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "og hver høj"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "skal gøres lavt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og skal blive"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "det krokede"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "til slette"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "og kragerne"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "til dal"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:10.752714432Z",
+  "model": "glm-5.3"
+}

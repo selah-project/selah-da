@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og jeg sagde til dig: Send ⟨את⟩ min søn af sted, så han kan tjene mig — men du nægtede at lade ham gå; se, jeg dræber ⟨את⟩ din søn, din førstefødte.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send af sted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min søn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "så han tjener mig"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "og du nægtede"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "at lade ham gå"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dræber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din søn"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "din førstefødte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:59.037767739Z",
+  "model": "glm-5.3"
+}

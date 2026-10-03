@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Skal det fortælles ham, at jeg taler? Eller — hvis et menneske siger noget, ⟨da⟩ sluges han.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "skal det fortælles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "jeg taler"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller hvis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "sluges han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:47.034762146Z",
+  "model": "glm-5.3"
+}

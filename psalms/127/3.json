@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 127,
+  "translation": "Se, sønner er en arv fra Jahve, livmoderens frugt en løn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "en arv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "en løn"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "livmoderens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:27.960748771Z",
+  "model": "glm-5.3"
+}

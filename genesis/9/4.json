@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Dog: kød med dets liv — dets blod — skal I ikke spise.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dog"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "med dets liv"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dets blod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I spise"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:24.246872843Z",
+  "model": "glm-5.3"
+}

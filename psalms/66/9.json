@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "ham som sætter vor sjæl i livet og ikke lader vor fod ⟨at⟩ vakle.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ham som sætter"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vor sjæl"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "i livet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "lader"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "⟨at⟩ vakle"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "vor fod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:06.798228143Z",
+  "model": "glm-5.3"
+}

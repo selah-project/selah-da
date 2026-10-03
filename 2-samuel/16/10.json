@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og kongen sagde: Hvad har jeg med jer at gøre, Tserujas sønner? Hvis han forbander, og hvis Jahve har sagt til ham: Forband ⟨את⟩ David — hvem kan da sige: Hvorfor har du gjort sådan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "har jeg"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "og med jer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujahs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "han forbander"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Forband"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kan … sige"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:50.734554536Z",
+  "model": "glm-5.3"
+}

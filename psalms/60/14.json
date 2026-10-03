@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Ved Elohim skal vi gøre heltemodigt, og han er den, der tramper vore fjender ned.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ved Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skal vi gøre"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "heltemodigt"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "tramper ned"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "vore fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:57.042781423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han sendte Moshe, sin træl, og Aharon, hvem han udvalgte.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "udvalgte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:25.596968990Z",
+  "model": "glm-5.3"
+}

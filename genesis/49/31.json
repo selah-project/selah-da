@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Der begravede de ⟨את⟩ Avraham og ⟨את⟩ Sarah hans hustru; der begravede de ⟨את⟩ Jitschak og ⟨את⟩ Rivka hans hustru; og der begravede jeg ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "der"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "begravede de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "der"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "begravede de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "og der"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "begravede jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:15.884597412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Jaakov sagde til Lavan: Giv min kone ⟨את⟩, for mine dage er udfyldt, og jeg vil gå ind til hende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min kone"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "min kone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "er udfyldt"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mine dage"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "og jeg vil gå ind"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:31.464942596Z",
+  "model": "glm-5.3"
+}

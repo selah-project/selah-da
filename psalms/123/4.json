@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 123,
+  "translation": "Overmålet mættet ⟨er⟩ vor sjæl medspot fra de trygge, med foragt fra de stolte.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "overmålet"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mættet"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vor sjæl"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "med spot"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "fra de trygge"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "med foragt"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "fra de stolte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:25.164426746Z",
+  "model": "glm-5.3"
+}

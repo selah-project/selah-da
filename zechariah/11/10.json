@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg tog ⟨את⟩ min stav, ⟨את⟩ Velbehag, og huggede ⟨את⟩ den over, for at gøre ⟨את⟩ min pagt, som jeg havde sluttet ⟨את⟩ alle folkene, om intet.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Og jeg tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min stav, Velbehag"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "min stav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Velbehag"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "Velbehag"
+    },
+    {
+      "surface": "וואגדע",
+      "gloss": "og huggede over"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (staven)"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "for at gøre om intet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "jeg havde sluttet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle folkene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:02:54.208363290Z",
+  "model": "glm-5.3"
+}

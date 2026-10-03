@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og han sagde til dem: Jeg ser jeres fars ⟨את⟩ ansigt, at det ikke ⟨er⟩ vendt mod mig som før i tiden; og min fars Elohim har været med mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "להן",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres fars ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "jeres far"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "som før i tiden"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "før i tiden"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Og … Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "היה",
+      "gloss": "har været"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "med mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:57.298090869Z",
+  "model": "glm-5.3"
+}

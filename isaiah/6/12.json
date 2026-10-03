@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve fører ⟨את⟩ mennesket langt bort, og det forladte bliver stort midt i landet.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Og fører langt bort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "og bliver stort"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "det forladte"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:20.114332992Z",
+  "model": "glm-5.3"
+}

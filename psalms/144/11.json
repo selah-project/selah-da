@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Fri mig og red mig fra hånden på fremmedes sønner, hvis mund taler tomhed, og hvis højre hånd er en højre hånd af løgn.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Fri mig"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "og red mig"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremmedes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tomhed"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "og hvis højre hånd"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "højre hånd"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.948785927Z",
+  "model": "glm-5.3"
+}

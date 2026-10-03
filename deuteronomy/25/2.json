@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og det skal ske: Hvis den skyldige fortjener at blive slået, skal dommeren lade ham lægge sig ned, og man skal slå ham for hans åsyn, efter hans ondskabs mål, med et antal ⟨slag⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fortjener (bokstavl. 'søn af')"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "at blive slået"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den skyldige"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "skal lade ham lægge sig ned"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "dommeren"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "og man skal slå ham"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "for hans åsyn"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "efter målet af"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "hans ondskab"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "med et antal"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:05.499269486Z",
+  "model": "glm-5.3"
+}

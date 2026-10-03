@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Vend tilbage, Jisrael, til Jahve, din Elohim, for du er snublet i din skyld.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vend tilbage"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "er du snublet"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "i din skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:52.776678615Z",
+  "model": "glm-5.3"
+}

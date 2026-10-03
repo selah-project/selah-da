@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Du må ikke lave dig et udskåret billede og nogen som helst skikkelse af det, der er i himlene ovenover, og det, der er på jorden nedenunder, og det, der er i vandene under jorden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du må ikke lave"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "udskåret billede"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og nogen som helst"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "skikkelse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "af det, der"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ovenover"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og det, der"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nedenunder"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og det, der"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vandene"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:44.870108249Z",
+  "model": "glm-5.3"
+}

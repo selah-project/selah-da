@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Yonatan svarede og sagde til Adonija: Nej, men vor herre kong David har gjort Shlomo til konge ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "til Adonija"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "nej, men"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "vor herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "har gjort … til konge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:48.162236457Z",
+  "model": "glm-5.3"
+}

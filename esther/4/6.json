@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Hatak gik ud til Mordechai, til byens torv, som ligger foran kongens port.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gik ud"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "torvet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:52.741220972Z",
+  "model": "glm-5.3"
+}

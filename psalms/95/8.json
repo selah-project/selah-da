@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 95,
+  "translation": "Gør ikke jeres hjerte hårdt som ved Meriva, som på dagen for Massa i ørkenen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "Gør... hårdt"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jeres hjerte"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "som ved Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "som på dagen"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "for Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:40.409494512Z",
+  "model": "glm-5.3"
+}

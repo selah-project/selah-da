@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "De der frygter Jahve, skal sige: Ja, for til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "de der frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:06.204123626Z",
+  "model": "glm-5.3"
+}

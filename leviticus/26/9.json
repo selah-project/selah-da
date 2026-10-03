@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeg vil vende mig mod jer og gøre jer frugtbare og mangfoldiggøre jer, og jeg vil rejse min pagt ⟨את⟩ med jer.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "og jeg vil vende mig"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mod jer"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "og gøre jer frugtbare"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "og mangfoldiggøre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "og jeg vil rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ med jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:09.107778068Z",
+  "model": "glm-5.3"
+}

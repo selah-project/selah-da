@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og jeg er blevet til en smæde for dem; de ser mig, de ryster ⟨på⟩ deres hoved.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "en smæde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "de ser mig"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "de ryster"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "deres hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.693006712Z",
+  "model": "glm-5.3"
+}

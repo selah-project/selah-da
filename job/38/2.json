@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Hvem er denne, der formørker råd i ord uden kundskab?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er denne"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "der formørker"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "råd"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "i ord"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kundskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:45:42.416576220Z",
+  "model": "glm-5.3"
+}

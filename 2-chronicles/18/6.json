@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Men Jehoshafat sagde: Er der ikke her en profet for Jahve endnu, så vi kan spørge ⟨ham⟩ gennem ⟨את⟩ ham?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Er der ikke"
+    },
+    {
+      "surface": "פה",
+      "gloss": "her"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "så vi kan spørge"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "gennem ⟨את⟩ ham",
+      "marks": "ham (profeten)"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:13.678882301Z",
+  "model": "glm-5.3"
+}

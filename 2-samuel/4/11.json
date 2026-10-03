@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "hvor meget mere, når onde mænd har dræbt ⟨את⟩ en retfærdig mand i hans hus, på hans leje! Og nu — skal jeg ikke kræve hans blod af eders hånd og udrydde jer fra jorden?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hvor meget mere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "onde"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "har dræbt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en retfærdig mand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i hans hus"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "hans leje"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "skal jeg ikke"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "kræve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "af eders hånd"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "og udrydde jeg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:58.163690461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skal ske: efter at jeg har rykket dem op, vil jeg vende tilbage og forbarme mig over dem og føre dem tilbage, hver til sin arv og hver til sit land.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "at jeg har rykket dem op"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "vil jeg vende tilbage"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "og forbarme mig over dem"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "og føre dem tilbage"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "til sin arv"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "til sit land"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:05.311350507Z",
+  "model": "glm-5.3"
+}

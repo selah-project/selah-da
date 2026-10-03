@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Jeg vil takke dig blandt folkene, Jahve, og jeg vil lovsynge dig blandt ⟨את⟩ nationerne.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Jeg vil takke dig"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "og jeg vil lovsynge dig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "nationerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:30.154680478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "For du siger: Hvad gavner det dig? Hvad vinder jeg ⟨udover⟩ min synd?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "du siger"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "gavner"
+    },
+    {
+      "surface": "לך",
+      "gloss": "det dig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "vinder jeg"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "⟨udover⟩ min synd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:14.144903105Z",
+  "model": "glm-5.3"
+}

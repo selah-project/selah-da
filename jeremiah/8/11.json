@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og de lægede ⟨את⟩ såret hos mit folks datter letfærdigt, idet de sagde: Fred, fred! — men der er ingen fred.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "og de lægede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "såret"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "såret"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folks"
+    },
+    {
+      "surface": "על",
+      "gloss": "hos"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "letfærdigt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idet de sagde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Fred"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der er ingen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T17:11:53.860600568Z",
+  "model": "glm-5.3"
+}

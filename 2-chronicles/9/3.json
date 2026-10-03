@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og dronningen af Sjeba så ⟨את⟩ Shlomos visdom og ⟨את⟩ huset, som han havde bygget.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Og hun så"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "dronningen"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "af Sjeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomos visdom"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomos"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "og huset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "han byggede"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:32.383657397Z",
+  "model": "glm-5.3"
+}

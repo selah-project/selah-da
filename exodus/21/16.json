@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og den, der stjæler et menneske og sælger det, og det findes i hans hånd, skal visselig dødes.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Og den, der stjæler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "og sælger det"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "og det findes"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visselig"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dødes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:24.589422952Z",
+  "model": "glm-5.3"
+}

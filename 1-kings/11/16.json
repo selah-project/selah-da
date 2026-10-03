@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "For i seks måneder blev Joav og hele Jisrael ⟨der⟩, indtil han havde udryddet enhver mand i Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "seks"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "måneder"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "blev"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "havde udryddet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mand"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:12.165170879Z",
+  "model": "glm-5.3"
+}

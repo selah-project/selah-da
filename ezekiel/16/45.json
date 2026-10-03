@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Du er din mors datter, ⟨את⟩ den der værgede sig for sin mand og sine sønner; og du er dine søstres søster, ⟨את⟩ de der værgede deres mænd og deres sønner; jeres mor var en hittit, og jeres far en emori.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mors"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den der værgede sig for sin mand og sine sønner"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "værgede sig for"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "sin mand"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "og sine sønner"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "og søster"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "dine søstres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de der værgede deres mænd og deres sønner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de der"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "værgede"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "deres mænd"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "og deres sønner"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "jeres mor"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hittit"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "og jeres far"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "emori"
+    }
+  ],
+  "timestamp": "2026-10-03T17:35:32.035517942Z",
+  "model": "glm-5.3"
+}

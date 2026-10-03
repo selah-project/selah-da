@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og han løftede ⟨את⟩ Eliahus kappe, som var faldet af ham, og vendte tilbage og stod ved bredden af Jarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "og han løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliahus kappe"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "kappe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "var faldet"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "af ham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og stod"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bredden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "af Jarden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:40.909590788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han sagde: Kast den på jorden! Og han kastede den på jorden, og den blev til en slange, og Moshe flygtede for dens ansigt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Kast den"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "Og kastede den"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og den blev til"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "en slange"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "for dens ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:12.763847875Z",
+  "model": "glm-5.3"
+}

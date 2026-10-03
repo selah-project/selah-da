@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Og din frygtindgydende magt vil de tale om, og din storhed vil jeg fortælle.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "og magten"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "din frygtindgydende"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "vil de tale om"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "og din storhed"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "vil jeg fortælle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.260732989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Jehoshua bød ⟨את⟩ præsterne og sagde: Stig op af Jarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og…bød"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "præsterne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Stig op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jarden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:36:49.187396075Z",
+  "model": "glm-5.3"
+}

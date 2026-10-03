@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "De vendte sig ikke bort fra deres begær — deres mad var endnu i deres munde —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "vendte sig bort"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "fra deres begær"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deres mad"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "i deres munde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:23.918908889Z",
+  "model": "glm-5.3"
+}

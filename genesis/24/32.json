@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og manden kom ind i huset, og han løsnede kamelerne og gav halm og foder til kamelerne og vand til at tvætte hans fødder og fødderne på de mænd, som var ⟨את⟩ hos ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og løsnede"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamelerne"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "halm"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "og foder"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "til kamelerne"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vand"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "til at tvætte"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fødder"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "og fødderne"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "på de mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hos ham",
+      "marks": "de mænd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:04.351672007Z",
+  "model": "glm-5.3"
+}

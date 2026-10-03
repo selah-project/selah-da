@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Thi den ⟨את⟩ som Jahve elsker, holder han til rette, og som en far ⟨את⟩ en søn, i hvem han har behag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som Jahve elsker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "holder han til rette"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "og som en far"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en søn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "har behag i"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:51.771525701Z",
+  "model": "glm-5.3"
+}

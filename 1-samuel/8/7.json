@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jahve sagde til Shmuel: Hør på folkets røst i alt det, de siger til dig; thi ⟨את⟩ dig har de ikke forkastet, thi ⟨את⟩ mig har de forkastet, fra at regere over dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "på røsten"
+    },
+    {
+      "surface": "העם",
+      "gloss": "af folket"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de siger"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "har de forkastet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "har de forkastet"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "fra at regere"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:42.150921803Z",
+  "model": "glm-5.3"
+}

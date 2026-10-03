@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Dine budskabs vej vil jeg løbe, for du udvider mit hjerte.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "vil jeg løbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "du udvider"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:27.076050393Z",
+  "model": "glm-5.3"
+}

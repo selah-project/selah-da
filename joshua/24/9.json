@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Da stod Balak, søn af Tsippor, konge af Moav, op og kæmpede mod Jisrael; og han sendte bud og kaldte på Bileam, søn af Beor, for at forbande jer.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Da stod … op"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge af"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mod Jisrael"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og han sendte bud"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte på"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "for at forbande"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:05.005467303Z",
+  "model": "glm-5.3"
+}

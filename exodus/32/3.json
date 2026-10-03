@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og hele folket rev ⟨את⟩ guldringene af, som var i deres ører, og de bragte dem til Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "og rev af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldringene"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ringene"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "i deres ører"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "og de bragte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:28.058714661Z",
+  "model": "glm-5.3"
+}

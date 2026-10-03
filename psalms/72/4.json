@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Han dømmer folkets fattige, han frelser de nødtlidendes børn og knuser ⟨את⟩ undertrykkeren.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "fattige"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "børnene af"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "de nødtlidende"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "og knuser"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "⟨את⟩ undertrykkeren"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:17.195551464Z",
+  "model": "glm-5.3"
+}

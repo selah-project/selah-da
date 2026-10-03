@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "De er mere eftertragtede end guld, ja end meget fint guld, og sødere end honning og dryppende vokskage.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "mere eftertragtede"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "end guld"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "end fint guld"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "sødere"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "end honning"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "dryppende"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "vokskage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:52.294025812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Jitschak elskede ⟨את⟩ Esav, for der var jagt i hans mund; og Rivka elskede ⟨את⟩ Jaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "og elskede"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "jagt"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "i hans mund"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "og Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:46.807513808Z",
+  "model": "glm-5.3"
+}

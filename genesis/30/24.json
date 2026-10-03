@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og hun kaldte ⟨את⟩ hans navn Josef og sagde: Må Jahve føje mig endnu en anden søn til.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Og hun kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "må føje til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "endnu en anden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:07.960282740Z",
+  "model": "glm-5.3"
+}

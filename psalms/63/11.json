@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "De skal udgydes ved sværdets hånd; de skal blive en andel for sjakaler.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "skal udgydes"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "andel"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "for sjakaler"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal blive"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:13.509517448Z",
+  "model": "glm-5.3"
+}

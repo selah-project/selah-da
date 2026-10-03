@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 100,
+  "translation": "For Jahve er god; hans chesed ⟨varer⟩ til evig tid, og til slægt og slægt hans trofasthed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "דר",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "hans trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:50.747030327Z",
+  "model": "glm-5.3"
+}

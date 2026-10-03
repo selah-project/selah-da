@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Jahve lod det regne over Sedom og over Amora svovl og ild, fra ⟨את⟩ Jahve, fra himlene.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "lod det regne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "svovl"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "og ild"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:34.715392571Z",
+  "model": "glm-5.3"
+}

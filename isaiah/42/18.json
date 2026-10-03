@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "I døve, hør! Og I blinde, se efter, så I kan se!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "I døve"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hør"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "og I blinde"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "se efter"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "så I kan se"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:16.994150884Z",
+  "model": "glm-5.3"
+}

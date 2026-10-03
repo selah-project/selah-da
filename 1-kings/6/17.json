@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og firs alen ⟨var⟩ huset — det er templet foran ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Og firtsivejr... Og firs"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    }
+  ],
+  "timestamp": "2026-10-03T16:24:12.709835355Z",
+  "model": "glm-5.3"
+}

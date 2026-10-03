@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Min mund skal tale visdom, og mit hjertes grublen ⟨er⟩ indsigt.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Min mund"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "skal tale"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "og grublen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjertes"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "indsigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:24.873564096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "For sådan siger Jahve: I skal ikke se ruach, og I skal ikke se regn, men den dal skal blive fyldt med vand, og I skal drikke, både I og jeres kvæg og jeres fe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "I skal se"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "I skal se"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regn"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "men den dal"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "skal blive fyldt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "med vand"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "og I skal drikke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "og jeres kvæg"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "og jeres fe"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:19.438100819Z",
+  "model": "glm-5.3"
+}

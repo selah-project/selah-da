@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke slutte pagt med dem og med deres guder.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "Du må slutte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "og med deres guder"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:59.881143502Z",
+  "model": "glm-5.3"
+}

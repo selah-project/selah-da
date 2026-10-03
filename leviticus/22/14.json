@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og hvis en mand spiser hellig ting ved en fejltagelse, skal han lægge en femtedel oveni og give præsten ⟨את⟩ den hellige ting.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og hvis en mand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spiser"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig ting"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "ved en fejltagelse"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "skal han lægge"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "en femtedel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oveni"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og give"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den hellige ting"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "den hellige ting"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:02.963510022Z",
+  "model": "glm-5.3"
+}

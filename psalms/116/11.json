@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Og jeg sagde i min forvirring: Hvert menneske er løgner.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde jeg"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "i min forvirring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "er løgner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:01.184352879Z",
+  "model": "glm-5.3"
+}

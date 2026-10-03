@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 5:14",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og præsterne kunne ikke stå og tjene på grund af skyen, for Jahves herlighed fyldte ⟨את⟩ Elohims hus.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "og tjene"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skyen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:24.469820809Z",
+  "model": "glm-5.3"
+}

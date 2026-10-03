@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Mod dit folk grundlægger de rådslag i løndom, og de rådslår mod dine skjulte.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "grundlægger de snedigt"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "løndomsrådslag"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "og de rådslår"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "dine skjulte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:11.789883080Z",
+  "model": "glm-5.3"
+}

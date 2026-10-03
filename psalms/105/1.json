@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Tak Jahve, kald på hans navn, gør hans gerninger kendt blandt folkene.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kald"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "på hans navn"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "gør kendt"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hans gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.949984607Z",
+  "model": "glm-5.3"
+}

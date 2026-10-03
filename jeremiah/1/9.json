@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jahve rakte ⟨את⟩ sin hånd ud og rørte ved min mund, og Jahve sagde til mig: Se, jeg har lagt mine ord i din mund.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og … rakte ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "og rørte ved"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg har lagt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "i din mund"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:56.134764914Z",
+  "model": "glm-5.3"
+}

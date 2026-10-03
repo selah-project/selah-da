@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Af småborns og diebørns mund har du grundfæstet styrke for dine fjenders skyld, til at bringe fjenden og hævneren til tavshed.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "af ... mund"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "småborns"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "og diebørns"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "har du grundfæstet"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "til at bringe til tavshed"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "og hævneren"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:03.469618657Z",
+  "model": "glm-5.3"
+}

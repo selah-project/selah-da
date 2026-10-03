@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og jøderne slog alle deres fjender med sværdets slag og med drab og tilintetgørelse, og de gjorde med dem, der hadede dem, efter deres lyst.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jøderne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "slag"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdets"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "og drab"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "og tilintetgørelse"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "og de gjorde"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "med dem der hadede dem"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "efter deres lyst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:10.484698583Z",
+  "model": "glm-5.3"
+}

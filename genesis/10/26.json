@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Joktan avlede ⟨את⟩ Almodad og ⟨את⟩ Shelef og ⟨את⟩ Chatsarmavet og ⟨את⟩ Jerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Og Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:08.169383752Z",
+  "model": "glm-5.3"
+}

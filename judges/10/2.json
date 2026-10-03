@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og han dømte ⟨את⟩ Jisrael tre og tyve år; og han døde og blev begravet i Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "og han dømte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "og tre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han døde"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "og blev begravet"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "i Shamir"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:28.619621037Z",
+  "model": "glm-5.3"
+}

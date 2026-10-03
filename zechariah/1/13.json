@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jahve svarede ⟨את⟩ englen, som talte i mig, gode ord, trøstende ord.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og … svarede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "englen"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "englen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "som talte"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "trøstende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:01:13.031612561Z",
+  "model": "glm-5.3"
+}

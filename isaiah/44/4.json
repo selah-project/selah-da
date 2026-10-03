@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og de skal spire mellem græsset, som piletræer ved vandløbene.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Og de skal spire"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græsset"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "som piletræer"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "vandløbene"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vand"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:40.672167330Z",
+  "model": "glm-5.3"
+}

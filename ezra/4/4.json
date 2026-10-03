@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og landets folk gjorde Jehudas folks hænder slappe og skræmte ⟨את⟩ dem fra at bygge.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "gjorde slappe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hænderne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "og skræmte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem fra at bygge"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "fra at bygge"
+    }
+  ],
+  "timestamp": "2026-10-03T19:03:38.236773620Z",
+  "model": "glm-5.3"
+}

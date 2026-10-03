@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "En sjæl, som rører ved det, bliver uren til aftenen og må ikke spise af de hellige ting, medmindre han bader sit kød i vand.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "En sjæl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "rører ved"
+    },
+    {
+      "surface": "בו",
+      "gloss": "det"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "bliver uren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de hellige ting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "medmindre"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "bader"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sit kød"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:25.926162865Z",
+  "model": "glm-5.3"
+}

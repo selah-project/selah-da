@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Du sælger dit folk uden gevinst og vinder intet ved deres pris.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "sælger"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "הון",
+      "gloss": "gevinst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og intet"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "vinder"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ved deres pris"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:29.356557626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Ild går foran ham og svider ⟨hans⟩ fjender rundt om.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "og svider"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "hans fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:43.514776445Z",
+  "model": "glm-5.3"
+}

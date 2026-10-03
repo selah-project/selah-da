@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Ivtsan døde og blev begravet i Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "og blev begravet"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:51:36.475949635Z",
+  "model": "glm-5.3"
+}

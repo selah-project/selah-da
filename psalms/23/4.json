@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Ja, selv når jeg vandrer i dødsskyggens dal, frygter jeg intet ondt, for du er hos mig; din kæp og din stav, de trøster mig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ja, selv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jeg vandrer"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "i dal"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "dødsskyggens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "frygter jeg"
+    },
+    {
+      "surface": "רע",
+      "gloss": "noget ondt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "er hos mig"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "din kæp"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "og din stav"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "trøster mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:42.218555584Z",
+  "model": "glm-5.3"
+}

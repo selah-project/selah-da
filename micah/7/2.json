@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Den fromme er forsvundet fra landet, og retfærdig blandt mennesker er der ingen; alle ligger de på lur efter blod, hver mand jager ⟨את⟩ sin broder med et net.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "er forsvundet"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "den fromme"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og retfærdig"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "blandt mennesker"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er der ingen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alle"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "efter blod"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "ligger de på lur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "jager"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "med et net"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:13.623632871Z",
+  "model": "glm-5.3"
+}

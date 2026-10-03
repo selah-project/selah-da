@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Da skyndte Paroh sig at kalde på Moshe og Aharon og sagde: Jeg har syndet mod Jahve, jeres Elohim, og mod jer.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "da skyndede sig"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "at kalde på"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jeg har syndet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mod Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "og mod jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:41.824807777Z",
+  "model": "glm-5.3"
+}

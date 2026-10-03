@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og præsterne, leviterne, stod op og velsignede ⟨את⟩ folket, og deres røst blev hørt, og deres bøn kom til hans hellige bolig, til himlene.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "og stod op"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterne"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og blev hørt"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "deres røst"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deres bøn"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "til ... bolig"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellige"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "til himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T19:26:55.560444636Z",
+  "model": "glm-5.3"
+}

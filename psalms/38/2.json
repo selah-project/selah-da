@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Jahve, i din vrede må du ikke irettesætte mig, og i din heftighed må du ikke tugte mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må du ikke"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "irettesætte mig"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "og i din heftighed"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "tugte mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.707413049Z",
+  "model": "glm-5.3"
+}

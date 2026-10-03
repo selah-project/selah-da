@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og Jitschak, hans far, sagde til ham: Hvem er du? Og han sagde: Jeg er din søn, din førstefødte, Esav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "din førstefødte"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:51.224927920Z",
+  "model": "glm-5.3"
+}

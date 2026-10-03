@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og gullet i det land er godt; der er bedolach og shoham-stenen.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Og gullet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "er godt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "er bedolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og stenen"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:12.968757357Z",
+  "model": "glm-5.3"
+}

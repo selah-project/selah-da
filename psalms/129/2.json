@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 129,
+  "translation": "meget har de trængt mig fra min ungdom, og dog kunne de ikke ⟨mod⟩ mig.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "meget"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "har de trængt mig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "fra min ungdom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og dog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mod⟩ mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.760342859Z",
+  "model": "glm-5.3"
+}

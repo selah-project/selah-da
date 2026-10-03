@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Men dig — et menneske, min lige, min fortrolige og min bekendte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men dig"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "min lige"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "min fortrolige"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "og min bekendte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:04.888553584Z",
+  "model": "glm-5.3"
+}

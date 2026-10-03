@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og kongen af Jisrael sagde til sine trælle: Ved I, at Ramot i Gilad er vores, og vi tier og tager det ikke ud af hånden på kongen af Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælle"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ved I"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "er vores"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "og vi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tier"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "tager ikke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (Ramot i Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:54.139491793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Ikke i hestens styrke har han behag, ikke i menneskets ben behager det ham.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "i styrken"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hestens"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "har behag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "i benene"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "af mennesket"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "behager det ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.312454509Z",
+  "model": "glm-5.3"
+}

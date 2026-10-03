@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "⟨את⟩ mine mishpatim skal I gøre, og ⟨את⟩ mine chukkim skal I holde for at vandre i dem; jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine mishpatim"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mine mishpatim"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skal I gøre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mine chukkim"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mine chukkim"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skal I holde"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "for at vandre"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "deres Elohim — jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:40.228713436Z",
+  "model": "glm-5.3"
+}

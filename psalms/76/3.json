@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Og hans hytte ⟨står⟩ i Shalem, hans boliger i Tzion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og han var"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "i Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "hans hytte"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "og hans boliger"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "i Tzion"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:47.506177787Z",
+  "model": "glm-5.3"
+}

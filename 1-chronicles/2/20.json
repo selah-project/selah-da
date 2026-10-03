@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Chur avlede ⟨את⟩ Uri, og Uri avlede ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Og Chur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "og Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:09.657844531Z",
+  "model": "glm-5.3"
+}

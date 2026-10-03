@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve sagde: Jeg vil udslette ⟨את⟩ mennesket, som jeg har skabt, fra jordens ansigt, fra mennesket til kvæget, til krybdyrene og til himlens fugle, for jeg fortrød, at jeg gjorde dem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Jeg vil udslette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "jeg har skabt"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fra mennesket"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "krybdyrene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "fortrød"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jeg gjorde dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:47.468984487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Dog klæbede han fast til Jarobam, Nebats søns, synder, han som fik Jisrael til at synde ⟨את⟩; fra dem vendte han sig ikke bort.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "til ... synder"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobams"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "af Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fik ... til at synde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "klæbede fast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vendte sig bort"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "fra dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:24.153505715Z",
+  "model": "glm-5.3"
+}

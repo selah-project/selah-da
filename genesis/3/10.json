@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og ⟨han⟩ sagde: ⟨את⟩ din røst hørte jeg i haven, og jeg blev bange, for jeg er nøgen, og jeg gemte mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din røst"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "din røst"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hørte jeg"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i haven"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "og jeg blev bange"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nøgen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "og jeg gemte mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:01.699692616Z",
+  "model": "glm-5.3"
+}

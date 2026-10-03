@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Elohim må du ikke bande, og en fyrste blandt dit folk må du ikke forbande.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "bande"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "og en fyrste"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "blandt dit folk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "forbande"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:00.435018678Z",
+  "model": "glm-5.3"
+}

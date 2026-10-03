@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og han satte ⟨את⟩ trælkvinderne og ⟨את⟩ deres børn forrest, og ⟨את⟩ Lea og hendes børn bagest, og ⟨את⟩ Rachel og ⟨את⟩ Yosef bagerst.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "og han satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trælkvinderne"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "trælkvinderne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres børn"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "deres børn"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "forrest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "og hendes børn"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "bagest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "bagerst"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:43.885962277Z",
+  "model": "glm-5.3"
+}

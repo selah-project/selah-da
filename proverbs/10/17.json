@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "En vej til liv ⟨er⟩ ⟨den⟩, der vogter tugt, men den, der forlader tilrettevisning, farer vild.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "vej"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "til liv"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugt"
+    },
+    {
+      "surface": "ו עוזב",
+      "gloss": "men forlader"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tilrettevisning"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "farer vild"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:50.511633609Z",
+  "model": "glm-5.3"
+}

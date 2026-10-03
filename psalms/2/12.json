@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Kyss ⟨את⟩ sønnen, for at han ikke skal blive vred, og I går til grunde på vejen; for hans vrede kan blusse op i et øjeblik. Salige er alle de, der søger tilflugt til ham!",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "kyss"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sønnen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "skal blive vred"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "og I går til grunde"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "kan blusse op"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "i et øjeblik"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "salige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "de der søger tilflugt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:25.945758886Z",
+  "model": "glm-5.3"
+}

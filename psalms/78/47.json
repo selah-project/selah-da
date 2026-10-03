@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Han dræbte deres vinstokke med hagl og deres morbærfigen med kulde.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "med hagl"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "deres vinstokke"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "og deres morbærfigen"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "med kulde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:37.412267406Z",
+  "model": "glm-5.3"
+}

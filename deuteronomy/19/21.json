@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og dit øje skal ikke skåne — sjæl for sjæl, øje for øje, tand for tand, hånd for hånd, fod for fod.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skal skåne"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "dit øje"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "for sjæl"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "for øje"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "for tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "for hånd"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fod"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "for fod"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:40.986464112Z",
+  "model": "glm-5.3"
+}

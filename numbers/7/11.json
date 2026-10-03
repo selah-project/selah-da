@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Jahve sagde til Moshe: Én høvding om dagen, én høvding om dagen, skal bære ⟨את⟩ deres offer frem til alterets indvielse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "skal de bære frem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres offer"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "deres offer"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "til indvielsen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "af alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:17.842202316Z",
+  "model": "glm-5.3"
+}

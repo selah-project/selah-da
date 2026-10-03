@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Ødelæggelse ⟨er⟩ i dens midte, og fra dens plads viger undertrykkelse og bedrag ikke.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ødelæggelse"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i dens midte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "viger"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "fra dens plads"
+    },
+    {
+      "surface": "תך",
+      "gloss": "undertrykkelse"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "og bedrag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.196581358Z",
+  "model": "glm-5.3"
+}

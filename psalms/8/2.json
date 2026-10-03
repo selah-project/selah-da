@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jahve, vor Adonaj, hvor vældigt er dit navn på hele jorden, ⟨du⟩ som har lagt din herlighed over himlene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "vor Adonaj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "vældigt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "har lagt"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "din herlighed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:03.469454307Z",
+  "model": "glm-5.3"
+}

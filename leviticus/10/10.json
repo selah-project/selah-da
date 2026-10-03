@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "og til at skille mellem det hellige og det almindelige, og mellem det urene og det rene,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "og til at skille"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "החל",
+      "gloss": "det almindelige"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "det urene"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "det rene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:42.653972090Z",
+  "model": "glm-5.3"
+}

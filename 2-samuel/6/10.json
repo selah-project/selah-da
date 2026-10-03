@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og David vilde ikke flytte Jahves ark ⟨את⟩ til sig ind i Davids by, men David viste den til side til Oved-Edom gittittens hus.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "vilde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "flytte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "viste den til side"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gittitten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:44.252825153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Enosh levede, efter at han havde avlet ⟨את⟩ Kenan, femten år og otte hundrede år, og han avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og … levede"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "at han havde avlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "og otte"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og han avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:54.986352455Z",
+  "model": "glm-5.3"
+}

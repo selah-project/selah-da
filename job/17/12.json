@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Nat sætter de til dag, lyset ⟨er⟩ nær foran mørket.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "nat"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "til dag"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "sætter de"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nær"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:50.484975170Z",
+  "model": "glm-5.3"
+}

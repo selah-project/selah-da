@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Hvor ofte trodsede de ham i ørkenen, sårede de ham i ødemarken!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hvor ofte"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "trodsede de ham"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "sårede de ham"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "i ødemarken"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:25.611218756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Derfor frygter vi ikke, når jorden forvandles, og når bjerge styrter i havets ⟨hjerte⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "frygter vi"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "når ... forvandles"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "og når ... styrter"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjerte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:15.765247707Z",
+  "model": "glm-5.3"
+}

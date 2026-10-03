@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Hans hænders gerninger er sandhed og ret; alle hans befalinger er pålidelige —",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "gerninger"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans hænders"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og ret"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "er pålidelige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "hans befalinger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:30.728570324Z",
+  "model": "glm-5.3"
+}

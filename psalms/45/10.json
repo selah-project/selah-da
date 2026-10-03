@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Kongedøtre er blandt dine ærede; en dronning står ved din højre hånd i guld fra Ofir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "blandt dine ærede"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "står"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "en dronning"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ved din højre hånd"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "i guld"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "fra Ofir"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:48.120891900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og dens indvolde og dens ben skal han vaske i vandet, og præsten skal bringe ⟨את⟩ det hele i røg på alteret, en olah, en ildgave, en duft som hvile for Jahve.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "og dens indvolde"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "og dens ben"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "skal han vaske"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vandet"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og skal bringe i røg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det hele"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "en olah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en ildgave"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "en duft"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "som hvile"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:15.560044171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Se, jeg vækker dem op fra det sted, hvor I solgte ⟨את⟩ dem, og jeg vender jeres løn tilbage på jeres eget hoved.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "se, jeg"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "værkker dem op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "I solgte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "der"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "og jeg vender tilbage"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "jeres løn"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "på jeres hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:57.249268754Z",
+  "model": "glm-5.3"
+}

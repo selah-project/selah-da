@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Må de blive som avner foran ruach, og Jahves engel jage dem bort.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "må de blive"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "som avner"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "og engel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "jage dem bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.309327822Z",
+  "model": "glm-5.3"
+}

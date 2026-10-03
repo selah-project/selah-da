@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og han kastede med sten mod David og ⟨את⟩ mod alle kong Davids trælle; og alt folket og alle kæmperne ⟨var⟩ på hans højre og på hans venstre side.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "og han kastede med sten"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med sten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle kong Davids trælle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "kæmperne"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "på hans højre side"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "og på hans venstre side"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:47.602085956Z",
+  "model": "glm-5.3"
+}

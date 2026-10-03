@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og I skal vide, at jeg er Jahve, når jeg åbner ⟨את⟩ jeres grave og fører ⟨את⟩ jer op af jeres grave, mit folk.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Og I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "når jeg åbner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres grave"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "jeres grave"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "og fører op"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "af jeres grave"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T17:44:35.758329277Z",
+  "model": "glm-5.3"
+}

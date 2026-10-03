@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Salige er de som vogter hans vidnesbyrd, af hele hjertet søger de ham.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "de som vogter"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "hans vidnesbyrd"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "af hele"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "søger de ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.344811032Z",
+  "model": "glm-5.3"
+}

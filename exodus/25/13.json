@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal lave stænger af shittim-træ og overdække ⟨את⟩ dem med guld.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal lave"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "stænger"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træ af"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "og overdække"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:05.133073717Z",
+  "model": "glm-5.3"
+}

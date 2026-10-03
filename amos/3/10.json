@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de ved ikke at gøre det rette, siger Jahve, de som samler vold og rov i deres borge.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ved de"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "det rette"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "de som samler"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "og rov"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "i deres borge"
+    }
+  ],
+  "timestamp": "2026-10-03T17:53:23.768026187Z",
+  "model": "glm-5.3"
+}

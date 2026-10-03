@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og de glemte Jahve, deres Elohim, og han solgte dem i Siseras hånd, høvding for hæren i Chatsor, og i filisternes hånd og i Moabs konges hånd, og de kæmpede mod dem.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "og de glemte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "og han solgte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i … hånd"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hær"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og i … hånd"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og i … hånd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "og de kæmpede"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mod dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:58.760843328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jisraels sønner skal holde ⟨את⟩ pesachen på dets fastsatte tid.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og ... skal holde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesachen"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachen"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "på dets fastsatte tid"
+    }
+  ],
+  "timestamp": "2026-10-03T15:08:04.660680256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Elohim, en ny sang vil jeg synge for dig, på en nevel med ti strenge vil jeg spille for dig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "vil jeg synge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "på en nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "med ti strenge"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "vil jeg spille"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.948344633Z",
+  "model": "glm-5.3"
+}

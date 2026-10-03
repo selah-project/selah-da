@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Må din chesed, Jahve, være over os, ligesom vi håbede på dig.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må være"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ligesom"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "vi håbede"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:15.755319882Z",
+  "model": "glm-5.3"
+}

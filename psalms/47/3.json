@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "For Jahve, den Højeste, er frygtindgydende, en stor konge over hele jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "den Højeste"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "frygtindgydende"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.023685389Z",
+  "model": "glm-5.3"
+}

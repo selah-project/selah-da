@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Prøv mig, Jahve, og ransag mig; lut mine nyrer og mit hjerte.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "prøv mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "og ransag mig"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "lut"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mine nyrer"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "og mit hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.246461978Z",
+  "model": "glm-5.3"
+}

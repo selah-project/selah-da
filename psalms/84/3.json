@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Min sjæl længes, ja, sværmes bort efter Jahves forgårde; mit hjerte og mit kød juble mod den levende El.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "længes"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "sværmes bort"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "efter forgårde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "og mit kød"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juble"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "den levende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:37.507078684Z",
+  "model": "glm-5.3"
+}

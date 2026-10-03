@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Jahve går ud som en helt, som en krigsmand vækker han nidkærhed; han bryder ud i råb, ja, han skriger mod sine fjender — han viser sig mægtig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "som en helt"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "som en"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "krigsmand"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "vekker"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "nidkærhed"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "bryder ud i råb"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "skriger"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sine fjender"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "viser sig mægtig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:13.010157956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Men ⟨את⟩ kødet af tyren og ⟨את⟩ dens hud og ⟨את⟩ dens møg skal du brænde i ild uden for lejren; det er en syndoffring.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Men ⟨את⟩",
+      "marks": "kødet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "af tyren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens hud"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dens hud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens møg"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "dens møg"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "skal du brænde"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "en syndoffring"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:33.633374950Z",
+  "model": "glm-5.3"
+}

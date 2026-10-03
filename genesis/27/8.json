@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og nu, min søn, hør min røst, ⟨angående⟩ det, jeg befaler ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hør"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "⟨angående⟩ det som"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "befaler"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:05.601796718Z",
+  "model": "glm-5.3"
+}

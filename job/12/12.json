@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Hos de gamle er visdom, og i dages længde er forstand.",
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "Hos de gamle"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "og i længde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "forstand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:31.876269386Z",
+  "model": "glm-5.3"
+}

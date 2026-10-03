@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "og den, der hører ⟨את⟩ shofarens lyd, ikke tager imod advarslen — og sværdet kommer og tager ham — hans blod kommer til at være på hans eget hoved.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "og hører"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "den der hører"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofarens lyd"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyd"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofarens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "tager imod advarslen"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "og kommer"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "og tager ham"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hans blod"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "på hans hoved"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kommer til at være"
+    }
+  ],
+  "timestamp": "2026-10-03T17:42:20.256931046Z",
+  "model": "glm-5.3"
+}

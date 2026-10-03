@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Han kalder på himlene deroppe og på jorden, for at dømme sit folk.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Han kalder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "deroppe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "for at dømme"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:27.222994951Z",
+  "model": "glm-5.3"
+}

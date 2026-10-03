@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jahve ville ikke ødelægge ⟨את⟩ Davids hus, for pagtens skyld, som han havde skåret med David, og som han havde sagt at give ham en lampe og hans sønner alle dage.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ødelægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "havde skåret"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "med David"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "og som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han havde sagt"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "at give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "en lampe"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:24:11.580413464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "For se, de redeemede bøjer deres bue, de gør deres pil klar på strengen, for at skyde i mørket på dem, der ⟨er⟩ retfærdige af hjerte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de ugudelige"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "bøjer"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "deres bue"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "gør klar"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "deres pil"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "strengen"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "for at skyde"
+    },
+    {
+      "surface": "במו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "mørket"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "på dem der er retfærdige"
+    },
+    {
+      "surface": "לב",
+      "gloss": "af hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.012573438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Jeg vil takke dig i en stor forsamling, blandt et mægtigt folk vil jeg love dig.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jeg vil takke dig"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i en forsamling"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "blandt et folk"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mægtigt"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "vil jeg love dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.827511652Z",
+  "model": "glm-5.3"
+}

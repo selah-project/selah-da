@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hun gav ⟨את⟩ retterterne og ⟨את⟩ brødet, som hun havde lavet, i hånden på Jaakov, hendes søn.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "og hun gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retterterne"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "retterterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "brødet"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hun havde lavet"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånden på"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hendes søn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:48.390892366Z",
+  "model": "glm-5.3"
+}

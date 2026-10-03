@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Tre gange om året skal alle dine mændskimle se ⟨את⟩ ansigtet af Adonaj, Jahve, Elohim for Jisrael.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gange"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "om året"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skal … se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "dine mændskimle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansigtet af Adonaj Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim for"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:48.540784200Z",
+  "model": "glm-5.3"
+}

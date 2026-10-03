@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "En dårs vrede kendes på dagen, men den kloge dækker over skam.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "en dårs"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kendes"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "men ... dækker over"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "skam"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "den kloge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:14.890500251Z",
+  "model": "glm-5.3"
+}

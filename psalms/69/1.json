@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Til korlederen, over «Liljerne», af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "«Liljerne»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:46.080335245Z",
+  "model": "glm-5.3"
+}

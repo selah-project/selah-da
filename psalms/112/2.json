@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Mægtig i landet skal hans æt blive; slægten af de retfærdige ⟨skal⟩ velsignes.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "mægtig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal blive"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans æt"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægten"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "af de retfærdige"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsignes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:22.344926876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og de sad ⟨i⟩ tre år uden krig mellem Aram og Jisrael.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "og de sad"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "אין",
+      "gloss": "uden"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:54.138976532Z",
+  "model": "glm-5.3"
+}

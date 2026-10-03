@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg vendte mig, jeg, til at fortvivle i ⟨את⟩ mit hjerte over al den møje, som jeg møjedtes med under solen.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "og jeg vendte mig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "til at fortvivle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit hjerte"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "den møje"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "som jeg møjedtes med"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:51.933174806Z",
+  "model": "glm-5.3"
+}

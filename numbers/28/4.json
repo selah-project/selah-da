@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "⟨את⟩ ⟨det⟩ ene lam skal du gøre om morgenen, og ⟨את⟩ ⟨det⟩ andet lam skal du gøre mellem aftenene.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨det⟩ ene lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "⟨det⟩ ene lam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ene"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du gøre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "⟨det⟩ andet lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "⟨det⟩ andet lam"
+    },
+    {
+      "surface": "השני",
+      "gloss": "andet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du gøre"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aftenene"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:57.967153721Z",
+  "model": "glm-5.3"
+}

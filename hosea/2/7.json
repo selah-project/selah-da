@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 2:7",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "For deres moder har drevet hor; hun som undfangede dem har skammet sig, for hun sagde: Jeg vil gå efter mine elskere, de som giver mit brød og mit vand, min uld og mit linned, min olie og min drik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "har drevet hor"
+    },
+    {
+      "surface": "אמם",
+      "gloss": "deres moder"
+    },
+    {
+      "surface": "הבישה",
+      "gloss": "har skammet sig"
+    },
+    {
+      "surface": "הורתם",
+      "gloss": "hun som undfangede dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "hun sagde"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "jeg vil gå"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מאהבי",
+      "gloss": "mine elskere"
+    },
+    {
+      "surface": "נתני",
+      "gloss": "de som giver"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mit brød"
+    },
+    {
+      "surface": "ומימי",
+      "gloss": "og mit vand"
+    },
+    {
+      "surface": "צמרי",
+      "gloss": "min uld"
+    },
+    {
+      "surface": "ופשתי",
+      "gloss": "og mit linned"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "min olie"
+    },
+    {
+      "surface": "ושקויי",
+      "gloss": "og min drik"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:31.046523524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 128,
+  "translation": "Se, således velsignes den mand, der frygter Jahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨at⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsignes"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "den mand"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "der frygter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:04.501096008Z",
+  "model": "glm-5.3"
+}

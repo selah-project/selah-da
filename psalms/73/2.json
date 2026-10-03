@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Men jeg — mine fødder var nær ved at glide, mine skridt var nær ved at skride.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men jeg"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "nær ved"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "at glide"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mine fødder"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "nær ved at"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "skride"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mine skridt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:16.671532911Z",
+  "model": "glm-5.3"
+}

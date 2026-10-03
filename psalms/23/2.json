@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "I græsgange lader han mig ligge, ved hvilevande leder han mig.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "i græsgange"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "af friskt græs"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "lader han mig ligge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vande"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "af hvile"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "leder han mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:42.218222623Z",
+  "model": "glm-5.3"
+}

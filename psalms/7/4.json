@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Jahve, min Elohim, hvis jeg har gjort dette, hvis der er uret i mine hænder —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jeg har gjort"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יש",
+      "gloss": "der er"
+    },
+    {
+      "surface": "עול",
+      "gloss": "uret"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "i mine hænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:37.683705399Z",
+  "model": "glm-5.3"
+}

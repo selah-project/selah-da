@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og det skete, efter at de havde ført ⟨את⟩ den rundt, at Jahves hånd var over byen med en meget stor forvirring, og han slog byens ⟨את⟩ mænd, fra lille til stor, og svulster brød ud på dem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "at de havde ført rundt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (arken)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og ... var"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "over byen"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "forvirring"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og han slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byens mænd"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "fra lille"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "til"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "og brød ud"
+    },
+    {
+      "surface": "להם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "svulster"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:09.606473557Z",
+  "model": "glm-5.3"
+}

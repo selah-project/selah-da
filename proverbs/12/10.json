@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "En tsadik kender ⟨til⟩ sjælen hos sit dyr, men de ondes barmhjertighed er grusom.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "en tsadik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjælen"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "sitt dyr"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "men barmhjertigheden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "er grusom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:51.072286908Z",
+  "model": "glm-5.3"
+}

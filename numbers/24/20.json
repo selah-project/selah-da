@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og han så ⟨את⟩ Amalek og tog sin masjal op og sagde: Først blandt folkene ⟨er⟩ Amalek, men hans ende bliver til sidste undergang.",
+  "tokens": [
+    {
+      "surface": "ו-ירא",
+      "gloss": "og han så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ו-נשא",
+      "gloss": "og tog op"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "sin masjal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "først"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "men hans ende"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "til sidste"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "undergang"
+    }
+  ],
+  "timestamp": "2026-10-03T15:14:51.350701787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Min El, min El, hvorfor har du forladt mig? Fjern fra min frelse ⟨er⟩ ordene på mit brøl.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Min El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "har du forladt mig"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Fjern"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "fra min frelse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "på mit brøl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:25.334788118Z",
+  "model": "glm-5.3"
+}

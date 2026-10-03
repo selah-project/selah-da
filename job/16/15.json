@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Sæk har jeg syet på min hud og lagt mit horn i støvet.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "sæk"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "har jeg syet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "min hud"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "og har lagt"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "i støvet"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mit horn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:19.205807427Z",
+  "model": "glm-5.3"
+}

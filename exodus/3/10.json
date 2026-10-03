@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og nu, kom, jeg vil sende dig til Farao, så du kan føre ⟨את⟩ mit folk, Jisraels børn, ud af Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "jeg vil sende dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "og før ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ud af Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:28.379040972Z",
+  "model": "glm-5.3"
+}

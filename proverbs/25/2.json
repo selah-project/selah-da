@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Elohims ære er at skjule en sag, og kongers ære er at granske en sag.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "æren"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "at skjule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sag"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "og æren"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kongers"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "at granske"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en sag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:52.856084756Z",
+  "model": "glm-5.3"
+}

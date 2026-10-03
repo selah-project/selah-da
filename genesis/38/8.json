@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og Jehuda sagde til Onan: Gå ind til din brors hustru og gift dig med hende som svoger, og rejs sæd op for din broder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "til Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din brors"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "gift dig med hende som svoger"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "og rejs op"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "for din broder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:26:44.882309304Z",
+  "model": "glm-5.3"
+}

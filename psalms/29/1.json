@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "En salme af David. Giv Jahve, I guders sønner, giv Jahve ære og styrke.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En salme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "giv"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ære"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "og styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:35.431844413Z",
+  "model": "glm-5.3"
+}

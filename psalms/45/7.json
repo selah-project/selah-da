@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Din trone, Elohim, ⟨står⟩ i evighed og fremtid; tsedeks scepter er dit kongeriges scepter.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "din trone"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og fremtid"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "scepter"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "af tsedek"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "scepter"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "dit kongerige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:34.956115655Z",
+  "model": "glm-5.3"
+}

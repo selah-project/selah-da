@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Hvem troede det, vi hørte? Og Jahves arm — over for hvem er den blevet åbenbaret?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "troede"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "det, vi hørte"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Og armen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "over for"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "er den blevet åbenbaret"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:58.035365234Z",
+  "model": "glm-5.3"
+}

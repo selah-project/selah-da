@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Grib ikke fra den fattige, fordi han er fattig, og knus ikke den nødlidende i porten.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "grib fra"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "knus"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den nødlidende"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:09.588056289Z",
+  "model": "glm-5.3"
+}

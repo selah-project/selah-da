@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og hun undfangede atter og fødte en søn, og hun kaldte ⟨את⟩ hans navn Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Og hun undfangede"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atter"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "og hun kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:00.055854745Z",
+  "model": "glm-5.3"
+}

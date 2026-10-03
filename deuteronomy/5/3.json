@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Ikke ⟨את⟩ vore fædre skar Jahve ⟨את⟩ denne pagt, men ⟨את⟩ med os — vi, disse her, i dag, alle vi, som lever.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vore fædre"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "vore fædre"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "skar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne pagt"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "denne pagt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ med os"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "פה",
+      "gloss": "her"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "alle vi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levende"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:21.261258830Z",
+  "model": "glm-5.3"
+}

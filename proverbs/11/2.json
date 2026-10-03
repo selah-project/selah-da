@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Kommer overmod, så kommer skam, og med ⟨את⟩ de ydmyge ⟨er⟩ visdom.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "overmod"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "så kommer"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "skam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de ydmyge"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "de ydmyge"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:35.015213100Z",
+  "model": "glm-5.3"
+}

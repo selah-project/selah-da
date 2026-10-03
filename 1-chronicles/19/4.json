@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Da tog Chanun ⟨את⟩ Davids trælle og lod dem rage, og han klippede deres klæder halvt over, helt til det nederste, og sendte dem bort.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Da tog"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids trælle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "og lod dem rage"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "og klippede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres klæder"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "deres klæder"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "halvt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "det nederste"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "og sendte dem bort"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:51.790783691Z",
+  "model": "glm-5.3"
+}

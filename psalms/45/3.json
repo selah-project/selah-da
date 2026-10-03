@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Du er den skønneste blandt menneskenes sønner; ynde er udgydt på dine læber; derfor har Elohim velsignet dig for evigt.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Du er den skønneste"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "blandt sønner af"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "er udgydt"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynde"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "på dine læber"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "har velsignet dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:13.358844863Z",
+  "model": "glm-5.3"
+}

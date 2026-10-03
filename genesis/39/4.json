@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og Yoséf faldt i nåde i hans øjne, og han tjente ham; og han satte ham over sit hus og alt hvad han ejede, gav han i hans hånd.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Og faldt i nåde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåde"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "og tjente"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (herren)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "og satte ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "יש",
+      "gloss": "hvad han ejede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(ham)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav han"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:40.882316403Z",
+  "model": "glm-5.3"
+}

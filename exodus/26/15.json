@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og du skal lave ⟨את⟩ brædderne til Mishkanet af shittim-træ, stående.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brædderne"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brædderne"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "til Mishkanet"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "af shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stående"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:21.969396922Z",
+  "model": "glm-5.3"
+}

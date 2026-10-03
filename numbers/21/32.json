@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Moshe sendte ⟨folk⟩ ud for at spionere i ⟨את⟩ Jaazer, og de erobrede dens datterbyer og drev ⟨את⟩ emoriterne, som var der, på flugt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "for at spionere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "og de erobrede"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dens datterbyer"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "og drev på flugt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emoriterne"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:14.618780781Z",
+  "model": "glm-5.3"
+}

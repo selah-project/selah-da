@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "En mizmor af Asaf. Elohim står i Els forsamling; midt iblandt Elohim dømmer han.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "af Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "står"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "i forsamling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dømmer han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:53.424299821Z",
+  "model": "glm-5.3"
+}

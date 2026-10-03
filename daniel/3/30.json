@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Da gav kongen Shadrach, Meshach og Abed-Nego fremgang i provinsen Babel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "da"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "gav fremgang"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "og Abed-"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "i provinsen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:57:32.411852871Z",
+  "model": "glm-5.3"
+}

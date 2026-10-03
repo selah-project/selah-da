@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Ehud rakte sin venstre ⟨את⟩ hånd frem og tog ⟨את⟩ sværdet fra sit højre lår og stak det ind i hans bug.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "rakte frem"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hånd"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sin venstre"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sværdet"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lår"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sit højre"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "og stak det ind"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "i hans bug"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:32.818076769Z",
+  "model": "glm-5.3"
+}

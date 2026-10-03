@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "De skal ikke komme i skam i ondens tid, og i hungertidens dage skal de mættes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skal komme i skam"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "i"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondens tid"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "og i dage"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "hungertidens"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "skal de mættes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:24.663624109Z",
+  "model": "glm-5.3"
+}

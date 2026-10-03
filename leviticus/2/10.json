@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og det, der er tilbage af minchaen, tilhører Aharon og hans sønner; det er קodesh-kodashim, højhellig, af Jahves ildofre.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "og det, der er tilbage"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tilhører Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "højhellig (helliges hellige)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "af ildofre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:39.640424991Z",
+  "model": "glm-5.3"
+}

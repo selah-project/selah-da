@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "De var en mur om os, både om natten og om dagen, alle de dage vi var hos dem og vogtede fårene.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "היו",
+      "gloss": "de var"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "om os"
+    },
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "vi var"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hos dem"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "vogtede"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "fårene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:56.172588447Z",
+  "model": "glm-5.3"
+}

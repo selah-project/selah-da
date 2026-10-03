@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Jeg lægger bjerge og høje øde og lader al deres græs visne; jeg gør floder til øer og udtørrer søerne.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Jeg lægger øde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "og høje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og al"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "deres græs"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "lader visne"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "og jeg gør"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floder"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "til øer"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "og søerne"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "udtørrer"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:13.010620903Z",
+  "model": "glm-5.3"
+}

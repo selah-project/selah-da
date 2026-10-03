@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "Fra solens opgang til dens nedgang ⟨er⟩ Jahves navn lovprist.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Fra opgangen"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "dens nedgang"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "lovprist"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.987832286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeg selv vil lægge ⟨את⟩ landet øde, og jeres fjender, som bor i det, skal forfærdes over det.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Og lægge øde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg selv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "skal forfærdes"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "over det"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jeres fjender"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:55.633992777Z",
+  "model": "glm-5.3"
+}

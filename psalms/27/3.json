@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Om end en hær slår lejr mod mig, frygter mit hjerte ikke; om end krig rejser sig mod mig, i dette stoler jeg.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Om end"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "slår lejr"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "en hær"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "om end"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "rejser sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "i dette"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "stoler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:06.332032122Z",
+  "model": "glm-5.3"
+}

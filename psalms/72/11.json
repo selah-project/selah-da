@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Og alle konger skal tilbede ham; alle folkeslag skal tjene ham.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "og skal tilbede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "skal tjene ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:14.663447295Z",
+  "model": "glm-5.3"
+}

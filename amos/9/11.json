@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "På den dag vil jeg rejse ⟨את⟩ Davids faldne hytte og mure ⟨את⟩ dens brudsteder; dets ruiner vil jeg rejse og genopbygge det som i gamle dage.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "vil jeg rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids faldne hytte"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "hytte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "faldne"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "og mure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens brudsteder"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "dens brudsteder"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "dets ruiner"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "vil jeg rejse"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "og genopbygge det"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "som i dage"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "af gammel tid"
+    }
+  ],
+  "timestamp": "2026-10-03T17:54:50.614881025Z",
+  "model": "glm-5.3"
+}

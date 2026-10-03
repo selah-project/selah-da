@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Den der undertrykker den fattige for at berige sig, og den der giver til den rige — kun til mangel.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "undertrykker"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "for at berige"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sig"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "til den rige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "til mangel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:03.216522514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Fra himlene skuedes Jahve; han så ⟨את⟩ alle menneskets børn.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Fra himlene"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "skuedes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle menneskets børn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:44.411990439Z",
+  "model": "glm-5.3"
+}

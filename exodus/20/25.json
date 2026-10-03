@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og hvis du gør mig et alter af sten, må du ikke bygge ⟨את⟩ dem af Gehugne sten; for hvis du svinger dit sværd over det, har du vanhelliget det.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "af sten"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du gør"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "må du bygge"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "dem af Gehugne sten"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "Gehugne sten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "dit sværd"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "du svinger"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "over det"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "har du vanhelliget det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:28.398842207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "De vises tunge gør kundskab god, men dårers mund udgyder dårskab.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vises"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "gør god"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kundskab"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men mund"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dårers"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "udgyder"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dårskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:26.614532009Z",
+  "model": "glm-5.3"
+}

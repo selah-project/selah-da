@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Bed mig, og jeg vil give folkeslagene som din arv og jordens ender som din besiddelse.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Bed"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og jeg vil give"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "som din arv"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "og som din besiddelse"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ender"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.784908670Z",
+  "model": "glm-5.3"
+}

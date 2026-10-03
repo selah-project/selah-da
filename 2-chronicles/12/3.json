@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Med tusind og tohundrede stridsvogne og tres tusinde ryttere; og folket, som kom med ham fra Mitsrajim, var uden tal — lubi'im, suki'im og kushi'im.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "med tusind"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "og tohundrede"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "stridsvogne"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "og med tres"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ryttere"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og … var uden"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "lubi'im (libyere)"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "suki'im"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "og kushi'im (kushitter)"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:48.806115586Z",
+  "model": "glm-5.3"
+}

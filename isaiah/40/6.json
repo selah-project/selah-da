@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "En røst siger: Råb! Og ⟨han⟩ siger: Hvad skal jeg råbe? Alt kød er græs, og al dets chesed er som markens blomst.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "en røst"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Råb!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "skal jeg råbe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og al"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "dets chesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "som blomst"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:19.393362605Z",
+  "model": "glm-5.3"
+}

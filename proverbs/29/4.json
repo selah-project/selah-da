@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "En konge, ⟨der dømmer⟩ med mishpat, holder landet oppe; men en mand af bestikkelser river det ned.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "med mishpat"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "holder oppe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "men en mand"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "bestikkelser"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "river det ned"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:23.401434587Z",
+  "model": "glm-5.3"
+}

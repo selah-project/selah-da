@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "En sang, en salme af Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salme"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "af Asaf"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:11.788952858Z",
+  "model": "glm-5.3"
+}

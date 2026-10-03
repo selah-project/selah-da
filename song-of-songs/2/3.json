@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Som et æbletræ blandt skovens træer, sådan ⟨er⟩ min elskede blandt sønnerne. I hans skygge havede jeg lyst og satte mig, og hans frugt var sød for min gane.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "som et æbletræ"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "blandt træerne"
+    },
+    {
+      "surface": "היער",
+      "gloss": "skoven"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "min elskede"
+    },
+    {
+      "surface": "בין",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "sønnerne"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "i hans skygge"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "havede jeg lyst"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "og satte jeg mig"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "og hans frugt"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sød"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "for min gane"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:47.575002131Z",
+  "model": "glm-5.3"
+}

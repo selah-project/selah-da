@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Af David, en mizmor. Om chesed og ret skal jeg synge; til dig, Jahve, vil jeg spille ⟨på strenge⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og ret"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "skal jeg synge"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "vil jeg spille ⟨på strenge⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:41.305757135Z",
+  "model": "glm-5.3"
+}

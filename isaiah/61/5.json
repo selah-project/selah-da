@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Og fremmede skal stå og vogte jeres småkvæg, og fremmedes sønner skal være jeres landmænd og jeres vingårdsmænd.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "og stå"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "og vogte"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "jeres småkvæg"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "jeres landmænd"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "og jeres vingårdsmænd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:06:59.223258889Z",
+  "model": "glm-5.3"
+}

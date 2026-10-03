@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han sidder i baghold ved landsbyerne; i skjulene myrder han ⟨את⟩ den uskyldige; hans øjne spejder i løn efter den hjælpeløse.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Han sidder"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "i baghold"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ved landsbyerne"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "i skjulene"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "myrder han"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "den uskyldige"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hans øjne"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "efter den hjælpeløse"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "spejder i løn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:32.411200266Z",
+  "model": "glm-5.3"
+}

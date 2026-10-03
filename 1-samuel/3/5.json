@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han løb til Eli og sagde: Her er jeg, for du kaldte på mig. Men han sagde: Jeg kaldte ikke; vend tilbage, læg dig. Og han gik og lagde sig.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "og han løb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "her er jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "du kaldte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jeg kaldte"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "læg dig"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og han gick"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "og lagde sig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:51.937316013Z",
+  "model": "glm-5.3"
+}

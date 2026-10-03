@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Ær Jahve ⟨את⟩ med din formue og med det første af hele din afgrøde.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ær"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "med din formue"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "og med det første"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af hele"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "din afgrøde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:51.770899173Z",
+  "model": "glm-5.3"
+}

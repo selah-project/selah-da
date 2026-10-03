@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "For mine tanker er ikke jeres tanker, og jeres veje er ikke mine veje, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mine tanker"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "jeres tanker"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jeres veje"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mine veje"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:09.388018973Z",
+  "model": "glm-5.3"
+}

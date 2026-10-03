@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "I trængsel råbte du, og jeg reddede dig; jeg svarede dig i tordenens skjul; jeg prøvede dig ved Meriva-vandene. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "I trængsel"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "råbte du"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "og jeg reddede dig"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "jeg svarede dig"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i skjul"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "tordenens"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "jeg prøvede dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מי",
+      "gloss": "…-vandene"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:33.297912702Z",
+  "model": "glm-5.3"
+}

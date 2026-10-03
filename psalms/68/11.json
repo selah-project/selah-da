@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Din hjord boede i den; i din godhed beredte du for den arme, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "din hjord"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "beredte du"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "i din godhed"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "for den arme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:07.650903682Z",
+  "model": "glm-5.3"
+}

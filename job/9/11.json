@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Se, han går forbi mig, og jeg ser ⟨ham⟩ ikke; og han drager forbi, og jeg forstår ⟨ham⟩ ikke.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "går forbi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "forbi mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "jeg ser"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "og han drager forbi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "jeg forstår"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:31.971144231Z",
+  "model": "glm-5.3"
+}

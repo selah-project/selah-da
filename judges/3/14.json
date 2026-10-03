@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jisraels børn tjente ⟨את⟩ Eglon, kongen af Moav, i atten år.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "og de tjente"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "otte"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-10-03T15:48:44.944486848Z",
+  "model": "glm-5.3"
+}

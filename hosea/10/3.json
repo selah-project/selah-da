@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Thi nu skal de sige: Vi har ingen konge, for vi frygtede ikke Jahve ⟨את⟩; og kongen — hvad kan han gøre for os?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "skal de sige"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "har vi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "frygtede vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan han gøre"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:08.745716067Z",
+  "model": "glm-5.3"
+}

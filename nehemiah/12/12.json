@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og i Jojakims dage var der præster, høvdinger for fædrenehusene: for Seraja, Meraja; for Jirmeja, Chananja.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "Og i ... dage"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakims"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var der"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "præster"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "høvdinger for"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "fædrenehusene"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "for Seraja"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "Meraja"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "for Jirmeja"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananja"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:30.384527333Z",
+  "model": "glm-5.3"
+}

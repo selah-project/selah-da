@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "For din chesed er for øjnene af mig, og jeg har vandret i din sandhed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "for"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjnene af mig"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "og jeg har vandret"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.246581765Z",
+  "model": "glm-5.3"
+}

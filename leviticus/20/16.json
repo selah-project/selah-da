@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en kvinde, som går hen til noget kvæg for at parre sig ⟨את⟩ det — da skal du slå ihjel ⟨את⟩ kvinden og ⟨את⟩ kvægget; døden skal de dø, deres blod ⟨er⟩ over dem.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Og en kvinde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "går hen til"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noget"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kvæg"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "for at parre sig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "da skal du slå ihjel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kvægget"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvægget"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "skal de dø"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "deres blod"
+    },
+    {
+      "surface": "בם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:19.353447242Z",
+  "model": "glm-5.3"
+}

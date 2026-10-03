@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "for at gøre hans styrkegang kendt for menneskesønnerne og herligheden af prægten af hans kongerige.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "for at gøre kendt"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne af"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "hans styrkegang"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "og herligheden"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "af prægten"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "af hans kongerige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:57.834077543Z",
+  "model": "glm-5.3"
+}

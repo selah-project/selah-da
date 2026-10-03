@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Jeg kommer Elohim i hu og jamrer; jeg grunder, og min ruach svigter. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "jeg kommer i hu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "og jamrer"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "jeg grunder"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "og svigter"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ruach"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:17.539546765Z",
+  "model": "glm-5.3"
+}

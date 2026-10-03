@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og ⟨את⟩ haren, fordi hun opgiver dræv, men en spaltet hov har hun ikke spaltet — uren er hun for jer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haren"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "haren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "opgiver"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "dræv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "hov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "har spaltet"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "uren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:17.262299788Z",
+  "model": "glm-5.3"
+}

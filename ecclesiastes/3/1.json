@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "For alt en tid, og et øjeblik for enhver hagen under himlene.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "for alt"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et øjeblik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for enhver"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hagen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:26.145935852Z",
+  "model": "glm-5.3"
+}

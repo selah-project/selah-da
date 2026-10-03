@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og du skal lave hellige klæder til Aharon, din bror, til ære og til pragt.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal lave"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæder"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "til Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "din bror"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "til ære"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "og til pragt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:50.862899691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 93,
+  "translation": "Din trone står fast fra dengang, fra evighed ⟨er⟩ du.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "står fast"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "din trone"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "fra dengang"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "fra evighed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:27.708667218Z",
+  "model": "glm-5.3"
+}

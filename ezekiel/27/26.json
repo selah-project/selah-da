@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 27:26",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "På store vande førte ⟨dine⟩ roere ⟨את⟩ dig; østen-vinden knuste dig i hjertet af Have.",
+  "tokens": [
+    {
+      "surface": "במים",
+      "gloss": "på vande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "store"
+    },
+    {
+      "surface": "הביאוך",
+      "gloss": "førte dig"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "roere"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vind"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "østen-"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "knuste dig"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjertet af"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Have"
+    }
+  ],
+  "timestamp": "2026-10-03T17:40:40.119178682Z",
+  "model": "glm-5.3"
+}

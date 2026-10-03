@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Hetts sønner svarede ⟨את⟩ Avraham og sagde til ham:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:35.299478050Z",
+  "model": "glm-5.3"
+}

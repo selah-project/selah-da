@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Bedre er harmsel end latter, for ved et ansigts mismod gøres hjertet godt.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bedre"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "harmsel"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "end latter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ved mismod"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "et ansigts"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gøres godt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.746605092Z",
+  "model": "glm-5.3"
+}

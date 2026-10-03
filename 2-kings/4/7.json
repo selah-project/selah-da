@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Så kom hun og fortalte det til Guds mand, og han sagde: Gå hen og sælg ⟨את⟩ olien og betal ⟨את⟩ din gæld; og du og dine sønner skal leve af det, der bliver tilbage.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "så kom hun"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "og fortalte"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "til manden"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå hen"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sælg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olien"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "og betal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din gæld"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "din gæld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨du⟩"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "skal leve"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "af det, der bliver tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:06.807118899Z",
+  "model": "glm-5.3"
+}

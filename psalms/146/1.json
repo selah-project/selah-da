@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "Halleluja! Lovsyng Jah, min sjæl, lovsi ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lovsyng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "lovsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:12.002647539Z",
+  "model": "glm-5.3"
+}

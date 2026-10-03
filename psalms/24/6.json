@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Dette er slægten, de der søger ham, de der søger dit ansigt ⟨—⟩ Jaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "דור",
+      "gloss": "er slægten"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "de der søger ham"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de der søger"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:38.269129904Z",
+  "model": "glm-5.3"
+}

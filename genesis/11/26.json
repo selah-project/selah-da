@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Terach levede halvfjerds år, og han avlede ⟨את⟩ Avram, ⟨את⟩ Nachor og ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "og levede"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "halvfjerds"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:23.691122946Z",
+  "model": "glm-5.3"
+}

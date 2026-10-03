@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og du skal lave et alter til røgelse; af akazietræ skal du lave ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal lave"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "til at bringe røgelse på"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "røgelse"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "træ af"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du lave"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (alteret)"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:04.532290410Z",
+  "model": "glm-5.3"
+}

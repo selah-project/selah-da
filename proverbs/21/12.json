@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "⟨Den⟩ Retfærdige ser med indsigt på ⟨det⟩ onde menneskes hus og vender ⟨de⟩ onde til deres ulykke.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ser med indsigt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨Den⟩ Retfærdige"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "på ⟨det⟩ … hus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onde menneskes"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "vender"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨de⟩ onde"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "til deres ulykke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:10.625484966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og kongen kom, og hele folket som var ⟨את⟩ ham, udmattede, og de fik hvile dér.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "var med ham"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "udmattede"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "fik hvile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:09.637009314Z",
+  "model": "glm-5.3"
+}

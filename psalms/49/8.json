@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "en bror kan slet ikke løskøbe ⟨hinanden⟩; de kan ikke give Elohim hans løsepenge.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "en bror"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kan løskøbe"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "slet ikke løskøbe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen mand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kan give"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "hans løsepenge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:38.118309263Z",
+  "model": "glm-5.3"
+}

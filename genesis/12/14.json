@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skete, da Avram kom til Mitsrajim, at egypterne så kvinden ⟨את⟩, at hun var såre smuk.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "da … kom"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "at … så"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "egypterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvinden"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "smuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "såre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.814973759Z",
+  "model": "glm-5.3"
+}

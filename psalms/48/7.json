@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Rædsel greb dem der, veer som hos en fødende kvinde.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "greb dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "veer"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "som hos en fødende kvinde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:56.410166250Z",
+  "model": "glm-5.3"
+}

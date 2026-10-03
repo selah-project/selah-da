@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 21:15",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Når en mand har to hustruer, én elsket og én hadet, og de føder ham sønner, både den elskede og den hadede, og den førstefødte søn er den hadedes,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "har"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "אהובה",
+      "gloss": "elsket"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "og én"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "hadet"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "og de føder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "den elskede"
+    },
+    {
+      "surface": "והשנואה",
+      "gloss": "og den hadede"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det er"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sønnen"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "לשניאה",
+      "gloss": "den hadedes"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:59.962534594Z",
+  "model": "glm-5.3"
+}

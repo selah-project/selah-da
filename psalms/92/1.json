@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "En mizmor, en sang, for Shabbatens dag.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "for dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:22.702578138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Kohelet søgte at finde ord til lyst, og det som ⟨er⟩ skrevet, ⟨er⟩ ret — sandheds ord.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "søgte"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "at finde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "til lyst"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "og det som ⟨er⟩ skrevet"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ret"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:45.061852980Z",
+  "model": "glm-5.3"
+}

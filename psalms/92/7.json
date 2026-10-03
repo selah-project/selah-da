@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Et dyrisk menneske ved det ikke, og en dåre forstår ikke ⟨את⟩ dette:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "בער",
+      "gloss": "dyrisk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ved"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "og en dåre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "forstår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.775275037Z",
+  "model": "glm-5.3"
+}

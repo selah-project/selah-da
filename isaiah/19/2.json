@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og jeg egger Mitsrajim imod Mitsrajim, og de kæmper, hver mand mod sin broder og hver mand mod sin næste, by mod by, rige mod rige.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Og jeg egger"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "imod Mitsrajim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "og de kæmper"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "mod sin broder"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "mod sin næste"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mod by"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "rige"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "mod rige"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:58.835064400Z",
+  "model": "glm-5.3"
+}

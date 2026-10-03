@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de svarede ⟨את⟩ Yehoshua og sagde: Alt, hvad du har befaler os, vil vi gøre, og til hvert sted, du sender os hen, vil vi gå.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Og de svarede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "du har befaler os"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vil vi gøre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sted, som"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "du sender os hen"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "vil vi gå"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:13.162384114Z",
+  "model": "glm-5.3"
+}

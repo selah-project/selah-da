@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Den går mod syd og drejer mod nord; rundt og rundt går ruachen, og på sine kredse vender ruachen tilbage.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "går"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "syd"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "og drejer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "rundt"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "rundt"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "går"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruachen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "sine kredse"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruachen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:38.025772278Z",
+  "model": "glm-5.3"
+}

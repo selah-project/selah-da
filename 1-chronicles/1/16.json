@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "og ⟨את⟩ arvaditeren og ⟨את⟩ tsemariteren og ⟨את⟩ chamatiteren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "arvaditeren"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvaditeren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "tsemariteren"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "tsemariteren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "chamatiteren"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "chamatiteren"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:22.787435835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hendes høvdinger i hendes midte er brølende løver; hendes dommere er aftenens ulve, der ikke levner benet til morgen.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "hendes høvdinger"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "i hendes midte"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "løver"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "brølende"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "hendes dommere"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "ulve"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "gnavede"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "til morgen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:12.585991513Z",
+  "model": "glm-5.3"
+}

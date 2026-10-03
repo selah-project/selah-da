@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Han græsser på aske; et bedraget hjerte har ført ham vill, og han kan ikke fri ⟨את⟩ sin sjæl og siger ikke: Er der ikke løgn i min højre hånd?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Han græsser"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "på aske"
+    },
+    {
+      "surface": "לב",
+      "gloss": "et hjerte"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "bedraget"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "har ført ham vill"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "kan han fri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin sjæl"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin sjæl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Er der ikke"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "i min højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:07.159845443Z",
+  "model": "glm-5.3"
+}

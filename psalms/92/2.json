@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Det er godt at takke Jahve og at lovsynge dit navn, Elyon,",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "at takke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "og at lovsynge"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:22.702802627Z",
+  "model": "glm-5.3"
+}

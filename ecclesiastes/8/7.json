@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Thi han ved ikke, hvad der skal ske; thi når det sker, hvem kan da fortælle ham det?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "han ved ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "der skal ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det sker"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kan fortælle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:04.218866628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Med deres ondskab gør de kongen glad, og med deres løgne høvdingerne.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "med deres ondskab"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gør de glad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "og med deres løgne"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "høvdingerne"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:24.081974998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Pisk til hesten, bidsel til æslet, og stav for tåbers ryg.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "pisk"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "til hesten"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "bidsel"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "til æslet"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "og stav"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "for ryggen"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "af tåber"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:10.744784174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Thi den fordrejede er Jahve en vederstyggelighed, og med ⟨את⟩ de oprigtige holder han sin fortrolige rådslagning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "en vederstyggelighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "den fordrejede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de oprigtige"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de oprigtige"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sin fortrolige rådslagning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:29.993301073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Jeg kalder til Elohim Elyon, til El, som fuldender ⟨det⟩ for mig.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Jeg kalder"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "til El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "som fuldender"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:54.257237351Z",
+  "model": "glm-5.3"
+}

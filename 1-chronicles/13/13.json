@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og David fjernede ikke ⟨את⟩ arken til sig, til Davids by, men vendte den til side til huset hos Oved-Edom gittiten.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "fjernede"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "vendte den til side"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gittiten"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:59.574538682Z",
+  "model": "glm-5.3"
+}

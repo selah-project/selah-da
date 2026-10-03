@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kongen tog ⟨את⟩ sin seglring fra sin hånd og gav den til Haman, søn af Hamdata, agagitten, jødernes fjende.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin seglring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sin seglring"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "og gav den"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "til Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "af Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agagitten"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "fjende"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jødernes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:03.548715689Z",
+  "model": "glm-5.3"
+}

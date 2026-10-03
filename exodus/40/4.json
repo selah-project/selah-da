@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal bringe ⟨את⟩ bordet ind og rede ⟨את⟩ dets ordning, og du skal bringe ⟨את⟩ menorahen ind og sætte ⟨את⟩ dens lamper op.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "og du skal bringe ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "og rede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets ordning"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "dets ordning"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "og du skal bringe ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorahen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorahen"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "og sætte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens lamper"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dens lamper"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:03.580136498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Keturas sønner, Avrahams medhustru, hun fødte ⟨את⟩ Zimran og Jokshan og Medan og Midjan og Jishbak og Shuach; og Jokshans sønner: Sheva og Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og … sønner"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturas"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "medhustru"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hun fødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "og Jokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "og Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "og Midjan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "og Jishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "og Shuach"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Og … sønner"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokshans"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "og Dedan"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:37.133725687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Ikke efter vore synder handlede han mod os, og ikke efter vore misgerninger gjengældte han os.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "efter vore synder"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "handlede han"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mod os"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "efter vore misgerninger"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "gjengældte"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:04.614002256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 9:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "De kom til landet Tsuph, og Shaul sagde til sin dreng, som var med ham: Kom, lad os vende tilbage, for at ikke min far skal holde op med at søge efter æslerne og blive bekymret for os.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "til landet"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "Tsuph"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "og Shaul"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "til sin dreng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "var med ham"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "lad os vende tilbage"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ikke"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "skal holde op"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "מן",
+      "gloss": "med at søge efter"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "æslerne"
+    },
+    {
+      "surface": "ודאג",
+      "gloss": "og blive bekymret"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:50.323981751Z",
+  "model": "glm-5.3"
+}

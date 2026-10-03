@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "Jahve kongerer i evighed, din Elohim, Tsiyon, fra slægt til slægt. Halleluja, Jah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "kongerer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i evighed"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fra slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:42.040082273Z",
+  "model": "glm-5.3"
+}

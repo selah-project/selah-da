@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Jahve gør fattig og gør rig, han ydmyger, ja, han ophøjer.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "gør fattig"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "og gør rig"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ydmyger"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "ophøjer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:33.994142132Z",
+  "model": "glm-5.3"
+}

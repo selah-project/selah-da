@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hans hær og deres talte: fem og tredive tusind og fire hundrede.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "og hans hær"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "og deres talte"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "og fire"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:12.995875881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og han sendte sendebud til Akhav, kongen af Jisrael, ind i ⟨byen⟩:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og han sendte"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sendebud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ind i ⟨byen⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:16.453879318Z",
+  "model": "glm-5.3"
+}

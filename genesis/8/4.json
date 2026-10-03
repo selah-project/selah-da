@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og arken satte sig til hvile i den syvende måned, på den syttende dag i måneden, på Ararats bjerge.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "og satte sig til hvile"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "på syv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararat"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:17.898254873Z",
+  "model": "glm-5.3"
+}

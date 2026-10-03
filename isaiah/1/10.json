@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Hør Jahves ord, I høvdinger i Sodom, lyt til vor Eloims Tora, folk i Gomorra!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "I høvdinger"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "i Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Eloims"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "i Gomorra"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:23.295170965Z",
+  "model": "glm-5.3"
+}

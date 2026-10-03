@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Sandelig, forgæves har jeg renset mit hjerte og vasker mine hænder i uskyld,",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "forgæves"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "har jeg renset"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "og vasker"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "i uskyld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mine hænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:23.748871739Z",
+  "model": "glm-5.3"
+}

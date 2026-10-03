@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Eli sagde til hende: Hvor længe skal du drikke dig drukken? Fjern ⟨את⟩ din vin fra dig!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hvor længe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "til"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "skal du drikke dig drukken"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Fjern"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din vin"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "din vin"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "fra dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:25.964793705Z",
+  "model": "glm-5.3"
+}

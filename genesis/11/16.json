@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Ever levede fire og tredive år og avlede ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "levede"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:11.662506747Z",
+  "model": "glm-5.3"
+}

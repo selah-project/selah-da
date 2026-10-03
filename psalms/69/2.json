@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Frels mig, Elohim, for vandene er kommet helt til sjælen.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Frels mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "באו",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjælen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:46.080563784Z",
+  "model": "glm-5.3"
+}

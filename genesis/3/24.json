@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han drev ⟨את⟩ mennesket ud, og han lod bo øst for Edens have ⟨את⟩ keruberne og ⟨את⟩ det flammende sværd, der vender sig, til at vogte ⟨את⟩ vejen til livets træ.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "og han drev ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "og han lod bo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "øst for"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "Edens have"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruberne"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruberne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det flammende sværd"
+    },
+    {
+      "surface": "להט",
+      "gloss": "det flammende"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sværd"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "der vender sig"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "til at vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vejen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "livets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:13.880397188Z",
+  "model": "glm-5.3"
+}

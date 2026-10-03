@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en mand, som tager ⟨את⟩ en kvinde og ⟨את⟩ hendes mor — det ⟨er⟩ udartning; i ild skal de brænde ham og dem, og der skal ikke være udartning iblandt jer.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tager"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en kvinde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hendes mor"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hendes mor"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "udartning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "skal de brænde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "og ⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "udartning"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "iblandt jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:19.353119380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Shaul sagde til folket, som var hos ham: Stævnen ⟨את⟩ og se, hvem der er gået bort fra os! Og de stævnede, og se, Yonatan var der ikke, og han som bar hans våben.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "til folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (med preposition)"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "stævnen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "og se"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "er gået"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "fra os"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "og de stævnede"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "אין",
+      "gloss": "var der ikke"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og han som bar"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans våben"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:05.336701136Z",
+  "model": "glm-5.3"
+}

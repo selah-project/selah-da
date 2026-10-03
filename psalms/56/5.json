@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "I Elohim vil jeg lovprise hans ord, i Elohim har jeg sat min lid; jeg frygter ikke — hvad kan kød gøre mod mig?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "vil jeg lovprise"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg sat min lid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "jeg frygter"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan gøre"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:28.513429715Z",
+  "model": "glm-5.3"
+}

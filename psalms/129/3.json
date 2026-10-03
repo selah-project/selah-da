@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 129,
+  "translation": "Over min rygg pløjede pløjere, de gjorde deres furer lange.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "min rygg"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "pløjede"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "pløjere"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "de gjorde lange"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "deres furer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.760489328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Mitsrajim skal vide, at jeg er Jahve, når jeg rækker ⟨את⟩ min hånd ud over Mitsrajim, og jeg fører ⟨את⟩ Jisraels børn ud fra midten af dem.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "og skal vide"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "når jeg rækker ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hånd"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "og fører jeg ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "fra midten af dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:29.080117430Z",
+  "model": "glm-5.3"
+}

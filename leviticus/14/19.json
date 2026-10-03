@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal lave syndofferet og skaffe soning for den rensede fra hans urenhed, og bagefter skal han slagte brændofferet ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Og skal lave"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndofferet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferet"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og skaffe soning"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "den rensede"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "fra hans urenhed"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "skal han slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:03.410685015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og jeg skal så dem blandt folkene, og i fjerne lande skal de mindes mig; og de skal leve sammen med ⟨את⟩ deres sønner og vende tilbage.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "og jeg skal så dem"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "og i fjerne lande"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "skal de mindes mig"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "og de skal leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sønner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres sønner"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "og vende tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:02:41.508840398Z",
+  "model": "glm-5.3"
+}

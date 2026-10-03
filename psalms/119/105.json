@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Et lys for min fod er dit ord, og et skær for min sti.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "et lys"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "for min fod"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "og et skær"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "for min sti"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:36.781219577Z",
+  "model": "glm-5.3"
+}

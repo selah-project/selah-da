@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 99,
+  "translation": "Ophøj Jahve, vor Elohim, og bøj jer ned ved hans hellige bjerg, for hellig er Jahve, vor Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Ophøj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "og bøj jer ned"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ved ⟨det⟩ bjerg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:51.864790894Z",
+  "model": "glm-5.3"
+}

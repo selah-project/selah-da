@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og hvis ikke, så gå der ild ud fra Avimelech og fortærer ⟨את⟩ Shekems høvdinger og ⟨את⟩ Beit-Millos hus, og gå der ild ud fra Shekems høvdinger og fra Beit-Millos hus og fortærer ⟨את⟩ Avimelech.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "gå … ud"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "fra Avimelech"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "og fortærer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekems høvdinger"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekems"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Beit-Millos hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "og gå … ud"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekems høvdinger"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millos hus"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "og fortærer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:58.928582144Z",
+  "model": "glm-5.3"
+}

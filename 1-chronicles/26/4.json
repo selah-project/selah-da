@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Oved-Edom havde sønner: Shemajah den førstefødte, Jehozavad den anden, Joach den tredje og Sachar den fjerde og Netanel den femte.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "Og Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemajah"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jehozavad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Joach"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og Sachar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "den fjerde"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "og Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "den femte"
+    }
+  ],
+  "timestamp": "2026-10-03T19:17:27.335332343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Sværdet ⟨er⟩ udenfor, og pesten og hungersnøden inde i huset; den der er på marken, dør ved sværdet, og den der er i byen, ham æder hunger og pest.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "udenfor"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "og pesten"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "og hungersnøden"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "inde i huset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den der"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ved sværdet"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dør"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og den der"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hunger"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "og pest"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "æder ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:31:26.239799999Z",
+  "model": "glm-5.3"
+}

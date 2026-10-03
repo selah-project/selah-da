@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Fjenden er endt, ruiner for bestandig; og byer rev du op, deres minde er fortapt — ⟨det⟩ er de.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "er endt"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ruiner"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for bestandig"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "og byer"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "rev du op"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "er fortapt"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deres minde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "det er de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:49.676503626Z",
+  "model": "glm-5.3"
+}

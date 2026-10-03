@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "De som farer ud på havet i skibe, de som gør deres gerning på store vande —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "De som farer ud på"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "i skibe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "de som gør"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "deres gerning"
+    },
+    {
+      "surface": "במים",
+      "gloss": "på vande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "store"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.455867408Z",
+  "model": "glm-5.3"
+}

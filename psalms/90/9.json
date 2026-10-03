@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "For alle vore dage vender sig i din vrede; vi ender vore år som et suk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "vore dage"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "vender sig"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "vi ender"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "vore år"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "et suk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:06.473935736Z",
+  "model": "glm-5.3"
+}

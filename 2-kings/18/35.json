@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Hvem blandt alle landenes guder har frelst ⟨את⟩ deres land ud af min hånd, så at Jahve skulle frelse ⟨את⟩ Jerushalajim ud af min hånd?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "blandt alle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "landenes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "har frelst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ud af min hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så at"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "skulle frelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ud af min hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:07.842992749Z",
+  "model": "glm-5.3"
+}

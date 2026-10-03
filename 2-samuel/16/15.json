@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Avshalom og hele folket, Israels mænd, kom til Jerushalajim, og Achitofel ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "og Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "og Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "var med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:09.637158298Z",
+  "model": "glm-5.3"
+}

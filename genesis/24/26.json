@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og manden bøjede sig og kastede sig ned for Jahve.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "Og manden bøjede sig"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og kastede sig ned"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:19.832249623Z",
+  "model": "glm-5.3"
+}

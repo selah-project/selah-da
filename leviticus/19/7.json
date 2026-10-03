@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og hvis det overhovedet spises på den tredje dag, er det en vederstyggelighed; det bliver ikke taget imod.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "overhovedet spises"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spises"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje dag"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "vederstyggelighed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "bliver taget imod"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:21.466694289Z",
+  "model": "glm-5.3"
+}

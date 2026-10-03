@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Pragt og herlighed er hans værk, og hans tsedek står til evig tid.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "pragt"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og herlighed"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "er hans værk"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "og hans tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:43.582768903Z",
+  "model": "glm-5.3"
+}

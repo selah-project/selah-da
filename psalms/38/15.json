@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og jeg blev som en mand, der ikke hører, og i hvis mund der ikke er nogen bebrejdelser.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "og jeg blev"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "som en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der ikke er"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "i hans mund"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "bebrejdelser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:44.769582374Z",
+  "model": "glm-5.3"
+}

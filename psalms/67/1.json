@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 67,
+  "translation": "Til korlederen, med strengeinstrumenter. En mizmor, en sang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "med strengeinstrumenter"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.288966951Z",
+  "model": "glm-5.3"
+}

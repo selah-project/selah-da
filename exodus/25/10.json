@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og de skal lave en ark af shittim-træ: to alener og en halv skal dens længde være, og en alen og en halv dens bredde, og en alen og en halv dens højde.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Og de skal lave"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "en ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim-træ"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "to alener"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dens længde"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og en alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dens bredde"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og en alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dens højde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:01.057978687Z",
+  "model": "glm-5.3"
+}

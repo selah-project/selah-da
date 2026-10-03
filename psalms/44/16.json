@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Hele dagen er min skam foran mig, og mit ansigts forvirring har dækket mig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "min skam"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "foran mig"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "forvirring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigts"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "har dækket mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:29.357086786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Glæd os så mange dage, som du har kuet os, så mange år, som vi har set ondskab.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "glæd os"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "så mange dage som"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "du har kuet os"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "så mange år"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "vi har set"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.408987781Z",
+  "model": "glm-5.3"
+}

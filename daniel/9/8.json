@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Jahve, vores ⟨er⟩ ansigtsskam — vores konger, vores høvdinger og vores fædre — som syndede mod dig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vores"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "⟨er⟩ skam"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ansigts-"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "vores konger"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "vores høvdinger"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "og vores fædre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "syndede vi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:59:41.364298629Z",
+  "model": "glm-5.3"
+}

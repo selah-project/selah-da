@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Vor konges dag: høvdingerne blev syge af vinskens hed; han strakte sin hånd ud ⟨את⟩ sammen med spotterne.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "vor konge"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "blev syge"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hed"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "af vin"
+    },
+    {
+      "surface": "משך",
+      "gloss": "strakte ud"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spottterne"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "spotterne"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:31.217065299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og I skal lære ⟨את⟩ dem ⟨את⟩ jeres børn, at de taler om dem, når du sidder i dit hus, og når du går på vejen, og når du lægger dig, og når du står op.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "og I skal lære"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres børn"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jeres børn"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "at tale"
+    },
+    {
+      "surface": "בם",
+      "gloss": "om dem"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "når du sidder"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "i dit hus"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "og når du går"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "og når du lægger dig"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "og når du står op"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:49.118949084Z",
+  "model": "glm-5.3"
+}

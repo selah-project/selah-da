@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Husk ⟨på⟩ mig — hvad er mit liv? Hvorfor har du i tomhed skabt alle menneskets børn?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "husk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "er mit liv"
+    },
+    {
+      "surface": "על",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(hvorfor)"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "i tomhed"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "har du skabt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "af mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:15.326856348Z",
+  "model": "glm-5.3"
+}

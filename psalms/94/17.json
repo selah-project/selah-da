@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Hvis ikke Jahve var min hjælp, havde min sjæl næsten boet i tavshed.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "hvis ikke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "hjælp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "næsten"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "boet"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "i tavshed"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:17.349820365Z",
+  "model": "glm-5.3"
+}

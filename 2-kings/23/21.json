@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og kongen befalede ⟨את⟩ hele folket og sagde: Hold pesach for Jahve jeres Elohim, som der er skrevet i denne pagts bog.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og befalede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Hold"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "som der er skrevet"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bogen"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pagts"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:33.543273074Z",
+  "model": "glm-5.3"
+}

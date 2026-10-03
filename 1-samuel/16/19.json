@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Shaul sendte bud efter Jishai og sagde: Send mig din søn ⟨את⟩ David, som er ved fårene.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "bud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Send"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ved fårene"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:35.224310660Z",
+  "model": "glm-5.3"
+}

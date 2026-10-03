@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Salige er den mand, der har gjort Jahve til sin tryghed, og ikke vendte sig til de overmodige og dem, der vender sig til løgn.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "den mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "שם",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "til sin tryghed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vendte sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "de overmodige"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "og dem, der vender sig"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "til løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:04.139646468Z",
+  "model": "glm-5.3"
+}

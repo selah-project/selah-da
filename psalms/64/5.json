@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "At skyde i skjulene på den ulastelige; pludselig skyder de ⟨på⟩ ham og frygter ikke.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "at skyde"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "i skjulene"
+    },
+    {
+      "surface": "תם",
+      "gloss": "den ulastelige"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "pludselig"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "skyder de ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "frygter de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:54.273225530Z",
+  "model": "glm-5.3"
+}

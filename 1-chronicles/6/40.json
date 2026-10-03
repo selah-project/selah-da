@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og de gav dem ⟨את⟩ Chevron i Judas land og ⟨את⟩ dets græsgange rundt om det.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Og de gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dets græsgange"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "rundt om det"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:02.276458186Z",
+  "model": "glm-5.3"
+}

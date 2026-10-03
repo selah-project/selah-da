@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Jahve talte til Moshe og sagde:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:25.509635893Z",
+  "model": "glm-5.3"
+}

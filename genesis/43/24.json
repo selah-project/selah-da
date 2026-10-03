@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og manden førte ⟨את⟩ mændene ind i Yosefs hus og gav vand, og de vaskede deres fødder, og han gav foder til deres æsler.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og han førte ind"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mændene"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefs"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han gav"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "og de vaskede"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "deres fødder"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han gav"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "foder"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "til deres æsler"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:26.999784029Z",
+  "model": "glm-5.3"
+}

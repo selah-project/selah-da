@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Som hovedsum er dit ord sandhed, og til evighed er hver en dom af din tsedek.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Som hovedsum"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "og til evighed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver en"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "af din tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:18.254428857Z",
+  "model": "glm-5.3"
+}

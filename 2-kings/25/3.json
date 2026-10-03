@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "På den niende dag i måneden blev hungersnøden stærk i byen, og der var intet brød for folket i landet.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "På den niende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "og blev stærk"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnøden"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:01.842983651Z",
+  "model": "glm-5.3"
+}

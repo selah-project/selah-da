@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Jahve ⟨er⟩ min klippe, og min borg, og min befrier; min El, min klippe, jeg søger ly i ham; mit skjold og frelsens horn, mit værn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og min borg"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og min befrier"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "jeg søger ly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i ham"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mit skjold"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "og horn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "af min frelse"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mit værn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:35.963581119Z",
+  "model": "glm-5.3"
+}

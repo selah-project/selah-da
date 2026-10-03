@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "I den anden måned, på den fjortende dag, mellem aftenstiderne skal de gøre ⟨את⟩ det; med usyret brød og bitre urter skal de spise det.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "i den måned"
+    },
+    {
+      "surface": "השני",
+      "gloss": "anden"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på fjorten"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(de)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aftenstiderne"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skal de gøre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (pesach-offeret)"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "usyret brød"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "og bitre urter"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skal de spise det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:47.632419610Z",
+  "model": "glm-5.3"
+}

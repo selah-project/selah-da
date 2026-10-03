@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han overgav deres kvæg til hagl og deres hjorde til lynstråler.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "og han overgav"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "til hagl"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "deres kvæg"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "og deres hjorde"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "til lynstråler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:37.412398439Z",
+  "model": "glm-5.3"
+}

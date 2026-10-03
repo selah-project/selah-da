@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og kongen svarede folket hårdt og forlod de gamles råd, som de havde givet ham.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårdt"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "og forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de gamles råd"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rådet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de gamle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "de havde givet ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:01.252283005Z",
+  "model": "glm-5.3"
+}

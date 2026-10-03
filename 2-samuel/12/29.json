@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og David samlede ⟨את⟩ hele folket og gik til Rabbah og kæmpede mod den og erobrede den.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Og … samlede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "til Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mod den"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "og erobrede den"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:56.433374432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Eli kaldte på ⟨את⟩ Shmuel og sagde: Shmuel, min søn! Og han sagde: Se, her er jeg.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og Eli kaldte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Se, her er jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:45.407230395Z",
+  "model": "glm-5.3"
+}

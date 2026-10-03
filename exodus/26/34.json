@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og du skal sætte ⟨את⟩ nådestolen på vidnesbyrdets ark, i det helligste af hellige.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nådestolen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nådestolen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdets"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helligdommen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "af hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:36.322857251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Du ryddede plads foran den, og den slog rødder ⟨med⟩ sine rødder og fyldte landet.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "du ryddede plads"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "foran den"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "og den slog rødder"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "sine rødder"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "og fyldte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:46.098827107Z",
+  "model": "glm-5.3"
+}

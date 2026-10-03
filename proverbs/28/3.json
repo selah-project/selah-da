@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "En fattig mand, der undertrykker de svage, ⟨er⟩ som et slagregn, der fejer bort, og der ikke ⟨er⟩ brød.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "En mand"
+    },
+    {
+      "surface": "רש",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "der undertrykker"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "de svage"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "et slagregn"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "der fejer bort"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der ikke ⟨er⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:10.221319188Z",
+  "model": "glm-5.3"
+}

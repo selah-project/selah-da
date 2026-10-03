@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og lyset er sødt, og godt for øjnene at se ⟨את⟩ solen.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "og sødt"
+    },
+    {
+      "surface": "האור",
+      "gloss": "lyset"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "og godt"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "for øjnene"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "at se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solen"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:24.001678548Z",
+  "model": "glm-5.3"
+}

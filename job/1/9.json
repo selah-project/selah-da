@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Satan svarede ⟨את⟩ Jahve og sagde: Frygter Ijob Elohim for intet?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "for intet"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:58.851560126Z",
+  "model": "glm-5.3"
+}

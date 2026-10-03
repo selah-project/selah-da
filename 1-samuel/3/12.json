@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "På den dag vil jeg rejse mod Eli ⟨את⟩ alt det, jeg har talt mod hans hus — begynde og fuldende.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "vil jeg rejse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det, jeg har talt mod hans hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jeg har talt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begynde"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "og fuldende"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:35.611003231Z",
+  "model": "glm-5.3"
+}

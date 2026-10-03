@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Han gør ⟨en⟩ ødemark til vanddamme og tørt land til vandkilder.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "gør"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ødemark"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "til damme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "og land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "tørt"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "til kilder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:51.697894351Z",
+  "model": "glm-5.3"
+}

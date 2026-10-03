@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "En sang ved opstigningerne. Til Jahve råbte jeg i min trængsel, og han svarede mig.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "En sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningerne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "i min trængsel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "råbte jeg"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "og han svarede mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:26.481392709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og de kastede hver sin stav, og de blev til slanger; men Aharons stav slugte ⟨את⟩ deres stave.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "og de kastede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "sin stav"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de blev"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "til slanger"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "men slugte"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres stave"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "deres stave"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:30.470145937Z",
+  "model": "glm-5.3"
+}

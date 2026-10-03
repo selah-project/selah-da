@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han gjorde ⟨את⟩ de ti guldlysestager efter deres forskrift og satte dem i templet, fem på højre side og fem på venstre side.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ti guldlysestager"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "lysestager"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "efter deres forskrift"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i templet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "på højre side"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "på venstre side"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:39.158161818Z",
+  "model": "glm-5.3"
+}

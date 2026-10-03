@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Hold ⟨את⟩ Shabbat-dagen for at hellige den, som Jahve, din Elohim, har budt dig.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Hold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat-dagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat-"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "for at hellige den"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har budt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:00.416306937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "I Jahve priser min sjæl sig; de ydmyge skal høre ⟨det⟩ og glæde sig.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "I Jahve"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "priser sig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "skal høre"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ydmyge"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "og glæde sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.097812508Z",
+  "model": "glm-5.3"
+}

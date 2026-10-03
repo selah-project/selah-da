@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og de vidste ikke, at Josef forstod ⟨dem⟩, for tydken var mellem dem.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vidste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "forstod"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tydken"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "mellem dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:11.847030228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Min ryg gav jeg til dem der slår, og mine kinder til dem der rykker håret ud; mit ansigt skjulte jeg ikke for spot og spy.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "min ryg"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gav jeg"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "til dem der slår"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "og mine kinder"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "til dem der rykker ud"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "skjulte jeg"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "for spot"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "og spy"
+    }
+  ],
+  "timestamp": "2026-10-03T17:04:42.748122731Z",
+  "model": "glm-5.3"
+}

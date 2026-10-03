@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "En tåbes mund er ⟨en⟩ undergang for ham, og hans læber ⟨er⟩ en snare for hans sjæl.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tåbes"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "undergang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "og hans læber"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "snare"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:39.462229327Z",
+  "model": "glm-5.3"
+}

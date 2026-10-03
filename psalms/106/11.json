@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og vandene dækkede deres fjender, ikke én af dem blev tilbage.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "og dækkede"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "af dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "blev tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:29.023980494Z",
+  "model": "glm-5.3"
+}

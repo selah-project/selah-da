@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han åbnede klippen, og vand strømmede ud; de gik i de tørre egne som en flod.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "åbnede"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "og strømmede ud"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "i de tørre egne"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "som en flod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.328026175Z",
+  "model": "glm-5.3"
+}

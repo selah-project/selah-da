@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Hvis din hader er sulten, giv ham brød at spise, og hvis han er tørstig, giv ham vand at drikke.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "er sulten"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "din hader"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "giv ham at spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "er tørstig"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "giv ham at drikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:20.209240075Z",
+  "model": "glm-5.3"
+}

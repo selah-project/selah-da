@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Til korlederen, efter Jedutun, til Asaf, en mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "til Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:17.043175947Z",
+  "model": "glm-5.3"
+}

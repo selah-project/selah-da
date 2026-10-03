@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Befal ⟨את⟩ præsterne, ⟨dem der⟩ bærer arken med vidnesbyrdet, at de skal gå op fra Jordan.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Befal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "præsterne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bærerne af"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "vidnesbyrdet"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "at de skal gå op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    }
+  ],
+  "timestamp": "2026-10-03T15:36:24.341838540Z",
+  "model": "glm-5.3"
+}

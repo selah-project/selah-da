@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kongen sagde: Denne siger: Dette er min søn, den levende, og din søn er den døde; og denne siger: Nej, den døde er din søn, og min søn er den levende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "siger"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den levende"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "og din søn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "den døde"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "og denne"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "siger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "den døde"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og min søn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "den levende"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:11.455700273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og David samlede Aharons ⟨את⟩ sønner og ⟨את⟩ levitterne.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "og han samlede"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharons sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "levitterne"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:38.580143413Z",
+  "model": "glm-5.3"
+}

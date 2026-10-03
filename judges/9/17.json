@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "han som kæmpede min far for jer, og kastede sit liv ⟨i fare⟩ foran jer, og reddede jer ud af Midjans hånd.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kæmpede"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "og kastede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit liv"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sit liv"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "foran jer"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "og reddede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånd"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:58.927890937Z",
+  "model": "glm-5.3"
+}

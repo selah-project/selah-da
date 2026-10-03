@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg vil række ⟨את⟩ min hånd ud og slå ⟨את⟩ Mitsrajim med alle mine under, som jeg vil gøre i dets midte; og bagefter vil han sende ⟨את⟩ jer bort.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Og jeg vil række ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hånd"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "og jeg vil slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med alle"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "mine under"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "jeg vil gøre"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i dets midte"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derefter"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "vil han sende"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:22.030164402Z",
+  "model": "glm-5.3"
+}

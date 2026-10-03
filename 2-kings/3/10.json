@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Da sagde kongen af Jisrael: Åh, at Jahve har kaldt disse tre konger sammen for at give ⟨את⟩ dem i Moabs hånd!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Åh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "har kaldt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "sammen disse tre"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "for at give"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:48.731343050Z",
+  "model": "glm-5.3"
+}

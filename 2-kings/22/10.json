@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Shafan skriveren fortalte kongen og sagde: En bog har præsten Chilkija givet mig. Og Shafan læste den for kongen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "skriveren"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "en bog"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "og læste den"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:06.543009261Z",
+  "model": "glm-5.3"
+}

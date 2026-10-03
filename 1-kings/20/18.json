@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og han sagde: Er de gået ud for fred, så tag dem levende; og er de gået ud for krig, så tag dem levende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "er"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "for fred"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "de er gået ud"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "så tag dem"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levende"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og er"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for krig"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "de er gået ud"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "levende"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "så tag dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:06.976080168Z",
+  "model": "glm-5.3"
+}

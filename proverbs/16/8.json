@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Bedre er lidt med tsedek end megen avling uden ret.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lidt"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "med tsedek"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "end megen"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "avling"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:10.905718892Z",
+  "model": "glm-5.3"
+}

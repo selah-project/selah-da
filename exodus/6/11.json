@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Gå ind, tal til Par'o, kongen af Mitsrajim, at han skal sende Jisraels ⟨את⟩ børn ud af sit land.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'o"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "at han sender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ud af sit land"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:18.477699870Z",
+  "model": "glm-5.3"
+}

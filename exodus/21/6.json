@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "så skal hans herre bringe ham til Elohim og bringe ham til døren eller til dørstolpen, og hans herre skal gennemhulle ⟨את⟩ hans øre med en syl, og han skal tjene ham for evigt.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "så skal ... bringe ham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "og bringe ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "døren"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "dørstolpen"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "og skal gennemhulle"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans øre"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "hans øre"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "med en syl"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "og han skal tjene ham"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:43.788531610Z",
+  "model": "glm-5.3"
+}

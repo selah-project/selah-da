@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Af vinterens kulde vil den dovn ikke pløje; han tigger ved høsten — og der ⟨er⟩ intet.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "af vinterens kulde"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "den dovn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "vil pløje"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "han tigger"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ved høsten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der ⟨er⟩ intet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:41.121697953Z",
+  "model": "glm-5.3"
+}

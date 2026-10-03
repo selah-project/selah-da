@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og kongen vendte tilbage og kom til Jordanen, og Jehuda kom til Gilgal for at gå kongen i møde og føre ⟨את⟩ kongen over ⟨את⟩ Jordan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanen"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Jehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "til Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "for at gå"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "i møde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "for at føre over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:12.721243938Z",
+  "model": "glm-5.3"
+}

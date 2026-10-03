@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Må syndere forsvinde fra jorden, og de gudløse være der ikke mere. Velsign, min sjæl, ⟨את⟩ Jahve. Hallelujah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "må forsvinde"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndere"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "og de gudløse"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ikke mere"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "være der ikke"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "velsign"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelujah (lovsynger I)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:03.415920490Z",
+  "model": "glm-5.3"
+}

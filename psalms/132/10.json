@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "For din træl Davids skyld må du ikke vende dit ansigt bort fra din Mashiach.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "må du ikke vende"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "din Mashiach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:36.051589157Z",
+  "model": "glm-5.3"
+}

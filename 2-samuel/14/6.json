@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og din trælkvinde havde to sønner, og de to kom i strid på marken, og der var ingen, som reddede mellem dem, og den ene slog ⟨את⟩ den anden, og han dræbte ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "Og din trælkvinde"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "og de kom i strid"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de to"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der var ingen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "som reddede"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "mellem dem"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den anden"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han dræbte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:14:40.508525874Z",
+  "model": "glm-5.3"
+}

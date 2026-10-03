@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Er det tid for jer, jer selv, at bo i jeres σ tapkastede huse, mens dette hus ligger øde?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "er det tid"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jer selv"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "at bo"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "i jeres huse"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "tapkastede"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "mens dette hus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ligger øde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:46.809605688Z",
+  "model": "glm-5.3"
+}

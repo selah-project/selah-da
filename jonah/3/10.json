@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Elohim så ⟨את⟩ deres gerninger, at de vendte om fra deres onde vej; og Elohim ommed sig over det onde, som han havde talt om at gøre dem, og han gjorde det ikke.",
+  "tokens": [
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "deres gerninger"
+    },
+    {
+      "surface": "מַעֲשֵׂיהֶם",
+      "gloss": "deres gerninger"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שָׁבוּ",
+      "gloss": "vendte om"
+    },
+    {
+      "surface": "מִדַּרְכָּם",
+      "gloss": "fra deres vej"
+    },
+    {
+      "surface": "הָרָעָה",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "וַיִּנָּחֶם",
+      "gloss": "og ommed sig"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "over"
+    },
+    {
+      "surface": "הָרָעָה",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "han havde talt"
+    },
+    {
+      "surface": "לַעֲשׂוֹת",
+      "gloss": "om at gøre"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "gjorde"
+    }
+  ],
+  "timestamp": "2026-10-03T17:55:45.269063680Z",
+  "model": "glm-5.3"
+}

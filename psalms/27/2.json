@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Da onde kom imod mig for at æde ⟨את⟩ mit kød — mine trængsler og mine fjender imod mig — de snublede og faldt.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Da … kom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "onde"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "for at æde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit kød"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mit kød"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mine trængsler"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "og mine fjender"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "snublede"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "og faldt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:06.331867563Z",
+  "model": "glm-5.3"
+}

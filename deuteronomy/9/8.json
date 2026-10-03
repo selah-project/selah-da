@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og ved Chorev gjorde I Jahve vred, og Jahve blev vred på jer for at udrydde jer.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "og ved Chorev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "gjorde I vred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "og blev vred"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "på jer"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "for at udrydde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:20.375117417Z",
+  "model": "glm-5.3"
+}

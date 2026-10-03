@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han viste dem ⟨את⟩ indgangen til byen, og de slog ⟨את⟩ byen med sværdets egg; men ⟨את⟩ manden og ⟨את⟩ hele hans familie lod de gå.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "og han viste dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indgangen"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sværdets egg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "men ⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele hans familie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "hans familie"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lod de gå"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:45.079331973Z",
+  "model": "glm-5.3"
+}

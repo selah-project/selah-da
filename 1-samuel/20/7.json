@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Hvis han siger sådan: Det er godt, din træl har fred — men hvis han bliver vred, så vid, at ondskaben er besluttet hos ham.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "han siger"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Det er godt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "bliver vred"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "vred"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "דע",
+      "gloss": "så vid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "er besluttet"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ondskaben"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "hos ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:54.586902967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Til evigheden, Jahve, står dit ord fast i himlene.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "står fast"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.654531982Z",
+  "model": "glm-5.3"
+}

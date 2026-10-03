@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og hans navn skal kaldes i Jisrael: Den sandalløses hus.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "Og … skal kaldes"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "Den … løste"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandallen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:59.573281803Z",
+  "model": "glm-5.3"
+}

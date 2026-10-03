@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "Den tsedek glæder sig i Jahve og søger ly i ham, og alle med ret hjerte jubler.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den tsedek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Jahve"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "og søger ly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i ham"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "og de jubler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "med ret"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:05.359528466Z",
+  "model": "glm-5.3"
+}

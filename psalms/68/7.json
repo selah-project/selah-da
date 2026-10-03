@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Elohim giver de enlige et hjem, fører fangerne ud i velstand; men de genstridige skal bo i tørt land.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "giver ... hjem"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "de enlige"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hjem"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "fører ... ud"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "fangerne"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "i velstand"
+    },
+    {
+      "surface": "אך",
+      "gloss": "men"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "de genstridige"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "skal bo"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "i tørt land"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:06.856416243Z",
+  "model": "glm-5.3"
+}

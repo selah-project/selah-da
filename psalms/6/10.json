@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Jahve har hørt min bøn; Jahve tager min forbøn ⟨til sig⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "har hørt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min forbøn"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tager"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:03.144284044Z",
+  "model": "glm-5.3"
+}

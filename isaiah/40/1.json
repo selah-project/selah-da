@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Trøst, trøst mit folk, siger jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Trøst"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "trøst"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:10.752031815Z",
+  "model": "glm-5.3"
+}

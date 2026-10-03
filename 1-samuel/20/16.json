@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Så skar Jonatan pagt med Davids hus, ⟨og sagde⟩: Må Jahve kræve det af hånden på Davids fjender.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Så skar"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "må … kræve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånden"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "på fjender"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:13.328149993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Men den, der synder mod mig, gør vold mod sin egen sjæl; alle, der hader mig, elsker døden.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "Men den, der synder mod"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "gør vold mod"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin egen sjæl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "der hader mig"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:01.511894240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve Elohim byggede ⟨את⟩ ribben, som han havde taget fra mennesket, til en kvinde, og han førte hende til mennesket.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ribben"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ribben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "han havde taget"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til en kvinde"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "og han førte hende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:20.125373468Z",
+  "model": "glm-5.3"
+}

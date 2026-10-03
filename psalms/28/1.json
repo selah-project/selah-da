@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Af David. Til dig, Jahve, råber jeg; min klippe, vær ikke døv mod mig, for at du ikke skal tie mod mig, så jeg bliver som dem, der stiger ned i graven.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "råber jeg"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vær døv"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ikke"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "skal tie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "så jeg bliver lig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "dem der stiger ned"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i graven"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:02.401734523Z",
+  "model": "glm-5.3"
+}

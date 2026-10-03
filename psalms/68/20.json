@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Lovet være Adonaj; dag efter dag bærer han vor byrde — ⟨det er⟩ El, vor frelse. Sela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Lovet være"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "efter dag"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "bærer han byrde"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vor"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "vor frelse"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:48.699396099Z",
+  "model": "glm-5.3"
+}

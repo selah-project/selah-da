@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun åbnede ⟨den⟩ og så ham, ⟨את⟩ barnet — og se, en dreng der græd. Og hun fik medlidenhed med ham og sagde: Denne er af hebræernes børn.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "og hun åbnede"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "og så ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en dreng"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "græd"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "og hun fik medlidenhed"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "af børn"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebræernes"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:04.873437621Z",
+  "model": "glm-5.3"
+}

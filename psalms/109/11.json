@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Måtte en kreditor sætte ⟨את⟩ snaren for alt, hvad han ejer, og fremmede røve hans afstedkomne.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "fænger i snare"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "en kreditor"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han ejer"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "og røve"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "hans afstedkomne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.553813635Z",
+  "model": "glm-5.3"
+}

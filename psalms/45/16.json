@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Med glæde og fryd føres de; de går ind i kongens palads.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "føres de"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "Med glæde"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "og fryd"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "de går ind"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i palads"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:02.053479959Z",
+  "model": "glm-5.3"
+}

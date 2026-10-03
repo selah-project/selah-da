@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Men jeg er bestandigt hos dig; du greb min højre hånd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men jeg"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "du greb"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "…hånd"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "min højre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:21.092905774Z",
+  "model": "glm-5.3"
+}

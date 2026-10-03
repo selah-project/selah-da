@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og krigen blev lang mellem Shauls hus og Davids hus; og David gik og blev stærkere, og Shauls hus gik og blev svagere.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Og … blev"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "krigen"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lang"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "og blev stærkere"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og Shauls hus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gik"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "og blev svagere"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:30.326499149Z",
+  "model": "glm-5.3"
+}

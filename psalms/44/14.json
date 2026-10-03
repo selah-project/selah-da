@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Du gør os til en skam for vore naboer, til spott og hån for dem omkring os.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "gør os"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "skam"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "for vore naboer"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "spott"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "hån"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "for dem omkring os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:29.356779948Z",
+  "model": "glm-5.3"
+}

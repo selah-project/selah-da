@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Ophøjet er Jahve, thi ⟨han⟩ bor på højen; han fyldte Tsiyon med ret og tsedek.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ophøjet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bor"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "på højen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:06.553007891Z",
+  "model": "glm-5.3"
+}

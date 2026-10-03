@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Og de siger: Hvordan kan El vide ⟨det⟩, og findes der viden hos ⟨den⟩ Højeste?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Og de siger"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Hvordan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kan vide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "og findes der"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "viden"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "hos Elyon"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:27.475546895Z",
+  "model": "glm-5.3"
+}

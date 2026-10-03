@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Dette ⟨er⟩ havet, stort og bredt ⟨på⟩ begge sider; der ⟨er⟩ kryb uden nummer, levende væsner, små ⟨samme med⟩ store.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "og bredt"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨på⟩ begge sider"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kryb"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og uden"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nummer"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "levende væsner"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "små"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨samme med⟩"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "store"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.235612900Z",
+  "model": "glm-5.3"
+}

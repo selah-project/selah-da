@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og ti unge mænd, som bar Joavs våben, vendte sig om og slog ⟨את⟩ Avshalom og dræbte ham.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "vendte sig om"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "unge mænd"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "som bar"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "våben"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joavs"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "og dræbte ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:17:53.639473476Z",
+  "model": "glm-5.3"
+}

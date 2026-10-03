@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og dette er nazirærens Tora: På den dag, da dagene af hans indvielse er fuldbragte, skal han bringe ⟨את⟩ ham til indgangen af mødeteltet.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "nazirærens"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "På den dag"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "er fuldbragte"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagene"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hans indvielse"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "skal han bringe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (naziræeren)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af mødet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:40.704751189Z",
+  "model": "glm-5.3"
+}

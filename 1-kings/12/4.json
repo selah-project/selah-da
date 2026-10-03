@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Din far gjorde vort ⟨את⟩ åg hårdt; men du, nu, gør din fars hårde trættjeneste lettere og det tunge åg, han lagde på os, så vil vi tjene dig.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "gjorde hårdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vort åg"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "vort åg"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "gør lettere"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "trættjenesten"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fars"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "hårde"
+    },
+    {
+      "surface": "ו מעלו",
+      "gloss": "og det åg"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "han lagde"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "på os"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "så vil vi tjene dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:55.206890063Z",
+  "model": "glm-5.3"
+}

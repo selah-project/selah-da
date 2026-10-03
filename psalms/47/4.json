@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Han kuede folkeslag under os ⟨og⟩ folk under vore fødder.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "kuede"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "under os"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og folk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "vore fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.023838423Z",
+  "model": "glm-5.3"
+}

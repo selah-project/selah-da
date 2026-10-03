@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og filisteren sagde: Jeg har ignoreret ⟨את⟩ Israels slagordninger i dag; giv mig en mand, og lad os kæmpe sammen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "har hånet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels slagordninger"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "slagordninger"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "og lad os kæmpe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:38.685307023Z",
+  "model": "glm-5.3"
+}

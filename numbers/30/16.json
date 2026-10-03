@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og hvis han helt ophæver dem, efter at han har hørt det, da skal han bære ⟨את⟩ hendes skyld.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ophæver"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "helt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "at han har høret"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "skal han bære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes skyld"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "hendes skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T15:18:00.990905065Z",
+  "model": "glm-5.3"
+}

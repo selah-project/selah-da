@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Gid det fra Tzion kom Jisraels frelse! Når Jahve vender sit folks skæbne, da jubler Jaakov, glæder sig Jisrael.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "gid (hvem)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gav (kom)"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "fra Tzion"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "når … vender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "skæbne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folks"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "jubler"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:50.088880498Z",
+  "model": "glm-5.3"
+}

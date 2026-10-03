@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "jeres småbørn, jeres hustruer og din fremmede, som er midt i din lejr, fra huggeren af dit brænde til henteren af dit vand —",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "jeres småbørn"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jeres hustruer"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "og din fremmede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "din lejr"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "fra huggeren"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "af dit brænde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "henteren"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "af dit vand"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:13.714976231Z",
+  "model": "glm-5.3"
+}

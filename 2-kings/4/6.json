@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og det skete, da karrene var fulde, sagde hun til sin søn: Bring mig endnu et kar! Og han sagde til hende: Der er ikke flere kar. Så standsede olien.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "da … var fulde"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "karrene"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sagde hun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "bring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "et kar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "flere"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "så standsede"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olien"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:06.806914596Z",
+  "model": "glm-5.3"
+}

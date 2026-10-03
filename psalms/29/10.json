@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Jahve sad ⟨som konge⟩ ved syndfloden, og Jahve sidder som konge til evig tid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ved syndfloden"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sad ⟨som konge⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og sidder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "som konge"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:06.689948476Z",
+  "model": "glm-5.3"
+}

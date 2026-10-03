@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "så må fjenden forfølge min sjæl og indhente ⟨den⟩, og træde mit liv ned til jorden og lade min ære bo i støvet. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "må forfølge"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "og indhente"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "og træde ned"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mit liv"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "og min ære"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "i støvet"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "lade bo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:44.113112754Z",
+  "model": "glm-5.3"
+}

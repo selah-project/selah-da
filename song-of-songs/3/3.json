@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Vogterne, som går rundt i byen, fandt mig — ⟨את⟩ ham, som min sjæl elsker, har I set?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "fandt mig"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "vogterne"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "som går rundt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ham, som min sjæl elsker"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "som … elsker"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "har I set"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:58.713112417Z",
+  "model": "glm-5.3"
+}

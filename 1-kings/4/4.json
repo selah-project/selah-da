@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Benajahu, søn af Jehojada, ⟨stod⟩ over hæren; og Tsadok og Evjatar ⟨var⟩ præster.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Og Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "og Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "og Evjatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "præster"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:34.441035131Z",
+  "model": "glm-5.3"
+}

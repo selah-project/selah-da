@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 133,
+  "translation": "En pilgrimssang af David. Se, hvor godt og hvor herligt det er, brødre bor sammen i enhed!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pilgrims-\/stigningssang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "herligt"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "at bo \/ de bor"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brødre"
+    },
+    {
+      "surface": "גם",
+      "gloss": "netop"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen i enhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:49.727852084Z",
+  "model": "glm-5.3"
+}

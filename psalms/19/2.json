@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Himlene fortæller Els herlighed, og himmelhvælvingen forkynder hans hænders værk.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Himlene"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "fortæller"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "og … værk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans hænders"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "forkynder"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "himmelhvælvingen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:16.943670640Z",
+  "model": "glm-5.3"
+}

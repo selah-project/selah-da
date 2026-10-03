@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Vil du skræmme et blad, der er blæst bort, og forfølge ⟨את⟩ det tørre strå?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "Vil du"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "et blad, der er blæst bort"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "skræmme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det tørre strå"
+    },
+    {
+      "surface": "קש",
+      "gloss": "strå"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "tørre"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "forfølge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:23.701286702Z",
+  "model": "glm-5.3"
+}

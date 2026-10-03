@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Jeg har gjort ⟨את⟩ jorden, ⟨את⟩ mennesket og ⟨את⟩ kvæget, som ⟨er⟩ på jordens ansigt, med min store styrke og med min udstrakte arm; og jeg giver den til den, som er ret i mine øjne.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kvæget"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "med min styrke"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "store"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "og med min arm"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "udstrakte"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "og jeg giver den"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "til den, som"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "er ret"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T17:19:45.235914617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Dog, fordi du har bespottet ⟨את⟩ Jahves fjender med denne gerning — også den søn, der er født dig, skal visseligen dø.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "bespottet"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "har du bespottet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves fjender"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fjender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "med denne gerning"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "den søn"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "der er født"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visseligen"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:50.739887924Z",
+  "model": "glm-5.3"
+}

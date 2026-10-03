@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "For Jah udvalgte sig Jaakov, Jisrael som sin ejendomsskat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "udvalgte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sig"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "som sin ejendomsskat"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:21.548039904Z",
+  "model": "glm-5.3"
+}

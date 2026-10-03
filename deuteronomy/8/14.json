@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "og dit hjerte ophøjer sig, og du glemmer ⟨את⟩ Jahve, din Elohim, som førte dig ud af Mitsrajim, ud af trællehuset",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "og ophøjer sig"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "og du glemmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "som førte dig ud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ud af huset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:53.304713092Z",
+  "model": "glm-5.3"
+}

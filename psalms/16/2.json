@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Jeg sagde til Jahve: Adonaj, du er ⟨min herre⟩; min godhed — ikke uden dig.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "min godhed"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "uden dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:54.562099597Z",
+  "model": "glm-5.3"
+}

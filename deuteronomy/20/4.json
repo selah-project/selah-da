@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "For Jahve, jeres Elohim, er han, der går med jer, for at kæmpe for jer mod jeres fjender, for at frelse ⟨את⟩ jer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "er han, der går"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "med jer"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "for at kæmpe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "jeres fjender"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "for at frelse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:57.724813105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og der blev atter krig for pelishterne med Jisrael, og David gik ned, og hans trælle med ham, og de kæmpede ⟨את⟩ mod pelishterne, og David blev træt.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "og der blev"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atter"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "for pelishterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ mod",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og gik ned"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "og hans trælle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "og de kæmpede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ mod",
+      "marks": "pelishterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishterne"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "og blev træt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:06.232652463Z",
+  "model": "glm-5.3"
+}

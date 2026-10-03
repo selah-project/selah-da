@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og han dømte ⟨את⟩ Jisrael i filistrenes dage tyve år.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "og han dømte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dage"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistre"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:49.922914502Z",
+  "model": "glm-5.3"
+}

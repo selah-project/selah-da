@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "En røst råber: I ødemarken ryd vejen for Jahve, gør i stepnen en lige vej for vor Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "En røst"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "råber"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "I ødemarken"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ryd"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "gør ... lige"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "i stepnen"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "en lige vej"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "for vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:10.752538068Z",
+  "model": "glm-5.3"
+}

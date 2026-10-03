@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "at hver mand skulle sende sin træl ⟨את⟩ fri og hver mand sin trælkvinde ⟨את⟩ fri, hebraeren og hebraerinden, frie, for ikke at gøre nogen af dem til træl, en jøde, sin broder.",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "at sende"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin træl"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin trælkvinde"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "sin trælkvinde"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "hebraeren"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "og hebraerinden"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "frie"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "for ikke at"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gøre til træl"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "en jøde"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    }
+  ],
+  "timestamp": "2026-10-03T17:22:33.564005615Z",
+  "model": "glm-5.3"
+}

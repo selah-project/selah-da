@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og budet gik, og han kom og meldte David ⟨את⟩ alt det, Joav havde sendt ham med —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "budet"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og meldte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "havde sendt ham med"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:27.386947697Z",
+  "model": "glm-5.3"
+}

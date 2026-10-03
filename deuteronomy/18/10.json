@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Der skal ikke findes i dig nogen, der lader sin søn eller sin datter gå igennem ilden, ingen der bruger spådomskunst, ingen varseltyder, ingen tegntyder og ingen troldmand.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "skal findes"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "en, der lader gå igennem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "eller sin datter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "spådomskunst"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "der bruger spådomme"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "varseltyder"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "tegnytyder"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "troldmand"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:08.878035830Z",
+  "model": "glm-5.3"
+}

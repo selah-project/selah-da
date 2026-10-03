@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "For jeg ved, at Jahve er stor, og vor Adonaj ⟨er⟩ frem for alle guder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "vor Adonaj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frem for alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:19.371598267Z",
+  "model": "glm-5.3"
+}

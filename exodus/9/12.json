@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve gjorde Paros ⟨את⟩ hjerte hårdt, og han hørte ikke på dem, således som Jahve havde talt til Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "gjorde hårdt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paros hjerte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paros"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte på"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:51.577147426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "og han bredte den ud foran mig, og den var skrevet for og bag, og der var skrevet på den klagesange og suk og ve.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "og han bredte ud"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "den (bogrullen)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "og den"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "var skrevet"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "for"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "og bag"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "og skrevet"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "klagesange"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "og suk"
+    },
+    {
+      "surface": "והי",
+      "gloss": "og ve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:30:49.249084305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Parohs hjerte blev hårdt, og han lod ikke Jisraels ⟨את⟩ børn fare, således som Jahve havde talt ved Moshes hånd.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "og blev hårdt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lod fare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:10.664282627Z",
+  "model": "glm-5.3"
+}

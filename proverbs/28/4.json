@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "De, der forlader Toraen, roser den gudløse, men Toraens vogtere går i rette med dem.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "De, der forlader"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "roser"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "men Toraens vogtere"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toraens"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "går i rette med"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:10.221783811Z",
+  "model": "glm-5.3"
+}

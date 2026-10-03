@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Jahve sagde til Moshe: Gå til folket og hellig dem i dag og i morgen, og lad dem vaske deres klæder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "og hellig dem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "og i morgen"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "og lad dem vaske"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "deres klæder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:00.233772343Z",
+  "model": "glm-5.3"
+}

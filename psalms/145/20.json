@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Jahve vogter ⟨את⟩ alle dem, der elsker ham, men ⟨את⟩ alle de gudløse udrydder han.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dem, der elsker ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "der elsker ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle de gudløse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "de gudløse"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "udrydder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:16.747039820Z",
+  "model": "glm-5.3"
+}

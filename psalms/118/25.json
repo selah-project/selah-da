@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Ach, Jahve, frelser dog nu; ach, Jahve, lad det lykkes dog nu!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "frelser dog"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "lad det lykkes"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog nu"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:28.011408360Z",
+  "model": "glm-5.3"
+}

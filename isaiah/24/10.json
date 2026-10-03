@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Knust er byen ⟨את⟩ tohu; lukket er ethvert hus for indgang.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "knust er"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "byen"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "lukket er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ethvert"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "for indgang"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:41.849279616Z",
+  "model": "glm-5.3"
+}

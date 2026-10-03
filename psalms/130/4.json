@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Thi hos dig ⟨er⟩ tilgivelsen, for at du skal æres.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "tilgivelsen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "du skal æres"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:52.013360451Z",
+  "model": "glm-5.3"
+}

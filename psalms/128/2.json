@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 128,
+  "translation": "Dine hænders slid skal du spise ⟨af⟩; lykkelig er du, og det går dig godt.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "slid"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "dine hænders"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨af⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal du spise"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "lykkelig er du"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "og det går godt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:04.500803070Z",
+  "model": "glm-5.3"
+}

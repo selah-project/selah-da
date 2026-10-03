@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Frygt ikke, for jeg er ⟨את⟩ med dig; fra østen bringer jeg dit afkom, og fra vesten samler jeg dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "fra østen"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "bringer jeg"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit afkom"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "og fra vesten"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "samler jeg dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:22.872419010Z",
+  "model": "glm-5.3"
+}

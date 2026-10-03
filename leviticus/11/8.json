@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Af deres kød må I ikke spise, og deres ådsel må I ikke røre — urene er de for jer.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "af deres kød"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "og deres ådsel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "må I røre"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "urene"
+    },
+    {
+      "surface": "הם",
+      "gloss": "er de"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:17.262575124Z",
+  "model": "glm-5.3"
+}

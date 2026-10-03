@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Kanaan avlede ⟨את⟩ Tsidon, sin førstefødte, og ⟨את⟩ Chet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Og Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sin førstefødte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:01.660820343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hvorfor mødte knæ mig ⟨i forvejen⟩, og hvorfor brystvorter, så jeg kunne die?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mødte mig"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "knæ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "brystvorter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "så"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "kunne die"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:29.365827227Z",
+  "model": "glm-5.3"
+}

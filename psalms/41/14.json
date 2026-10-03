@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Velsignet ⟨er⟩ Jahve, Elohims ⟨Gud⟩ — Jisraels Elohim, fra evigheden og til evigheden. Amen og amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "fra evigheden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "evigheden"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "og amen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:21.596732406Z",
+  "model": "glm-5.3"
+}

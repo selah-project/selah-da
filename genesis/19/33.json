@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og de gav ⟨את⟩ deres far at drikke vin den nat, og den ældste kom ind og lå hos ⟨את⟩ sin far, og han mærkede det ikke, hverken da hun lagde sig, eller da hun stod op.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "og de gav at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres far"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "deres far"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "den nat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "og kom ind"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "den ældste"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "og lå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin far"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mærkede"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "da hun lagde sig"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "eller da hun stod op"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:32.986336487Z",
+  "model": "glm-5.3"
+}

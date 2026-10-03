@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og de forlod ⟨את⟩ Jahve og tjente Ba'al og ⟨את⟩ Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Og de forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "og tjente"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "og Ashtarot"
+    }
+  ],
+  "timestamp": "2026-10-03T15:45:34.936299559Z",
+  "model": "glm-5.3"
+}

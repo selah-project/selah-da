@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Jahve steg ned for at se ⟨את⟩ byen og ⟨את⟩ tårnet, som menneskets sønner havde bygget.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "og steg ned"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "tårnet"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "tårnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "havde bygget"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:46.990862277Z",
+  "model": "glm-5.3"
+}

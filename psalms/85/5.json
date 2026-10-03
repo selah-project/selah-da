@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Vend os tilbage, Elohim, vor frelse, og gør ende på din vrede mod os.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "vend os tilbage"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "vor frelse"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "og gør ende på"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "mod os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:54.212061880Z",
+  "model": "glm-5.3"
+}

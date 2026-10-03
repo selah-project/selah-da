@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Nachor levede ni og tyve år, og han avlede ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og levede"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:57.425924868Z",
+  "model": "glm-5.3"
+}

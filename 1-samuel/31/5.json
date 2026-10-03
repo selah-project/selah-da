@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og da hans våbenbærer så, at Shaul var død, faldt også han på sit sværd og døde med ham.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og … så"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "våbenbærer"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans våben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var død"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "faldt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sit sværd"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:22.864484514Z",
+  "model": "glm-5.3"
+}

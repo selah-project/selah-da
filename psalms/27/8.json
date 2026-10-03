@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Til dig sagde mit hjerte: Søg mit ansigt — dit ansigt, Jahve, vil jeg søge ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "søg"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "vil jeg søge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:45.963546308Z",
+  "model": "glm-5.3"
+}

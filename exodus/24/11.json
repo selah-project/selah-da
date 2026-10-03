@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og mod Jisraels børns ypperste udrakte ⟨han⟩ ikke sin hånd, og de skuede ⟨את⟩ Elohim og spiste og drak.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Og mod"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "ypperste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "udrakte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "og de skuede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "og spiste"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "og drak"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:39.847446488Z",
+  "model": "glm-5.3"
+}

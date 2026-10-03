@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og mændene af Jehuda kom, og de salvede dér ⟨את⟩ David til konge over Jehudas hus. Og de meldte det til David og sagde: Mændene fra Yavesh i Gilad er de, som begravede ⟨את⟩ Shaúl.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og ... kom"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mændene af"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "og de salvede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til konge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "og de meldte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Mændene"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "fra Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "i Gilad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "begravede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:43.752729318Z",
+  "model": "glm-5.3"
+}

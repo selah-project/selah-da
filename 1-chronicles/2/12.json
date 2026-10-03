@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Boaz avlede ⟨את⟩ Oved, og Oved avlede ⟨את⟩ Jishaj.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Og Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "og Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jishaj"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishaj"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:36.088889900Z",
+  "model": "glm-5.3"
+}

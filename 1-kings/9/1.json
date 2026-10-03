@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og det skete, da Shelomo var færdig med at bygge ⟨את⟩ Jahves hus og ⟨את⟩ kongens hus og ⟨את⟩ alt det, Shelomo ønsked at gøre, som han havde lyst til at gøre —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "da ... var færdig"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "at bygge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kongens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt det, Shelomo ønsked at gøre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "det ønsked"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "havde lyst til"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:01.576752040Z",
+  "model": "glm-5.3"
+}

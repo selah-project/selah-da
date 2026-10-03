@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Den ene stødes mod den anden, og ruach kommer ikke ind mellem dem.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Den ene"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "mod den anden"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "stødes"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og ruach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer ind"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "mellem dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:01.498400604Z",
+  "model": "glm-5.3"
+}

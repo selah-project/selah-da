@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og fra Binjamins stamme ⟨את⟩ Givon og dens græsgange, ⟨את⟩ Geva og dens græsgange.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "og fra stammen"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:02.794658654Z",
+  "model": "glm-5.3"
+}

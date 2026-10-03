@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Ser du en mand, der er vis i sine egne øjne? Der er mere håb for en dåre end for ham.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Ser du"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sine egne øjne"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "håb"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "for en dåre"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "end for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:54.614311299Z",
+  "model": "glm-5.3"
+}

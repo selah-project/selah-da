@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Alle dine gerninger skal prise dig, Jahve, og dine chasidim skal velsigne dig.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "skal prise dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dine gerninger"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "og dine chasidim"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "skal velsigne dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:57.833867094Z",
+  "model": "glm-5.3"
+}

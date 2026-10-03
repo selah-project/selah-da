@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og han får dem til at springe som en kalv — Libanon og Sirjon som en ung vildokse.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "og han får dem til at springe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "en kalv"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "og Sirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en ung (barn af)"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "vildokser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:30.295301161Z",
+  "model": "glm-5.3"
+}

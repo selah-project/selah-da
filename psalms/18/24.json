@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og jeg var hel med ham, og jeg vogtede mig fra min skyld.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "og jeg var"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "og jeg vogtede mig"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "fra min skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:48.710935642Z",
+  "model": "glm-5.3"
+}

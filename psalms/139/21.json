@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Skal jeg ikke hade dem, der hader dig, Jahve, og vægre mig ved dem, der rejser sig mod dig?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Skal jeg ikke"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "dem, der hader dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "hade"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "ved dem, der rejser sig mod dig"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "vægre mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:56.909761256Z",
+  "model": "glm-5.3"
+}

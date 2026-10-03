@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og han sagde til David: Du er mere tsedek end jeg, for du har gjort mig det gode, og jeg gjorde dig det onde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mere tsedek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "end jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "har gjort mig"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "gjorde dig"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:43.744860598Z",
+  "model": "glm-5.3"
+}

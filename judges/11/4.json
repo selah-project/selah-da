@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og det skete efter nogle dage, at Ammons sønner kæmpede mod Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "efter dage"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "at de kæmpede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:52:20.595628352Z",
+  "model": "glm-5.3"
+}

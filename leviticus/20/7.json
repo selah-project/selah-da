@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Så helliger jer selv og vær hellige, for jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Så helliger jer selv"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "og vær"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:43.523985724Z",
+  "model": "glm-5.3"
+}

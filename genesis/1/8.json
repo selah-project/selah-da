@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim kaldte rakiaen himlene. Og det blev aften, og det blev morgen — dag to.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiaen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og det blev"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det blev"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:37.211127939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og David stod tidligt op, han og hans mænd, om morgenen for at gå bort, for at vende tilbage til Pelishtjernes land; og Pelishtjerne gik op til Jizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Og stod tidligt op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "og hans mænd"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "for at gå"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "for at vende tilbage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtjerne"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "og Pelishtjerne"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "gik op"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:22.354082511Z",
+  "model": "glm-5.3"
+}

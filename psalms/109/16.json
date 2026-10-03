@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Fordi han ikke huskede at gøre chesed, men forfulgte ⟨את⟩ den arme mand og den fattige og ⟨את⟩ det knuste hjerte, for at slå ⟨את⟩ ⟨dem⟩ ihjel.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "men forfulgte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og den fattige"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "og det knuste"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "for at slå ihjel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:38.850151863Z",
+  "model": "glm-5.3"
+}

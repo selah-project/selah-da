@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Jaakov tjente for Rachel i syv år, og de var i hans øjne som enkelte dage, fordi han elskede ⟨את⟩ hende.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "og tjente"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "for Rachel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de var"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i hans øjne"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "som dage"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "enkelte"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "fordi han elskede"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:15.502444638Z",
+  "model": "glm-5.3"
+}

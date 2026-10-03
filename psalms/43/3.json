@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Send dit lys og din trofasthed; de skal lede mig, de skal bringe mig til dit hellige bjerg og til dine Mishkan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "dit lys"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "og din trofasthed"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "skal lede mig"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "skal bringe mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dit hellige"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "dine Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:17.327868710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg så forrædere og græmmedes ⟨inderligt⟩, at de ikke holdt dit ord.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jeg så"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "forrædere"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "og græmmedes ⟨inderligt⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "holdt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:18.254157991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Et blødt svar vender vrede tilbage, men et smertefuldt ord vækker harme.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "svar"
+    },
+    {
+      "surface": "רך",
+      "gloss": "blødt"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men et ord"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "smertefuldt"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "vækker"
+    },
+    {
+      "surface": "אף",
+      "gloss": "harme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:26.614262749Z",
+  "model": "glm-5.3"
+}

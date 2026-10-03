@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og kongen vendte ⟨את⟩ sit ansigt og velsignede ⟨את⟩ hele Jisraels menighed, og hele Jisraels menighed stod ⟨der⟩.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit ansigt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisraels menighed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "menighed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "menighed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stod"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:36.760548176Z",
+  "model": "glm-5.3"
+}

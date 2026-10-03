@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og de vendte sig og gik bort og satte ⟨את⟩ de små og ⟨את⟩ kvæget og ⟨את⟩ kostbarhederne foran sig.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "vendte sig"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "gik bort"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de små"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "de små"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kvæget"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kostbarhederne"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "kostbarhederne"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "foran sig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:54:12.773240198Z",
+  "model": "glm-5.3"
+}

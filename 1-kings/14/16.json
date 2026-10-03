@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal give ⟨את⟩ Jisrael op, på grund af Jeroboams synder, som han syndede og fik Jisrael til at synde med.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og han skal give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "synder"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "han syndede"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og som"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "fik til at synde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:08.335267439Z",
+  "model": "glm-5.3"
+}

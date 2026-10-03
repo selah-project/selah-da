@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "⟨את⟩ pluggene til Mishkan og ⟨את⟩ pluggene til forgården og ⟨את⟩ deres reb,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pluggene til Mishkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pluggene"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "pluggene til forgården"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pluggene"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres reb"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "deres reb"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:13.368702354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Men Elohim sagde til mig: Du må ikke bygge et hus for mit navn, for en mand af krige er du, og blod har du udgydt.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Men Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "må du bygge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "for mit navn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "af krige"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "og blod"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "har du udgydt"
+    }
+  ],
+  "timestamp": "2026-10-03T19:18:58.813353877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Thi ikke i min bue fortrøster jeg mig, og mit sværd kan ikke frelse mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "i min bue"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "fortrøster jeg mig"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "og mit sværd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "kan frelse mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:14.676282166Z",
+  "model": "glm-5.3"
+}

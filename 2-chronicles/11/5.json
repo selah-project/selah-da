@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Rechavam boede i Jerushalajim og byggede byer til fæstning i Judah.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "til fæstning"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Judah"
+    }
+  ],
+  "timestamp": "2026-10-03T19:20:52.641285888Z",
+  "model": "glm-5.3"
+}

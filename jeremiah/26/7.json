@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og præsterne og profeterne og hele folket hørte Jirmejahu ⟨את⟩, da han talte ⟨את⟩ disse ord i Jahves hus.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Og ... hørte"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "og profeterne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jirmejahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ord"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:38.921629380Z",
+  "model": "glm-5.3"
+}

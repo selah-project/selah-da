@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Hvis dine sønner syndede imod ham, så sendte han dem bort ⟨ved⟩ hånden på deres frafald.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine sønner"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syndede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "imod ham"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "så sendte han dem bort"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨ved⟩ hånden"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "på deres frafald"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:55.445184821Z",
+  "model": "glm-5.3"
+}

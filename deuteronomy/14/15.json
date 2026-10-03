@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "og ⟨את⟩ strudsens datter og ⟨את⟩ natravnen og ⟨את⟩ mågen og ⟨את⟩ høgen efter dens art",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "strudsens datter"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "strudsens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "natravnen"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "natravnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mågen"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "mågen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "høgen"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "høgen"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter dens art"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:40.911837475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Når jeg tager den fastsatte tid, dømmer jeg ⟨selv⟩ med tsedek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "jeg tager"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "den fastsatte tid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg ⟨selv⟩"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "med tsedek"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "dømmer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:05.976584046Z",
+  "model": "glm-5.3"
+}

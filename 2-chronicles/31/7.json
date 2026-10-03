@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "I den tredje måned begyndte de stakkene at grundfæste, og i den syvende måned afsluttede de dem.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "begyndte de"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "stakkene"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "at grundfæste"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "og i måneden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "afsluttede de dem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:27:01.523686021Z",
+  "model": "glm-5.3"
+}

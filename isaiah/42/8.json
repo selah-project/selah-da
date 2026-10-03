@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Jeg ⟨er⟩ Jahve — det ⟨er⟩ mit navn; og min ære giver jeg ikke til en anden, og min pris til udskårne billeder.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨er⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mit navn"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "og min ære"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "til en anden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "og min pris"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "til udskårne billeder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:22.455919152Z",
+  "model": "glm-5.3"
+}

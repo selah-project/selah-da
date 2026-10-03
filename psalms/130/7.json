@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Jisrael, vente på Jahve! For hos Jahve er chesed, og hos ham er der ⟨meget⟩ forløsning.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "vente på"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "og ⟨meget⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "forløsning"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:58.241613065Z",
+  "model": "glm-5.3"
+}

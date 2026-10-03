@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Han, der plantede ⟨את⟩ øret — skal han ikke høre? Eller han, der formede ⟨את⟩ øjet — skal han ikke se?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Han, der plantede"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "øret"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "skal han ikke"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "høre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "han, der formede"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øjet"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "skal han ikke"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.409382259Z",
+  "model": "glm-5.3"
+}

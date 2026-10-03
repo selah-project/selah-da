@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han gjorde til huset vinduer med skråde karm, tillukkede.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "til huset"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "vinduer"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "med skråde karm"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "tillukkede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:48.543552049Z",
+  "model": "glm-5.3"
+}

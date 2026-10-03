@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Om morgenen så ⟨את⟩ dit sæd, og om aftenen lad ikke din hånd hvile, for du ved ikke, om dette eller hint lykkes — eller om begge ⟨bliver⟩ lige gode.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit sæd"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit sæd"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "og om aftenen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "lad hvile"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "du ikke"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ved"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "lykkes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hint"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller om"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "begge"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "lige"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "gode"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:24.001485421Z",
+  "model": "glm-5.3"
+}

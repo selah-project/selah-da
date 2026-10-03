@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Lad løgnens læber blive stumme, de som taler mod ⟨den⟩ tsedik med overmod og i foragt.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "lad … blive stumme"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "løgnens læber"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "de som taler"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "med overmod"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "i hovmod"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "og foragt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:28.525048949Z",
+  "model": "glm-5.3"
+}

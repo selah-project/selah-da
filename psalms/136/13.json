@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Ham der kløvede Sivhavet i dele, thi til evig tid varer hans chesed.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Ham der kløvede"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Siv-"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "i dele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "varer hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:41.552094515Z",
+  "model": "glm-5.3"
+}

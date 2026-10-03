@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Der skal ikke være en kadesha blandt Jisraels døtre, og der skal ikke være en kadesh blandt Jisraels sønner.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "en kadesha"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "blandt døtrene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "en kadesh"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "blandt sønnerne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:57.039667702Z",
+  "model": "glm-5.3"
+}

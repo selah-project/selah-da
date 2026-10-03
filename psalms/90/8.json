@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Du har stillet vores misgerninger foran dig, vores skjulte ⟨synder⟩ i lyset af dit ansigt.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "du har stillet"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "vores misgerninger"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "foran dig"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "vores skjulte"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "i lyset"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "af dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.357441521Z",
+  "model": "glm-5.3"
+}

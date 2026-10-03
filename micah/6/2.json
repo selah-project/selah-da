@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Hør, bjerge, ⟨את⟩ Jahves sag, og I faste grundvold af jorden! For Jahve har en sag med sit folk, og med Jisrael vil han føre rettergang.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves sag"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "sag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "og I faste"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "grundvold"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "af jorden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "en sag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "har Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "vil han føre rettergang"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:44.739646037Z",
+  "model": "glm-5.3"
+}

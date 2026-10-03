@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Da sagde Jahve til Moshe: Se, jeg lader brød regne ned til jer fra himlene, og folket skal gå ud og samle en dags ration hver dag, for at jeg kan prøve dem, om de vil vandre i min Tora eller ikke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "jeg lader regne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og skal gå ud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "og samle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "en dags (ration)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "hver dag"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "jeg kan prøve dem"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "om de vil vandre"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "i min Tora"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:13.008674703Z",
+  "model": "glm-5.3"
+}

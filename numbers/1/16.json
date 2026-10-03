@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Disse ⟨er⟩ de kaldede af menigheden, fyrster over deres fædres stammer, hoveder over tusinder i Jisrael ⟨er⟩ de.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "de kaldede"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "af menigheden"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "fyrster"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "stammer"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "deres fædres"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoveder"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "over tusinder"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "er de"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:07.179610180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Elohim så ⟨את⟩ jorden, og se, den var ødelagt; for alt kød havde ødelagt ⟨את⟩ sin vej på jorden.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "den var ødelagt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "havde ødelagt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin vej"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin vej"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:48.475276621Z",
+  "model": "glm-5.3"
+}

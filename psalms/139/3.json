@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Min vej og mit leje har du gennemvæltet; med alle mine veje er du fortrolig.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Min vej"
+    },
+    {
+      "surface": "וורבעי",
+      "gloss": "og mit leje"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "har du gennemvæltet"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "med alle"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mine veje"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "er du fortrolig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:09.430664096Z",
+  "model": "glm-5.3"
+}

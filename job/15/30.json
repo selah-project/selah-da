@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Han skal ikke vige fra mørket; flammen tørrer hans skud ud, og ⟨Elohim⟩ rykker ham bort med sin munds ruach.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "skal vige"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørket"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "hans skud"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "tørrer ud"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "flammen"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "og rykker bort"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "med ruach"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sin mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:40:26.652906010Z",
+  "model": "glm-5.3"
+}

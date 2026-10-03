@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Vil du være vred på os for evigt? Vil du trække din vrede ud fra slægt til slægt?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "vil du være vred"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "på os"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "vil du trække ud"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:54.212333724Z",
+  "model": "glm-5.3"
+}

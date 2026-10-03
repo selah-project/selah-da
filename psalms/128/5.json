@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 128,
+  "translation": "Må Jahve velsigne dig fra Tzion, og må du se Jerushalajims gode alle din livs dage.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "må … velsigne dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "fra Tzion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og må du se"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "i det gode"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "af dit liv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:35.790765712Z",
+  "model": "glm-5.3"
+}

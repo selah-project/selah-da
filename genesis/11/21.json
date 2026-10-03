@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Reu levede efter, at han avlede ⟨את⟩ Serug, to hundrede og syv år, og avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og levede"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "at han avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "og to hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:57.425153336Z",
+  "model": "glm-5.3"
+}

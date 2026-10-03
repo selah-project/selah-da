@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Esav bosatte sig i Seirs bjerg — Esav, han ⟨er⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "og bosatte sig"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i Seirs bjerg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:46.778986923Z",
+  "model": "glm-5.3"
+}

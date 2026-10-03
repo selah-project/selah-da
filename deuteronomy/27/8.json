@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og du skal skrive på stenene ⟨את⟩ alle ordene i denne Tora, tydeligt forklaret.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Og du skal skrive"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "stenene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle ordene i denne Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "i denne Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "באר",
+      "gloss": "tydeligt forklaret"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "vel, tydeligt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:53.399272233Z",
+  "model": "glm-5.3"
+}

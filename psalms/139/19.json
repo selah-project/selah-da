@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Å, ville du dog slå den ugudelige ihjel, Eloah! Og I mænd af blod — vigt fra mig!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Å, ville du dog"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "slå ... ihjel"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ugudelige"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "Og I mænd"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "af blod"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "vigt"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:07.078975936Z",
+  "model": "glm-5.3"
+}

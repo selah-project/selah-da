@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Dine hænder har gjort mig og dannet mig; giv mig forstand, så jeg kan lære dine bud.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "Dine hænder"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "har gjort mig"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "og dannet mig"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "giv mig forstand"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "så jeg kan lære"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.472679322Z",
+  "model": "glm-5.3"
+}

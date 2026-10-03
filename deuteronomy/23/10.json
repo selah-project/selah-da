@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Når lejren drager ud mod dine fjender, skal du vogte dig på alt ondt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "drager ud"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "skal du vogte dig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "på alt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ting"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:07.624207854Z",
+  "model": "glm-5.3"
+}

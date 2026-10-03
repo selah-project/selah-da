@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Men Noach fandt nåde i Jahves øjne.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Men Noach"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fandt"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nåde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:47.469134170Z",
+  "model": "glm-5.3"
+}

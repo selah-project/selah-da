@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "For denne ⟨er⟩ Elohim, vor Elohim, til evig tid og fremdeles; han, han skal føre os ⟨videre⟩ over død.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og fremdeles"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "han skal føre os"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מות",
+      "gloss": "død"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:46.951288274Z",
+  "model": "glm-5.3"
+}

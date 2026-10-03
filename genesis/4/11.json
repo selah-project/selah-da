@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og nu: forbandet er du, fra jorden, som har åbnet ⟨את⟩ sin mund til at tage ⟨את⟩ din broders blod fra din hånd.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "forbandet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "har åbnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin mund"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sin mund"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "til at tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din broders blod"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blod"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "fra din hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.611111873Z",
+  "model": "glm-5.3"
+}

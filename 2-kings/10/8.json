@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og sendebudet kom og meldte ham og sagde: Man har bragt hovederne på kongens sønner. Og han sagde: Læg ⟨את⟩ dem i to dynger ved indgangen til porten indtil morgen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sendebudet"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og meldte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "man har bragt"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hovederne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "læg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem (i to dynger)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "dynger"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "השער",
+      "gloss": "til porten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:08.096428090Z",
+  "model": "glm-5.3"
+}

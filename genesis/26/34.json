@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Esav var fyrre år gammel, og han tog en hustru: ⟨את⟩ Jehudit, datter af Be'eri hittitten, og ⟨את⟩ Bosmat, datter af Elons hittitten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og han var"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en hustru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudit"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Jehudit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "af Be'eri"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittitten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "af Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittitten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:06.378285244Z",
+  "model": "glm-5.3"
+}

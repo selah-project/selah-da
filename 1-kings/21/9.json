@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og hun skrev i brevene og sagde: Udlys en faste, og sæt ⟨את⟩ Navot øverst blandt folket,",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Og hun skrev"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "i brevene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Udlys"
+    },
+    {
+      "surface": "צום",
+      "gloss": "en faste"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "og sæt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "øverst"
+    },
+    {
+      "surface": "העם",
+      "gloss": "blandt folket"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:16.132930270Z",
+  "model": "glm-5.3"
+}

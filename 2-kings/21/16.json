@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 21:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Menashe udgød også uskyldigt blod i rigt mål, så meget at han fyldte ⟨את⟩ Jerushalajim fra mund til mund — foruden hans synd, hvormed han fik ⟨את⟩ Jehuda til at synde, at gøre det onde i Jahves øjne.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldigt"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "udgød"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "i rigt mål"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "så meget"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "han fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "פה",
+      "gloss": "fra mund"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "til mund"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "foruden"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "hans synd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvormed"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "han fik til at synde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjnene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:42.507224560Z",
+  "model": "glm-5.3"
+}

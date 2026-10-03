@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og El Shaddaj velsigne dig ⟨את⟩, gøre dig frugtbar og forøge dig, så du bliver til en forsamling af folk.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Og El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsigne"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig (Jaakov)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "og gøre dig frugtbar"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "og forøge dig"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "og du bliver"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "til en forsamling"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "af folk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:43.048110784Z",
+  "model": "glm-5.3"
+}

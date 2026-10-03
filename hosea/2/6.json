@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og ⟨את⟩ hendes børn vil jeg ikke forbarme mig over, for de er horungebørn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hendes børn"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hendes børn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "vil jeg forbarme mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "המה",
+      "gloss": "er de"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:31.046249584Z",
+  "model": "glm-5.3"
+}

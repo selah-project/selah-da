@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han sagde: Smid hende ned! Så smed de hende ned, og hendes blod stænkede på muren og på hestene, og han trampede hende ned.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "Smid hende ned"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "så smed de hende ned"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "og … stænkede"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "af hendes blod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "muren"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hestene"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "og han trampede hende ned"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:55.498858360Z",
+  "model": "glm-5.3"
+}

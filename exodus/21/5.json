@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og hvis trællen siger og bestemt siger: Jeg elsker ⟨את⟩ min herre, ⟨את⟩ min hustru og ⟨את⟩ mine børn — jeg vil ikke gå ud fri —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bestemt siger"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "trællen"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Jeg elsker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min herre"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hustru"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "min hustru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mine børn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "jeg vil gå ud"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "fri"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:43.788120629Z",
+  "model": "glm-5.3"
+}

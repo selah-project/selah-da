@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han vendte ⟨את⟩ deres vande til blod og dræbte ⟨את⟩ deres fisk.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "vendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres vande"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "deres vande"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "til blod"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og dræbte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres fisk"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "deres fisk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:33.153274474Z",
+  "model": "glm-5.3"
+}

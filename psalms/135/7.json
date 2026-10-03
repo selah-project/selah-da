@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Han lader skyer stige op fra jordens ender, han gør lyn til regn, han fører ruach ud fra sine skatkamre.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "lader stige op"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "skyer"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "fra enderne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "lyn"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "til regn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "fører ud"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "fra sine skatkamre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:19.372025731Z",
+  "model": "glm-5.3"
+}

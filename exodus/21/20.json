@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og når en mand slår ⟨את⟩ sin træl eller ⟨את⟩ sin trælkvinde med staven, og ⟨denne⟩ dør under hans hånd, skal han visseligt hævnes.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og når"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slår"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin træl"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin trælkvinde"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sin trælkvinde"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "med staven"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og dør"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "visseligt hævnes"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "skal hævnes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:54.410563691Z",
+  "model": "glm-5.3"
+}

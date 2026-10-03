@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 125,
+  "translation": "Thi den gudløses scepter skal ikke hvile på de retfærdiges lod, for at de retfærdige ikke skal række deres hænder ud mod uret.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "skal hvile"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "scepter"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den gudløses"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lod"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "skal række ud"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "mod uret"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:23.868337671Z",
+  "model": "glm-5.3"
+}

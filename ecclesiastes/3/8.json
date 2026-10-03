@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Et tidspunkt at elske og et tidspunkt at hade; et tidspunkt for krig og et tidspunkt for fred.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "at elske"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "at hade"
+    },
+    {
+      "surface": "עת",
+      "gloss": "et tidspunkt"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og et tidspunkt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:04.254457712Z",
+  "model": "glm-5.3"
+}

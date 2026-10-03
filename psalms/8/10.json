@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jahve, vor Adonaj, hvor herligt ⟨er⟩ dit navn på hele jorden!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "vor Adonaj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "herligt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "på hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:31.449997358Z",
+  "model": "glm-5.3"
+}

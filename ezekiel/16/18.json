@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og du tog ⟨את⟩ dine broderede klæder og dækkede dem med dem, og min olie og min røgelse satte du foran dem.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Og du tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine broderede klæder"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæder"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "dine broderede"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "og dækkede dem"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "og min olie"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "og min røgelse"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "satte du"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "foran dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:58.712052258Z",
+  "model": "glm-5.3"
+}

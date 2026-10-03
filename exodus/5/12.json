@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og folket spredtes over hele Mitsrajims land for at samle strå i stedet for halm.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "og ... spredtes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "over hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "for at samle"
+    },
+    {
+      "surface": "קש",
+      "gloss": "strå"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "i stedet for halm"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:07.875716653Z",
+  "model": "glm-5.3"
+}

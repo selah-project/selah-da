@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Husk ⟨את⟩ Shabbatdagen, så du holder den hellig.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Husk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatdagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat-"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "så du holder den hellig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:25.708553547Z",
+  "model": "glm-5.3"
+}

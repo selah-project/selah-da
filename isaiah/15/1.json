@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Et byrdeord om Moav: thi i en nat blev Ar i Moav hærget, ⟨det⟩ blev lagt øde; thi i en nat blev Kir i Moav hærget, ⟨det⟩ blev lagt øde.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "byrdeord"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "i en nat"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "blev hærget"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "blev lagt øde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "i en nat"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "blev hærget"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "blev lagt øde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:57.089154552Z",
+  "model": "glm-5.3"
+}

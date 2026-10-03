@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og den ædle råder ædle råd, og på ædle ting står han fast.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "og den ædle"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ædle råd"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "råder"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ædle ting"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "står fast"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:39.563783362Z",
+  "model": "glm-5.3"
+}

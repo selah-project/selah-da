@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "og sig: Sådan har kongen sagt: Sæt ⟨את⟩ denne mand i fængslet, og giv ham brød i nødtider og vand i nødtider, indtil jeg kommer hjem i fred.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Sæt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne mand"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i fængslets hus"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "fængsel"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "og giv ham at spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "i nødtider"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vand"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "i nødtider"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "באי",
+      "gloss": "jeg kommer"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "i fred"
+    }
+  ],
+  "timestamp": "2026-10-03T16:34:57.863862721Z",
+  "model": "glm-5.3"
+}

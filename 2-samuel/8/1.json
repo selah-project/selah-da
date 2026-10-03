@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det skete derefter, at David slog filisterne og undertvang dem; og David tog ⟨את⟩ Metheg-Ammah ud af filisternes hånd.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "derefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "slog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "og undertvang dem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metheg-Ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg (tøjle)"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "Ammah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånden"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:39.751718621Z",
+  "model": "glm-5.3"
+}

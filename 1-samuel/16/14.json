@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Jahves ruach vendte sig bort fra Shaúl, og en ond ruach fra ⟨את⟩ Jahve forskrækkede ham.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "og ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "vendte sig bort"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "forskærkkede ham"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:24.885159415Z",
+  "model": "glm-5.3"
+}

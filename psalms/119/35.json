@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Før mig ad stien ⟨af⟩ dine mitzvot, for i den har jeg min lyst.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "før mig"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "ad stien"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine mitzvot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "har jeg min lyst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:21.514144031Z",
+  "model": "glm-5.3"
+}

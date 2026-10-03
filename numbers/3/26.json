@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "og forgårdens tæpper og ⟨את⟩ forhænget ved indgangen til forgården, som ⟨er⟩ ved boligen og ved alteret rundt om, og ⟨את⟩ dets reb til al dens tjeneste.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "og tæpper"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgårdens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "forhænget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhænget"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "boligen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og ved"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dets reb"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "dets reb"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til al"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "dens tjeneste"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:08.435970828Z",
+  "model": "glm-5.3"
+}

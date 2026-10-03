@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og om de siger: Så sandt Jahve lever — så sværger de dog på løgn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "og om"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "de siger"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "på løgn"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sværger de"
+    }
+  ],
+  "timestamp": "2026-10-03T17:10:58.445295239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Med mine læber har jeg gennemtalt alle dine retsbestemmelser ⟨את⟩ — ⟨dommene⟩ fra din mund.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "med mine læber"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "har jeg gennemtalt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "retsbestemmelser"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "fra din mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:18.039861535Z",
+  "model": "glm-5.3"
+}

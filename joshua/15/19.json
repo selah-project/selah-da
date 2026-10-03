@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og hun sagde: Giv mig en velsignelse! Du har givet mig ⟨את⟩ tør sydland; giv mig også kildevæld. Så gav han hende ⟨את⟩ de øvre kildevæld og ⟨את⟩ de nedre kildevæld.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en velsignelse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Du har"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "det sydlige"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "givet mig"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "giv også"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "kildevæld"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vand"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Så gav han"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de øvre kildevæld"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "kildevæld"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "de øvre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de nedre kildevæld"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "kildevæld"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "de nedre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:42:39.247047401Z",
+  "model": "glm-5.3"
+}

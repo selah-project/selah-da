@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Hvis I vandrer i mine vedtægter, og ⟨את⟩ mine bud holder I, og I gør ⟨את⟩ dem —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "i mine vedtægter"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "I vandrer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine bud"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mine bud"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "holder I"
+    },
+    {
+      "surface": "וועשיתם",
+      "gloss": "og I gør"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:09.760332410Z",
+  "model": "glm-5.3"
+}

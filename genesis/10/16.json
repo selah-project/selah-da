@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "og ⟨את⟩ jevusitterne og ⟨את⟩ emoritterne og ⟨את⟩ girgashitterne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jevusitterne"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevusitterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "emoritterne"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "girgashitterne"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:01.660940341Z",
+  "model": "glm-5.3"
+}

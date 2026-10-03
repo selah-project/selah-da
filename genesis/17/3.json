@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Da faldt Avram på sit ansigt, og Elohim talte med ham og sagde:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Da faldt"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sitt ansigt"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med ham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:40.926485793Z",
+  "model": "glm-5.3"
+}

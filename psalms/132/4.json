@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "hvis jeg giver søvn til mine øjne, døs til mine øjenlåg —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "jeg giver"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "søvn"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "til mine øjne"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "til mine øjenlåg"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "døs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:07.244628378Z",
+  "model": "glm-5.3"
+}

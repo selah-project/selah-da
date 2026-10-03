@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Ikke skal der længere kaldes ⟨en⟩ dåre ⟨en⟩ ædelmand, og til ⟨en⟩ knur skal der ikke siges: rig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "skal kaldes"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ædelmand"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "og til en knur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skal siges"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "rig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:39.563171921Z",
+  "model": "glm-5.3"
+}

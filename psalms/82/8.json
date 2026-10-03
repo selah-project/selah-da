@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "Rejs dig, Elohim, døm ⟨את⟩ jorden, for du skal arve alle folkeslagene.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rejs dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "døm"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ jorden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "skal arve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:52.473306408Z",
+  "model": "glm-5.3"
+}

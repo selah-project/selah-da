@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og bedre end dem begge ⟨er⟩ den, der endnu ikke er blevet til, ⟨han⟩ som ikke har set ⟨את⟩ den onde gerning, som bliver gjort under solen.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Og bedre"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "end dem begge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, der endnu ikke er blevet til"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er blevet til"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den onde gerning"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "gerningen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bliver gjort"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:44.819909664Z",
+  "model": "glm-5.3"
+}

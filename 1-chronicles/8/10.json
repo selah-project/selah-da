@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ Jeuts og ⟨את⟩ Shakhja og ⟨את⟩ Mirmah — disse var hans sønner, høvdinger for fædrene.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Shakhja"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shakhja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "for fædrene"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:43.796676620Z",
+  "model": "glm-5.3"
+}

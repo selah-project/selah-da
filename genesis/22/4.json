@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "På den tredje dag løftede Avraham sine ⟨את⟩ øjne og så ⟨את⟩ stedet på lang afstand.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På … dagen"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "og løftede"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine øjne"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sine øjne"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stedet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "på lang afstand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:51.210224077Z",
+  "model": "glm-5.3"
+}

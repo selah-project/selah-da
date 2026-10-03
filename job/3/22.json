@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "som glæder sig til jubel og fryder sig, når de finder en grav;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "som glæder sig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "fryder sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "de finder"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "en grav"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:41.685482450Z",
+  "model": "glm-5.3"
+}

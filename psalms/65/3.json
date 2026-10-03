@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "⟨Du som⟩ hører bøn, til dig kommer alt kød.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bøn"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kommer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:52.646167895Z",
+  "model": "glm-5.3"
+}

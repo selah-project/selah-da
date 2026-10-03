@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Vær mig nådig, Jahve, for jeg er i trængsel; mit øje er svækket af gru, min sjæl og min bug.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "צר",
+      "gloss": "i trængsel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "er svækket"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "af gru"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "og min bug"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:23.934296402Z",
+  "model": "glm-5.3"
+}

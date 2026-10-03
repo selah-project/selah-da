@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og det skete, da kongen hørte ⟨את⟩ ordene i Toraen, at han sønderrev ⟨את⟩ sine klæder.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da han hørte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordene i Toraen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "i Toraen"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "at han sønderrev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:00.653575157Z",
+  "model": "glm-5.3"
+}

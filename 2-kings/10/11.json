@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jehu slog ⟨את⟩ alle de resterende af Achavs hus i Jisreel og alle hans høvdinger og hans bekendte og hans præster, indtil han ikke lod ham nogen levende tilbage.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Og Jehu slog"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de resterende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "de resterende"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "af huset"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "i Jisreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "hans høvdinger"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "hans bekendte"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "hans præster"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "lod tilbage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "nogen levende"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:59.721475544Z",
+  "model": "glm-5.3"
+}

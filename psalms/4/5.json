@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Bæv, og synd ikke; sag ⟨det⟩ i eders hjerte, på eders leje, og vær stille. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Bæv"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "synd"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sag"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "i eders hjerte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "eders leje"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "og vær stille"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:41.467545980Z",
+  "model": "glm-5.3"
+}

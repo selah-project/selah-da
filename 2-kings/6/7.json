@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han sagde: Løft det op til dig. Og han rakte sin hånd ud og tog det.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Løft op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og han rakte ud"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "og tog det"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:30.542831768Z",
+  "model": "glm-5.3"
+}

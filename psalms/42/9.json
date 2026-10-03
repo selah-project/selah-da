@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Om dagen byder Jahve sit chesed, og om natten er hans sang hos mig, en bøn til El, mit livs El.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "byder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sit chesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "og om natten"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "hans sang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "hos mig"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "en bøn"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "til El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mit livs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.537157856Z",
+  "model": "glm-5.3"
+}

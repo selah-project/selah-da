@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Fred kommer; de skal hvile på deres lejer, hver den, der går sin rette vej.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "skal hvile"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "deres lejer"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "den, der går"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "sin rette vej"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:30.815257833Z",
+  "model": "glm-5.3"
+}

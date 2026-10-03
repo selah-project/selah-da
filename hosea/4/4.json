@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Dog: ingen mand skal tveksige, og ingen mand skal irettesætte ⟨den anden⟩, for ⟨d⟩it folk er som dem der tveksiger med præsten.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ingen mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "skal ikke"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "tveksige"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "irettesætte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "og dit folk"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "som dem der tveksiger med"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:00.704466985Z",
+  "model": "glm-5.3"
+}

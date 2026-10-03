@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Mon ikke Elohim gransker dette? For han kender hjertets hemmeligheder.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mon ikke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "gransker"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "hemmeligheder"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:28.405154812Z",
+  "model": "glm-5.3"
+}

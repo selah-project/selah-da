@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "De spiler ⟨kæften⟩ op imod mig med deres mund, ⟨som⟩ en løve, der flerrer og brøler.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "de spiler op"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "med deres mund"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "en løve"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "der flerrer"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "og brøler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:19.494554958Z",
+  "model": "glm-5.3"
+}

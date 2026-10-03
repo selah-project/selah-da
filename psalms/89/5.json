@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Til evigheden vil jeg grundfæste dit sæd, og jeg vil bygge din trone til slægt og slægt. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "vil jeg grundfæste"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit sæd"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "og jeg vil bygge"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "og slægt"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "din trone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:59.818136881Z",
+  "model": "glm-5.3"
+}

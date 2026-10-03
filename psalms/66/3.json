@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Siger til Elohim: Hvor frygtindgydende er dine gerninger! Ved din magts storhed skal dine fjender lyve ⟨for⟩ dig.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Siger"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvor"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "frygtindgydende"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "er dine gerninger"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Ved ... storhed"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din magts"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "skal ... lyve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.162915501Z",
+  "model": "glm-5.3"
+}

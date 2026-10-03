@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han samlede mænd til sig og blev høvding for et trop, da David dræbte ⟨אתם⟩; og de gik til Damaskus og bosatte sig der, og de regerede i Damaskus.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Og samlede"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og blev"
+    },
+    {
+      "surface": "שר",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "for et trop"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "da … dræbte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og de gik"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "til Damaskus"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og bosatte sig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "der"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "og de regerede"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "i Damaskus"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:14.609709807Z",
+  "model": "glm-5.3"
+}

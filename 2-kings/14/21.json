@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og hele folket i Jehuda tog ⟨את⟩ Azarja — han var seksten år gammel — og de gjorde ⟨את⟩ ham til konge i stedet for hans far Amatsja.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var ... gammel (søn)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "og gjorde til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ham ⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsja"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:15.705575023Z",
+  "model": "glm-5.3"
+}

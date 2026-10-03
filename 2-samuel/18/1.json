@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og David mønstrede ⟨את⟩ folket, som var ⟨את⟩ ham, og satte høvdinger over tusind og høvdinger over hundrede over dem.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "mønstrede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "var ⟨את⟩ ham"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og høvdinger"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:16:47.897448799Z",
+  "model": "glm-5.3"
+}

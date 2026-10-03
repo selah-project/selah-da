@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "og ⟨את⟩ Cholon og dens græsgange, og ⟨את⟩ Devir og dens græsgange,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:13.536596056Z",
+  "model": "glm-5.3"
+}

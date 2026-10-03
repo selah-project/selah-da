@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Jahve, Elohim min frelse! Om dagen råber jeg, om natten foran dig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "min frelse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "råber jeg"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "foran dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:35.947668530Z",
+  "model": "glm-5.3"
+}

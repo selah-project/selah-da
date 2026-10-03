@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal beklæde ⟨את⟩ den med rent guld; indvendigt og udvendigt skal du beklæde den, og du skal lave en guldkrone rundt om den.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Og du skal beklæde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "indvendigt"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "og udvendigt"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "skal du beklæde den"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal lave"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en krone"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:01.058136121Z",
+  "model": "glm-5.3"
+}

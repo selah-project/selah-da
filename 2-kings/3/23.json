@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de sagde: Det ⟨er⟩ blod! Kongerne er visselig blevet tilintetgjort og har slået hver ⟨את⟩ sin næste ihjel; og nu, Moab, til byttet!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "er visselig blevet tilintetgjort"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "tilintetgjort"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og har slået ihjel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "til byttet"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:21.044093694Z",
+  "model": "glm-5.3"
+}

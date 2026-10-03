@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og præstens hjerte blev glad, og han tog ⟨את⟩ ephoden og ⟨את⟩ terafimene og ⟨את⟩ udskæringsbilledet og gik ind midt iblandt folket.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "og blev glad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præstens"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephoden"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephoden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "terafimene"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "udskæringsbilledet"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "udskæringsbilledet"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og gik ind"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T15:54:50.400967281Z",
+  "model": "glm-5.3"
+}

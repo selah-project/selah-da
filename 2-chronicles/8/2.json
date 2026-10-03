@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og de byer, som Huram havde givet Shlomo, ⟨את⟩ dem byggede Shlomo, og han lod Jisraels ⟨את⟩ sønner bo der.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Og de byer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "havde givet"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggede"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "de byer"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "og han lod bo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T19:20:56.570709252Z",
+  "model": "glm-5.3"
+}

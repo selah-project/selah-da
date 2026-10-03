@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Og de skal lave ⟨את⟩ lammet og ⟨את⟩ minchaen og ⟨את⟩ oljen morgen efter morgen — et brændoffer bestandig.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Og de skal lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minchaen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oljen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oljen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "efter morgen"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "et brændoffer"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:47:43.013496854Z",
+  "model": "glm-5.3"
+}

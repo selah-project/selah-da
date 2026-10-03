@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal ofre ⟨את⟩ den ene af turtelduerne eller af dueungene, efter hvad hans håd rækker til.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og han skal gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den ene"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "turtelduerne"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ungene af"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duen"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "efter hvad"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "rækker"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:41.510423661Z",
+  "model": "glm-5.3"
+}

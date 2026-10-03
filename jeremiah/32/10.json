@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og jeg skrev i bogen og forseglede ⟨den⟩ og lod vidner vidne og vejede sølvet på vægten.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "og jeg skrev"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i bogen"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "og forseglede"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "og jeg lod vidne"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vidner"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "og vejede"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "på vægten"
+    }
+  ],
+  "timestamp": "2026-10-03T17:22:08.277715120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve skal arve ⟨את⟩ Juda som sin del på hellig jord og igen udvælge Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "Og … skal arve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sin del"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "jord"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "og udvælge"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:01:04.664681042Z",
+  "model": "glm-5.3"
+}

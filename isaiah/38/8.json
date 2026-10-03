@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Se, jeg vender ⟨את⟩ skyggen ad trinnene, som er gået ned ad trinnene i Achaz' solur, ti trin baglæns. Og solen vendte ti trin tilbage ad de trin, som den var gået ned ad.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "jeg vender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skyggen"
+    },
+    {
+      "surface": "צל",
+      "gloss": "skyggen"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ad trinnene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "er gået ned"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "ad trinnene"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "i solen"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "baglæns"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "trin"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "og vendte"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "trin"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "ad de trin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "var gået ned"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:00.090221663Z",
+  "model": "glm-5.3"
+}

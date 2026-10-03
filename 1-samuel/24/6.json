@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og det skete bagefter, at Davids hjerte slog ⟨את⟩ ham, fordi han havde skåret hjørnet af ⟨את⟩ det, som tilhørte Sha'ul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bagefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derefter"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "slog"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (David)"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "havde skåret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjørnet"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "hjørnet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tilhørte Sha'ul"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:02.707320014Z",
+  "model": "glm-5.3"
+}

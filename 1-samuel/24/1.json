@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og David gik op derfra og boede i fæstningerne ved En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "og gik op"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "i fæstningerne"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:04.209798689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Hver mand blandt præsterne må spise ⟨את⟩ den; hellig over de hellige er den.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mand"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "blandt præsterne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (mincha-offeret)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "over de hellige"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:35.419959693Z",
+  "model": "glm-5.3"
+}

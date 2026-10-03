@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og han sagde: Gå din vej, Daniel, for ordene er tillukkede og forseglet indtil endens tid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå din vej"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "tillukkede"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "og forseglet"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "endens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:01:13.331616999Z",
+  "model": "glm-5.3"
+}

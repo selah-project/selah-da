@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Mørke af vin ⟨er⟩ hans øjne, og hvide af mælk hans tænder.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "hans øjne"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "af vin"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "og hvide"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hans tænder"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "af mælk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:43.244223976Z",
+  "model": "glm-5.3"
+}

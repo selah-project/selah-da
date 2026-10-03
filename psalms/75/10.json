@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Og jeg forkynder evigt, jeg synger lovsang til Jaakovs Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "forkynder"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "synger lovsang"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "til ... Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:33.785139508Z",
+  "model": "glm-5.3"
+}

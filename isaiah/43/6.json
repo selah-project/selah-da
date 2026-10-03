@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Jeg siger til norden: Giv slip! og til syden: Tilbagehold ikke! Bring mine sønner hjem fra det fjerne og mine døtre fra jordens ende.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Jeg siger"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "til norden"
+    },
+    {
+      "surface": "תני",
+      "gloss": "giv slip"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "og til syden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "tilbagehold"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "bring hjem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mine sønner"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fra det fjerne"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "og mine døtre"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "fra enden af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:22.872673812Z",
+  "model": "glm-5.3"
+}

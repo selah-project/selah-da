@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Dine tjeneres sønner skal bo ⟨trygt⟩, og deres afkom skal stå fast foran dit ansigt.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine tjeneres"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "skal bo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "og deres afkom"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dit ansigt"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "skal stå fast"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:51.703304620Z",
+  "model": "glm-5.3"
+}

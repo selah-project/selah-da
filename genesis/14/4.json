@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Tolv år tjente de ⟨את⟩ Kdarlaomer, og i det trettende år gjorde de oprør.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Tolv (to)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tjente de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kdarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kdarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "og i det trettende (tre)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "gjorde de oprør"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:14.233602298Z",
+  "model": "glm-5.3"
+}

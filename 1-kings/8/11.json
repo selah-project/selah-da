@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og præsterne kunne ikke stå og tjene på grund af skyen, for Jahves herlighed fyldte ⟨את⟩ Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ... ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "tjene"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skyen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:45.287597531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Et flockdyr uden lyte, en han, et år gammelt, skal være jer til del; af lammen eller af gedene skal I tage det.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "et flockdyr"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "uden lyte"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en han"
+    },
+    {
+      "surface": "בן",
+      "gloss": "et … gammelt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "lammen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "eller af"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "gedene"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "skal I tage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:09.650804312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Shmuel lå til morgenlys, og han åbnede ⟨את⟩ dørene til Jahves hus; og Shmuel frygtede for at kundgøre ⟨את⟩ synet for Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Og Shmuel lå"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgenlys"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og han åbnede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dørene til Jahves hus"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dørene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "og Shmuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygtede"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "for at kundgøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synet"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:45.407096498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Velsignet skal du være frem for alle folkeslag; der skal ikke være ufrugtbar mand eller ufrugtbar kvinde hos dig — heller ikke hos dit kvæg.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "velsignet"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal du være"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frem for alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ufrugtbar mand"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "eller ufrugtbar kvinde"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "heller ikke hos dit kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:01.361399406Z",
+  "model": "glm-5.3"
+}

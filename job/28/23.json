@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Elohim forstår dens vej, og ⟨han⟩ kender ⟨את⟩ dens sted.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "forstår"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "dens vej"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og ⟨han⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens sted"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "dens sted"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:00.362157924Z",
+  "model": "glm-5.3"
+}

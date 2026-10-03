@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "så skal du bringe hende ind midt i dit hus, og hun skal klippe ⟨את⟩ sit hoved og gøre ⟨את⟩ sine negle,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "så skal du bringe hende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "og hun skal klippe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit hoved"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sit hoved"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine negle"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "sine negle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:08.798431726Z",
+  "model": "glm-5.3"
+}

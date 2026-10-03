@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Jeg så ⟨את⟩ alle de levende, som vandrer under solen, sammen med den anden ungdom, som skal stå i hans sted.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jeg så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de levende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "som vandrer"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ungdommen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "skal stå"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:25.521604768Z",
+  "model": "glm-5.3"
+}

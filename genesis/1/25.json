@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim gjorde ⟨את⟩ jordens dyreliv efter sit slægtsled, og ⟨את⟩ kvæget efter sit slægtsled, og ⟨את⟩ alt kryb på jordbunden efter sit slægtsled; og Elohim så, at det var godt.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jordens dyreliv"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dyreliv"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sit slægtsled"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kvæget"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "efter sit slægtsled"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt kryb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kryb"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "på jordbunden"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "efter sit slægtsled"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:46.724360491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skete, da Rekhavams kongerige var blevet grundfæstet, og han havde styrket sig, forlod han ⟨את⟩ Toras ⟨hos⟩ Jahve, og hele Jisrael ⟨var⟩ med ham.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "da … var blevet grundfæstet"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kongerige"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavams"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "og han havde styrket sig"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "forlod han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toras"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toras"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:48.703821074Z",
+  "model": "glm-5.3"
+}

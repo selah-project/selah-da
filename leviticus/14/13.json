@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han skal slagte lammet ⟨את⟩ på det sted, hvor han slagter syndofferet ⟨את⟩ og brændofferet ⟨את⟩, på det hellige sted; for som syndofferet er skyldofferet pristens; helligt af hellige er det.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Og han skal slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lammet"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "lammet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "han slagter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndofferet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på det sted"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "som syndofferet"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "skyldofferet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pristens"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "af hellige"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:45.089871057Z",
+  "model": "glm-5.3"
+}

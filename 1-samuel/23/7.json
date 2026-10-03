@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og det blev meldt til Shaúl, at David var kommet til Keila, og Shaúl sagde: Elohim har udleveret ⟨את⟩ ham i min hånd, for han er lukket inde, idet han er kommet ind i en by med porte og slåer.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Og det blev meldt"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Shaúl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "בא",
+      "gloss": "var kommet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "til Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "har udleveret"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "Elohim har udleveret ham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i min hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "er lukket inde"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ved at komme ind"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i en by"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "porte"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "og slåer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:36.319759742Z",
+  "model": "glm-5.3"
+}

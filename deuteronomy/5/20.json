@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og du må ikke svare falsk vidnesbyrd mod din næste.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "svare"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "mod din næste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vidnesbyrd"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "falsk"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:43.861901263Z",
+  "model": "glm-5.3"
+}

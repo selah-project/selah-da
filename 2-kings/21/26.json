@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og de begravede ⟨את⟩ ham i hans grav i Uzzas have, og Josjiahu hans søn blev konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Og de begravede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i haven"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzzas"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjiahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:22.474208456Z",
+  "model": "glm-5.3"
+}

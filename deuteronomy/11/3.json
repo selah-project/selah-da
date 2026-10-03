@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og ⟨את⟩ hans tegn og ⟨את⟩ hans gerninger, som han gjorde midt i Mitsrajim, mod Farao, kongen af Mitsrajim, og mod hele hans land,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans tegn"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "hans tegn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans gerninger"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans gerninger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "mod Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "af Mitsrajim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og mod hele"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hans land"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:42.846773610Z",
+  "model": "glm-5.3"
+}

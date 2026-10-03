@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han sendte en mand forud for dem, Josef blev solgt som træl.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "forud for dem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "som træl"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "blev solgt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:24.693948051Z",
+  "model": "glm-5.3"
+}

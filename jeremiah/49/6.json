@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Og bagefter vender jeg ⟨את⟩ Ammon-børnenes fangenskab tilbage, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Og bagefter"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derefter"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "vender jeg ... tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammon-børnenes fangenskab"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fangenskab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:27:58.981670017Z",
+  "model": "glm-5.3"
+}

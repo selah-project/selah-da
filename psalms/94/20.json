@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Skal ⟨den⟩ trone, som danner ulykke ved en forordning, have selskab med dig?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "have selskab med dig"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trone"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ulykke"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "danner"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fordærv"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ved"
+    },
+    {
+      "surface": "חק",
+      "gloss": "en forordning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:17.350381585Z",
+  "model": "glm-5.3"
+}

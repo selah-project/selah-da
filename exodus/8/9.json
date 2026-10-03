@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jahve gjorde efter Moshes ord, og frøerne døde fra husene, fra gårdene og fra markerne.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og ... gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "og ... døde"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "frøerne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "husene"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "gårdene"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og fra"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "markerne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:15.209045683Z",
+  "model": "glm-5.3"
+}

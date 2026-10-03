@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Hans egne misgerninger fanger ham, ⟨את⟩ den gudløse, og i rebene af hans synd bliver han holdt fast.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Hans egne misgerninger"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "fanger ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den gudløse"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "og i rebene af"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hans synd"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "bliver han holdt fast"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:55.562393010Z",
+  "model": "glm-5.3"
+}

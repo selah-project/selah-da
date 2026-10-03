@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Bryd dig ikke hastigt bort fra hans ansigt, stå ikke fast i en ond sag, for alt, hvad han vil, gør han.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "bryd … hastigt"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fra hans ansigt"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "bort"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stå fast"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "i en sag"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "han vil"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gør han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.756641115Z",
+  "model": "glm-5.3"
+}

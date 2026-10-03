@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Må han dømme dit folk med tsedek og dine fattige med mishpat.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "dømme"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "med tsedek"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "og dine fattige"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "med mishpat"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:30.992948256Z",
+  "model": "glm-5.3"
+}

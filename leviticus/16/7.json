@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og han skal tage ⟨את⟩ de to bukke og stille ⟨את⟩ dem frem for ansigtet af Jahve, ved indgangen til mødeteltet.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Og han skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to bukke"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bukke"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "og stille frem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af møde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:59.173739504Z",
+  "model": "glm-5.3"
+}

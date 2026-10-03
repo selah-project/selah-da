@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og Jisrael elskede ⟨את⟩ Josef mere end alle sine sønner, fordi han var ham en søn af hans alderdom; og han gjorde ham en kjortel med ærmer.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Og Jisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mere end alle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "af alderdom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "en kjortel"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "med ærmer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:42.530457111Z",
+  "model": "glm-5.3"
+}

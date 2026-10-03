@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Syv dage skal du skaffe soning for alteret og hellige ⟨det⟩; og alteret skal være højhellig; alt hvad der rører ved alteret, skal helliges.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "skal du skaffe soning"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og hellige"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (alteret)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og skal være"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "helligt (højhellig)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "hvad der rører"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ved alteret"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "skal helliges"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:00.219323422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Han slog ⟨את⟩ filisterne helt til Azza og ⟨את⟩ dens grænser, fra vagttårnet til den befæstede by.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisterne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens grænser"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "dens grænser"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "fra tårnet"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "af vogtere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befæstet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:46.958490220Z",
+  "model": "glm-5.3"
+}

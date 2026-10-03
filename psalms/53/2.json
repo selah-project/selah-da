@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Daaren har sagt i sit hjerte: Der er ingen Elohim. De har handlet fordærvet og gjort vederstyggelig uret; der er ingen, som gør godt.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "daaren"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sit hjerte"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "har handlet fordærvet"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "og gjort vederstyggelig"
+    },
+    {
+      "surface": "עול",
+      "gloss": "uret"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:16.478411438Z",
+  "model": "glm-5.3"
+}

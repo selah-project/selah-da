@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og han vil give deres konger i din hånd, og du skal udrydde ⟨את⟩ deres navn fra under himlene; ingen mand skal kunne stå for dit åsyn, indtil du har udryddet ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "og give"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deres konger"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "i din hånd"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "og du skal udrydde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres navn"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deres navn"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "fra under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "skal stå"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen mand"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "for dit åsyn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du har udryddet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (folkeslagene)"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:46.976403641Z",
+  "model": "glm-5.3"
+}

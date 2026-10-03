@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Min røst — hør mig efter din chesed, Jahve; efter din ret skal du give mig liv.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hør"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "efter din chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "efter din ret"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "giv mig liv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:40.701433117Z",
+  "model": "glm-5.3"
+}

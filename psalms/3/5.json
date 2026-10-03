@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Med min røst råber jeg til Jahve, og han svarer mig fra sit hellige bjerg. Sela.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "råber jeg"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "og han svarer mig"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fra ⟨dets⟩ bjerg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:12.805044221Z",
+  "model": "glm-5.3"
+}

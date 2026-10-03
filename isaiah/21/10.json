@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Min tærskede, og min tærskegulvs barn: det jeg har hørt fra ⟨את⟩ Jahve Tsevaot, Jisraels Elohim, har jeg kundgjort jer.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Min tærskede"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og ... barn"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "min tærskegulvs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jeg har hørt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "har jeg kundgjort"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:42.113153458Z",
+  "model": "glm-5.3"
+}

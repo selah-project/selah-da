@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "De ondskabsfuldes ord ⟨er⟩ baghold ⟨på⟩ blod, men de retskafnes mund redder dem.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondskabsfuldes"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "baghold"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "men munden"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de retskafnes"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "redder dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:07.689165464Z",
+  "model": "glm-5.3"
+}

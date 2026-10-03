@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "På den rene lampestage skal han ordne ⟨את⟩ lamperne foran Jahves ansigt bestandigt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "På"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "lampestanden"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "den rene"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "skal ordne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamperne"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lamperne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:47.176309106Z",
+  "model": "glm-5.3"
+}

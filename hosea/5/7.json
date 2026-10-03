@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Mod Jahve har de handlet troløst, for de har født fremmede børn; nu skal måneden æde dem ⟨sammen med⟩ deres dele.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "mod Jahve"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "har de handlet troløst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børn"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "har de født"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "skal æde dem"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "måneden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres dele"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "sammen med deres dele"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:04.775210777Z",
+  "model": "glm-5.3"
+}

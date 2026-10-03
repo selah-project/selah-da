@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 42:4",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Jeremia, profeten, sagde til dem: Jeg har hørt ⟨jer⟩; se, jeg beder til Jahve, jeres Elohim, efter jeres ord. Og det skal ske: alt det ord, som Jahve svarer jer ⟨את⟩, vil jeg forkynde jer; jeg vil ikke tilbageholde noget ord fra jer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Jeg har hørt"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jeg"
+    },
+    {
+      "surface": "מתפלל",
+      "gloss": "beder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "efter jeres ord"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svarer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "jer ⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "vil jeg forkynde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמנע",
+      "gloss": "vil tilbageholde"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "fra jer"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "noget ord"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:53.406340481Z",
+  "model": "glm-5.3"
+}

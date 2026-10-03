@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "Salig ⟨er⟩ den, som griber og knuser ⟨את⟩ dine spædbørn mod klippen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "som griber"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "og knuser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine spædbørn"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "dine spædbørn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "klippen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:34.179339506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Moshe fortalte Aharon ⟨את⟩ alle de ord, Jahve havde sendt ham med, og ⟨את⟩ alle de tegn, han havde påbudt ham.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Og fortalte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "havde sendt ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle de tegn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "de tegn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "havde påbudt ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:53.553938316Z",
+  "model": "glm-5.3"
+}

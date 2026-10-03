@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis ⟨det er⟩ et urent dyr, som de ikke kan bringe som korban-offer af det til Jahve, så skal han stille ⟨את⟩ dyret frem for præsten.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨et hvilket som helst⟩"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "urent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "de kan bringe"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "af det"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban-offer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "så skal han stille frem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dyret"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dyret"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:42.681308175Z",
+  "model": "glm-5.3"
+}

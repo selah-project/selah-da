@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "I sæd af Avraham, hans træl, I sønner af Jaakov, hans udvalgte.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hans træl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "hans udvalgte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.558615166Z",
+  "model": "glm-5.3"
+}

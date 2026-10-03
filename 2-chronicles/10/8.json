@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og han forlod de ældstes råd, som de havde givet ham, og rådslog med ⟨את⟩ de unge mænd, som var vokset op med ⟨את⟩ ham, de som stod foran ham.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Og han forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rådet"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rådet"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "de ældstes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "de havde givet ham"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "og rådslog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de unge mænd"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "de unge mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "var vokset op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "de som stod"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:09.675073990Z",
+  "model": "glm-5.3"
+}

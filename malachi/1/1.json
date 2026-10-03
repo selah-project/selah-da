@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "En byrde ⟨er⟩ Jahves ord til Jisrael ved Malachis hånd.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "byrde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved ... hånd"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malachi"
+    }
+  ],
+  "timestamp": "2026-10-03T18:03:33.694838140Z",
+  "model": "glm-5.3"
+}

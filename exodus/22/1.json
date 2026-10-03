@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis tyven findes under indbrud og bliver slået, så han dør, er der ingen blodskyld for ham.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "under indbrud"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "findes"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "tyven"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "og bliver slået"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "så han dør"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er der ingen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blodskyld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:46.212327658Z",
+  "model": "glm-5.3"
+}

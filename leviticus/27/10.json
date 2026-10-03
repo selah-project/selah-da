@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Han må ikke udskifte det og ikke bytte ⟨את⟩ det, et godt ⟨mod⟩ et ondt, eller et ondt ⟨mod⟩ et godt; og hvis han alligevel bytter dyr med dyr, så skal både det ⟨selv⟩ og dets erstatning være helligt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "udskifte det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "bytte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "et godt"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mod et ondt"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רע",
+      "gloss": "et ondt"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "mod et godt"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "המר",
+      "gloss": "alligevel bytter"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "bytter"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "med dyr"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "så skal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨selv⟩"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "og dets erstatning"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "være"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:42.681105410Z",
+  "model": "glm-5.3"
+}

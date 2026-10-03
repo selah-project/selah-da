@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Jeg vil tvætte mine hænder i uskyld, og jeg vil gå rundt om ⟨את⟩ dit alter, Jahve.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "jeg vil tvætte"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "i uskyld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mine håndflader"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "og jeg vil gå rundt om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit alter"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "dit alter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:03.791429090Z",
+  "model": "glm-5.3"
+}

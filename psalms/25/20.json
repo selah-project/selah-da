@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Bevar min sjæl og fri mig; lad mig ikke komme i skam, for jeg har søgt tilflygt hos dig.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "bevar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "og fri mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "komme i skam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jeg har søgt tilflygt"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:17.214131670Z",
+  "model": "glm-5.3"
+}

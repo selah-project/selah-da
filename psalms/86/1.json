@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "En bøn af David. Bøj dit øre, Jahve, svar mig, for arm og fattig er jeg.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "en bøn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bøj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svar mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og fattig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:31.509999141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve så, at menneskenes ondskab var stor på jorden, og at hvert indfald af hans hjertes tanker kun var ondt hele dagen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskenes"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og at alt"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "indfald"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "tanker"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "af hans hjerte"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:47.468545567Z",
+  "model": "glm-5.3"
+}

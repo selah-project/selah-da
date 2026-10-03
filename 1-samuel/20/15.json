@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "og du skal aldrig skære ⟨את⟩ din chesed fra mit hus, i evighed, ej heller når Jahve udrydder ⟨את⟩ hver eneste af Davids fjender fra jordens ansigt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din chesed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mit hus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ej heller"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "når … udrydder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hver eneste af Davids fjender"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fjender"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver eneste"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet af"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:13.328022452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og regnen kom over jorden i fyrre dage og fyrre nætter.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "regnen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nætter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:37.770414561Z",
+  "model": "glm-5.3"
+}

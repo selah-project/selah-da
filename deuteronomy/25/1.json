@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Når der opstår en tvist mellem mænd, og de går til retten, og der dømmes over dem, skal de frikende den retfærdige og dømme den skyldige — וְהִצְדִּיקוּ ⟨את⟩ הַצַּדִּיק, וְהִרְשִׁיעוּ ⟨את⟩ הָרָשָׁע.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "opstår"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "en tvist"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "og de går"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "retten"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "og der dømmes"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "skal de frikende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den retfærdige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "og dømme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den skyldige"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den skyldige"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:05.499020970Z",
+  "model": "glm-5.3"
+}

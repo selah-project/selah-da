@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Gør godt mod din træl, så jeg må leve og bevare dit ord.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Gør godt mod"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "så jeg må leve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "og bevare"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.430079337Z",
+  "model": "glm-5.3"
+}

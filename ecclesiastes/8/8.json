@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Intet menneske har magt over ruach til at tilbageholde ⟨את⟩ ruach; og der er ingen herskab på dødens dag, og ingen løsladelse i krigen; og ondskab frelser ikke ⟨את⟩ dens herre.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "intet"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "har magt"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "over ruach"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "til at tilbageholde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ingen"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "herskab"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dødens"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "løsladelse"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i krigen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens herre"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dens herre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:04.219078264Z",
+  "model": "glm-5.3"
+}

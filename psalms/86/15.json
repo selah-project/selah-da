@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Men du, Adonaj, ⟨er⟩ en El, barmhjertig og nådig, langmodig og rig på chesed og trofasthed.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "barmhjertig"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "og nådig"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langmodig"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨af vrede⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og rig på"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "og trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:13.246475886Z",
+  "model": "glm-5.3"
+}

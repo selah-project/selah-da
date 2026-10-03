@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han byggede ⟨את⟩ den indre forgård: tre rækker tilhuggne sten og en række udskårne cederbjælker.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "og han byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den indre forgård"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "den indre"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rækker"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "tilhuggne sten"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "og en række"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "udskårne bjælker"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ceder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:41.215832305Z",
+  "model": "glm-5.3"
+}

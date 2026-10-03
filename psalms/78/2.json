@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Jeg vil åbne min mund i en lignelse, jeg vil lade gåder strømme frem fra fortiden.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Jeg vil åbne"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "i en lignelse"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "jeg vil lade strømme frem"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "gåder"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fortiden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:19.976067756Z",
+  "model": "glm-5.3"
+}

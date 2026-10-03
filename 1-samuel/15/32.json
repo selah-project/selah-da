@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shemuel sagde: Før ⟨את⟩ Agag, kongen af Amalek, hen til mig. Og Agag gik hen til ham ⟨med⟩ bløde skridt, og Agag sagde: Sandelig, dødens bitterhed er vendt bort.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Før hen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag, kongen af Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "af Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hen til ham"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "⟨med⟩ bløde skridt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Sandalig"
+    },
+    {
+      "surface": "סר",
+      "gloss": "er vendt bort"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitterhed"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dødens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:54.883949501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en mand, som bedriver hor med ⟨את⟩ en mands hustru — som bedriver hor med ⟨את⟩ sin næstes hustru — skal døden dø, både ægtekrenkeren og ægtekrenkersken.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "bedriver hor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en mands hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "bedriver hor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næstes hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næstes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ægtekrenkeren"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "og ægtekrenkersken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:10.188232957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og der blev født for ham syv sønner og tre døtre.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "og der blev født"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "og tre"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:03.573949372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den gudløse gør en bedragerisk gering, og den, der sår tsedakah, ⟨får⟩ sand løn.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "gering"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bedragerisk (bedrag)"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "og den, der sår"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedakah"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "løn"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sand (sandhed)"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:22.878993953Z",
+  "model": "glm-5.3"
+}

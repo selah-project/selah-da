@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 70,
+  "translation": "Lad dem blive skamfulde og forvirrede, de som søger min sjæl; lad dem vige tilbage og blive ydmygede, de som ønsker min ulykke.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Lad dem blive skamfulde"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "og forvirrede"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som søger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "lad dem vige"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tilbage"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "og blive ydmygede"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "de som ønsker"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "min ulykke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:31.041050067Z",
+  "model": "glm-5.3"
+}

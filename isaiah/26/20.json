@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Gå, mit folk, gå ind i dine kamre og luk dine døre bag dig; skjul dig en ganske lille stund, indtil vreden er gået over.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "i dine kamre"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "og luk"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "dine døre"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "bag dig"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "skjul dig"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "en ganske lille"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "stund"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "er gået over"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "vreden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:07.559275901Z",
+  "model": "glm-5.3"
+}

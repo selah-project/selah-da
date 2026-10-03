@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det skete, da præsterne gik ud fra helligdommen, at skyen fyldte ⟨את⟩ Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "da ... gik ud"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helligdommen"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "at skyen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:45.287442540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Lad dem ikke sige i deres hjerte: Aha, vor sjæl! Lad dem ikke sige: Vi har slugt ⟨ham⟩!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sige de"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i deres hjerte"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vor sjæl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sige de"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "har vi slugt ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.443775218Z",
+  "model": "glm-5.3"
+}

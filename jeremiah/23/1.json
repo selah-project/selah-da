@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Ve hyrderne, som ødelægger og spreder ⟨את⟩ min hjords fåretil i min græsgang, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ve"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hyrderne"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "ødelægger"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "spreder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjorden"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hjorden"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "min græsgang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:18.324573989Z",
+  "model": "glm-5.3"
+}

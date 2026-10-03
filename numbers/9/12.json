@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "De skal ikke lade noget af det blive tilbage til morgen, og ingen knogle skal de knække på det; efter hele pesachens forskrift skal de gøre ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "skal de lade blive"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noget af det"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "og knogle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "skal de knække"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "efter hele"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "forskrift"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachens"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skal de gøre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (pesach-offeret)"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:47.632627475Z",
+  "model": "glm-5.3"
+}

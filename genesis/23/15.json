@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Min herre, hør mig: Et stykke jord ⟨til⟩ fire hundrede shekel sølv — mellem mig og dig, hvad er det? Begrav så ⟨את⟩ din døde.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "hør mig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og dig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din døde"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "din døde"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begrav"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:59.702598325Z",
+  "model": "glm-5.3"
+}

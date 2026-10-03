@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "For ved Jahves vrede skete det i Jerushalajim og i Judah, indtil han kastede ⟨את⟩ dem ud fra sit ansigt; og Tsidkijahu gjorde oprør mod Babels konge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "skete det"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "og i Judah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "han kastede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ud fra"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "og han gjorde oprør"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mod kongen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "af Babel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:19.806405657Z",
+  "model": "glm-5.3"
+}

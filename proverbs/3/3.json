@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Chesed og sandhed skal ikke forlade dig; bind dem om din hals, skriv dem på dit hjertes tavle.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "og sandhed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "skal forlade dig"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "bind dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "din hals"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "skriv dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tavle"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjertes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:22.576606399Z",
+  "model": "glm-5.3"
+}

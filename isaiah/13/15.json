@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Alle som findes, bliver gennemboret, og alle som drives sammen, falder for sværdet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "som findes"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "bliver gennemboret"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "som drives sammen"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "for sværdet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:39.368940458Z",
+  "model": "glm-5.3"
+}

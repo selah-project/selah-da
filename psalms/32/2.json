@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Salig ⟨er⟩ det menneske, som Jahve ikke tilregner misgerning, og i hvis ruach der ikke er svig.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "det menneske"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "tilregner"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgerning"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der ikke er"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "i hvis ruach"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.986744242Z",
+  "model": "glm-5.3"
+}

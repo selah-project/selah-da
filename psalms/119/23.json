@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Også selv om høvdinger sidder og taler imod mig, grubler din træl over dine vedtægter.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Også selv om"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sidder"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "בי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "taler"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "grubler"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "over dine vedtægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:30.771459650Z",
+  "model": "glm-5.3"
+}

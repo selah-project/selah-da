@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Velsign, min sjæl, ⟨את⟩ Jahve! Jahve, min Elohim, du er blevet såre stor, højhed og herlighed har du iført dig.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Velsign"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "du er blevet stor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "såre"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "højhed"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og herlighed"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "har du iført dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.226517216Z",
+  "model": "glm-5.3"
+}

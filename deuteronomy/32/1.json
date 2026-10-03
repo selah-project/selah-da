@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Lytt ⟨himlene⟩, og jeg vil tale, og ⟨jorden⟩ skal høre min munds ord.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Lytt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "og jeg vil tale"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "og skal høre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min munds"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:54.561135497Z",
+  "model": "glm-5.3"
+}

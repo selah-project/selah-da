@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og gør ⟨את⟩ denne ting: Fjern kongerne, hver enkelt fra sin plads, og sæt statholdere i deres sted.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "denne ting"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tingen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gør"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "fjern"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver enkelt"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "fra sin plads"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "og sæt"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "statholdere"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "i deres sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:15.236832254Z",
+  "model": "glm-5.3"
+}

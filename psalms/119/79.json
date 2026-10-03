@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Må de, der frygter dig, vende tilbage til mig, og de, der kender dine vidnesbyrd.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vende tilbage"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "de, der frygter dig"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "og de kender"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:02.485104721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jahve kom og stillede sig og kaldte som før, gang på gang: Shmuel, Shmuel. Og Shmuel sagde: Tal, for din træl hører.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "og stillede sig"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "som gang"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "på gang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:35.610702539Z",
+  "model": "glm-5.3"
+}

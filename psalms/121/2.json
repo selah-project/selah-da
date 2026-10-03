@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Min hjælp ⟨kommer⟩ fra Jahve, himlenes og jordens skaber.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "min hjælp"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "skaber"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "og jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:33.157056038Z",
+  "model": "glm-5.3"
+}

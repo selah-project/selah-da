@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "Af David. Jeg takker dig med hele mit hjerte; foran Elohim vil jeg spille for dig.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "jeg takker dig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "vil jeg spille for dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:22.713005089Z",
+  "model": "glm-5.3"
+}

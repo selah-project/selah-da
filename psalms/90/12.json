@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Lær os at tælle vore dage rigtigt, så vi ⟨må⟩ bringe et hjerte til visdom.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "at tælle"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "vore dage"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rigtigt"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "lær ⟨os⟩"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "så vi bringer"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "et hjerte"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "til visdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:06.474526711Z",
+  "model": "glm-5.3"
+}

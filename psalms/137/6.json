@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "Min tunge klistre sig til ⟨min⟩ gane, husker jeg dig ikke, sætter jeg ikke Jerushalajim ⟨את⟩ øverst i min glæde.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "klistre sig (den klæbe)"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunge"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "til min gane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "jeg husker dig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "jeg opløfter (sætter øverst)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over, øverst i"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved (toppen)"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "min glæde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:30.560788890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "og det gør det onde i mine øjne, så det ikke hører min røst, så fortryder jeg det gode, som jeg sagde, jeg ville gøre godt mod ⟨את⟩ det —",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og det gør"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mine øjne"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så det ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "så fortryder jeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "at gøre godt"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (folk\/kongerige)"
+    }
+  ],
+  "timestamp": "2026-10-03T17:16:22.894840680Z",
+  "model": "glm-5.3"
+}

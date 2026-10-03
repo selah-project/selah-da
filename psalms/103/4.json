@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Han som forløser dit liv fra graven, han som kroner dig med chesed og barmhjertighed —",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Han som forløser"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "fra graven"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "dit liv"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "han som kroner dig"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "og barmhjertighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.502738836Z",
+  "model": "glm-5.3"
+}

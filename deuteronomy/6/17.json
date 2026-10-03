@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Du skal omhyggeligt vogte Jahves, din Elohims, bud ⟨את⟩ og hans vidnesbyrd og hans forskrifter, som han har påbudt dig.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "omhyggeligt vogte"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "skal I vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves, din Elohims, bud"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "og hans vidnesbyrd"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "og hans forskrifter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "har påbudt dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:10.534583200Z",
+  "model": "glm-5.3"
+}

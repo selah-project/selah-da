@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Mens kongen ⟨var⟩ ved sit bord, gav min nard sin duft.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mens"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "ved sit bord"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "min nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "sin duft"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:10.808964067Z",
+  "model": "glm-5.3"
+}

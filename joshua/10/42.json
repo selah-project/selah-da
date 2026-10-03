@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og ⟨את⟩ alle disse konger og ⟨את⟩ deres land erobrede Yehoshua på én gang, for Jahve, Elohims Elohim — Israels Elohim — kæmpede for Jisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse konger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "konger"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "erobrede"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "gang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kæmpede"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "for Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:37.873140738Z",
+  "model": "glm-5.3"
+}

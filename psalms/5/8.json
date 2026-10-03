@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og mig — i din cheseds fylde går jeg ind i dit hus, jeg kaster mig ned mod dit hellige tempel i din frygt.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "og mig"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i fylde"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "går jeg ind"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "jeg kaster mig ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "dit hellige"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "i din frygt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:20.518149039Z",
+  "model": "glm-5.3"
+}

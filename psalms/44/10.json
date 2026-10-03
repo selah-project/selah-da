@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Men du har stødt ⟨os⟩ fra dig og gjort os til skamme, og du drager ikke ud med vores hære.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "men"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "har du stødt fra dig"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "og gjort os til skamme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "drager du ud"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "med vores hære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:28.830913422Z",
+  "model": "glm-5.3"
+}

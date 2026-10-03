@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Jahve ⟨er⟩ i sit hellige tempel, Jahves trone ⟨er⟩ i himlene; hans øjne ser, hans øjenlåg prøver menneskenes børn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "i tempel"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sit hellige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trone"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hans øjne"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ser"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "hans øjenlåg"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "prøver"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "af mennesker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.012861487Z",
+  "model": "glm-5.3"
+}

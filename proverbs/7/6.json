@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Thi ved vinduet i mit hus, gennem mit gitter kiggede jeg ud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "ved vinduet"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "i mit hus"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "gennem"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "mit gitter"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "kiggede jeg ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:54.459277060Z",
+  "model": "glm-5.3"
+}

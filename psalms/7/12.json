@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Elohim ⟨er⟩ en retfærdig dommer, og El ⟨er⟩ vred hver dag.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "dommer"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "er vred"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:19.528761613Z",
+  "model": "glm-5.3"
+}

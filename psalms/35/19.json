@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Lad ikke mine fjender glæde sig uretmæssigt over mig; lad ikke de, der hader mig ⟨for intet⟩, blinke med øjet.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "glæde sig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "uretmæssigt"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "de der hader mig"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "for intet"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "blinke"
+    },
+    {
+      "surface": "עין",
+      "gloss": "med øjet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:51.827660705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Jahve skal afskære alle glatte læber, ⟨og⟩ tungen som taler store ting.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "skal afskære"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "læber"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "glatte"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tungen"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "som taler"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "store ting"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:51.668674454Z",
+  "model": "glm-5.3"
+}

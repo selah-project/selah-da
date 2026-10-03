@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Nøgne går de uden tøj, og sultne bærer de omer ⟨af korn⟩.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Nøgne"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "går de"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "tøj"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "og sultne"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bærer de"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:17.827275253Z",
+  "model": "glm-5.3"
+}

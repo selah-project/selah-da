@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Ordene fra hans mund ⟨er⟩ ondskab og svig; han er holdt op med at være klog ⟨og⟩ med at gøre godt.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "fra hans mund"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "og svig"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "er holdt op"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "at være klog"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "at gøre godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:58.370119757Z",
+  "model": "glm-5.3"
+}

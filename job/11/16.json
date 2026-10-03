@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "for du skal glemme din møje, som vand der er strømmet forbi, skal du mindes den",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "din møje"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "skal glemme"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "der er strømmet forbi"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "skal du mindes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:05.158451935Z",
+  "model": "glm-5.3"
+}

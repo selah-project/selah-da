@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Shlomo drev Avjatar ud fra at være præst for Jahve, for at opfylde ⟨את⟩ Jahves ord, som han talte over Elis hus i Shilo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Og drev ud"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avjatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "fra at være"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præst"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "for at opfylde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talte"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "i Shilo"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:59.715115325Z",
+  "model": "glm-5.3"
+}

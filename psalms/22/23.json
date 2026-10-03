@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Jeg vil fortælle dit navn for mine brødre, i menighedens midte vil jeg love dig.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Jeg vil fortælle"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "for mine brødre"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i midten"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "af menighed"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "vil jeg love dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:58.387560238Z",
+  "model": "glm-5.3"
+}

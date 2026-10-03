@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Som en skygge når den hælder, er jeg gået bort; jeg er rystet bort som en græshoppe.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "som en skygge"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "når den hælder"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "er jeg gået bort"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "er jeg rystet bort"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "som en græshoppe"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:11.682347572Z",
+  "model": "glm-5.3"
+}

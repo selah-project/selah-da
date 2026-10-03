@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og præsterne samtykkede i ikke længere at tage sølv ⟨את⟩ fra folket og ikke at udbedre ⟨את⟩ skaderne på Jahves hus.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "og samtykkede"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "i ikke at"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "tage"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fra folket"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "og ikke at"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "udbedre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skaderne"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "skaderne"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:00.414786618Z",
+  "model": "glm-5.3"
+}

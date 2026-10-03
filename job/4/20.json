@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Fra morgen til aften bliver de knust; upåagtet går de til grunde for evigt.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "Fra morgen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "til aften"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "bliver de knust"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "upåagtet"
+    },
+    {
+      "surface": "משים",
+      "gloss": "uden nogen lægger mærke til det"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "går de til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:46.526431768Z",
+  "model": "glm-5.3"
+}

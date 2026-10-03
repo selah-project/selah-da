@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "De udgydte deres blod som vand rundt om Jerushalajim, og der var ingen til at begrave.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "De udgydte"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "deres blod"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der var ingen"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "til at begrave"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:32.112661382Z",
+  "model": "glm-5.3"
+}

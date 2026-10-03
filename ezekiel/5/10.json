@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 5:10",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Derfor skal fædre æde sønner i din midte, og sønner skal æde deres fædre; og jeg vil fuldbyrde domme ved dig og sprede ⟨את⟩ hele din levning til hver en ruach.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Derfor"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fædre"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "i din midte"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "og sønner"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "og jeg vil fuldbyrde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ved dig"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "domme"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "og sprede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele din levning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "שאריתך",
+      "gloss": "din levning"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til hver en"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T17:31:51.064236498Z",
+  "model": "glm-5.3"
+}

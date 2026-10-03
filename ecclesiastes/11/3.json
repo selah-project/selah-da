@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Hvis skyerne er fulde, udgyder de regn på jorden; og hvis et træ falder mod syd, eller hvis mod nord — på det sted, hvor træet falder, der bliver ⟨det⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "er fulde"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "udgyder de"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "et træ"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "mod syd"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller hvis"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "mod nord"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "på det sted"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "hvor ... falder"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "træet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "bliver ⟨det⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:02.485565177Z",
+  "model": "glm-5.3"
+}

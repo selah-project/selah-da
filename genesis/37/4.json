@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og hans brødre så, at deres far elskede ham mere end alle hans brødre, og de hatede ham og kunne ikke tale fredeligt med ham.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Og så"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את ham⟩",
+      "marks": "ham (elskede)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deres far"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mere end alle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "og de hatede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את ham⟩",
+      "marks": "ham (hatede)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tale"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "fredeligt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:42.530669376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Vogt dig, så du ikke forlader ⟨את⟩ levitten alle dine dage på din jord.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "vogt dig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig selv"
+    },
+    {
+      "surface": "פן",
+      "gloss": "så ikke"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "forlader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitten"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levitten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dine dage"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "din jord"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:52.169160153Z",
+  "model": "glm-5.3"
+}

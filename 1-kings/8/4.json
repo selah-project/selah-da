@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og de førte Jahves ark op og ⟨את⟩ mødeteltet og ⟨את⟩ alle helligdommens kar, som var i teltet; og præsterne og levitterne førte ⟨את⟩ dem op.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Og de førte op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arken"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mødeteltet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle kar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helligdommens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "var i teltet"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "og førte op"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og levitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:23.279990026Z",
+  "model": "glm-5.3"
+}

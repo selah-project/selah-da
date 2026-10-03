@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "De unge løver brøler efter bytte, og for at søge deres føde fra El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "De unge løver"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "brøler"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "efter bytte"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "og for at søge"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "fra El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deres føde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:03.442491691Z",
+  "model": "glm-5.3"
+}

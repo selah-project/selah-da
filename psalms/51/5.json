@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Thi mine oprør kender jeg, og min synd er bestandig over for mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mine oprør"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "og min synd"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "over for mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:58.290514057Z",
+  "model": "glm-5.3"
+}

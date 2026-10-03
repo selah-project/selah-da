@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Kun en lille vej skal din træl gå over ⟨את⟩ Jordan med ⟨את⟩ kongen — og hvorfor skulle kongen give mig sådan en gengæld?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kun en lille vej"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "skal gå over"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "skulle gengælde mig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "en gengæld"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sådan"
+    }
+  ],
+  "timestamp": "2026-10-03T16:17:27.208514634Z",
+  "model": "glm-5.3"
+}

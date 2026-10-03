@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Han rakte ⟨את⟩ sine hænder ud mod sine fredsvende; han vanhelligede sin pagt.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "rakte ud"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sine hænder"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "mod sine fredsvende"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "vanhelligede"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sin pagt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:21.122919137Z",
+  "model": "glm-5.3"
+}

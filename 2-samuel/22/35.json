@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Han lærer mine hænder krig, og en bue af kobber bøjer mine arme ⟨ned⟩.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "lærer"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mine hænder"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "krig"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "og bøjer ned"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "en bue"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "af kobber"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "mine arme"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:50.554948633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Men jeg — i din chesed har jeg sat min lid, mit hjerte skal juble over din frelse. Jeg vil synge for Jahve, for han har handlet godt mod mig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "i din chesed"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg sat min lid"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "over din frelse"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "jeg vil synge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "har handlet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:34.092138764Z",
+  "model": "glm-5.3"
+}

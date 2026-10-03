@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Eliahu sagde til hele folket: Kom hen til mig! Og hele folket kom hen til ham. Og han reparerede ⟨את⟩ Jahves alter, det var nedrevet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom hen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "og de kom hen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "og han reparerede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves alter"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "det var nedrevet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:31.112534031Z",
+  "model": "glm-5.3"
+}

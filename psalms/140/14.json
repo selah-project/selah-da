@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "Ja, tsaddikim skal prise dit navn; de oprigtige skal bo for ⟨את⟩ dit ansigt.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsaddikim"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "skal prise"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "skal bo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de oprigtige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:36.352486491Z",
+  "model": "glm-5.3"
+}

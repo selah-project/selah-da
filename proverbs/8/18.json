@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Rigdom og ære ⟨er⟩ ⟨את⟩ hos mig, varig formue og tsedek.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "rigdom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "og ære"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ hos mig",
+      "marks": "hos mig"
+    },
+    {
+      "surface": "הון",
+      "gloss": "formue"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "varig"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:13.785647598Z",
+  "model": "glm-5.3"
+}

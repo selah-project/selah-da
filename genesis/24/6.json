@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Avraham sagde til ham: Vogt dig på, at du ikke bringer ⟨את⟩ min søn derhen!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "vogt dig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på dig selv"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ikke"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "du bringer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min søn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "derhen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:48.223226111Z",
+  "model": "glm-5.3"
+}

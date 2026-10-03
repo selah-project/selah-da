@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "Jeg sagde: Guder er I, og Elyons sønner, alle I.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "er I"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og sønner"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyons"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "alle I"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:52.473034773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Den ondskabsfulde begærer ondes mænds net, men de tsadikimers rod ⟨bærer frugt⟩ giver.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "begærer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondskabsfulde"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "net"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ondes mænds"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "men rod"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de tsadikimers"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:51.072680636Z",
+  "model": "glm-5.3"
+}

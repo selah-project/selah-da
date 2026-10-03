@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Iyov levede efter dette hundrede og fyrre år, og han så ⟨את⟩ sine sønner og ⟨את⟩ sine sønnesønner, fire slægter.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "og levede"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og han så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sine sønnesønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner af"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fire"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:31.116198242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 3:2",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Da stod Jeshua, søn af Jotsadak, og hans brødre, præsterne, frem, og Zerubabel, søn af Shealtiel, og hans brødre, og de byggede ⟨את⟩ alteret til Jisraels Elohim, for at bringe brændofre på det, som det er skrevet i Moshe, Gudsmandens, Tora.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "da stod frem"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Jeshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יוצדק",
+      "gloss": "af Jotsadak"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "og hans brødre"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "וזרבבל",
+      "gloss": "og Zerubabel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "af Shealtiel"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "og hans brødre"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "for at bringe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "brændofre"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "som skrevet"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "i Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:05.040285392Z",
+  "model": "glm-5.3"
+}

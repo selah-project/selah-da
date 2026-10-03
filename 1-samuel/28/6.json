@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Shaul spurgte Jahve, men Jahve svarede ham ikke, hverken i drømme, heller ikke ved Urim, heller ikke gennem profeter.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "spurgte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ... ikke"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "svarede ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "væker"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "i drømme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "heller ikke"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ved Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "heller ikke"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "gennem profeter"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:12.774972625Z",
+  "model": "glm-5.3"
+}

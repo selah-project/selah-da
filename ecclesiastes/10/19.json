@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Til latter gør de brød, og vin glæder livet — men sølvet svarer ⟨את⟩ på alt.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Til latter"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gør de"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vin"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæder"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livet"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "men sølvet"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svarer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "på alt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:28.973627733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Shaúls trælle sagde til ham: Se, nu forskrækker en ond ruach fra Elohim dig.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúls"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "forskrækker dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:24.885293312Z",
+  "model": "glm-5.3"
+}

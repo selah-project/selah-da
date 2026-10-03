@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og ⟨את⟩ Kedemot og ⟨את⟩ dens græsgange, og ⟨את⟩ Mefa'at og ⟨את⟩ dens græsgange.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:19.925077336Z",
+  "model": "glm-5.3"
+}

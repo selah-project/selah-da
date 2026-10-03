@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Mit hjerte vælter frem et godt ord; jeg siger: mine gerninger ⟨gælder⟩ en konge; min tunge ⟨er⟩ en hurtig skribents pen.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "vælter frem"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mine gerninger"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til en konge"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunge"
+    },
+    {
+      "surface": "עט",
+      "gloss": "en pen"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "skribents"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "hurtig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:13.358645520Z",
+  "model": "glm-5.3"
+}

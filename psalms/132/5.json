@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "indtil jeg finder et sted for Jahve, Mishkan-boer for Jaakobs Stærke.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "jeg finder"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mishkan-boer"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "for ⟨den⟩ Stærke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:44.764611965Z",
+  "model": "glm-5.3"
+}

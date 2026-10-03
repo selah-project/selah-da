@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Hvorfor sagde du: Hun er min søster, så jeg tog hende ⟨את⟩ til mig til hustru? Og nu — se, din hustru, tag ⟨hende⟩ og gå!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sagde du"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min søster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er⟩ hun"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "og jeg tog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "din hustru"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "og gå"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:20.259260606Z",
+  "model": "glm-5.3"
+}

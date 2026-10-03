@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og de tynde og slemme køer ådte ⟨את⟩ de syv første køer, de fedede.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Og … ådte"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "køerne"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "de tynde"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "og slemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de syv første køer, de fedede"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "de syv"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "køerne"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "første"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "de fedede"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:56.326935084Z",
+  "model": "glm-5.3"
+}

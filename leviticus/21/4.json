@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Han må ikke gøre sig uren som herre blandt sit folk, ⟨for⟩ at vanhellige sig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "gøre sig uren"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "herre"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "blandt sit folk"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "at vanhellige sig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:30.923252387Z",
+  "model": "glm-5.3"
+}

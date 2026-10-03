@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og du skal befale ⟨את⟩ præsterne, ⟨dem⟩ der bærer pagtens ark, og sige: Når I kommer til kanten af Yarden-flodens vand, skal I stå i Yarden.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "skal befale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "præsterne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bærer"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "pagtens"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sige"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Når I kommer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kanten"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vand"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden-flodens"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "i Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "skal I stå"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:23.971858872Z",
+  "model": "glm-5.3"
+}

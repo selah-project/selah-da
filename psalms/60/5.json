@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Du har ladet dit folk se hårde ting; du har givet os at drikke ⟨את⟩ vin af svimmelhed.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "du har ladet se"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårde ting"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "du har givet os at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vin af svimmelhed"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "af svimmelhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:32.093259647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han gik fra Elisa ⟨את⟩ og kom til sin herre, og han sagde til ham: Hvad sagde Elisa til dig? Og han sagde: Han sagde til mig: Leve skal du leve.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og han gik"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "fra (Elisa)"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "leve"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "skal du leve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:41.613310763Z",
+  "model": "glm-5.3"
+}

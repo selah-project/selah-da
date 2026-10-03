@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis du tager din næstes klædebon i pant, skal du give ham det tilbage inden solen går ned.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tager … i pant"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "du tager i pant"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "klædebon"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din næstes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "inden"
+    },
+    {
+      "surface": "בא",
+      "gloss": "går ned"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "skal du give det tilbage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:00.434595894Z",
+  "model": "glm-5.3"
+}

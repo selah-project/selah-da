@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og en mand, som ligger med ⟨את⟩ sin moster eller tante — sin farbrors eller morbrors blottelse har han blotlagt — deres synd skal de bære; barnløse skal de dø.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ligger med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin moster eller tante"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "sin moster\/tante"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "blottelse"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "sin onkel"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "har han blotlagt"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "deres synd"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "skal de bære"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "barnløse"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "skal de dø"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:02.561204282Z",
+  "model": "glm-5.3"
+}

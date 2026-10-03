@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "De kommer for at kæmpe mod ⟨את⟩ kasdierne og for at fylde dem med ⟨את⟩ ligene af de mennesker, som jeg slog i min vrede og i min harme, og ⟨for dem⟩ har jeg skjult mit ansigt for denne by, over al deres ondskab.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "de kommer"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "for at kæmpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasdierne"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdierne"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "og for at fylde dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ligene"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ligene"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "af menneskene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "jeg slog"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "og i min harme"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og som"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "har jeg skjult"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "for denne by"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "deres ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T17:22:04.925626557Z",
+  "model": "glm-5.3"
+}

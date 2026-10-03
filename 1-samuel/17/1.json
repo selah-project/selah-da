@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og pelishteernes hære samlede sig til krig, og de samledes ved Sokho, som hører til Jehuda, og de slog lejr mellem Sokho og Azeka, i Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "og samlede"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishteernes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres lejre"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "deres lejre"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "til krig"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "og de samledes"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "ved Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "hører til Jehuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "og de slog lejr"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "i Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Damim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:16.712736971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Som en hund, der vender tilbage til sit opkast, ⟨er⟩ en dåre, der gentager sin dårskab.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "som en hund"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "sit opkast"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "gentager"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "sin dårskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:54.614174748Z",
+  "model": "glm-5.3"
+}

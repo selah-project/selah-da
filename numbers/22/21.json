@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Bileam stod op om morgenen og sadlede ⟨את⟩ sin æselinde og gik med Moabs fyrster.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og stod op"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "og sadlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin æselinde"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "sin æselinde"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fyrster"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:50.558838601Z",
+  "model": "glm-5.3"
+}

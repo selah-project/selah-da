@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Achav sendte bud blandt alle Jisraels børn og samlede ⟨את⟩ profilerne — profeterne — til Karmel-bjerget.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte bud"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "blandt alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "og samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeterne"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:13.281594323Z",
+  "model": "glm-5.3"
+}

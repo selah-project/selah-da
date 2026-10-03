@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og når mænd trætter, og én slår ⟨את⟩ sin næste med en sten eller med knyttet næve, og han ikke dør, men falder til sengs,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og når"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "mænd trætter"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "og slår"
+    },
+    {
+      "surface": "איש",
+      "gloss": "én"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "med en sten"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "med knyttet næve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dør"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "men falder"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "til sengs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:54.410257272Z",
+  "model": "glm-5.3"
+}

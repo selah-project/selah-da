@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og kvinden så ⟨את⟩ Shmuel og skreg med høj røst, og kvinden sagde til Sha'ul og sagde: Hvorfor har du bedraget mig? Og du er Sha'ul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "og skreg"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med røst"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "høj"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "har du bedraget mig"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-10-03T16:07:56.834422201Z",
+  "model": "glm-5.3"
+}

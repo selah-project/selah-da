@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "et brændoffer for Shabbat på ⟨hver⟩ sin Shabbat, ud over det stadige brændoffer og dets drikoffer.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "for Shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "på sin Shabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ud over"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "det stadige"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "og dets drikoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:35.365213287Z",
+  "model": "glm-5.3"
+}

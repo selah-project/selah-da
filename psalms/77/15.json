@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Du er ⟨den⟩ El, som gør under; du gjorde din styrke kendt blandt folkene.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gør"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "under"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "du gjorde kendt"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:48.951750248Z",
+  "model": "glm-5.3"
+}

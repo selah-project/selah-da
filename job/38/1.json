@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og Jahve svarede ⟨את⟩ Ijob ude fra stormen og sagde:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og … svarede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ude fra"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "stormen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:45:42.416366191Z",
+  "model": "glm-5.3"
+}

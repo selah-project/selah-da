@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og den som forbander sin far eller sin mor, skal visseligt dø.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Og den som forbander"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "eller sin mor"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visseligt dø"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:54.410005823Z",
+  "model": "glm-5.3"
+}

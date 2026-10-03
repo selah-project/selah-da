@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Kendt er hendes mand i byportene, når han sidder med landets ældste.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "kendt"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "i byportene"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "hendes mand"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "når han sidder"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:12.672747009Z",
+  "model": "glm-5.3"
+}

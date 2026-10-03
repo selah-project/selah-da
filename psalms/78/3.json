@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "hvad vi har hørt og lært at kende, og hvad vore fædre har fortalt os —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "vi har hørt"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "og lært at kende"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "og vore fædre"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "har fortalt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:19.976211920Z",
+  "model": "glm-5.3"
+}

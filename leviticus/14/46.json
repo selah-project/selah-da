@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og den, der går ind i huset, alle de dage, ⟨את⟩ det er lukket, skal være urenlige, indtil aftenen.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "Og den, der går ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "det er lukket"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "huset (objektet for lukningen)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skal være urenlige"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:27.743226156Z",
+  "model": "glm-5.3"
+}

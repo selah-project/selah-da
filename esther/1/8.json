@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og drikkeriet var efter datten ⟨uden⟩ tvang; for således havde kongen fastsat for enhver øverste i sit hus: at gøre efter hver enkelt mands ønske.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "Og drikkeriet"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "var efter datten"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der var intet"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "tvang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "havde fastsat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "רב",
+      "gloss": "øverste"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "i sit hus"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "efter ønske"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver enkelt mands"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og enhver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:04.990612876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Slægt til slægt skal lovprise dine gerninger, og din styrke skal de fortælle om.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Slægt"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "skal lovprise"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dine gerninger"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "og din styrke"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "skal de fortælle om"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:17.363393050Z",
+  "model": "glm-5.3"
+}

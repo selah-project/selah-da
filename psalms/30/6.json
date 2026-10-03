@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Thi et øjeblik ⟨varer⟩ hans vrede, et liv ⟨er⟩ i hans velbehag; om aftenen overnatter gråd, og om morgenen ⟨kommer⟩ jubel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "et øjeblik"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "hans vrede"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "et liv"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "i hans velbehag"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om aftenen"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "overnatter"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "gråd"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "og om morgenen"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jubel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:54.076932591Z",
+  "model": "glm-5.3"
+}

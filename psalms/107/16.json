@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Thi han sønderbrød døre af kobber og huggede stænger af jern over.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sønderbrød"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "døre"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kobber"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "og stænger"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "af jern"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "huggede over"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:42.218502315Z",
+  "model": "glm-5.3"
+}

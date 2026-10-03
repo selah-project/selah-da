@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og han brændte Jahves hus og kongens hus og alle Jerushalajims huse, og hvert stort hus brændte han med ild.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "og han brændte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kongens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle Jerushalajims huse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hvert stort hus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stort"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:10.682902802Z",
+  "model": "glm-5.3"
+}

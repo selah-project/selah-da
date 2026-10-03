@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Zevulun drev ikke ⟨את⟩ indbyggerne i Kitron og ⟨את⟩ indbyggerne i Nahalal ud; og kanaanæeren boede i midten af ham, og de blev til trælbetaling.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "drev … ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indbyggerne i Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indbyggerne i Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og … boede"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i midten af ham"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de blev"
+    },
+    {
+      "surface": "למס",
+      "gloss": "til trælbetaling"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:10.694343991Z",
+  "model": "glm-5.3"
+}

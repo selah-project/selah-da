@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og kongen sagde til Joab: Se nu, jeg har gjort ⟨את⟩ denne sag; og gå, bring den unge mand tilbage, ⟨את⟩ Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jeg har gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne sag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "og gå"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den unge mand"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "den unge mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:09.202595696Z",
+  "model": "glm-5.3"
+}

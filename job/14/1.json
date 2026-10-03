@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Et menneske, født af en kvinde, er kort af dage og mæt med uro.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "født"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "af en kvinde"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "kort"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "af dage"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og mæt"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "med uro"
+    }
+  ],
+  "timestamp": "2026-10-03T18:39:23.915305695Z",
+  "model": "glm-5.3"
+}

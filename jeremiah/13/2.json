@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og jeg købte ⟨את⟩ lændeklædet efter Jahves ord, og jeg lagde det om mine lænder.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Og jeg købte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lændeklædet"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "lændeklædet"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "og jeg lagde"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "mine lænder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:53.509033401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Stå op, gå til Nineve, den store by, og råb ⟨את⟩ råbet ud over den, det som jeg taler til dig.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Stå op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "den store by"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "⟨den store by⟩"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "og råb"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ud over den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "råbet"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "råbet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:09.308481082Z",
+  "model": "glm-5.3"
+}

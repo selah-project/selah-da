@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Hvad har mennesket til overs af al sin møje, som han møjs sig med under solen?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "til overs"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "har mennesket"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "af al"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "sin møje"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "som han møjs sig med"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:20.719653030Z",
+  "model": "glm-5.3"
+}

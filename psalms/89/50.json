@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Hvor er dine første chesed, Adonaj? Du svor David ⟨det⟩ i din trofasthed.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hvor"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "dine første"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Du svor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "i din trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:58.892239434Z",
+  "model": "glm-5.3"
+}

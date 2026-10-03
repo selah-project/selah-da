@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Skal Adonaj forkaste ⟨for⟩ evigt, og ikke mere ville vise velbehag?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "til evigt"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "skal forkaste"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "vil fortsætte"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "at vise velbehag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:34.964702807Z",
+  "model": "glm-5.3"
+}

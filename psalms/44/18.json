@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Alt dette er kommet over os, og vi har ikke glemt dig, og vi har ikke handlet falsk i din pagt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "er kommet over os"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "har vi glemt dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "har vi handlet falsk"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "i din pagt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.072070804Z",
+  "model": "glm-5.3"
+}

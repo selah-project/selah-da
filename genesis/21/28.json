@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Avraham stillede ⟨את⟩ syv fårlam alene for sig.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "stillede"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syv fårlam"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "fårlam"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "af fåreflokken"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "alene for sig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:28.574586573Z",
+  "model": "glm-5.3"
+}

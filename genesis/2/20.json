@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og manden gav navne til alt kvæget og himlens fugle og alle markens dyr; men for manden fandtes der ikke en hjælp, der svarer til ham.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og gav navne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manden"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navne"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til alt"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "og til"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og til alle"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "men for manden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fandtes"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "en hjælp"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "der svarer til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:37.707599604Z",
+  "model": "glm-5.3"
+}

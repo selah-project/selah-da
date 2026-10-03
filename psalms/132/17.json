@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Der vil Jeg lade et horn spire frem for David, en lampe har Jeg beredt for min salvede.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Der"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "vil Jeg lade spire frem"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "et horn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "for David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "har Jeg beredt"
+    },
+    {
+      "surface": "נר",
+      "gloss": "en lampe"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "for min salvede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:30.855108457Z",
+  "model": "glm-5.3"
+}

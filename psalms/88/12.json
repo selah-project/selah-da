@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Bliver din chesed fortalt i graven, din trofasthed i Avaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "bliver fortalt"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "i graven"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "din trofasthed"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "i Avaddon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:55.777861976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og filisterne samlede ⟨את⟩ alle deres lejre ved Afek, og Jisrael slog lejr ved kilden, som er i Jizre'el.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "samlede"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle deres lejre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "deres lejre"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ved Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "og Jisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "slog lejr"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ved kilden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "i Jizre'el"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:16.049699263Z",
+  "model": "glm-5.3"
+}

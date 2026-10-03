@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Den der elsker renhed i hjertet, ynde på sine læber — kongen er hans ven.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "renhed"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjertet"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynde"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "på sine læber"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "hans ven"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:05.452472232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Da stod Jonatan, søn af Saul, op og gik til David i skoven og styrkede ⟨את⟩ hans hånd i Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Da stod … op"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "af Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "i skoven"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "og styrkede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:58.585969888Z",
+  "model": "glm-5.3"
+}

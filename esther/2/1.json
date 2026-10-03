@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Efter disse ting, da kongen Akhashveroshs vrede havde lagt sig, kom han i tanke om ⟨את⟩ Vashti og ⟨את⟩ det, hun havde gjort, og ⟨את⟩ det, der var blevet besluttet imod hende.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Efter"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "disse ting"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "da … havde lagt sig"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kom han i tanke om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det, hun havde gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det, der var blevet besluttet imod hende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "var blevet besluttet"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "imod hende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:32.665068159Z",
+  "model": "glm-5.3"
+}

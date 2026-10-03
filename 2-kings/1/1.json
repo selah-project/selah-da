@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Moab faldt fra i Jisrael efter Achavs død.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "faldt fra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "מות",
+      "gloss": "død"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:12.599205984Z",
+  "model": "glm-5.3"
+}

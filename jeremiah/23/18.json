@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "For hvem har stået i Jahves råd, så han så og hørte ⟨את⟩ hans ord? Hvem har lyttet til mit ord og hørt det?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "har stået"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "i … råd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "så han så"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans ord"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "har lyttet til"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mit ord"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hørt det"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:56.628036609Z",
+  "model": "glm-5.3"
+}

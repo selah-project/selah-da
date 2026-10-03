@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Styrk ⟨de⟩ slappe hænder, og ⟨de⟩ vaklende knæ, gør dem faste!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "styrk"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "slappe"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "og knæ"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "vaklende"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "gør dem faste"
+    }
+  ],
+  "timestamp": "2026-10-03T16:58:29.091343422Z",
+  "model": "glm-5.3"
+}

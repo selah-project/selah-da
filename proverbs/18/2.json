@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Dåren har ikke lyst til forstand, men kun til at hans hjerte blotter sig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "har lyst til"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "til forstand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "til at ... blotter sig"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:47.667814348Z",
+  "model": "glm-5.3"
+}

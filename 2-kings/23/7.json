@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han brød ⟨את⟩ kultskøgernes huse, som var i Jahves hus, hvor kvinderne vævede huse for Ashera-søjlen der.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "og brød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kultskøgernes huse"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "husene"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kultskøgernes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinderne"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "vævede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huse"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "for Ashera-søjlen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:21.328398008Z",
+  "model": "glm-5.3"
+}

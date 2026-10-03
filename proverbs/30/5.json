@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Hvert ord fra Eloah er lutret; ⟨det⟩ er et skjold for dem, der søger ly hos ham.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hvert"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "lutret"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjold"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "for dem, der søger ly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:38.002400664Z",
+  "model": "glm-5.3"
+}

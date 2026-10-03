@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han gjorde to keruber af guld; som hamret arbejde gjorde han ⟨את⟩ dem, ved begge ender af nådestolen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruber"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "som hamret arbejde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ved begge"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ender"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "af nådestolen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:26.960842440Z",
+  "model": "glm-5.3"
+}

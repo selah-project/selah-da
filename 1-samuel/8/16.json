@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ jeres trælle og ⟨את⟩ jeres trælkvinder og ⟨את⟩ jeres unge mænd, de bedste, og ⟨את⟩ jeres æsler vil han tage og sætte til sit eget arbejde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres trælle"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "jeres trælle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres trælkvinder"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "jeres trælkvinder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres unge mænd"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "jeres unge mænd"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "de bedste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres æsler"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "jeres æsler"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vil han tage"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og sætte"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "til sit eget arbejde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:36.185351657Z",
+  "model": "glm-5.3"
+}

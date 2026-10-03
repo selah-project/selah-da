@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Naftalis sønner, deres slægter efter deres familier, efter deres fædres hus, i tallet af navne, fra tyve år og derover, enhver som går ud i hær:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "deres slægter"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter deres familier"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter ⟨deres⟩ hus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "i tallet"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "af navne"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "og derover"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "som går ud"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "i hær"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:06.285614391Z",
+  "model": "glm-5.3"
+}

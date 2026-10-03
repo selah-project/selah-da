@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og ⟨את⟩ disse skal I afsky blandt fuglene; de må ikke spises, en vederstyggelighed er de: ⟨את⟩ ørnen og ⟨את⟩ lammegribben og ⟨את⟩ fiskeørnen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "disse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "skal I afsky"
+    },
+    {
+      "surface": "מן",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "fuglene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "må spises"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "vederstyggelighed"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ørnen"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ørnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lammegribben"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "lammegribben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fiskeørnen"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "fiskeørnen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:33.383279749Z",
+  "model": "glm-5.3"
+}

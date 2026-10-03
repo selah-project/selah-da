@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og jeg vil hellige mødeteltet og ⟨את⟩ alteret, og ⟨את⟩ Aharon og ⟨את⟩ hans sønner vil jeg hellige til at være præster for mig.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Og jeg vil hellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mødeteltet"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alteret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "vil jeg hellige"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til at være præster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:58.609675237Z",
+  "model": "glm-5.3"
+}

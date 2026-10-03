@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Hele dagen håner mine fjender mig; de der raser mod mig, har svoret ved mig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "håner mig"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "de der raser mod mig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ved mig"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "har svoret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:11.841359379Z",
+  "model": "glm-5.3"
+}

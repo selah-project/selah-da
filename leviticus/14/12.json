@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal tage ⟨את⟩ det ene vædderlam og bringe det som skyldoffer og ⟨את⟩ logen olie og svinge dem til en svingoffer foran Jahves ansigt.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "og skal tage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ene vædderlam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "vær-lammet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "og bringe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "som skyldoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "logen olie"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "og svinge"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "til en svingoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:02.963741944Z",
+  "model": "glm-5.3"
+}

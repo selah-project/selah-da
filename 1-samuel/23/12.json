@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David sagde: Vil herrene i Keila udlevere ⟨את⟩ mig og ⟨את⟩ mine mænd i Shauls hånd? Og Jahve sagde: De vil udlevere ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Vil … udlevere"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "herrene"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "i Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine mænd"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mine mænd"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "De vil udlevere ⟨dem⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:41.395297309Z",
+  "model": "glm-5.3"
+}

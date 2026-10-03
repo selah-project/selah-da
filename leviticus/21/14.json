@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "En enke, en fraskilt og en vanhelliget, en skøge — ⟨את⟩ disse må han ikke tage; men en jomfru fra sit folk må han tage til hustru.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "en enke"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "en fraskilt"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "en vanhelliget"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "en skøge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "må han tage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "en jomfru"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "fra sit folk"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "må han tage"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:57.528951572Z",
+  "model": "glm-5.3"
+}

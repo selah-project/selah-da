@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og hvorfor gør I ⟨את⟩ jeres hjerter tunge, som Mitsrajim og Farao gjorde ⟨את⟩ deres hjerte tungt? Var det ikke så, at da han handlede hårdt med dem, sendte de dem bort, og de gik?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Og hvorfor"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "gør I tunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres hjerter"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jeres hjerter"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "gjorde tunge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "og Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hjerte"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjerte"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Var det ikke"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "handlede hårdt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "sendte de dem bort"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og de gik"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:50.263721801Z",
+  "model": "glm-5.3"
+}

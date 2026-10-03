@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Elohim har talt i sin helligdom: Jeg vil juble, jeg vil uddele Shkhem og opmåle Sukkots dal.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "i sin helligdom"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "jeg vil juble"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "jeg vil uddele"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "og ... dal"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "opmåle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:32.093804243Z",
+  "model": "glm-5.3"
+}

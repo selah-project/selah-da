@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "For Elohim skal føre ⟨את⟩ alle gerninger ind i dom over alt skjult, enten det er godt eller ondt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle gerninger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gerninger"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skal føre ind"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "i dom"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "skjult"
+    },
+    {
+      "surface": "אם",
+      "gloss": "enten"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:28.877918161Z",
+  "model": "glm-5.3"
+}

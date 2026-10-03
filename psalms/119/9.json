@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Hvordan gør en ung mand ⟨את⟩ sin vej ren? Ved at vogte den efter dit ord.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "gør ren"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en ung mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin vej"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "sin vej"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ved at vogte"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "efter dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:33.946147124Z",
+  "model": "glm-5.3"
+}

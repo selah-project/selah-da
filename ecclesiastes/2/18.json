@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg hadede ⟨את⟩ al min møje, som jeg møjes med under solen, at jeg skal efterlade den til det menneske, som skal være efter mig.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "og jeg hadede"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al min møje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "min møje"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "som jeg"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møjes med"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "at jeg skal efterlade den"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "til det menneske"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "som skal være"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:51.932828994Z",
+  "model": "glm-5.3"
+}

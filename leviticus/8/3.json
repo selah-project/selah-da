@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "og samle ⟨את⟩ hele menigheden ved indgangen til mødeteltet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele menigheden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "samle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "af møde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:50.505555672Z",
+  "model": "glm-5.3"
+}

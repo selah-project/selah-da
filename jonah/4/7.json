@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Elohim bestemte en orm, da morgenrøden steg op næste dag, og den slog ⟨את⟩ kikayonen, og den visnede.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "og bestemte"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "en orm"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "da ... steg op"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "morgenrøden"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "næste dag"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "og den slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayonen"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayonen"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "og den visnede"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:08.515793194Z",
+  "model": "glm-5.3"
+}

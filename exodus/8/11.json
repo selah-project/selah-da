@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Paroh så, at der var lettelse, og han gjorde ⟨את⟩ sit hjerte tungt og hørte ikke på dem, således som Jahve havde talt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og ... så"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "lettelsen"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "og ... gjorde tungt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit hjerte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sit hjerte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "på dem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:15.209468887Z",
+  "model": "glm-5.3"
+}

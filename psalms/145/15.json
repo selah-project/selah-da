@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Alle øjne spejder mod dig, og du giver dem ⟨את⟩ deres føde i dens tid.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "spejder"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres føde"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deres føde"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "i dens tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:11.631232767Z",
+  "model": "glm-5.3"
+}

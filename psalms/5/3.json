@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Vend øret mod råbets røst, min konge og min Elohim, for til dig beder jeg.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "vend øret"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mod røsten"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "af mit råb"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min konge"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og min Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "beder jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.781389494Z",
+  "model": "glm-5.3"
+}

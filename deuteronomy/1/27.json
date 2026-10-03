@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og I murrede i jeres telte og sagde: Fordi Jahve hader ⟨את⟩ os, har han ført os ud af landet Mitsrajim for at give ⟨את⟩ os i emoreernes hånd for at udrydde os.",
+  "tokens": [
+    {
+      "surface": "ויתרגנו",
+      "gloss": "Og I murdrede"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "i jeres telte"
+    },
+    {
+      "surface": "ויתאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "Fordi ... hader"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "os"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "har han ført os ud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "for at give"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "os"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoreernes"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "for at udrydde os"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:26.881014362Z",
+  "model": "glm-5.3"
+}

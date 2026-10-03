@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Se, Elohim ⟨er⟩ min hjælper; Adonaj ⟨er⟩ blandt dem, der støtter min sjæl.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjælper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "blandt dem, der støtter"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:07.711839298Z",
+  "model": "glm-5.3"
+}

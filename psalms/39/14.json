@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Vend dit blik fra mig, og jeg må glade mig, førend jeg går bort og ikke er mere.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Vend dit blik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "og jeg må glade mig"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "førend"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jeg går bort"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "og ikke er jeg mere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:25.268082767Z",
+  "model": "glm-5.3"
+}

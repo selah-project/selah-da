@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Hvor længe vil I bryde ind over et menneske? Myrde ham, I alle, som en skæv mur, et væltet stengærde?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hvor længe"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "bryde ind over"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "myrde"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "I alle"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "som en mur"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "skæv"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "et stengærde"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "væltet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:24.582804046Z",
+  "model": "glm-5.3"
+}

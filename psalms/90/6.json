@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Om morgenen blomstrer det og glider forbi; mod aften afhugges det og visner.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "blomstrer"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "og glider forbi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "mod aften"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "afhugges"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "og visner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.357143414Z",
+  "model": "glm-5.3"
+}

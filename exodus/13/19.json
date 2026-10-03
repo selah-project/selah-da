@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Moshe tog Josefs ben med sig, for han havde strengt besvoret ⟨את⟩ Jisraels sønner og sagt: Elohim vil visseligen se til jer, og så skal I føre ⟨את⟩ mine ben herfra med jer.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ben"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med sig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "strengt besvoret"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "hadde besvoret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visseligen se til"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "vil se til"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "og I skal føre op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine ben"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mine ben"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "herfra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "med jer ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:57.550629496Z",
+  "model": "glm-5.3"
+}

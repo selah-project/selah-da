@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og for ⟨det⟩ andet siderum i Mishkan, mod nord, lavede han tyve brædder.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "og for siderummet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "det andet"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "mod"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lavede han"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "brædder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:23.795463224Z",
+  "model": "glm-5.3"
+}

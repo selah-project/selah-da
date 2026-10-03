@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ Penuels tårn rev han ned, og han dræbte ⟨את⟩ byens mænd.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Penuels tårn"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tårn"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "rev ned"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "og han dræbte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byens mænd"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:51.587080509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og hvis to ligger sammen, har de varme; men hvordan skal den ene alene blive varm?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "har de varme"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "men den ene alene"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "blive varm"
+    }
+  ],
+  "timestamp": "2026-10-03T18:50:59.790641992Z",
+  "model": "glm-5.3"
+}

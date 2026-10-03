@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "Spidse pile fra en vældig kriger, sammen med gløder fra retama-træ.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "pile"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "fra en vældig kriger"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "Spidse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "gløder"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "fra retama-træ"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:26.481906084Z",
+  "model": "glm-5.3"
+}

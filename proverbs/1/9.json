@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "For de er en krans af ynde for dit hoved og halsbånd om din hals.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ynde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de er"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "for dit hoved"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "og halsbånd"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "om din hals"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:25.063262601Z",
+  "model": "glm-5.3"
+}

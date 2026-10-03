@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Send lyn frem, og adskil dem; send dine pile af sted, og forvir dem.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "send lyn frem"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "lyn"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "og adskil dem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send af sted"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "dine pile"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "og forvir dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:48.928423139Z",
+  "model": "glm-5.3"
+}

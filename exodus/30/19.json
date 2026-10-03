@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og Aharon og hans sønner skal vaske deres hænder og deres fødder deri: ⟨את⟩ deres hænder og ⟨את⟩ deres fødder.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "og de skal vaske"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "deraf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hænder"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres fødder"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "deres fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:39.355094648Z",
+  "model": "glm-5.3"
+}

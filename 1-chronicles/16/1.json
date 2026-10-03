@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og de bragte ⟨את⟩ Elohims ark og stillede den ⟨אתו⟩ midt i det telt, som David havde slået op til den, og de frembar brændofre og fredsofre foran Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Og de bragte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "og de stillede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "det telt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "havde slået op"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til den"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "og de frembar"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "brændofre"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "og fredsofre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:57.552565011Z",
+  "model": "glm-5.3"
+}

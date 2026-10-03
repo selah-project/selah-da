@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Himlene og jorden skal prise ham, havene og alt det, som rører sig i dem.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "skal prise ham"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "og jorden"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "det, som rører sig"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:20.954696396Z",
+  "model": "glm-5.3"
+}

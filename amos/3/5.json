@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Falder en fugl i snare på jorden, uden at der er en fælde for den? Stiger en snare op fra jorden, uden at den har fanget noget?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Falder"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "en fugl"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פח",
+      "gloss": "snare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "uden at der er en fælde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "uden"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for den"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "Stiger … op"
+    },
+    {
+      "surface": "פח",
+      "gloss": "en snare"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "at den har fanget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "har fanget noget"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:17.088230300Z",
+  "model": "glm-5.3"
+}

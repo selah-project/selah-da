@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Både menneskebørn og mænds sønner, rig og fattig sammen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Både"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneske-"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "איש",
+      "gloss": "af mænd"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rig"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og fattig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:24.873450804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han kaldte på ⟨את⟩ sin unge tjener, sin træl, og sagde: Send ⟨את⟩ hende her bort fra mig, ud ⟨det ud⟩, og lås døren efter hende.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og han kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin unge tjener"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "sin unge tjener"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "Send bort"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hende her"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hende her"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ud"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "og lås"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "døren"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "efter hende"
+    }
+  ],
+  "timestamp": "2026-10-03T16:14:29.307542719Z",
+  "model": "glm-5.3"
+}

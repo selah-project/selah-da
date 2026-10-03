@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Når du dyrker ⟨את⟩ jorden, skal den ikke mere give sin kraft til dig; en flygtning og hjemløs skal du være på jorden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "du dyrker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "skal … mere"
+    },
+    {
+      "surface": "תת",
+      "gloss": "give"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "sin kraft"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "נע",
+      "gloss": "en flygtning"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "og hjemløs"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal du være"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.611295571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis det er et urent dyr, skal ⟨han⟩ løskøbe det efter din taksering og lægge en femtedel oveni; og hvis det ikke løskøbes, skal det sælges efter din taksering.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "et dyr"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "urent"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "skal ⟨han⟩ løskøbe"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "efter din taksering"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "og lægge"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "en femtedel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oveni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "løskøbes"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "skal det sælges"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "efter din taksering"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:52.883548197Z",
+  "model": "glm-5.3"
+}

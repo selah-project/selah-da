@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han sendte ⟨את⟩ duen ud fra sig for at se, om vandene var lettet fra ⟨ansigtet⟩ af jordgrunden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og han sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duen"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duen"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ud fra ⟨את⟩ ham"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "om ... var lettet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "af jordgrunden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:09.157196284Z",
+  "model": "glm-5.3"
+}

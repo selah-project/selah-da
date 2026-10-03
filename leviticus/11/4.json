@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Kun ⟨את⟩ dette skal I ikke æde af dem, der opgiver drøv, og af dem, der har klove: ⟨את⟩ kamelen — for han opgiver drøv, men klove har han ikke helt spaltet — han er uren for jer.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I æde"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "af dem der opgiver"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "drøv"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "og af dem der har"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "klove"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamelen"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamelen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "opgiver"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "drøv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "men klove"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "har han ikke"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "helt spaltet"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "uren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han er"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:06.445276044Z",
+  "model": "glm-5.3"
+}

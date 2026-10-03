@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Jahve førte os ud af Mitsrajim med stærk hånd og med udstrakt arm og med stor rædsel og med tegn og med under.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "Og førte os ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "af Mitsrajim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hånd"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stærk"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "og med arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "udstrakt"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "og med rædsel"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "og med tegn"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "og med under"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:46.696827256Z",
+  "model": "glm-5.3"
+}

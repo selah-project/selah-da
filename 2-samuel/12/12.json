@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "For du gjorde det i skjulhed, men jeg skal gøre ⟨את⟩ denne sag foran hele Jisrael og foran solen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i skjulhed"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skal gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne sag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "denne sag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "og foran"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:57.612872274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Han gjorde mørke til sit skjul, rundt om ham hans hytte — mørke af vand, tykke skyer.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "han gjorde"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "sit skjul"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "rundt om ham"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "hans hytte"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "mørke af"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "tykke"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:00.445198176Z",
+  "model": "glm-5.3"
+}

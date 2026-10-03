@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Han vendte sig til den ensliges bøn og foragtede ikke ⟨את⟩ deres bøn.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "vendte sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "bønen"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "den enslige"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "foragtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres bøn"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deres bøn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:11.622337630Z",
+  "model": "glm-5.3"
+}

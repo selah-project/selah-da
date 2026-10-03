@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Din tsedek ⟨er⟩ som Els bjerge; dine domme ⟨er⟩ det store dyb; mennesker og kvæg frelser du, Jahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "din tsedek"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "som Els bjerge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "dine domme"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "det store dyb"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "store"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "og kvæg"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:56.834658172Z",
+  "model": "glm-5.3"
+}

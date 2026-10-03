@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og hun fødte atter og fødte en søn, og hun kaldte hans navn Sjela; og ⟨han⟩ var i Ketsiv, da hun fødte ham ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "og hun fødte atter"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atter"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "og hun kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Sjela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og ⟨han⟩ var"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "i Ketsiv"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "da hun fødte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:26:44.881644080Z",
+  "model": "glm-5.3"
+}

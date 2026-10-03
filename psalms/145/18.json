@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Jahve er nær alle dem, der påkalder ham, alle der påkalder ham i sandhed.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "nær"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "der påkalder ham"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "påkalder ham"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "i sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:16.746732354Z",
+  "model": "glm-5.3"
+}

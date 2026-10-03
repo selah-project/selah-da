@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Hvem har jeg i himlene? Og med dig — ingen har jeg ønsket mig på jorden.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "har jeg"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Og med dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "har jeg ønsket mig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:24.180901323Z",
+  "model": "glm-5.3"
+}

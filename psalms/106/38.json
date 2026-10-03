@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de udgød uskyldigt blod, deres sønners og deres døtres blod, som de ofrede til Kenaans billeder; og landet blev vanhelliget med blod.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "og de udgød"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldigt"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres sønners"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "og deres døtres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "de ofrede"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "til billederne"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "og blev vanhelliget"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "med blod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:22.161482935Z",
+  "model": "glm-5.3"
+}

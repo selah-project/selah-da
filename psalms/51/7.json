@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Se, i avon blev jeg født, og i synd undfangede min mor mig.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "i avon"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "blev jeg født"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "og i synd"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "undfangede"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:58.290955699Z",
+  "model": "glm-5.3"
+}

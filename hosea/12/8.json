@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "En købmand ⟨er han⟩ — i hans hånd er svindelens vægtskåle; han elsker at undertrykke.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "købmand"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "vægtskåle"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svindelens"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "at undertrykke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:11.812884994Z",
+  "model": "glm-5.3"
+}

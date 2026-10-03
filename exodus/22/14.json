@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis dens ejer ⟨er⟩ med det, skal han ikke erstatte; hvis det ⟨er⟩ lejet, kom det for sit leje.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "dens ejer"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med det"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal erstatte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "lejet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "for sit leje"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:05.158693942Z",
+  "model": "glm-5.3"
+}

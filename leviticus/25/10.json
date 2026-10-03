@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og I skal hellige ⟨את⟩ det halvtredsindste år og udråbe frihed i landet for alle dets indbyggere; en jøbel skal den være for jer, og I skal vende hver mand tilbage til sin ejendom, og hver mand skal vende tilbage til sin familie.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "Og I skal hellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det halvtredsindste år"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "året"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "det halvtredsindste"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "og I skal udråbe"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "frihed"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "dets indbyggere"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "en jøbel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "og I skal vende tilbage"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "sin ejendom"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "sin familie"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "skal I vende tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:48.976958908Z",
+  "model": "glm-5.3"
+}

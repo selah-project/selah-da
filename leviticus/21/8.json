@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og du skal holde ham hellig, for ⟨את⟩ din Elohim's brød bringer han nær; hellig skal han være for dig, for hellig er jeg, Jahve, jeg som helliger jer.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Og du skal holde ham hellig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din Elohim's brød"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim's"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bringer nær"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal han være"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "jeg som helliger jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:04.741850742Z",
+  "model": "glm-5.3"
+}

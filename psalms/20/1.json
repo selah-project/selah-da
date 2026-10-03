@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Til korlederen. En mizmor af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:37.152158975Z",
+  "model": "glm-5.3"
+}

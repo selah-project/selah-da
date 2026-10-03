@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og hvis I siger: Hvad skal vi spise i det syvende år? Se, vi sår ikke og samler ikke ⟨את⟩ vores afgrøde —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "I siger"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "skal vi spise"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "i året"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "det syvende"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "vi sår"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "vi samler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vores afgrøde"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "vores afgrøde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:56.702297681Z",
+  "model": "glm-5.3"
+}

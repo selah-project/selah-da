@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Endog manden, min shalom, i hvem jeg stolede, han som åd mit brød, har løftet sin hæl mod mig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "endog"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "min shalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jeg stolede"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "åd"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mit brød"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "har løftet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sin hæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:47.734949367Z",
+  "model": "glm-5.3"
+}

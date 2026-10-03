@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jahve sagde til mig: Du har set rigtigt, for jeg våger over mit ord for at gøre det.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "Du har … rigtigt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "våger"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mit ord"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "for at gøre det"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:56.135524641Z",
+  "model": "glm-5.3"
+}

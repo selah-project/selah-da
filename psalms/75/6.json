@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Løft ikke jeres horn i vejret, tal ikke med stiv nakke",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "løft"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "i vejret"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "jeres horn"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "tal"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "med nakke"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "stiv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:53.701145081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og alle mændene af Jisrael flygtede, da de så ⟨את⟩ manden, for hans åsyn og frygtede meget.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "da de så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "flygtede"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "for hans åsyn"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "og frygtede"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:03.195074067Z",
+  "model": "glm-5.3"
+}

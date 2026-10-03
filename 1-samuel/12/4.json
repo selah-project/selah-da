@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og de sagde: Du har ikke udnyttet os og ikke knust os, og du har ikke taget noget som helst af en mands hånd.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "har du udnyttet os"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "knust os"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "har du taget"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "noget som helst"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:31.595929035Z",
+  "model": "glm-5.3"
+}

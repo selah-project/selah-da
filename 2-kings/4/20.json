@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han bar ham og bragte ham til hans mor, og han sad på hendes knæ til middagstid, og han døde.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "og bar ham"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "og bragte ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans mor"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og sad"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "hendes knæ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "middagstid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:05.549002140Z",
+  "model": "glm-5.3"
+}

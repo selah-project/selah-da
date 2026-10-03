@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og Jahve din Elohim vil omskære dit hjerte og hjertet af dit afkom, så du elsker Jahve din Elohim med hele dit hjerte og med hele din sjæl, for dit livs skyld.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "og omskære"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit hjerte"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hjertet af dit afkom"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjertet"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "af dit afkom"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "så du elsker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og med hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "din sjæl"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for skyld"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "dit livs"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:05.605246391Z",
+  "model": "glm-5.3"
+}

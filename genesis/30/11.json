@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og Lea sagde: En lykke kommer! Og hun kaldte ⟨את⟩ hans navn Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "en lykke"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:26.872169231Z",
+  "model": "glm-5.3"
+}

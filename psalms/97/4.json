@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Hans lyn oplyste ⟨את⟩ verden; jorden så ⟨det⟩ og skjalv.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "oplyste"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "hans lyn"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "så"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "og skjalv"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:43.514909154Z",
+  "model": "glm-5.3"
+}

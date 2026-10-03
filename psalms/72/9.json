@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Foran ham skal ørkenboerne knæle, og hans fjender skal støvet slikke.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "skal knæle"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ørkenboerne"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "og hans fjender"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støvet"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "skal slikke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:14.662960462Z",
+  "model": "glm-5.3"
+}

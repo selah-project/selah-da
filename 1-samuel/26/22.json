@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og David svarede og sagde: Se, kongens spyd! Og lad én af de unge mænd gå derhen og tage det.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "kongens spyd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "lad gå derhen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "af de unge mænd"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "og tage det"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:25.797250363Z",
+  "model": "glm-5.3"
+}

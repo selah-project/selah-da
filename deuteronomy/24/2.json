@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og hun går ud af hans hus og går ⟨vejen⟩ og bliver en anden mands ⟨hustru⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "og hun går ud"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "af hans hus"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "og går"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "og bliver"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "til en mand"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:18.175307791Z",
+  "model": "glm-5.3"
+}

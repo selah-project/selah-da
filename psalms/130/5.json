@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "Jeg venter på Jahve, min sjæl venter, og på hans ord håber jeg.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "jeg venter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "venter"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "og på hans ord"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "håber jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:04.906472838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Akhaz avlede ⟨את⟩ Jaara, og Jaara avlede ⟨את⟩ Alemet og ⟨את⟩ Asmavet og ⟨את⟩ Zimri, og Zimri avlede ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Og Akhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "og Jaara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Asmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Asmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "og Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:27.869057036Z",
+  "model": "glm-5.3"
+}

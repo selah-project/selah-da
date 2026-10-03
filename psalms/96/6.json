@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Pragt og herlighed er foran hans åsyn, styrke og skønhed i hans helligdom.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Pragt"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og herlighed"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran hans åsyn"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "og skønhed"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "i hans helligdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.773653286Z",
+  "model": "glm-5.3"
+}

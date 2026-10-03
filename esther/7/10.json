@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og de hængte ⟨את⟩ Haman på det træ, som han havde gjort rede til Mordechai; og kongens vrede lagde sig.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Og de hængte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "det træ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "han havde gjort rede"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "til Mordechai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "og vreden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "lagde sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:14.135464644Z",
+  "model": "glm-5.3"
+}

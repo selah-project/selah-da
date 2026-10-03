@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Jahve, Elohim Tsevaot, hør min bøn; lyt, Elohim ⟨af⟩ Jaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hør"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨af⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:52.794602407Z",
+  "model": "glm-5.3"
+}

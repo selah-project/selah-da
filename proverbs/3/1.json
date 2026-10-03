@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Min søn, glem ikke min Tora, og mine bud — dit hjerte skal bevare dem.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Min søn"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "min Tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glem"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "og mine bud"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "skal bevare"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:22.576115375Z",
+  "model": "glm-5.3"
+}

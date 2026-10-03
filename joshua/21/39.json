@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon og ⟨את⟩ dens græsgange, ⟨את⟩ Ja'zer og ⟨את⟩ dens græsgange — alle byer, fire.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'zer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ja'zer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:13.056575964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "for deres genløser er stærk; han skal føre deres sag ⟨imod⟩ dig ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "deres genløser"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "er stærk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "skal føre sag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sag"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "deres sag"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:23.969231474Z",
+  "model": "glm-5.3"
+}

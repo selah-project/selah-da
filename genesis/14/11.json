@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og de tog ⟨את⟩ alt Sodoms og Amoras ejendom og ⟨את⟩ al deres mad og gik bort.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt Sodoms og Amoras ejendom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "ejendom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoms"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "og Amoras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al deres mad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "deres mad"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og gik bort"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:26.772057879Z",
+  "model": "glm-5.3"
+}

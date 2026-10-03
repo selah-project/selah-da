@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Min Elohim, jeg kalder om dagen, og du svarer ikke, og om natten, og der er ingen stilhed for mig.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Min Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "jeg kalder"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "svarer du"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og om natten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "nogen stilhed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:25.334962875Z",
+  "model": "glm-5.3"
+}

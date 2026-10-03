@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Og jeg sagde: Hvem giver mig vinger som en due? Jeg ville flyve bort og bo ⟨der⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "og jeg sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "vinger"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "som en due"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "jeg ville flyve"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "og bo"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.335251842Z",
+  "model": "glm-5.3"
+}

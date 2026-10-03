@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Når solen står frem, samles de ⟨sig⟩, og i deres huler lægger de sig til hvile.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "står frem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "samles de"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og i"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "deres huler"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "lægger de sig til hvile"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:03.442714992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Hendes fødder går ned til døden, Sheol holder hendes skridt fast.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "Hendes fødder"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "går ned"
+    },
+    {
+      "surface": "מות",
+      "gloss": "til døden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "hendes skridt"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "holder fast"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:54.143800279Z",
+  "model": "glm-5.3"
+}

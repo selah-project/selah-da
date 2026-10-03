@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Da talte Daniel med kongen: Kong, lev ⟨i⟩ evighed!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "da"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "talte"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kong"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "evighed"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "lev"
+    }
+  ],
+  "timestamp": "2026-10-03T19:00:20.933178111Z",
+  "model": "glm-5.3"
+}

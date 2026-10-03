@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og præsten ser det, og se, ⟨det⟩ er blevet vendt til hvidt i såret — så erklærer præsten såret for rent; det er rent.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "og ser det"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "er blevet vendt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "såret"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "til hvidt"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "så erklærer … rent"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "såret"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "såret"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:41.391905950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og når I høster ⟨את⟩ høsten fra jeres land, skal du ikke afslutte hjørnet af din mark, når du høster, og det efterhøstede af din høst skal du ikke samle; for den fattige og for den fremmede skal du lade ⟨את⟩ dem i fred. Jeg er Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Og når I høster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "høsten fra jeres land"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "høsten"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "fra jeres land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "skal du ikke afslutte"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "hjørnet"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "af din mark"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "når du høster"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "og det efterhøstede"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "af din høst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skal du samle"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "for den fattige"
+    },
+    {
+      "surface": "ו לגר",
+      "gloss": "og for den fremmede"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "skal du lade i fred"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:21.026021827Z",
+  "model": "glm-5.3"
+}

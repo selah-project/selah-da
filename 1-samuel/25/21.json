@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og David sagde: Sandelig, forgæves har jeg vogtet ⟨את⟩ alt, hvad denne ejer, i ørkenen, og der gik ikke nogetsomhelst tabt af alt, hvad han ejer — og han gjengældte mig ondt for godt.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Og David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "forgæves"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "har jeg vogtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt, hvad denne ejer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "denne ejer"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "gik der tabt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han ejer"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nogetsomhelst"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og han gjengældte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:04.463261721Z",
+  "model": "glm-5.3"
+}

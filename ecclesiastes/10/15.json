@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Dårenes møje udmatter ham ⟨—⟩ han, som ikke ved, hvordan man går til byen.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Møje"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "dårenes"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "udmatter ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ved"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "at gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "byen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:21.330882302Z",
+  "model": "glm-5.3"
+}

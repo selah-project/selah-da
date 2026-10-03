@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 131,
+  "translation": "Hvis ikke — har jeg ikke stillet og gjort tavs min sjæl, som et vænnet barn hos sin mor; som et vænnet barn er min sjæl ⟨hos⟩ mig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "har jeg stillet"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "og gjort tavs"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "som et vænnet barn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "som et vænnet barn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "er min sjæl hos"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:46.865383029Z",
+  "model": "glm-5.3"
+}

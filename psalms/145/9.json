@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Jahve ⟨er⟩ god mod alle, og hans barmhjertighed ⟨er⟩ over alle hans gerninger.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mod alle"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "og hans barmhjertighed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hans gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:57.833685282Z",
+  "model": "glm-5.3"
+}

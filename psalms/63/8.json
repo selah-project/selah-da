@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Thi du har været min hjælp, og i skyggen af dine vinger vil jeg juble.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "har du været"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "hjælp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "og i skyggen"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "af dine vinger"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "vil jeg juble"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:00.406971115Z",
+  "model": "glm-5.3"
+}

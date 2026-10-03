@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Al ren fugl må I spise",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ren"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "må I spise"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:37.188644168Z",
+  "model": "glm-5.3"
+}

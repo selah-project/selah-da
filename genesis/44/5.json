@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Er dette ikke det, som min herre drikker af, og med det han spår og tyder? I har gjort ondt i det, I gjorde.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Er ... ikke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "drikker"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "בו",
+      "gloss": "af"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og med det"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "spår"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "tyder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med det"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "I har gjort ondt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i det"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "I gjorde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:18.298058084Z",
+  "model": "glm-5.3"
+}

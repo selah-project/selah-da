@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim gjorde godt mod jordemødrene, og folket blev talrigt og voksede meget i styrke.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "og gjorde godt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "mod jordemødrene"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "og blev talrigt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "og voksede i styrke"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:15.750564558Z",
+  "model": "glm-5.3"
+}

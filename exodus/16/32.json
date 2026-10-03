@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Moshe sagde: Dette er det ord, som Jahve har påbudt: Fyld en omer af den til opbevaring for jeres slægter, for at de kan se ⟨את⟩ brødet, som jeg lod jer spise i ørkenen, da jeg førte jer ud fra landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "er det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Fyld"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "en omer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af den"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "til opbevaring"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "for jeres slægter"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "de kan se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brødet"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "האכלתי",
+      "gloss": "jeg lod jer spise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "da jeg førte ud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:17.801462751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Tag en harpe, gå omkring i byen, du glemte skøge; spil godt, gang sangen, for at du kan mindes.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "en harpe"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "gå omkring"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "skøge"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "glemte"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "spil godt"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "spil"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "gang"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sangen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "du kan mindes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:52.437658347Z",
+  "model": "glm-5.3"
+}

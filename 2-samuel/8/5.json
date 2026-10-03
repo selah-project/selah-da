@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Aram fra Damaskus kom for at hjælpe Hadadezer, kongen af Tsova, og David slog af aramæerne to og tyve tusind mand.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "for at hjælpe"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "af aramæerne"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og to"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:58.860523518Z",
+  "model": "glm-5.3"
+}

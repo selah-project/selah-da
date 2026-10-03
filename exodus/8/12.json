@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jahve sagde til Moshe: Sig til Aharon: Ræk ⟨את⟩ din stav ud og slå ⟨את⟩ jordens støv, så bliver det til myg i hele landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ræk ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din stav"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "din stav"
+    },
+    {
+      "surface": "והך",
+      "gloss": "og slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jordens støv"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støvet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det bliver"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "til myg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:15.209628278Z",
+  "model": "glm-5.3"
+}

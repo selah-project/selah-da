@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han udrettede heltegerning og slog ⟨את⟩ Amalek og friede ⟨את⟩ Jisrael fra hånden på deres plyndrer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han udrettede"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "heltegerning"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "og friede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden på"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "deres plyndrer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:37.260307614Z",
+  "model": "glm-5.3"
+}

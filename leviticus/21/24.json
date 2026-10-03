@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Moshe talte til Aharon og til hans sønner og til alle Jisraels børn.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וואל",
+      "gloss": "og til",
+      "surface_note": "fix below"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:36.783265375Z",
+  "model": "glm-5.3"
+}

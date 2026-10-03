@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Men kongens ord blev stærkt over for Joab og over høvdingerne over hæren, og Joab og høvdingerne over hæren gik ud foran kongen for at tælle ⟨את⟩ folket, ⟨את⟩ Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "og blev stærkt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over for"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og høvdingerne"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "for at tælle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:29.760684976Z",
+  "model": "glm-5.3"
+}

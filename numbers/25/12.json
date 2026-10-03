@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Derfor sig: Se, jeg giver ham ⟨את⟩ min pagt — shalom.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sig"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jeg"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:42.325899080Z",
+  "model": "glm-5.3"
+}

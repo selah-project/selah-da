@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "I dit navn fryder de sig hele dagen, og i din tsedek bliver de ophøjet.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "i dit navn"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "fryder de sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "og i din tsedek"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bliver de ophøjet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:25.042329194Z",
+  "model": "glm-5.3"
+}

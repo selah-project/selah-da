@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Du skal ikke løfte ⟨את⟩ Jahves, din Elohims, navn til forgæves, for Jahve vil ikke lade den ustraffet, som løfter ⟨את⟩ hans navn til forgæves.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "skal du løfte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves, din Elohims, navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohims"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "til forgæves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "vil lade ustraffet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den som løfter hans navn til forgæves"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "til forgæves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:00.416140491Z",
+  "model": "glm-5.3"
+}

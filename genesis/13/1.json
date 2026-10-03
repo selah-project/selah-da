@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Avram drog op fra Mitsrajim, han og hans hustru og alt hvad han ejede, og Lot med ham, mod Negev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han ejede"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "og Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "mod Negev"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:12.380852486Z",
+  "model": "glm-5.3"
+}

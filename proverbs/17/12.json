@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Mød en bjørn, berøvet sine unger, ⟨hellere⟩ end en dåre i sin dårskab.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "mød"
+    },
+    {
+      "surface": "דב",
+      "gloss": "en bjørn"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "berøvet sine unger"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨hellere⟩ end"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "i sin dårskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:04.868439568Z",
+  "model": "glm-5.3"
+}

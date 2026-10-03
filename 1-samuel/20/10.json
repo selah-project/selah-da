@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og David sagde til Jyonatan: Hvem vil kundgøre ⟨את⟩ det for mig, eller hvad om din fader svarer dig hårdt?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jyonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "vil kundgøre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "svarer dig"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårdt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:13.469744207Z",
+  "model": "glm-5.3"
+}

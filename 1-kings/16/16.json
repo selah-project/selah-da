@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og folket, der lejrede sig, hørte det siges: Zimri har sammensvoret sig og har også slået ⟨את⟩ kongen. Derfor gjorde hele Jisrael ⟨את⟩ Omri, hærføreren over Jisrael, til konge den dag i lejren.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og ... hørte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "der lejrede sig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "det siges"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "har sammensvoret sig"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "har slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "Derfor gjorde ... til konge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fører"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hær"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:45.772335041Z",
+  "model": "glm-5.3"
+}

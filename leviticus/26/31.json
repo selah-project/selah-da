@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeg vil gøre ⟨את⟩ jeres byer til ødemarker og lægge ⟨את⟩ jeres helligdomme øde, og jeg vil ikke dufte jeres vellugtende duft.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og jeg vil gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres byer"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "jeres byer"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "til ødemarker"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "og lægge øde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres helligdomme"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "jeres helligdomme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "vil jeg dufte"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "duften"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "af jeres vellugtende (ofre)"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:55.633829475Z",
+  "model": "glm-5.3"
+}

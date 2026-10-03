@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "En knurren som en løves ⟨er⟩ kongens rædsel; den der vækker hans vrede, synder mod sin egen sjæl.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "knurren"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "som en løve"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "værkker hans vrede"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "synder"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin egen sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:41.121446853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Ær ⟨את⟩ din far og ⟨את⟩ din mor, for at dine dage skal blive mange på den jord, som Jahve, din Elohim, giver dig.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ær"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din far"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "din mor"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "din mor"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "skal blive mange"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dine dage"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "den jord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:25.302410978Z",
+  "model": "glm-5.3"
+}

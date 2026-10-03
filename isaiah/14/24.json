@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Jahve Tsevaot har svoret og sagt: Så sandt som jeg har tænkt det, således skal det ske, og som jeg har rådslået, det skal stå frem.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "så sandt som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "jeg har tænkt det"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "skal det ske"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "og som"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "jeg har rådslået"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "skal stå frem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:25.737285168Z",
+  "model": "glm-5.3"
+}

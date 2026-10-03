@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og folket velsignede alle de mænd, der frivilligt gav sig til at bo i Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "Og … velsignede"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "der frivilligt gav sig"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "til at bo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:08:56.040636818Z",
+  "model": "glm-5.3"
+}

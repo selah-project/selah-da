@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 39:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og det skete, fra ⟨det⟩ tidspunkt han satte ham over sit hus og over alt, hvad han ejede, at Jahve velsignede ⟨את⟩ egypterens hus for Yosefs skyld; og Jahves velsignelse var over alt, hvad han ejede, i huset og på marken.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "fra ⟨det⟩ tidspunkt"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "satte han over"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Yosef)"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "over sit hus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יש",
+      "gloss": "han ejede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "velsignede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egypterens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "egypterens"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefs skyld"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "velsignelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "over alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יש",
+      "gloss": "han ejede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "ובשדה",
+      "gloss": "og på marken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:26:57.715250339Z",
+  "model": "glm-5.3"
+}

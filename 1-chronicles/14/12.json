@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og de forlod der ⟨את⟩ deres guder, og David bød, og de blev brændt i ilden.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Og de forlod"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres guder"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres guder"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og bød"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "og de blev brændt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:13.656918273Z",
+  "model": "glm-5.3"
+}

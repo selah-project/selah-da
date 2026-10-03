@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Det er tid for dig, Jahve, at handle — de har ophævet din Tora.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Det er tid"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at handle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for dig, Jahve"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "de har ophævet"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:55.888068181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Et forvendt hjerte finder ikke det gode, og den, der er vrang i sin tunge, falder i ondskab.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "forvendt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finder"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "og vrang"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "i sin tunge"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "i ondskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:32.476180218Z",
+  "model": "glm-5.3"
+}

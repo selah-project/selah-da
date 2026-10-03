@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Nevuzaradan, øversten over slagterne, tog ⟨את⟩ dem og førte ⟨את⟩ dem til kongen af Babel, Rivla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "øversten"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "over slagterne"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og førte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "af Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivla"
+    }
+  ],
+  "timestamp": "2026-10-03T19:38:48.637594046Z",
+  "model": "glm-5.3"
+}

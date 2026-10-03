@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 129,
+  "translation": "En sang ved opstigningerne. Meget har de trængt mig fra min ungdom — så må Jisrael sige,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningerne"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "meget"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "har de trængt mig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "fra min ungdom"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "må sige"
+    },
+    {
+      "surface": "נא",
+      "gloss": "så"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.760034903Z",
+  "model": "glm-5.3"
+}

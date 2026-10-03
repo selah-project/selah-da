@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og hans trælle satte ⟨את⟩ ham på en vogn og førte ham til Jerushalajim og begravede ⟨את⟩ ham i hans grav med hans fædre i Davids by.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "Og satte på vogn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "på en vogn"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans trælle"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og begravede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "i hans grav"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fædre"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:05.878034985Z",
+  "model": "glm-5.3"
+}

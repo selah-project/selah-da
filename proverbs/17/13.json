@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Den, der gengælder ond for godt — ond skal ikke vige fra hans hus.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "den, der gengælder"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "godt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "skal vige"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "fra hans hus"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:24.237826176Z",
+  "model": "glm-5.3"
+}

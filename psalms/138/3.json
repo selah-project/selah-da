@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "På den dag jeg kaldte, svarede du mig; du gav mig mod i min sjæl med styrke.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jeg kaldte"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "svarede du mig"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "gav du mig mod"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "i min sjæl"
+    },
+    {
+      "surface": "עז",
+      "gloss": "med styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:22.713427873Z",
+  "model": "glm-5.3"
+}

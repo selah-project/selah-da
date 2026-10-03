@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hun har slagtet sit slagtedyr, hun har blandt sin vin, ja, hun har dækket sit bord.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "har slagtet"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sit slagtedyr"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "har blandt"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "sin vin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "har dækket"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "sit bord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:31.948656613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 110,
+  "translation": "Din styrkes stav sender Jahve fra Tzion: Hersk midt blandt dine fjender!",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrkes"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "fra Tzion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Hersk"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt blandt"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:55.457105313Z",
+  "model": "glm-5.3"
+}

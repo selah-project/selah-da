@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og når solen går ned, og han er blevet ren, må han bagefter spise af de hellige ting, for det er hans brød.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Og når … går ned"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "er blevet ren"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "bagefter"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "de hellige ting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hans brød"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:25.926355363Z",
+  "model": "glm-5.3"
+}

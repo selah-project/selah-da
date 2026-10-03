@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Bat-Sheva bøjede sig og kastede sig ned for kongen. Og kongen sagde: Hvad vil du?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Og bøjede sig"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "og kastede sig ned"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "for kongen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vil du"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:21.460390940Z",
+  "model": "glm-5.3"
+}

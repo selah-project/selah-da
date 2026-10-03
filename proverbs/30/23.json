@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "under en hadet kvinde, når hun giftes, og en trælkvinde, når hun arver sin frue.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "en hadet kvinde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "hun giftes"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "og en trælkvinde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "hun arver"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "sin frue"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:29.369610479Z",
+  "model": "glm-5.3"
+}

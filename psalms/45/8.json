@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Du elskede tsedek og hadede ondskab; derfor har Elohim, din Elohim, salvet dig med glædens olie frem for dine fæller.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "du elskede"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "og hadede"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "salvet dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "med olie"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "glædens"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "frem for dine fæller"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:34.956294952Z",
+  "model": "glm-5.3"
+}

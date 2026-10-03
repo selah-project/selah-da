@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "En sjæl ⟨der⟩ slider, slider for sig selv; thi hans mund tvinger ham.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "slider"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "slider"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "tvinger"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hans mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:05.046171395Z",
+  "model": "glm-5.3"
+}

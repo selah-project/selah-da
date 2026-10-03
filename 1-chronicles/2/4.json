@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Tamar, hans svigerdatter, fødte ham ⟨את⟩ Perets og ⟨את⟩ Zerach. Alle sønnerne af Yehuda var fem.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Og Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hans svigerdatter"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "og Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne af"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "var fem"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:15.839737996Z",
+  "model": "glm-5.3"
+}

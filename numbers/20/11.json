@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Moshe løftede ⟨את⟩ sin hånd og slog ⟨את⟩ klippen med sin stav to gange; og der kom vand ud i mangfoldighed, og menigheden drak, og deres kvæg.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "løftede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klippen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klippen"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "med sin stav"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "to gange"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "og der kom ud"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "i mangfoldighed"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "og drak"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "og deres kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:35.211650853Z",
+  "model": "glm-5.3"
+}

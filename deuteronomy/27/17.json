@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet ⟨er⟩ den, der flytter sin næstes grænse, og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "den, der flytter"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænse"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næstes"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:44.100945564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og hvis det stjæles — virkelig stjæles — fra ham, skal han erstatte det til ejeren.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "stjæles"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "virkelig stjæles"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "fra ham"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal han erstatte"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "til ejeren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:57.668582663Z",
+  "model": "glm-5.3"
+}

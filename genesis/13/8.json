@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Avram sagde til Lot: Lad dog ikke være trætte mellem mig og dig, og mellem mine hyrder og dine hyrder, for vi ⟨er⟩ mænd, brødre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og ... sagde"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "være"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "trætte"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "og mellem dig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mine hyrder"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dine hyrder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brødre"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:09.491761538Z",
+  "model": "glm-5.3"
+}

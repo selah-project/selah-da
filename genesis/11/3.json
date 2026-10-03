@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og de sagde, den ene til sin næste: Kom, lad os brænde tegl og brænde det til brænding. Og teglstenen blev dem til sten, og asfalten blev dem til mørtel.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "lad os brænde tegl"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tegl"
+    },
+    {
+      "surface": "וְנִשְׂרְפָה",
+      "gloss": "og brænde det"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "til brænding"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "Og den blev"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "teglstenen"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "til sten"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "og asfalten"
+    },
+    {
+      "surface": "היה",
+      "gloss": "blev"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "til mørtel"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.748276968Z",
+  "model": "glm-5.3"
+}

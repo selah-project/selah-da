@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Hver dag vil jeg velsigne dig, og jeg vil lovprise dit navn for evigt og altid.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "vil jeg velsigne dig"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "og jeg vil lovprise"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og altid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:17.363143417Z",
+  "model": "glm-5.3"
+}

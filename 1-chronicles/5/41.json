@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Jehotsadak gik i landflygtighed, da Jahve førte ⟨את⟩ Jehuda og Jerushalajim i eksil gennem Nebukadnetsars hånd.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Og Jehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "i landflygtighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "og Jerushalajim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gennem ... hånd"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsars"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:29.792779775Z",
+  "model": "glm-5.3"
+}

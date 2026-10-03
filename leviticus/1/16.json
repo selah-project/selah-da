@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han skal fjerne ⟨את⟩ dens kro med dens indhold og kaste den ved alteret, på østsiden, til ⟨det⟩ sted, hvor asken ⟨kommer⟩.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "og skal fjerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens kro"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "dens kro"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "med dens indhold"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "og kaste"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "på østsiden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sted"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "asken"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:58.246718266Z",
+  "model": "glm-5.3"
+}

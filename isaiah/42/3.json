@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Et knust rør skal han ikke bryde, og en glødende væge skal han ikke slukke; i trofasthed skal han føre retten ud.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "et rør"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "knust"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "skal han bryde"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "og en væge"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "glødende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "skal han slukke"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "i trofasthed"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "skal han føre ud"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "retten"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:39.317343281Z",
+  "model": "glm-5.3"
+}

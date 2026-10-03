@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Som en hjort længes efter vandbækken, så længes min sjæl efter dig, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "som en hjort"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "længes"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "vandbækken"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "længer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:12.376714556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David sagde til ham: Dit blod ⟨kommer⟩ på dit eget hoved, for din mund har vidnet imod dig og sagt: Jeg dræbte ⟨את⟩ Jahves salvede.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "dit blod"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "dit hoved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mund"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "har vidnet"
+    },
+    {
+      "surface": "בך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves salvede"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "salvede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:58.817082372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Udløs, Elohim, ⟨את⟩ Jisrael fra alle hans trængsler!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Udløs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "hans trængsler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:56.748542166Z",
+  "model": "glm-5.3"
+}

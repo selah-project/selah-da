@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og Jahve hjælper dem og frier dem ud; ⟨Han⟩ frier dem ud fra de gudløse og frelser dem, for de søger ly hos ⟨Ham⟩.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "og hjælper dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "og frier dem ud"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "fuer dem ud"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "fra de gudløse"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "og frelser dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "de søger ly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos Ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:28.731906101Z",
+  "model": "glm-5.3"
+}

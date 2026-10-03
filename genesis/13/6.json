@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og jorden kunne ikke bære ⟨את⟩ dem, så de kunne bo sammen, for deres ejendom var stor, og de kunne ikke bo sammen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kunne bære"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "at bo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "deres ejendom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne de"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:05.444144335Z",
+  "model": "glm-5.3"
+}

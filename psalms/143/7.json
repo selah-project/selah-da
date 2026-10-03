@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Skynd dig, svar mig, Jahve! Min ruach ⟨er⟩ slap — skjul ikke dit ansigt for mig, for at jeg ikke skal blive som dem, der stiger ned i graven.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Skynd dig"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svar mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "⟨er⟩ slap\/slukt"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ruach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skjul"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "for at jeg ikke skal blive som"
+    },
+    {
+      "surface": "עם",
+      "gloss": "som\/med"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "dem der stiger ned"
+    },
+    {
+      "surface": "בור",
+      "gloss": "i graven"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:28.827768134Z",
+  "model": "glm-5.3"
+}

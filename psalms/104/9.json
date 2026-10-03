@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "En grænse satte du — de skal ikke gå over den, de skal ikke vende tilbage for at dække jorden.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "en grænse"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "satte du"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "de skal gå over"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "de skal vende tilbage"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "for at dække"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:03.228647912Z",
+  "model": "glm-5.3"
+}

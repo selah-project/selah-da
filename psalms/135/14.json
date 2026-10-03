@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Thi Jahve skal dømme sit folk, og over sine trælle vil han ⟨trøste sig⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "skal dømme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine trælle"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "vil han ⟨trøste sig⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:07.634595871Z",
+  "model": "glm-5.3"
+}

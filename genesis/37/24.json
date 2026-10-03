@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og de tog ham og kastede ⟨את⟩ ham i brønden — og brønden var tom, der var intet vand i den.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Og de tog ham"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "og kastede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "i brønden"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "og brønden"
+    },
+    {
+      "surface": "רק",
+      "gloss": "var tom"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der var ikke"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:28.289166383Z",
+  "model": "glm-5.3"
+}

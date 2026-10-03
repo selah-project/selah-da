@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "I Jahve-frygtige, lov ham! Alt Jaakobs sæd, ær ham! og bæv for ham, alt Jisraels sæd!",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "I Jahve-frygtige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lov ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "ær ham"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "og bæv"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:58.387721515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hvis han bringer et får som sit offer, skal han bringe det frem for Jahves ansigt.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "et får"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bringer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit offer"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sit offer"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "så skal han bringe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frem for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:32.710886511Z",
+  "model": "glm-5.3"
+}

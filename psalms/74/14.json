@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Du knuste hovederne på Livjatan, du gav ham til mad for folket, for ørkenens folk.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "knuste"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hovederne"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "gav ham"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "til mad"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for folket"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "for ørkenfolk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:54.142970807Z",
+  "model": "glm-5.3"
+}

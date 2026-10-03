@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "og han sagde: Når I hjælper de hebraiske kvinder ved fødslen og ser dem på fødselsstolen — hvis det er en søn, så skal I dræbe ham ⟨את⟩, men hvis det er en datter, så skal hun leve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "når I hjælper ved fødslen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de hebraiske kvinder"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "de hebraiske kvinder"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "og ser dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "fødselsstolen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "så skal I dræbe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "så skal hun leve"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:08.026586749Z",
+  "model": "glm-5.3"
+}

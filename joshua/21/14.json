@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "og ⟨את⟩ Jattir og dens græsgange, og ⟨את⟩ Eshtemoa og dens græsgange,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:13.536397621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Han bærer en velsignelse fra ⟨את⟩ Jahve og tsedek fra sin frelses Elohim.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "bærer"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en velsignelse"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "fra sin … Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "frelses"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:38.268881809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og byens pladser skal fyldes med drenge og piger, som leger på dens pladser.",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "Og ... pladser"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "skal fyldes"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "drenge"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "og piger"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "som leger"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "på dens pladser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:01:51.243758778Z",
+  "model": "glm-5.3"
+}

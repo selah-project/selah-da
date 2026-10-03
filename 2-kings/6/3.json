@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og én sagde: Vær tilfreds nu, og gå ⟨את⟩ med dine trælle. Og han sagde: Jeg vil gå.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "vær tilfreds"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "og gå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "med dine trælle"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "dine trælle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "vil gå"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:18.928632962Z",
+  "model": "glm-5.3"
+}

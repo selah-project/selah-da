@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Nær ⟨er⟩ Jahve dem, der har et knust hjerte, og dem med knust ruach frelser han.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Nær"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "dem, der har et knust"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem med knust ruach"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "knust"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "frelser han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.271631613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Bøj mit hjerte til dine vidnesbyrd og ikke til uretfærdig vinding.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "bøj"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke til"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "uretfærdig vinding"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:21.514361674Z",
+  "model": "glm-5.3"
+}

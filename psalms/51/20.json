@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Gør godt i din velbehag ⟨mod⟩ ⟨את⟩ Tsiyon; opbyg Jerushalajims mure.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "gør godt"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "i din velbehag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "opbyg"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mure"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:44.615492658Z",
+  "model": "glm-5.3"
+}

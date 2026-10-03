@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og ⟨nogle⟩ gik og fortalte David om mændene, og han sendte bud ⟨til at møde⟩ dem, for mændene var dybt vanærede. Og kongen sagde: Bliv i Jericho, indtil jeres skæg er vokset ud, og vend så tilbage.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "til at møde dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "vanærede"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dybt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bliv"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "i Jericho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "er vokset ud"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "jeres skæg"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "vend tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:16:05.678868359Z",
+  "model": "glm-5.3"
+}

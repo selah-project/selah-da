@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Jeg bøjer mit øre mod en lignelse; jeg åbner min gåde på kinor.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Jeg bøjer"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "mod en lignelse"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mit øre"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "jeg åbner"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "på kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "min gåde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:38.117845131Z",
+  "model": "glm-5.3"
+}

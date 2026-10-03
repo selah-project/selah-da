@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den, der vandrer ustraffet, bliver frelst, men den, der er kroget i sine veje, falder på én gang.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "den, der vandrer"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ustraffet"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "bliver frelst"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "men den, der er kroget"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "i sine veje"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "falder"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "på én gang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:53.259447081Z",
+  "model": "glm-5.3"
+}

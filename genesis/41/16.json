@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og Yosef svarede Paroh og sagde: Uden mig — Elohim skal svare ⟨את⟩ fred til Paroh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Uden mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "skal svare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fred"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:23.758596142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Elkana gik til Ramata til sit hus, og den unge tjente Jahve ⟨את⟩ for ansigtet af Eli, præsten.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og … gik"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "til Ramata"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "og den unge"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansigtet af Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:35.485320907Z",
+  "model": "glm-5.3"
+}

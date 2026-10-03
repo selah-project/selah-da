@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Jahves herlighed vare evigt; Jahve glæde sig over sine gerninger!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "vare"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæde sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "over sine gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:12.055784669Z",
+  "model": "glm-5.3"
+}

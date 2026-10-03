@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "For han har bøjet dem, der bor ⟨i⟩ det høje, ⟨og⟩ byen ⟨der⟩ er ophøjet; han ydmyger den, ydmyger den helt til jorden, han bringer den helt ned til støvet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "השח",
+      "gloss": "har bøjet"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem der bor"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "i det høje"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "byen"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ophøjet"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ydmyger den"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ydmyger"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "bringger den ned"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "støvet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:37.020901460Z",
+  "model": "glm-5.3"
+}

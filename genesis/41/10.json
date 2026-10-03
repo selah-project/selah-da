@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Paroh blev vred på sine tjenere og satte mig i forvaring i overkokkens hus, ⟨את⟩ mig og ⟨את⟩ overbageren.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "blev vred"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine tjenere"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "i forvaring"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "i forvaring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i … hus"
+    },
+    {
+      "surface": "שר",
+      "gloss": "over"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "kokkene"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ og",
+      "marks": "overbageren"
+    },
+    {
+      "surface": "שר",
+      "gloss": "over"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "bageren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:16.277944957Z",
+  "model": "glm-5.3"
+}

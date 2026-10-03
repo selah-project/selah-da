@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Et net har de redegt for mine skridt; min sjæl er bøjet ned; de har gravet en grav foran mig — de er selv faldet i midten af den. Sela.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "et net"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "har de redegt"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "for mine skridt"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "er bøjet ned"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "de har gravet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "en grav"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "de er faldet"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "i midten af den"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:42.793689508Z",
+  "model": "glm-5.3"
+}

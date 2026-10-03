@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Kajin sagde til Hevel, sin bror. Og det skete, mens de var på marken, at Kajin rejste sig mod Hevel, sin bror, og dræbte ham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "mens de var"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "rejste sig"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "og dræbte ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:06.086746737Z",
+  "model": "glm-5.3"
+}

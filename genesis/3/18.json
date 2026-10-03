@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Tjørn og tidsel skal den lade vokse frem for dig, og du skal spise ⟨את⟩ markens urter.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "og tjørn"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "og tidsel"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "skal den lade vokse frem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "og du skal spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markens urter"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "urter"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:27.291627012Z",
+  "model": "glm-5.3"
+}

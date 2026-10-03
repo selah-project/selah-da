@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Se, er det ikke fra Jahve Tsevaot, at folkene slider i ild, og nationerne udmattes for ⟨את⟩ intet?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "er det ikke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "slider"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og nationerne"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "intet"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "udmattes"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:04.321925130Z",
+  "model": "glm-5.3"
+}

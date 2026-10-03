@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Nyvinen sørger, vinstokken visner, alle glade i hjertet sukker.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "sørger"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "Nyvinen"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "visner"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vinstokken"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "sukker"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "glade"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjertet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:09.930764246Z",
+  "model": "glm-5.3"
+}

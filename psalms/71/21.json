@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Du vil forøge min storhed og vende tilbage og trøste mig.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "vil du forøge"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "min storhed"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "og vende tilbage"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "trøste mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:29.926934973Z",
+  "model": "glm-5.3"
+}

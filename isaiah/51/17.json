@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Vækk dig, vækk dig, stå op, Jerushalajim, du som har drukket af Jahves hånd ⟨את⟩ bægeret med hans vrede; ⟨את⟩ koppen, bægeret med rusens svimmelhed, har du drukket, har du presset ud.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "vækk dig"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "vækk dig"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "stå op"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "har drukket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bægeret"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "bægeret"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "med hans vrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koppen"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "koppen"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "bægeret"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "med rusens svimmelhed"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "har du drukket"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "har du presset ud"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:19.770539553Z",
+  "model": "glm-5.3"
+}

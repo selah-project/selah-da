@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "En nordenvind virvler regn frem, og vrede ansigter ⟨bag⟩ en skjult tunge.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruach — vind"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nordenvind"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "virvler frem"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "regn"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "og ansigter"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "skjult"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:20.209589799Z",
+  "model": "glm-5.3"
+}

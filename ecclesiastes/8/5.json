@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Den, der holder budet, kender ikke noget ondt ⟨ord⟩; og rettid og dom kender den vises hjerte.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "den, der holder"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "budet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "noget"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og tid"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dom"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "den vise"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:04.218464170Z",
+  "model": "glm-5.3"
+}

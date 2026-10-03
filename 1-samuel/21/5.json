@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og præsten svarede ⟨את⟩ David og sagde: Der er intet almindeligt brød under min hånd, kun helligt brød er der — hvis de unge mænd har holdt sig fra kvinder.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "חל",
+      "gloss": "almindeligt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "under"
+    },
+    {
+      "surface": "תחת",
+      "gloss": ""
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er der"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "har holdt sig"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "de unge mænd"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "fra kvinder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:36.544901661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "For at lade ⟨en⟩ røst af taksigelse høres og for at fortælle alle dine underfulde gerninger.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "for at lade høres"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨en⟩ røst"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "af taksigelse"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "og for at fortælle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dine underfulde gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:06.676841702Z",
+  "model": "glm-5.3"
+}

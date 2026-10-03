@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og hvorfor bærer du ikke min overtredelse og lader ⟨את⟩ min skyld gå forbi? Thi nu lægger jeg mig i støvet, og du søger mig om morgenen — og jeg er ikke mere.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bærer"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "min overtredelse"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "og lader gå forbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min skyld"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "min skyld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "i støvet"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "lægger jeg mig"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "og du søger mig"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "og jeg er ikke mere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:12.963595665Z",
+  "model": "glm-5.3"
+}

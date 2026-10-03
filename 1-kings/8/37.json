@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 8:37",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Hungersnød, når der er ⟨den⟩ i landet, pest, når der er ⟨den⟩, sod, gulning, græshoppe, larve, når der er ⟨den⟩, når hans fjende trænger ham i landets porte — ethvert slag, enhver sygdom —",
+  "tokens": [
+    {
+      "surface": "רעב",
+      "gloss": "hungersnød"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "der er"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "der er"
+    },
+    {
+      "surface": "שדפון",
+      "gloss": "sod"
+    },
+    {
+      "surface": "ירקון",
+      "gloss": "gulning"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "græshoppe"
+    },
+    {
+      "surface": "חסיל",
+      "gloss": "larve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "der er"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "trænger"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "hans fjende"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "hans porte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ethvert"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "slag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sygdom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:37.811537668Z",
+  "model": "glm-5.3"
+}

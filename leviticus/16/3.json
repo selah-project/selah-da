@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Med dette skal Aharon gå ind i helligdommen: med en ung tyr, en søn af kvæget, til syndoffer og en vædder til brændoffer.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Med dette"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skal gå ind"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helligdommen"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "med en tyr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "af kvæget"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "til syndoffer"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "og en vædder"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brændoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:44.649033676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og David gjorde, som Elohim havde befalet ham, og de slog filisternes ⟨את⟩ lejr fra Givon og indtil Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "havde befalet ham"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisternes lejr"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lejr"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisternes"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "fra Givon"
+    },
+    {
+      "surface": "ויעד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:32.746181227Z",
+  "model": "glm-5.3"
+}

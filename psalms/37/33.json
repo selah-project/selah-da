@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Jahve forlader ham ikke i dennes hånd og dømmer ham ikke skyldig, når han dømmes.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "forlader ham"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i dennes hånd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "dømmer ham skyldig"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "når han dømmes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:28.800856432Z",
+  "model": "glm-5.3"
+}

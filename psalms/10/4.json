@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den onde, med ophøjet åsyn, søger ikke; ⟨der er⟩ ingen Elohim — alle hans rænker.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "med ophøjet"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sit åsyn"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "hans rænker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:27.686139769Z",
+  "model": "glm-5.3"
+}

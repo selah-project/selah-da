@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og hans trælle stod op og bandt en sammensværgelse og slog ⟨את⟩ Joash i Bet-Millo, det sted der går ned til Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "og stod op"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hans trælle"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "og sammensvor"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "en sammensværgelse"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "det der går ned"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "til Silla"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:38.664944616Z",
+  "model": "glm-5.3"
+}

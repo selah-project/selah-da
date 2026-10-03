@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahve Tsevaot, ⟨את⟩ ham skal I hellige; og han er eders frygt, og han er eders rædsel.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ham ⟨את⟩",
+      "marks": "hellige (Jahve)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "skal I hellige"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "er eders frygt"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "er eders rædsel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:46.714686899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "Pris ham, alle hans engle, pris ham, alle hans hærskarer!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pris ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "hans engle"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pris ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "hans hærskarer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.358545396Z",
+  "model": "glm-5.3"
+}

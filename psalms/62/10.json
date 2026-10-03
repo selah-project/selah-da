@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Kun damp er menneskets børn, løgn er mænds børn; på vægtskåle — når de lægges op, er de lettere end damp, alle sammen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "damp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn af"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn af"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "på vægtskåle"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "når de lægges op"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "end damp"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "alle sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:14.322210386Z",
+  "model": "glm-5.3"
+}

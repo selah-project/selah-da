@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Folkeslagene hørte ⟨det⟩, de skælver; veer greb ⟨om⟩ dem, som bor i Filistiet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "skælver"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "veer"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "greb"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "i Filistiet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:50.966863817Z",
+  "model": "glm-5.3"
+}

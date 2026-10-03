@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og hver den som rører ved hendes leje, skal vaske sine klæder og bade sig i vand og være uren indtil aftenen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og hver"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "den som rører ved"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "ved hendes leje"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal vaske"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og bade sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og være uren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:49.996644409Z",
+  "model": "glm-5.3"
+}

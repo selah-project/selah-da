@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "for de troede ikke på Elohim og stolen ikke på hans frelse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "troede"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "på Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "stolen"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "på hans frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.871981201Z",
+  "model": "glm-5.3"
+}

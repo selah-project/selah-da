@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Thi han glatter det ud for sig selv i sine egne øjne, ⟨så han ikke⟩ finder sin misgerning for at hade den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "glatter ud"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "for sig selv"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "i sine øjne"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "at finde"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sin misgerning"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "for at hade"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:58.369965814Z",
+  "model": "glm-5.3"
+}

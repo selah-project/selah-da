@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og han fik alle ⟨את⟩ de der blev fundet i Jerushalajim og Benjamin til at stå ⟨ved den⟩, og Jerushalajims indbyggere gjorde efter pagten hos Elohim, deres fædres Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Og fik ... til at stå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de der blev fundet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "de der blev fundet"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "og Benjamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "og de gjorde"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "efter pagten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "deres fædres"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:28.585001246Z",
+  "model": "glm-5.3"
+}

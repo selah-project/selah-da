@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og hos hvem der blev fundet ⟨את⟩ sten, gav ⟨de⟩ dem til skatten i Jahves hus, ved hånden af Jechiel gershonitten.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "Og hos hvem der blev fundet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sten"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav ⟨de⟩"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "til skatten i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånden af"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechiel"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "gershonitten"
+    }
+  ],
+  "timestamp": "2026-10-03T19:18:02.719385761Z",
+  "model": "glm-5.3"
+}

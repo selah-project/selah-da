@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Dit sølv må du ikke give ham mod ⟨את⟩ rente, og for overdreven afkast må du ikke give din mad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit sølv"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "dit sølv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "må du give"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "mod rente"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "og for overdreven afkast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "må du give"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "din mad"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:38.519970906Z",
+  "model": "glm-5.3"
+}

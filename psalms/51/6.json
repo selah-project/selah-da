@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Mod dig, dig alene, syndede jeg, og ⟨det⟩ onde i dine øjne gjorde jeg, for at du skulle stå tsedek i dine ord og være ren i din dom.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "dig alene"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "syndede jeg"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "og ⟨det⟩ onde"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dine øjne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gjorde jeg"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "står tsedek"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "i dine ord"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "være ren"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "i din dom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:58.290781222Z",
+  "model": "glm-5.3"
+}

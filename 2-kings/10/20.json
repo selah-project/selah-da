@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Jehu sagde: Hellig en højtidssamling for Ba'al. Og de udråbte ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "en højtidssamling"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "for Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "og de udråbte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:46.934870645Z",
+  "model": "glm-5.3"
+}

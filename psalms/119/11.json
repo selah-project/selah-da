@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg har gemt dit ord i mit hjerte, for ikke at synde mod dig.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "i mit hjerte"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "har jeg gemt"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ikke at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "synde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:33.946526742Z",
+  "model": "glm-5.3"
+}

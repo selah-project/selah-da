@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Aharon gjorde således; hen mod menoraens forside satte han dens lamper op, således som Jahve havde befalet ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og han gjorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hen mod"
+    },
+    {
+      "surface": "מול",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פני",
+      "gloss": "forsiden af"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menoraen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "satte han op"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dens lamper"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befalet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:55.568994795Z",
+  "model": "glm-5.3"
+}

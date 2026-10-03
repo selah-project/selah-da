@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jahve ramte ⟨את⟩ Paroh og ⟨את⟩ hans hus med store slag, på grund af Saraj, Avrams hustru.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "ramte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "slag"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "store"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sagen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:58.486952840Z",
+  "model": "glm-5.3"
+}

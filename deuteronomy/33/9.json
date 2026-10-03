@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Han som sagde til sin far og til sin mor: Jeg har ikke set ham, og ⟨את⟩ sine brødre kendte han ikke, og ⟨את⟩ sine sønner kendte han ikke — for de vogtede dit ord og din pagt bevarer de.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Han som sagde"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "til sin far"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "og til sin mor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "har jeg set ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sine brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kendte han ikke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sine sønner"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kendte han ikke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "vogtede de"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "og din pagt"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bevarer de"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:46.090116787Z",
+  "model": "glm-5.3"
+}

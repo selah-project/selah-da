@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og jeg vil lægge nøglen til Davids hus på hans skulder; og han åbner, og ingen lukker, og han lukker, og ingen åbner.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil lægge"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "nøglen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "hans skulder"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "og han åbner"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "lukker"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "og han lukker"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "åbner"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:20.196319198Z",
+  "model": "glm-5.3"
+}

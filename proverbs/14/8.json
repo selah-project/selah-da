@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Den kloges chokmá ⟨er⟩ at forstå sin vej, men letsindiges dårskab ⟨er⟩ svig.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "chokmá"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "den kloge"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "at forstå"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sin vej"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "men dårskab"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "letsindiges"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:43.321368980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Ophøj dig over himlene, Elohim, og over hele jorden din herlighed!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Ophøj dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "din herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:35.846885617Z",
+  "model": "glm-5.3"
+}

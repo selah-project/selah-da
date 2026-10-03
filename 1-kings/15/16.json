@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og der var krig mellem Asa og Baesha, kongen af Jisrael, alle deres dage.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Og krig"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var der"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ו בין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "deres dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:36.555749687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og de skal ikke være som deres fædre, en genstridig og oprørsk slægt, en slægt hvis hjerte ikke var rede, og hvis ruach ikke var trofast mod ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de skal være"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "som deres fædre"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "genstridig"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "og oprørsk"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "var rede"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dens hjerte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "var trofast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "dens ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:15.454417516Z",
+  "model": "glm-5.3"
+}

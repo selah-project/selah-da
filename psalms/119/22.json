@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Rul bort fra mig skændsel og foragt, for jeg har bevaret dine vidnesbyrd.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rul bort"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "skændsel"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "og foragt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "har jeg bevaret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:30.771239632Z",
+  "model": "glm-5.3"
+}

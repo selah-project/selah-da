@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og det skete ved enden af tre dage, at fogederne gik gennem midten af lejren.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ved enden af"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "fogederne"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gennem midten af"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:00.065524859Z",
+  "model": "glm-5.3"
+}

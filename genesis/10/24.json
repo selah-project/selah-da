@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Arpachshad avlede ⟨את⟩ Shelach, og Shelach avlede ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "og Arpachshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "og Shelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:57.804042690Z",
+  "model": "glm-5.3"
+}

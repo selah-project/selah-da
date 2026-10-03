@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Jeg vil skynde mig tilflugt for mig, væk fra en stormende ruach, fra et uvejr.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "jeg vil skynde mig"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "tilflugt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "fra en stormende ruach"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "stormende"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "fra et uvejr"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.195964680Z",
+  "model": "glm-5.3"
+}

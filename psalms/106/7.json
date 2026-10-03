@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Vore fædre i Mitsrajim forstod ikke dine under, de huskede ikke ⟨את⟩ din store chesed, og de trodsede ved havet, ved Sufhavet",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Vore fædre"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "forstod"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dine under"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din store chesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "din store"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "og de trodsede"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ved"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufhavet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:26.270627028Z",
+  "model": "glm-5.3"
+}

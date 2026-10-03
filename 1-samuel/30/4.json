@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Da løfted David og folket, som var hos ham, deres røst ⟨את⟩ og græd, indtil der ikke var kræfter i dem til at græde.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Da løfted"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "og folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hos ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres røst"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "deres røst"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "og græd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der ikke var"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kræfter"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "til at græde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:39.422148766Z",
+  "model": "glm-5.3"
+}

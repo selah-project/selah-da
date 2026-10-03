@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Davids dage nærmede sig at dø, og han bød ⟨את⟩ Shelomo, sin søn, og sagde:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nærmede sig"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "למות",
+      "gloss": "at dø"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "og han bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:16.721879544Z",
+  "model": "glm-5.3"
+}

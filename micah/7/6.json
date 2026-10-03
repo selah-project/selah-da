@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "For søn vanærer fader, datter rejser sig mod sin mor, svigerdatter mod sin svigermor; en mands fjender er mændene fra hans eget hus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "vanærer"
+    },
+    {
+      "surface": "אב",
+      "gloss": "fader"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "rejser sig"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "mod sin mor"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "svigerdatter"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "mod sin svigermor"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fjender"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mands"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "fra hans hus"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:05.343817346Z",
+  "model": "glm-5.3"
+}

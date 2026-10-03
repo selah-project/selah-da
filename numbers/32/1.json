@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og ⟨der var⟩ et mægtigt kvæg til Rúvens sønner og til Gads sønner, meget talrigt; og de så ⟨את⟩ landet Jaazér og ⟨את⟩ landet Gilad, og se, stedet var et sted for kvæg.",
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "Og kvæg"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mægtigt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "til sønnerne af"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúven"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "og til sønnerne af"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "talrigt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "og de så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet Jaazér"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazér"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "landet Gilad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "for kvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:58.430692750Z",
+  "model": "glm-5.3"
+}

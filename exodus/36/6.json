@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Moshe bød, og de lod en røst lyde gennem lejren og ⟨sige⟩: Ingen mand og ingen kvinde skal gøre mere arbejde til gavegangen for helligdommen. Og folket blev holdt tilbage fra at bringe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og Moshe bød"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "og de lod lyde"
+    },
+    {
+      "surface": "קול",
+      "gloss": "en røst"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "gennem lejren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og ⟨sige⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ingen mand"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "og ingen kvinde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skal gøre"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "til gavegangen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "for helligdommen"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "og blev holdt tilbage"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "fra at bringe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:15.472444008Z",
+  "model": "glm-5.3"
+}

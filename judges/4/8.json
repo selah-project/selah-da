@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Barak sagde til hende: Hvis du går med mig, går jeg; men hvis du ikke går med mig, går jeg ikke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "du går"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "går jeg"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "du går"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "går jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T15:49:04.008651255Z",
+  "model": "glm-5.3"
+}

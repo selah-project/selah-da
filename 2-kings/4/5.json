@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og hun gik fra ham ⟨את⟩ og lukkede døren bag sig og bag sine sønner; de bragte ⟨kar⟩ til hende, og hun øste ud.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "og hun gik"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ fra ham"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "og lukkede"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "døren"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "bag sig"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og bag"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "bragte"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "og hun"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "øste ud"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:06.806660074Z",
+  "model": "glm-5.3"
+}

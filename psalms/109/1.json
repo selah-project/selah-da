@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Til dirigenten. Af David. En mizmor. Min lovsangs Elohim, vær ikke tavs.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til dirigenten"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "min lovsang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vær tavs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:41.527993299Z",
+  "model": "glm-5.3"
+}

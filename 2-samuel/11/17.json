@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og mændene fra byen gik ud og kæmpede ⟨imod⟩ ⟨את⟩ Joav, og der faldt nogle af folket, af Davids trælle, og Urija hetitten døde også.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "fra byen"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "og der faldt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "af trællene"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetitten"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:03.441792476Z",
+  "model": "glm-5.3"
+}

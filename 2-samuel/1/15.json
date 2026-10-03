@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David kaldte på en af de unge mænd og sagde: Træd frem, fæld ham! Og han slog ham, og han døde.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "på en"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "af de unge mænd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "גש",
+      "gloss": "træd frem"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "fæld"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "og slog ham"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han døde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:58.816901189Z",
+  "model": "glm-5.3"
+}

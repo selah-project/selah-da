@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Fra El, din fader, ⟨som⟩ hjælper dig, og ⟨את⟩ Shaddaj, ⟨som⟩ velsigner dig — velsignelser fra himlene ovenfra, velsignelser fra dybet, som ligger nedenunder, velsignelser fra brysternes og moderlivets.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "fra El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "hjælper dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddaj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaj"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "velsigner dig"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "velsignelser"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ovenfra"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "velsignelser"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "dybet"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nedenunder"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "velsignelser"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "bryster"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "og moderliv"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:17.407384413Z",
+  "model": "glm-5.3"
+}

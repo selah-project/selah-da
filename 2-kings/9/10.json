@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og ⟨את⟩ Izevel skal hundene æde i Jisreels lod, og der er ingen, der begraver hende. Og han åbnede døren og flygtede.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundene"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "i loddet"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "en der begraver"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og han åbnede"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "døren"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flygtede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:28.711645020Z",
+  "model": "glm-5.3"
+}

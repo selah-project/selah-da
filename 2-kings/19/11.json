@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Se, du har selv hørt ⟨את⟩ det, som kongerne i Ashur gjorde mod alle landene, ved at vie dem til udryddelse — og du skulle reddes?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "har hørt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som kongerne i Ashur gjorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "i Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mod alle"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "landene"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "ved at vie dem til udryddelse"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "skulle reddes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:55.140693127Z",
+  "model": "glm-5.3"
+}

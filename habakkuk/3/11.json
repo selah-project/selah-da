@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Sol og måne stod stille i ⟨deres⟩ bolig; ved lyset af dine pile vandrede de, ved glansen af dit blinkende spyd.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "måne"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stod stille"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "i ⟨deres⟩ bolig"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ved lyset"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "af dine pile"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "vandrede de"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ved glansen"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "af lyn"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "dit spyd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:59:27.665439518Z",
+  "model": "glm-5.3"
+}

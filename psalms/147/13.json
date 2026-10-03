@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "For han har gjort dine portes slåer stærke, han har velsignet dine børn i dit indre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "har gjort stærke"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "slåer"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dine portes"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "har velsignet"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "dine børn"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "i dit indre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:59.516228692Z",
+  "model": "glm-5.3"
+}

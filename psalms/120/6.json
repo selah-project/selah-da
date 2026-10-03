@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "For længe har min sjæl boet hos den, der hader fred.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "For længe"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "har … boet"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨har⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "den, der hader"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:58.127794887Z",
+  "model": "glm-5.3"
+}

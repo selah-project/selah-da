@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Hvem ⟨er⟩ som den vise? Og hvem kender tydningen af en sag? Et menneskes visdom får hans ansigt til at lysne, og hårdheden i hans ansigt blir ændret.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "som den vise"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tydningen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "af en sag"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneskes"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "får … til at lysne"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hans ansigt"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "og hårdheden"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "i hans ansigt"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "blir ændret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.756248575Z",
+  "model": "glm-5.3"
+}

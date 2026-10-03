@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Avshalom trængte ind på ham, og han sendte ⟨את⟩ ham af sted: ⟨את⟩ Amnon og ⟨את⟩ alle kongens sønner.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Og trængte ind på"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og han sendte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle kongens sønner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:14:32.571275265Z",
+  "model": "glm-5.3"
+}

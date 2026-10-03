@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "Hvad fejler dig, du hav, at du flygter? Du Yardén, at du vender baglæns?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvad fejler"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "du hav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "du flygter"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "du Yardén"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "du vender"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "baglæns"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:28.364885330Z",
+  "model": "glm-5.3"
+}

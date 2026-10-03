@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Af Shlomo. Elohim, giv dine retter til kongen og din tsedek til kongesønnen.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Af Shlomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine retter"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "תן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "og din tsedek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "til sønnen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:30.992498091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Byrde over Babel, som Jesjajahu, søn af Amots, har set.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Byrde"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "har set"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesjajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:37.915267185Z",
+  "model": "glm-5.3"
+}

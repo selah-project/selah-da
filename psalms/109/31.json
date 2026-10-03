@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Thi han står ved den fattiges højre hånd for at frelse ⟨ham⟩ fra dem, der dømmer hans sjæl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "står"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ved højre hånd"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fra dem der dømmer"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hans sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:23.454128108Z",
+  "model": "glm-5.3"
+}

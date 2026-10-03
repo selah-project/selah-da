@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve fortrød, at han havde gjort ⟨את⟩ mennesket på jorden, og det vemodede ham i hans hjerte.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Og fortrød"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "og det vemodede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:47.468795760Z",
+  "model": "glm-5.3"
+}

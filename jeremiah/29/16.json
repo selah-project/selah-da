@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "at sådan har Jahve sagt om kongen, som sidder på Davids trone, og om alt folket, som bor i denne by — jeres brødre, som ikke gik ud ⟨את⟩ med jer i landflygtigheden —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "om"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "som sidder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trone"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og om"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jeres brødre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "gik ud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "med jer"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "i landflygtigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:40:31.392995006Z",
+  "model": "glm-5.3"
+}

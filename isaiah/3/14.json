@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jahve går til dom med ⟨de⟩ ældste af sit folk og dets høvdinger: I har fortæret ⟨את⟩ vinhaven, det røvede fra den fattige er i jeres huse.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "til dom"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "går"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "⟨de⟩ ældste"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "af sit folk"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "og dets høvdinger"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "har fortæret"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ vinhaven",
+      "marks": "vinhaven"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "det røvede"
+    },
+    {
+      "surface": "העני",
+      "gloss": "fra den fattige"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "i jeres huse"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:36.560464920Z",
+  "model": "glm-5.3"
+}

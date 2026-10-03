@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han bød ⟨את⟩ den første og sagde: Når min bror Esav møder dig og spørger dig og siger: Hvem tilhører du, og hvor går du hen, og hvem tilhører disse foran dig?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og han bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den første"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "møder dig"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min bror"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "og spørger dig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "למי",
+      "gloss": "Hvem tilhører"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "og hvor"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "går du hen"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "og hvem tilhører"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:33.924329315Z",
+  "model": "glm-5.3"
+}

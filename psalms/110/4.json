@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 110,
+  "translation": "Jahve har svoret og vil ikke fortryde: Du ⟨er⟩ præst til evig tid efter Malki-Tsedeks ordning.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "vil fortryde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "præst"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ordning"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedeks"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:55.457442254Z",
+  "model": "glm-5.3"
+}

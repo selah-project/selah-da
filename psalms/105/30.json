@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Deres land vrimlede af frøer, i deres kongers kamre.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "vrimlede"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "frøer"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "i kamrene"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "deres konger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:33.153512792Z",
+  "model": "glm-5.3"
+}

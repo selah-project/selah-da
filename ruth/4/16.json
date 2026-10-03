@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Naomi tog ⟨את⟩ barnet og lagde det i sit skød og blev ham til en amme.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "og lagde ham"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "i sit skød"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og hun blev"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "til en amme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:19.385194149Z",
+  "model": "glm-5.3"
+}

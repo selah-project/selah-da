@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og han røgofferbrændte ⟨את⟩ sit brændoffer og ⟨את⟩ sin mincha, og han udgød ⟨את⟩ sit drikoffer og stænkede ⟨את⟩ blodet af shalomofrene, som var hans, på alteret.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "røgofferbrændte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit brændoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sit brændoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin mincha"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "sin mincha"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "udgød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit drikoffer"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "sit drikoffer"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "stænkede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blodet"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "af shalomofrene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "var hans"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:25.807082803Z",
+  "model": "glm-5.3"
+}

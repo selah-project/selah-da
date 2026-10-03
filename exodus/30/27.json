@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og ⟨את⟩ bordet og ⟨את⟩ alle dets kar, og ⟨את⟩ stagenlyset og ⟨את⟩ dens kar, og ⟨את⟩ røgelsesalteret.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle dets kar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets kar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stagenlyset"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "stagenlyset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens kar"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dens kar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "røgelsesalteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "røgelses"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:03.479174418Z",
+  "model": "glm-5.3"
+}

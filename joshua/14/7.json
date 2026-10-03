@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 14:7",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Fyrre år gammel var jeg, da Moshe, Jahves tjener, sendte ⟨את⟩ mig fra Kadesh-Barnea for at udspionere ⟨את⟩ landet; og jeg bragte ⟨את⟩ ham tilbage et ord, således som det var med mit hjerte.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "gammel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "da han sendte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "fra Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "-Barnea"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "for at udspionere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "og jeg bragte tilbage"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mit hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:58.046571224Z",
+  "model": "glm-5.3"
+}

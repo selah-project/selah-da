@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "og navnet på den anden var Eliezer, for min faders Elohim var min hjælp og frelste mig fra Faraos sværd.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "og navnet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "på den anden"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min faders"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "var min hjælp"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "og frelste mig"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "fra sværdet"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:33.324119877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Hvis jeg er tsedek, dømmer min mund mig skyldig; er jeg hel, så gør han mig skæv.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "er tsedek"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "dømmer mig skyldig"
+    },
+    {
+      "surface": "תם",
+      "gloss": "hel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "gør han mig skæv"
+    }
+  ],
+  "timestamp": "2026-10-03T19:44:18.935914964Z",
+  "model": "glm-5.3"
+}

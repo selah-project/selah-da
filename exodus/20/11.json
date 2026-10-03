@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "For på seks dage gjorde Jahve ⟨את⟩ himlene og ⟨את⟩ jorden, ⟨את⟩ havet og ⟨את⟩ alt hvad der er i dem, og han hvilede på den syvende dag; derfor velsignede Jahve ⟨את⟩ Shabbat-dagen og helligede den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "seks"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himlene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jorden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havet"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt hvad der er i dem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "og han hvilede"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "den syvende"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsignede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat-dagen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat-"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "og helligede den"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:25.302123277Z",
+  "model": "glm-5.3"
+}

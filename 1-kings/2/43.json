@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Hvorfor har du da ikke holdt ⟨את⟩ edsdagen fra Jahve og ⟨את⟩ det bud, som jeg har pålagt dig?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "og hvorfor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "har du holdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eden fra Jahve"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det bud"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "det bud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jeg har pålagt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:45.036165576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Adonaj Jahves ruach er over mig, fordi Jahve har salvet ⟨את⟩ mig; han har sendt mig til at bringe gode tidender til de ydmyge, til at forbinde dem med knust hjerte, til at udråbe frigivelse for fangerne og åbning for de bundne.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "er over mig"
+    },
+    {
+      "surface": "יען",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "משח",
+      "gloss": "har salvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "til at bringe gode tidender"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ydmyge"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "har sendt mig"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "til at forbinde"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "dem med knust"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "til at udråbe"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "for fangerne"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "frigivelse"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "og for de bundne"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "åbning"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "(af fængslet)"
+    }
+  ],
+  "timestamp": "2026-10-03T17:06:58.354982536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og dette ⟨er⟩ skriften, som ⟨er⟩ skrevet: MENE, MENE, TEKEL, UFARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "og dette"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "skriften"
+    },
+    {
+      "surface": "די",
+      "gloss": "som"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "skrevet"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "og UFARSIN"
+    }
+  ],
+  "timestamp": "2026-10-03T18:57:08.798669378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Moshe bød ⟨את⟩ Israels børn efter Jahves mund og sagde: Stamme'erne for Josefs børn taler rigtigt.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og bød"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rigtigt"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stamme'erne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "taler"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:46.278168482Z",
+  "model": "glm-5.3"
+}

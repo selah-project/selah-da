@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Ethvert arbejde af tjenerskab må I ikke gøre, og I skal bringe et ildoffer nær til Jahve.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ethvert"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "af tjenerskab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "må I gøre"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "og I skal bringe nær"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ildoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:51.837402126Z",
+  "model": "glm-5.3"
+}

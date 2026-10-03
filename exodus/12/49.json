@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Én Tora skal være for ⟨den⟩ indfødte, og for fremmeden, der bor som fremmed blandt jer.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "for den indfødte"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "og for fremmeden"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "der bor som fremmed"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "blandt jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:29.616082168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og det skete i det tredje år, at Jehoshafat, kongen af Jehuda, gik ned til kongen af Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "i ⟨det⟩ år"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "tredje"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "gik ned"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:54.139269750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Nej, i hjertet øver I ondskab; på jorden vejer I vold fra eders hænder ud.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Nej"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjertet"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "øver I"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "eders hænder"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "vejer I ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:48.328232894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Du har rådt skam til dit hus, ved at udrydde mange folk, og syndet mod din egen sjæl.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "Du har rådt"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "skam"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "til dit hus"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ved at udrydde"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "og syndet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mod din sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T17:57:26.745157200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Må de onde falde i deres egne net, ⟨så⟩ passer jeg forbi.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "må de falde"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "i deres egne net"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨sammen⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "עד",
+      "gloss": "imens"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "passerer forbi"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:38.818100709Z",
+  "model": "glm-5.3"
+}

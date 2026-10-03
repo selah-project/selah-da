@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og de, der fandt ham ⟨את⟩, mens han sankede brænde, bragte ham ⟨את⟩ til Moshe og til Aharon og til hele menigheden.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "bragte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "de, der fandt ham"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "mens han sankede"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "brænde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:10:19.375900902Z",
+  "model": "glm-5.3"
+}

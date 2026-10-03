@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Du må ikke slagte ⟨med⟩ surdej blodet af mit slagtoffer, og et slagtoffer fra Pesach-festen må ikke blive tilbage til morgen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "du må ikke slagte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "surdej"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mit slagtoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "blive tilbage"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "til morgen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slagtoffer"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fest"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:48.406371273Z",
+  "model": "glm-5.3"
+}

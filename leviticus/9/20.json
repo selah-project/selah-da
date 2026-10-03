@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og de lagde fedtdelene ⟨את⟩ på bryststykkerne, og han lod fedtdelene ryge op på alteret.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Og de lagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedtdelene"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "fedtdelene"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "bryststykkerne"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "og han lod ryge op"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "fedtdelene"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:48.675525269Z",
+  "model": "glm-5.3"
+}

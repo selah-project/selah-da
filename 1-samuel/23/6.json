@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og det skete, da Avjatar, søn af Achimelek, flygtede til David i Keila, kom efoden ned i hans hånd.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "da … flygtede"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "af Achimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "i Keila"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kom ned"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:36.319506825Z",
+  "model": "glm-5.3"
+}

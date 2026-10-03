@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Tøv og vær forundte, blind jer selv og vær blinde; I er blevet drukne, men ikke af vin, I vakler, men ikke af stærk drik.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "tøv"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "og vær forundte"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "blind jer selv"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "og vær blinde"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "I er blevet drukne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "יין",
+      "gloss": "af vin"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "I vakler"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "af stærk drik"
+    }
+  ],
+  "timestamp": "2026-10-03T16:57:00.271431470Z",
+  "model": "glm-5.3"
+}

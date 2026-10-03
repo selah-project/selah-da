@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og jeres far bedrog mig og har skiftet ⟨את⟩ min løn ti gange; men Elohim lod ham ikke skade mig.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Og jeres far"
+    },
+    {
+      "surface": "התל",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "og har skiftet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min løn"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "min løn"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "gange"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "lod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "skade"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:57.298554025Z",
+  "model": "glm-5.3"
+}

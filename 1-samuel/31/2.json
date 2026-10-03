@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og filisterne hængte sig fast på ⟨את⟩ Shaul og ⟨את⟩ hans sønner, og filisterne slog ⟨את⟩ Jehonatan og ⟨את⟩ Avinadav og ⟨את⟩ Malki-Shua, Shauls sønner.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Og hængte sig fast på"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:38.507036444Z",
+  "model": "glm-5.3"
+}

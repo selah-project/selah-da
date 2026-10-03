@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Jeg har hat de ondes forsamling, og med de רשעים vil jeg ikke sidde.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "jeg har hat"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "forsamling"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rasha'im — de gudløse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "vil jeg sidde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:03.791064069Z",
+  "model": "glm-5.3"
+}

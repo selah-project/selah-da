@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Ja, du er en El som skjuler sig, Jisraels Elohim, frelseren.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "som skjuler sig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "frelseren"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:38.344984032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 93,
+  "translation": "Floderne løfter sig, Jahve, floderne løfter deres røst, floderne løfter deres brusende bølger.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "løfter sig"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floderne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floderne"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "deres røst"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floderne"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "brusende bølger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:27.708797552Z",
+  "model": "glm-5.3"
+}

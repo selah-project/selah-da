@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og jeg påbød ⟨את⟩ jer på det tidspunkt ⟨את⟩ alle de ord, som I skulle gøre.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Og jeg påbød"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på det tidspunkt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "I skulle gøre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:20.269137304Z",
+  "model": "glm-5.3"
+}

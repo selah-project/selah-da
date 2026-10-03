@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Men de, som søger min sjæl til ødelæggelse, skal gå ned i jordens dybder.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "men de"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "til ødelæggelse"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "søger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "skal gå ned"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "i dybderne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "af jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:13.509352120Z",
+  "model": "glm-5.3"
+}

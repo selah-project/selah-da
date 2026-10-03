@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og ⟨את⟩ brudene i Davids by så I, for de var blevet mange, og I samlede ⟨את⟩ vandet i den nederste dam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brudene"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "brudene"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "så I"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "var blevet mange"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "og I samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "dammen"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "den nederste"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:07.365413780Z",
+  "model": "glm-5.3"
+}

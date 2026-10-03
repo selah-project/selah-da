@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Fordi du, Jahve, ⟨er⟩ min tilflugt — Elyon har du gjort til din bolig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fordi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tilflugt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "har du gjort"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "til din bolig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:53.402922685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og det skete, da David og hans mænd kom til Tsiklag på den tredje dag, at amalekitterne var faldet ind i Negev og i Tsiklag, og de slog Tsiklag ⟨את⟩ og brændte den med ild.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "da … kom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "og hans mænd"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "til Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på … dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "at amalekitterne"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "var faldet ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og i"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "og brændte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hende"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:39.421485498Z",
+  "model": "glm-5.3"
+}

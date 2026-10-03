@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Et løgneord hader den tsedek-retfærdige, og den onde gør ⟨sig⟩ illugtende og bringer ⟨sig⟩ til skamme.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgne-"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "hader"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "og den onde"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "gør illugtende"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "og bringer til skamme"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:55.147881679Z",
+  "model": "glm-5.3"
+}

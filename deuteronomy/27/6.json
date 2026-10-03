@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Af hele sten skal du bygge ⟨את⟩ Jahves, din Elohims, alter, og du skal bringe brændofre på det, til Jahve, din Elohim.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "Af sten"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "hele"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "skal du bygge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves, din Elohims, alter"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohims"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "og du skal bringe op"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "brændofre"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:53.398897294Z",
+  "model": "glm-5.3"
+}

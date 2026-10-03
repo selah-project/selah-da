@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Vi har tænkt over din chesed, Elohim, i dit tempels indre.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "vi har tænkt over"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i … indre"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "dit tempels"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:52.984143730Z",
+  "model": "glm-5.3"
+}

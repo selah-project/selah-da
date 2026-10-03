@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "Hvordan skal vi synde ⟨את⟩ Jahves sang på fremmed jord?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "skal vi synge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves sang"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "jord"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremmed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:14.066004622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Babels konge satte ⟨את⟩ Mattanja, hans farbror, til konge i stedet for ham og vendte ⟨את⟩ hans navn til Tsidkijahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "og satte … til konge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanja"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanja"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "hans farbror"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i stedet for ham"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "og vendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:19.805791492Z",
+  "model": "glm-5.3"
+}

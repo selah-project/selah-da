@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Vi har handlet søndertrættende imod dig og har ikke vogtet ⟨את⟩ budene og ⟨את⟩ anordningerne og ⟨את⟩ dommene, som du bød ⟨את⟩ Moshe, din træl.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "bryde ned"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "vi har handlet søndertrættende"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "vi har vogtet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budene"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "budene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "anordningerne"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "anordningerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dommene"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dommene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T19:05:17.924734665Z",
+  "model": "glm-5.3"
+}

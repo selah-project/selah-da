@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "for at dømme ⟨את⟩ den faderløse og ⟨את⟩ den fortrykte, så det jordiske menneske ikke mere skal skræmme.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "for at dømme"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "den faderløse"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "og den fortrykte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "skal mere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "at skræmme"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:33.751769970Z",
+  "model": "glm-5.3"
+}

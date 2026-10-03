@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Josef døde, og alle hans brødre, og hele den slægt.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Og døde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "den slægt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:37.545708470Z",
+  "model": "glm-5.3"
+}

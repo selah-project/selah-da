@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "⟨Rul⟩ ham hen til Jahve — må han fri ham ud, må han redde ham, for han har behag i ham!",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "⟨Rul⟩ ham hen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "må han fri ham ud"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "må han redde ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "har behag i"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.871181190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Kom i hu, Jahve, hvad der er hændt os; se hen og betragt ⟨את⟩ vor skændsel.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kom i hu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er hændt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "se hen"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og betragt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor skændsel"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "vor skændsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:00.177584403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Jeg kender alle bjergenes fugle, og markens dyr ⟨er⟩ hos mig.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg kender"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugle"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergenes"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "og markens dyr"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hos mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:45.925976508Z",
+  "model": "glm-5.3"
+}

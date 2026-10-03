@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og dette skal være præsternes ret ⟨את⟩ fra folket, ⟨מאת⟩ fra dem slagter slagtofferet, enten okse eller får: han skal give præsten skulderen og de to kæber og maven.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "og dette"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsternes"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fra folket"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "dem slagter slagtofferet"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "fra dem slagter"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "slagtofferet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "enten"
+    },
+    {
+      "surface": "שור",
+      "gloss": "okse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "שה",
+      "gloss": "får"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "han skal give"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "skulderen"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "og de to kæber"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "og maven"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:23.197130618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han giver sne som uld; rim som aske strør han ud.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Han giver"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sne"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "som uld"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "rim"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "som aske"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "strør han ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:59.516858363Z",
+  "model": "glm-5.3"
+}

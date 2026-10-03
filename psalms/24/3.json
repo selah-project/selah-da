@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Hvem skal stige op på Jahves bjerg, og hvem skal stå på hans hellige sted?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skal stige op"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på ... bjerg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "skal stå"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på ... sted"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hans hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:42.956882104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Shaul så, at han handlede meget klogt, og han frygtede ham.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "handlede klogt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "og han frygtede"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:56.587031909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Så kastede jeg mig ned for Jahves ansigt de fyrre dage og de fyrre nætter, som jeg havde kastet mig ned, fordi Jahve havde sagt, at han ville ødelægge ⟨את⟩ jer.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "så kastede jeg mig ned"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fyrre dage"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "de fyrre nætter"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nætterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "jeg havde kastet mig ned"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "at ødelægge"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:23.223473067Z",
+  "model": "glm-5.3"
+}

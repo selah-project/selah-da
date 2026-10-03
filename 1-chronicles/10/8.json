@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og det skete dagen efter, at filisterne kom for at plyndre ⟨את⟩ de faldne, og de fandt ⟨את⟩ Shaul og ⟨את⟩ hans sønner liggende faldet på Gilboabjerget.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dagen efter"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at … kom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "for at plyndre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de faldne"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de faldne"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "og de fandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "liggende faldet"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboabjerget"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:48.720485892Z",
+  "model": "glm-5.3"
+}

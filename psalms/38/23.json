@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Skynd dig til min hjælp, Adonaj, min frelse!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Skynd dig"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "til min hjælp"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "min frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:35.077490121Z",
+  "model": "glm-5.3"
+}

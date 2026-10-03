@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Jahve frelste ⟨את⟩ Jisrael på den dag, og slaget gik forbi Bet-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "frelste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "og slaget"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gik forbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:31.808937557Z",
+  "model": "glm-5.3"
+}

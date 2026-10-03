@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Kom i hu, jeg beder, ⟨את⟩ ordet, som du bød ⟨את⟩ Moshe, din træl, og sagde: Hvis I handler troløst, vil jeg sprede ⟨את⟩ jer blandt folkene.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kom i hu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "du bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "handler troløst"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "vil jeg sprede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    }
+  ],
+  "timestamp": "2026-10-03T19:05:17.924968024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Den af Baashas ⟨folk⟩ som dør i byen, skal hundene æde, og den af hans ⟨folk⟩ som dør på marken, skal himlens fugle æde.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "den som dør"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "af Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundene"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "og den som dør"
+    },
+    {
+      "surface": "לו",
+      "gloss": "af ham"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:46.720890358Z",
+  "model": "glm-5.3"
+}

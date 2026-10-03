@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og de fortalte det til David, og han sendte bud ⟨for at møde⟩ dem, for mændene var dybt vanæret. Og kongen sagde: Bliv i Jeriko, til jeres skæg er vokset ud, og vend så tilbage.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Og de fortalte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og han sendte bud"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "for at møde dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "vanæret"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dybt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Bliv"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "i Jeriko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "er vokset ud"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "jeres skæg"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "og vend så tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:33.918630408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "da vil Jahve din Elohim vende ⟨את⟩ din fangenskab og vise dig barmhjertighed, og han vil vende om og samle dig fra alle de folk, hvortil Jahve din Elohim har spredt dig —",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "da vil … vende"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din fangenskab"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "din fangenskab"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "og vise dig barmhjertighed"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og han vil vende om"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "og samle dig"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "de folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvortil"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "har spredt dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:29.238293595Z",
+  "model": "glm-5.3"
+}

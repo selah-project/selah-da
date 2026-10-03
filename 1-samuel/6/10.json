@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og mændene gjorde så, og de tog to køer, som gav mælk, og spændte dem for vognen og lukkede ⟨את⟩ deres kalve inde i huset.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "køer"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "gav mælk"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "og spændte dem"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "for vognen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres kalve"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres kalve"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "lukkede inde"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:28.943404350Z",
+  "model": "glm-5.3"
+}

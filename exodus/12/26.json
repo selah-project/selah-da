@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og det skal ske, når jeres sønner siger til jer: Hvad er denne tjeneste for jer?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jeres sønner"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tjeneste"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:27.670952333Z",
+  "model": "glm-5.3"
+}

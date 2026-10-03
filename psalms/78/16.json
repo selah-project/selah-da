@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han lod strømme vælde frem af klippen og lod vand strømme ned som floder.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "og han lod … vælde frem"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "strømme"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "af klippen"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "og lod … strømme ned"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "som floder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.603873941Z",
+  "model": "glm-5.3"
+}

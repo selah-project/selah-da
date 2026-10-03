@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Og velsignet ⟨er⟩ hans herlige navns navn til evigheden, og måtte hele jorden fyldes med hans herlighed ⟨את⟩ ⟨—⟩. Amen og amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Og velsignet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans herligheds"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "og måtte ... fyldes"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans herlighed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele jorden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "og amen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:48.704112232Z",
+  "model": "glm-5.3"
+}

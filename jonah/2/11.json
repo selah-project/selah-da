@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve sagde til fisken, og den spyede ⟨את⟩ Yona ud på ⟨den⟩ tørre grund.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og ... sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "til fisken"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "og den spyede ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "⟨den⟩ tørre grund"
+    }
+  ],
+  "timestamp": "2026-10-03T17:55:37.118801775Z",
+  "model": "glm-5.3"
+}

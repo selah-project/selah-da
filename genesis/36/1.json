@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og dette er Esavs afkom — han ⟨er⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "afkom"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:16.203501674Z",
+  "model": "glm-5.3"
+}

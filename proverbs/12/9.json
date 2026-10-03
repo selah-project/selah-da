@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Bedre er den ringeagtet, som har en træl, end den som ærer sig selv og mangler brød.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "den ringeagtet"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "og har en træl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨han⟩"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "end den som ærer sig selv"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "og mangler"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:51.071927545Z",
+  "model": "glm-5.3"
+}

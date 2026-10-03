@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Men ⟨את⟩ Benjamin, Josefs bror, sendte Jaakov ikke ⟨את⟩ med hans brødre, for han sagde: Måtte der ikke ramme ham en ulykke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans brødre"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "med hans brødre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "han sagde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "Måtte ... ikke"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ramme ham"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "en ulykke"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:25.263150635Z",
+  "model": "glm-5.3"
+}

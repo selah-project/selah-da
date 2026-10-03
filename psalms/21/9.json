@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Din hånd når ⟨את⟩ alle dine fjender, din højre hånd finder ⟨את⟩ dem, der hader dig.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "når"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dine fjender"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "finder"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "dem der hader dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:50.920876322Z",
+  "model": "glm-5.3"
+}

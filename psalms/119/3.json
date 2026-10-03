@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Ja, de øver ikke ondskab; på hans veje vandrer de.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "de øver"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "på hans veje"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vandrer de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.344951843Z",
+  "model": "glm-5.3"
+}

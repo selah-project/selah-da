@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Stumme ⟨blev⟩ ⟨de⟩, øens beboere; Tsidons købmænd, ⟨I⟩ som krydser havet, fyldte ⟨jer⟩.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Stumme ⟨blev⟩ ⟨de⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "beboere"
+    },
+    {
+      "surface": "אי",
+      "gloss": "øens"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "købmænd"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidons"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "krydser"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "fyldte ⟨jer⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T16:55:20.215280385Z",
+  "model": "glm-5.3"
+}

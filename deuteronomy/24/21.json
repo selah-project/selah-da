@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Når du høster din vingård, skal du ikke efterhøste bag dig; det skal være for den fremmede, for den faderløse og for enken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "du høster"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "din vingård"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "skal du efterhøste"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "bag dig"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "for den fremmede"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "for den faderløse"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "og for enken"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det skal være"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:42.053656521Z",
+  "model": "glm-5.3"
+}

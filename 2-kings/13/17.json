@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han sagde: Åbn vinduet mod øst. Og han åbnede ⟨det⟩. Og Elisja sagde: Skyd! Og han skød. Og han sagde: Frelsens pil tilhører Jahve, og frelsens pil mod Aram; og du skal slå ⟨את⟩ Aram i Afek, til ⟨ende⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Åbn"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "vinduet"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mod øst"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og han åbnede"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisja"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "Skyd"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "og han skød"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "pilen"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "frelsens"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tilhører Jahve"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "og pilen"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "frelsens"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "mod Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "og du skal slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "i Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ende"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:13.897526040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "I selv har set, hvad jeg gjorde mod Mitsrajim, og jeg bar jer på ørnenes vinger og bragte jer til mig.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "I selv"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "har set"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jeg gjorde"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "mod Mitsrajim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "og jeg bar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vingerne"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "ørnene"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "og bragte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:52.864855910Z",
+  "model": "glm-5.3"
+}

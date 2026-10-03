@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og nu: Min far lagde et tungt åg på jer, og jeg vil lægge mere på jeres åg. Min far tugtede ⟨את⟩ jer med pisk, og jeg ⟨vil tugte⟩ jer med skorpioner.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "på jer"
+    },
+    {
+      "surface": "על",
+      "gloss": "åg"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tungt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "vil lægge mere"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jeres åg"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tugtede"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "med pisk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "med skorpioner"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:00.086443646Z",
+  "model": "glm-5.3"
+}

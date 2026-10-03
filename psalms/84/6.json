@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "Salig er det menneske, hvis styrke er hos dig, ⟨og⟩ hvis hjerte har ⟨dine⟩ veje.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "det menneske"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "veje"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "i deres hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:29.444530512Z",
+  "model": "glm-5.3"
+}

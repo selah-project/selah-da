@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Disse er sønnerne af Seir, horiten, ⟨dem⟩ der boede i landet: Lotan og Shoval og Tzivon og Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønnerne af"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horiten"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "⟨dem⟩ der boede"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "og Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "og Tzivon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "og Ana"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:18.067205206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Når jeg sagde: Min fod glider — din chesed, Jahve, støtter mig.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "når"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "glider"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "min fod"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "støtter mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:17.350046948Z",
+  "model": "glm-5.3"
+}

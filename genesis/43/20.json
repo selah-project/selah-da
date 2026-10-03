@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og de sagde: Tilgiv, min herre, vi kom faktisk ned første gang for at købe mad.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Tilgiv"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kom ned"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "vi faktisk kom ned"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "første gang"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "for at købe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:13.648814153Z",
+  "model": "glm-5.3"
+}

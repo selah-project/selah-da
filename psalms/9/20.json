@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Stå op, Jahve! Må ikke dødelig mand få magt; lad folkeslagene dømmes for dit ansigt.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "stå op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "få magt"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dødelig mand"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "dømmes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:07.577970864Z",
+  "model": "glm-5.3"
+}

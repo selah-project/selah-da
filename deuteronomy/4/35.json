@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Dig blev det vist, for at du skulle vide, at Jahve, han ⟨er⟩ Elohim — der ⟨findes⟩ ingen anden foruden ham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "dig"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "blev det vist"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "for at du skulle vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "anden"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "foruden ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:19.915350168Z",
+  "model": "glm-5.3"
+}

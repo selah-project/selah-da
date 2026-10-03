@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Mange siger: Hvem vil lade os se ⟨det⟩ gode? Løft ⟨det⟩ lyse fra dit ansigt over os, Jahve!",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mange"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "siger"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "vil lade os se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨det⟩ gode"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Løft"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨det⟩ lyse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "fra dit ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:41.467909674Z",
+  "model": "glm-5.3"
+}

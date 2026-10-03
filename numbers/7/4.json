@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Jahve talte til Moshe og sagde:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:42.265834431Z",
+  "model": "glm-5.3"
+}

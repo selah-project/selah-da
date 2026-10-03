@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 3:13",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg har kundgjort ham, at jeg dømmer ⟨את⟩ hans hus for evigt, for den skyld, at han vidste, at hans sønner bandt forbandelse over sig selv, og han ikke hindrede dem.",
+  "tokens": [
+    {
+      "surface": "והגדתי",
+      "gloss": "Og jeg har kundgjort"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans hus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "for"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigt"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "for den skyld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "han vidste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "מקללים",
+      "gloss": "bandt forbandelse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "over sig selv"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "hindrede"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:45.406713386Z",
+  "model": "glm-5.3"
+}

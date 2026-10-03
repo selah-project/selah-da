@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "translation": "Fortæl blandt folkeslagene hans herlighed, blandt alle folkene hans under!",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Fortæl"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "blandt folkeslagene"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans herlighed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "blandt alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "hans under"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:33.417245793Z",
+  "model": "glm-5.3"
+}

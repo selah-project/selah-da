@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Du vender os baglæns foran fjenden, og de der hader os, plyndrer for egen vindning.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Du vender os"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "baglæns"
+    },
+    {
+      "surface": "מני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "og de der hader os"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "plyndrer"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for egen vindning"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:28.831056469Z",
+  "model": "glm-5.3"
+}

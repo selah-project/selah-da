@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Jern slibes mod jern, og én mand sliber ⟨את⟩ ansigtet på sin næste.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "jern"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "mod jern"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "slibes"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og én mand"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sliber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "på sin næste"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:24.594150899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, vend tilbage! Se dog ned fra himlene og skue, og se til denne vinstok!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "se ned"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "fra himlene"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og skue"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "og se til"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vinstok"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:03.818754464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Et forvendt hjerte skal vige fra mig; ondt skal jeg ikke kende.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "forvendt"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "skal vige"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "skal jeg kende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:41.306338402Z",
+  "model": "glm-5.3"
+}

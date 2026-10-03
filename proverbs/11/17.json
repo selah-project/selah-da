@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "En mand viser sin sjæl chesed, og den, der skader sit eget kød, ⟨er⟩ grusom.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "viser (gengælder)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin sjæl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "og den, der skader"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "sit eget kød"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "grusom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:22.878784622Z",
+  "model": "glm-5.3"
+}

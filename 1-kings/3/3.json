@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Shelomo elskede ⟨את⟩ Jahve ved at vandre i Davids, sin fars, vedtægter; kun på højsederne ofrede han og brændte røgelse.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Og elskede"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ved at vandre"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "i vedtægter"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "på højsederne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ofrede"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "og brændte røgelse"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:51.318504789Z",
+  "model": "glm-5.3"
+}

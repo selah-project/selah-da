@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "ham der bøjer sig ned for at se i himlene og på jorden —",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ham der bøjer sig ned"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "og på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:06.075692824Z",
+  "model": "glm-5.3"
+}

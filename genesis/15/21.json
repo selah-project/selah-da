@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "og ⟨את⟩ emoritten og ⟨את⟩ kanaanæeren og ⟨את⟩ girgasjitten og ⟨את⟩ jevusitten.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "emoritten"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "girgasjitten"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgasjitten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jevusitten"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevusitten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:26.320006035Z",
+  "model": "glm-5.3"
+}

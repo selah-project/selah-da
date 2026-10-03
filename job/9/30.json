@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Om jeg badede mig med sne, og med lud rensede mine hænder —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "badede jeg mig"
+    },
+    {
+      "surface": "במו",
+      "gloss": "med"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sne"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "og rensede"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "med lud"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mine hænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:34.939478671Z",
+  "model": "glm-5.3"
+}

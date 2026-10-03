@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Jaakov så ⟨את⟩ Lavans ansigt, og se, det var ikke med ham som i går og før i går.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavans"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "det var ikke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "som i går"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "og før i går"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:46.034103905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og tjeneren lagde ⟨את⟩ sin hånd under låret på Avraham, sin herre, og svor ham ⟨ed⟩ på denne sag.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "og lagde"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "tjeneren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "låret"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "og svor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "denne sag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:33.748162147Z",
+  "model": "glm-5.3"
+}

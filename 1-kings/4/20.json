@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Judah og Jisrael var mange, som sandet ved havet i mangfoldighed, spisende og drikkende og glade.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "og Jisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "var mange"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "som sandet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i mangfoldighed"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "spisende"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "og drikkende"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "og glade"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:00.656560978Z",
+  "model": "glm-5.3"
+}

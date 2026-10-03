@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 35:9",
+  "book": "job",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "På grund af megen undertrykkelse ⟨gør de dem til at⟩ skrige; de råber om hjælp på grund af de mægtiges arm.",
+  "tokens": [
+    {
+      "surface": "מרב",
+      "gloss": "på grund af mangen"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "undertrykkelse"
+    },
+    {
+      "surface": "יזעיקו",
+      "gloss": "gør til at skrige"
+    },
+    {
+      "surface": "ישועו",
+      "gloss": "råber om hjælp"
+    },
+    {
+      "surface": "מזרוע",
+      "gloss": "på grund af arm"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "de mægtige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:04.530215304Z",
+  "model": "glm-5.3"
+}

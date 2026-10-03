@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Hans sønner er langt fra frelse, og de knuses i porten, og der er ingen, som redder dem.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "er langt fra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Hans sønner"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "og de knuses"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nogen, som redder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:06.738011712Z",
+  "model": "glm-5.3"
+}

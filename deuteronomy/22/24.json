@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 22:24",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "så skal I føre dem begge ud til porten af den by, og I skal stene dem ⟨את⟩ med stene, og de skal døre: pigen, fordi hun ikke skreg i byen, og manden, fordi han krænkede ⟨את⟩ sin næstes hustru; og du skal udrydde det onde fra din midte.",
+  "tokens": [
+    {
+      "surface": "והוצאתם",
+      "gloss": "så skal I føre ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem begge"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "dem begge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porten"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "af byen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "og I skal stene"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "med stene"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "og de skal dø"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pigen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pigen"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "angående"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "hun skreg"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "angående"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "han krænkede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næstes hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustruen"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "af sin næste"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "og du skal udrydde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "fra din midte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:06.488289418Z",
+  "model": "glm-5.3"
+}

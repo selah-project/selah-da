@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Og Jisrael kom til Mitsrajim, og Jaakov boede som fremmed i Kams land.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "og Jaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "boede som fremmed"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kam"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:10.495655690Z",
+  "model": "glm-5.3"
+}

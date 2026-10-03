@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og præsten skal gå ud af huset til husets indgang, og han skal lukke huset inde i syv dage.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og han skal gå ud"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "indgangen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "og han skal lukke inde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:16.835760521Z",
+  "model": "glm-5.3"
+}

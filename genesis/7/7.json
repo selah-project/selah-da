@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Noach gik ind, og hans sønner, og hans hustru, og hans sønners hustruer ⟨med ham⟩, ind i arken, for vandenes skyld — flodens vand.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og gik ind"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "og hustruerne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "til hans sønner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for skylden af"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "floden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:08.631412020Z",
+  "model": "glm-5.3"
+}

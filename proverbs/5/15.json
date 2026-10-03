@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Drik vand fra ⟨din⟩ cisterne, og strømmende ⟨vand⟩ fra midten af ⟨din⟩ brønd.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "drik"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "fra din cisterne"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "og strømmende"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "fra midten af"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "din brønd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:08.212589249Z",
+  "model": "glm-5.3"
+}

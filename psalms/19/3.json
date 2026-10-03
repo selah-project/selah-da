@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Dag til dag strømmer tale frem, og nat til nat kunngør kundskab.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Dag"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "til dag"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "strømmer frem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tale"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "til nat"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "kunngør"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kundskab"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:16.943837924Z",
+  "model": "glm-5.3"
+}

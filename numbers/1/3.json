@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "fra tyve år og opefter, alle i Jisrael som går ud i hærtjeneste — ⟨את⟩ dem skal I optælle efter deres hære, du og Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "fra … år"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "og opefter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "som går ud"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "i hærtjeneste"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "skal I optælle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (alle som går ud i hærtjeneste)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "efter deres hære"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:45.290337552Z",
+  "model": "glm-5.3"
+}

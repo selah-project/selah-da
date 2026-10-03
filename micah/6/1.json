@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Hør nu ⟨את⟩ det, som Jahve siger: Rejs dig, før din sag ⟨את⟩ med bjergene, og lad højene høre din røst!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Jahve siger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Rejs dig"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "før din sag med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med",
+      "marks": "bjergene"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "og lad … høre"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "højene"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "din røst"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:44.737767779Z",
+  "model": "glm-5.3"
+}

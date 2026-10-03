@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og jeg gik og gemte den ved Perat, således som Jahve havde befalet mig ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "og jeg gik"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "og gemte den"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "ved Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befaltet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:14:23.330621077Z",
+  "model": "glm-5.3"
+}

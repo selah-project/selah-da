@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Dine modstandere brøler midt i din forsamlingsplads; de har sat deres tegn ⟨som⟩ tegn.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "brøler"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dine modstandere"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "din forsamlingsplads"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de har sat"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "deres tegn"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "som tegn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:06.028234180Z",
+  "model": "glm-5.3"
+}

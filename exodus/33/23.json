@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og jeg tager ⟨את⟩ min hånd bort, og du skal se ⟨את⟩ min bagside, men mit ansigt skal ikke ses.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Og jeg tager bort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hånd"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "og du skal se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min bagside"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "min bagside"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "skal ses"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:15.766420964Z",
+  "model": "glm-5.3"
+}

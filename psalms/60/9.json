@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Gilad er mit, og Menasheh er mit; Efraim er mit hoveds værn, Jehudah er min lovgiver.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "er mit"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "og er mit"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "vern"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mit hoveds"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "min lovgiver"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:07.857503644Z",
+  "model": "glm-5.3"
+}

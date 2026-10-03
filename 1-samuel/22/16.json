@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og kongen sagde: Du skal visseligt dø, Akhimelek, du og hele din fars hus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visseligt dø"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skal du dø"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fars"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:30.890368367Z",
+  "model": "glm-5.3"
+}

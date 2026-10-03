@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "da han viste ⟨את⟩ rigdommen af sin kongeriges herlighed og ⟨את⟩ æren af sin storheds pragt, mange dage — halvfemsindstyve og hundrede dage.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "da han viste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rigdommen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rigdommen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sin kongeriges"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "æren"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "æren"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "pragt"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "sin storheds"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "halvfemsindstyve"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "og hundrede"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:52.120946843Z",
+  "model": "glm-5.3"
+}

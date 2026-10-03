@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Med arm løskøbte du dit folk, Jaakovs sønner og Josef. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "løskøbte du"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "med arm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "og Josef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:48.951938416Z",
+  "model": "glm-5.3"
+}

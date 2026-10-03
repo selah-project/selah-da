@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Kalebs, Jefunnes søns, sønner: Iru, Elah og Naam; og Elahs sønner: Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og … sønner"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnes"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "og Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og … sønner"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elahs"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenaz"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:16.876792962Z",
+  "model": "glm-5.3"
+}

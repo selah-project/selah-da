@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "fordi de trodsede Els ord og Elyons råd foragtede,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "trodsede"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "og råd"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyons"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "foragtede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:03.595939075Z",
+  "model": "glm-5.3"
+}

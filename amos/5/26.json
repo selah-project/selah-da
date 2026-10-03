@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og I bar ⟨את⟩ Sikut, eders konge, og ⟨את⟩ Kijun, eders billedstøtter, eders guders stjerne, som I gjorde til eder selv.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Og I bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut, eders konge"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "eders konge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kijun, eders billedstøtter"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kijun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "eders billedstøtter"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "stjernen"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "eders guders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "I gjorde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til eder selv"
+    }
+  ],
+  "timestamp": "2026-10-03T17:54:25.230417494Z",
+  "model": "glm-5.3"
+}

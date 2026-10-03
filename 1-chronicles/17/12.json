@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Han skal bygge et hus for mig, og jeg vil fast grundfæste ⟨את⟩ hans trone til evigheden.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "skal bygge"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "og jeg vil fast grundfæste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans trone"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hans trone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:51.356805454Z",
+  "model": "glm-5.3"
+}

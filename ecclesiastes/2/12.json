@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg vendte mig, jeg, til at se visdom og dårskab og dumhed; for hvad kan ⟨det⟩ mennesket ⟨gøre⟩, som kommer efter kongen — ⟨את⟩ det som man allerede har gjort med ham?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Og jeg vendte mig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "til at se"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visdom"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "og dårskab"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "og dumhed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kan mennesket"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "som kommer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som man allerede har gjort med ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allerede"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "har gjort med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:15.545388993Z",
+  "model": "glm-5.3"
+}

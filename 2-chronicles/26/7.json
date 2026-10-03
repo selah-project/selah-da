@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Elohim hjalp ham mod filisterne og mod araberne, der boede i Gur-Baal, og mod meuniterne.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "og hjalp ham"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "araberne"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "der boede"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "i Gur"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "og meuniterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:29.653795240Z",
+  "model": "glm-5.3"
+}

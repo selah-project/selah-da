@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og hun fødte til vækst ⟨את⟩ hans broder, ⟨את⟩ Hevel. Og Hevel blev hyrde for småkvæg, og Kajin blev arbejder af jorden.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Og hun fødte til vækst"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "at føde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans broder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og han blev"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hyrde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småkvæg"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "og Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "blev"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "arbejder"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "af jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:50.235372340Z",
+  "model": "glm-5.3"
+}

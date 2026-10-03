@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Frels mig fra løvens gab, og fra vilde oksernes horn — du har svaret mig!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Frels mig"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "fra gab"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "løvens"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "og fra horn"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "vilde oksernes"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "du har svaret mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:58.387396376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Da sagde Shelomo: Jahve har sagt, at han vil bo i ⟨det⟩ mørke ⟨sky⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Da"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "at bo"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "i mørket"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:29.028296432Z",
+  "model": "glm-5.3"
+}

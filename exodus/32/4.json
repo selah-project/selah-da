@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han tog ⟨את⟩ det fra deres hånd og formede det med en mejsel og gjorde det til en støbt kalv, og de sagde: Disse er dine guder, Jisrael, som førte dig op fra landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "fra deres hånd"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "og formede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "med en mejsel"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "og gjorde det"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kalv"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "støbt"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "er dine guder"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "førte dig op"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:28.058900663Z",
+  "model": "glm-5.3"
+}

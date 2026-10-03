@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 27:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Hans levninger begraves i døden, og hans enker græder ikke.",
+  "tokens": [
+    {
+      "surface": "שרידו",
+      "gloss": "Hans levninger"
+    },
+    {
+      "surface": "במות",
+      "gloss": "i døden"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "begraves"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "og hans enker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "græder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:12.661132099Z",
+  "model": "glm-5.3"
+}

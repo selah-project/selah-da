@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og de så ⟨את⟩ Jisraels Elohim, og under hans fødder ⟨var det⟩ som et belagt virke af safirsten og som selve himlene i deres renhed.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Og de så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "og under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fødder"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "som et virke"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "belagt af"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safiren"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "og som selve væsenet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "af himlene"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "i renhed"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:39.847269775Z",
+  "model": "glm-5.3"
+}

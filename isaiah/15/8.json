@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "For skriget har omsluttet ⟨את⟩ Moabs grænse; indtil Eglajim når dets hyl, og til Be'er-Elim dets hyl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "har omsluttet"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "skriget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabs grænse"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænse"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglajim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "når dets hyl"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "og til Be'er"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "-Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "dets hyl"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:42.021883634Z",
+  "model": "glm-5.3"
+}

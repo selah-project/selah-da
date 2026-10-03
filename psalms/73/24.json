@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Med dit råd vil du lede mig, og bagefter tage mig mod ⟨i⟩ herlighed.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Med dit råd"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vil du lede mig"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "tage mig mod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:21.093031987Z",
+  "model": "glm-5.3"
+}

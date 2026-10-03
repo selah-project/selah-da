@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Abner kom til David i Chevron sammen med ⟨את⟩ tyve mænd, og David gjorde et gæstebud for Abner og for de mænd, ⟨את⟩ som var sammen med ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og han kom"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "sammen med ⟨את⟩",
+      "marks": "tyve mænd"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "for Abner"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "og for mændene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sammen med ham ⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "gæstebud"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:00.043364964Z",
+  "model": "glm-5.3"
+}

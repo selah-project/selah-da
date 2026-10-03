@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han bøjede himlene og steg ned, og tæt mørke var under hans fødder.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "og han bøjede"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og steg ned"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "og tæt mørke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hans fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:00.444820233Z",
+  "model": "glm-5.3"
+}

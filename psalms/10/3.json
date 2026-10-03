@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Thi den onde praler over sin sjæls begær, og den vindskibne velsigner ⟨את⟩ Jahve og trodser ham.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "praler"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "begær"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin sjæls"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "og den vindskibne"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsigner"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "trodser"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:27.685967107Z",
+  "model": "glm-5.3"
+}

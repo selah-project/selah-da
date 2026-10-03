@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "For min sjæl er mæt med onde ting, og mit liv er nået til Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "er mæt"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "med onde ting"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "og mit liv"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "er nået"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:35.947906289Z",
+  "model": "glm-5.3"
+}

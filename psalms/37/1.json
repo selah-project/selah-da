@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Af David. Glød ikke af vrede over de slette, misund ikke dem, der gør uret.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "glød af vrede"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "over de slette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "misund"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "dem, der gør"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "uret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:11.972706655Z",
+  "model": "glm-5.3"
+}

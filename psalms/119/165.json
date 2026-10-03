@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Stor shalom hører ⟨dem⟩ til, der elsker din Tora; og der er intet snublestrå for dem.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "⟨dem⟩ til, der elsker"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "din Tora"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er intet"
+    },
+    {
+      "surface": "למו",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "snublestrå"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:58.207417494Z",
+  "model": "glm-5.3"
+}

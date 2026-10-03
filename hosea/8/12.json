@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jeg skrev ham tusind ting af min Tora; som noget fremmed blev de regnet.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Jeg skrev"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "tusind ting"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "af min Tora"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "זר",
+      "gloss": "noget fremmed"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "blev de regnet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:33.933112949Z",
+  "model": "glm-5.3"
+}

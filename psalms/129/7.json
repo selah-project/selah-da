@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 129,
+  "translation": "Hvoraf mejeren ikke fylder sin hånd, og negbinderen ikke sit skød.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "som… ikke"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fylder"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "mejeren"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "og sit skød"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "negbinderen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:09.513733427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og du skal lyde Jahve, din Elohims røst og handle ⟨את⟩ hans bud og ⟨את⟩ hans vedtægter, som jeg byder dig i dag.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "og du skal lyde"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og handle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans bud"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans vedtægter"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hans vedtægter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "byder dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:14.084430500Z",
+  "model": "glm-5.3"
+}

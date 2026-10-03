@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "De skal vogte ⟨את⟩ hans tjeneste og ⟨את⟩ vagten for hele menigheden foran mødeteltet, ved at udføre ⟨את⟩ tjenesten ved Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "De skal vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans tjeneste"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "hans tjeneste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vagten"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vagten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "menigheden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde-"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ved at udføre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjenesten"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tjenesten"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ved Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:10.944629448Z",
+  "model": "glm-5.3"
+}

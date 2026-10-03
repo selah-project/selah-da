@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og ⟨את⟩ Chesjbon med dens græsgange og ⟨את⟩ Ja'azir med dens græsgange",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chesjbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesjbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'azir"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Ja'azir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:33.668888865Z",
+  "model": "glm-5.3"
+}

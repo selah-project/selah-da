@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Også jeg vil le ved eders ulykke, spotte, når eders frygt kommer.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "ved eders ulykke"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "vil le"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "spotte"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "når ... kommer"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "eders frygt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:43.642148684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve Elohim bød mennesket og sagde: Af hvert træ i haven må du helt frit spise.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og bød"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "(til)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Af hvert"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "i haven"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spise"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "du må spise"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:21.835783195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og kongen kom, og Haman, for at drikke med Ester dronningen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "og Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "for at drikke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "dronningen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:24.099861695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Jeg vil svare dig med ord, og ⟨את⟩ dine venner ⟨som er⟩ med dig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "vil svare dig"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dine venner"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "dine venner"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "med dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:44:14.145043567Z",
+  "model": "glm-5.3"
+}

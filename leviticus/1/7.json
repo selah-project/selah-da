@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Aharons sønner, præsten, skal lægge ild på alteret og ordne brændet på ilden.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "og de skal lægge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "og ordne"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "brændet"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:16.018624640Z",
+  "model": "glm-5.3"
+}

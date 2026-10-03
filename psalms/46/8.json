@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Jahve Tsevaot ⟨er⟩ med os, Jaakovs Elohim ⟨er⟩ vor borg. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med os"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "borg"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:18.626673044Z",
+  "model": "glm-5.3"
+}

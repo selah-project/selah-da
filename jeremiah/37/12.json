@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 37:12",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "gik Jirmejahu ud fra Jerushalajim for at gå til Binjamins land for at få en del der iblandt folket.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gik ... ud"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "fra Jerushalajim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "for at gå"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamins"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "for at få en del"
+    },
+    {
+      "surface": "משם",
+      "gloss": "der"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iblandt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T17:23:41.642235429Z",
+  "model": "glm-5.3"
+}

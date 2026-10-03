@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "For der var ikke blevet holdt en pesach som denne fra dommernes dage, de som dømte ⟨את⟩ Jisrael, og i alle Israels kongers dage og Judas kongers dage.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "var blevet holdt"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "en pesach som"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "fra ... dage"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "dommernes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de som"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "dømte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongers"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "og Judas kongers"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:33.543733157Z",
+  "model": "glm-5.3"
+}

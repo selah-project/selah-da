@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Fra ⟨את⟩ dig kommer min lovsang i den store forsamling; mine løfter vil jeg indfri foran dem der frygter ham.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "fra ⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "min lovsang"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i forsamlingen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mine løfter"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "vil jeg indfri"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem der frygter ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:22.531437204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Kom, lad os give vor far vin at drikke og ligge hos ham, så vi kan holde liv i afkom fra vor far.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "lad os give ... at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vor far"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "vor far"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "og ligge"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "så vi kan holde liv i"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "fra vor far"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "afkom"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:56.777705199Z",
+  "model": "glm-5.3"
+}

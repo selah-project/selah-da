@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Og jeg vil ⟨sætte⟩ hans sæd til evighed, og hans trone som himlenes dage.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "og jeg vil sætte"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til evighed"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans sæd"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "og hans trone"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "som dage"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlenes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:22.001168740Z",
+  "model": "glm-5.3"
+}

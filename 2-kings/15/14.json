@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Menachem, søn af Gadi, gik op fra Tirtsa og kom til Shomron og slog ⟨את⟩ Shallum, søn af Javesh, i Shomron og dræbte ham, og han blev konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "og gik op"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "af Gadi"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "fra Tirtsa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "til Shomron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum, søn af Javesh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "af Javesh"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "og dræbte ham"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og blev konge"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:09.352219284Z",
+  "model": "glm-5.3"
+}

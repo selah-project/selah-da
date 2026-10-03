@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og præsterne bragte ⟨את⟩ Jahves pagts ark til dens plads, til husets debir, til det allerhelligste, ind under kerubernes vinger.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Og bragte"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves pagts ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "dens plads"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligste"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "aller-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind under"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vingerne"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubernes"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:23.591346973Z",
+  "model": "glm-5.3"
+}

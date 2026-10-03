@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og en mand, når der går ud fra ham en udsæd af sædleje, skal han bade ⟨את⟩ hele sit kød i vand, og han skal være uren til aftenen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og en mand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra ham"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "et sædleje"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "af sæd"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "skal han bade"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele sit kød"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sit kød"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og være uren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "aftenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:30.895983792Z",
+  "model": "glm-5.3"
+}

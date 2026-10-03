@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Den af Parohs tjenere, der frygtede Jahves ⟨את⟩ ord, drev ⟨את⟩ sine tjenere og ⟨את⟩ sit kvæg i ly i husene.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "den der frygtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "af tjenere"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "drev i ly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine tjenere"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sine tjenere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sit kvæg"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sit kvæg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "husene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:48.898929006Z",
+  "model": "glm-5.3"
+}

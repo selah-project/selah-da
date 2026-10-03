@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Kun ⟨את⟩ dens blod må du ikke spise; på jorden skal du udgyde det, som vand.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dens blod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "må du spise"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "skal du udgyde det"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:37.235269544Z",
+  "model": "glm-5.3"
+}

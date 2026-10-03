@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "og om morgenen skal I se ⟨את⟩ Jahves herlighed, når han hører ⟨את⟩ jeres klager mod Jahve; og hvad er vi, siden I klager mod os?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "og om morgenen"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "skal I se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves herlighed"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herligheden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "når han hører"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres klager"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "jeres klager"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "og vi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siden"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "I klager"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mod os"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:46.538433655Z",
+  "model": "glm-5.3"
+}

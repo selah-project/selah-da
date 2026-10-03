@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Jeg søgte ⟨את⟩ Jahve, og han svarede mig og friede mig fra alle mine rædsler.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "jeg søgte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "og han svarede mig"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "og fra alle"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mine rædsler"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "friede mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:25.344555870Z",
+  "model": "glm-5.3"
+}

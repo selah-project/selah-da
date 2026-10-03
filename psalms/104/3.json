@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Han, der lægger bjælkerne til sine øvre sale i vandene, han, der gør skyerne til sin vogn, han, der vandrer på ruachens vinger.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "der lægger bjælker"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vandene"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "sine øvre sale"
+    },
+    {
+      "surface": "השם",
+      "gloss": "der gør"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "sin vogn"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "der vandrer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ruachens vinger"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruachen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.226886986Z",
+  "model": "glm-5.3"
+}

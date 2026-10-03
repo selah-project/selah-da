@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Og han iklædte sig forbandelsen som sin klædning, og den trængte ind som vand i hans indre og som olie i hans knogler.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "og han iklædte sig"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "forbandelsen"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "som sin klædning"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "og den trængte ind"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i hans indre"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "og som olie"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "i hans knogler"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:19.342316002Z",
+  "model": "glm-5.3"
+}

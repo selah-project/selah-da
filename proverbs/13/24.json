@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Den, der holder sin stav tilbage, hader sin søn, men den, der elsker ham, søger ham tidligt med tugt.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "holder tilbage"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "sin stav"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hader"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "men den, der elsker ham"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "søger tidligt"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:06.755167680Z",
+  "model": "glm-5.3"
+}

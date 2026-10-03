@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Azarja avlede ⟨את⟩ Seraja, og Seraja avlede ⟨את⟩ Jehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "og Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "og Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadak"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:36.807326227Z",
+  "model": "glm-5.3"
+}

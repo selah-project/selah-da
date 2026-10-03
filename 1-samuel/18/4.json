@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Jehonatan trak ⟨את⟩ kappen af, som var på ham, og gav den til David, både sine klæder og sit sværd og sin bue og sit bælte.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Og Jehonatan trak af"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kappen"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kappen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "var på ham"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "og gav den"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "både sine klæder"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sit sværd"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sin bue"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "sit bælte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:21.889062328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Til korlederen — »Ødelæg ikke« — af David, en mikhtam, da Shaul sendte ⟨bud⟩, og de holdt ⟨את⟩ huset i øje for at dræbe ham.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ødelæg"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "en mikhtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "da … sendte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "og de holdt … i øje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "for at dræbe ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:47.070165832Z",
+  "model": "glm-5.3"
+}

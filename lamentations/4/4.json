@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Diebarnets tunge klæber til dets gane i tørst; småbørnene beder om brød, men ingen deler det ud til dem.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "klæber"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tungen"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "diebarnets"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "dets gane"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "i tørst"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "småbørnene"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "beder"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "om brød"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "deler ud"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:50:07.776786810Z",
+  "model": "glm-5.3"
+}

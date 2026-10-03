@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Du skal søge dem og ikke finde dem, dine stridens mænd; de skal blive som intet og som en tomhed, dine krigens mænd.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "du skal søge dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "finde dem"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "af din strid"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "de skal blive"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "som intet"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "og som en tomhed"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "af din krig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:43.857012465Z",
+  "model": "glm-5.3"
+}

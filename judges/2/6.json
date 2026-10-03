@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jehoshua sendte ⟨את⟩ folket bort, og Jisraels sønner gik, hver mand til sin arv, for at tage ⟨את⟩ landet i besiddelse.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og … sendte bort"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og … gik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "til sin arv"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "for at tage i besiddelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:01.308349471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han valgte ⟨את⟩ Jehudas stamme, ⟨את⟩ Tsiyon-bjerget, som han elskede.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "og han valgte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudas stamme"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stammen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon-bjerget"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "han elskede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:26.100701299Z",
+  "model": "glm-5.3"
+}

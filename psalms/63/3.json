@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Således har jeg skuet dig i helligdommen, for at se din styrke og din herlighed.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Således"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helligdommen"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "har jeg skuet dig"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "for at se"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "din styrke"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "og din herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:52.216478529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "For det, jeg frygtede, kom over mig, og det, jeg var bange for, kom til mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "det frygtede"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "jeg frygtede"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "kom over mig"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og det, som"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "jeg var bange for"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:24.994179987Z",
+  "model": "glm-5.3"
+}

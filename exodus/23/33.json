@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "De skal ikke bo i dit land, for at de ikke skal få dig til at synde imod mig; for du vil tjene deres guder — for det ⟨skal⟩ blive til en snare for dig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "skal de bo"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i dit land"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ikke"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "skal de få til at synde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "du vil tjene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres guder"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres guder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "det skal være"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "til en snare"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:19.232575344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og du må ikke gå op ad trin på mit alter, for at din blusel ikke skal blottes på det.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "må du gå op"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "ad trin"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mit alter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "for at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "skal blottes"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "din blusel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:28.399100781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Du må ikke mule opoksen, mens den tærsker sit korn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Du må ikke"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "mule"
+    },
+    {
+      "surface": "שור",
+      "gloss": "opoksen"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "mens den tærsker sit korn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:05.499542659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og David viste sig stærkere end filisteren med en slynge og med en sten og ramte filisteren og dræbte ham; men der var intet sværd i Davids hånd.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og … viste sig stærkere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "end"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "med en slynge"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "og med en sten"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og ramte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteren"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "og dræbte ham"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "men … sværd"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der var intet"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i … hånd"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:22.645870926Z",
+  "model": "glm-5.3"
+}

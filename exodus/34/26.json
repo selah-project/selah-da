@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 34:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Det første af førstegrøden af din jord skal du bringe til Jahves, din Elohims, hus. Du må ikke koge et kid i dets mors mælk.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "det første"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "førstegrøde"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "af din jord"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "skal du bringe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "du må ikke koge"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kid"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "i mælk"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "dets mor"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:48.406657505Z",
+  "model": "glm-5.3"
+}

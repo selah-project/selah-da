@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Den El, der giver mig hævn og bringer folkene ned under mig.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "den El"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "der giver"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "hævn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "og bringer ned"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "under mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:00.313681515Z",
+  "model": "glm-5.3"
+}

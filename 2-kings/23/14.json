@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han knuste ⟨את⟩ stenstøtterne og huggede ⟨את⟩ ashera-pælene om og fyldte ⟨את⟩ deres sted med menneskeknogler.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "og han brød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenstøtterne"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "stenstøtterne"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "og han huggede om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashera-pælene"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ashera-pælene"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "og han fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sted"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "deres sted"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "knogler"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "af menneske"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:21.542363561Z",
+  "model": "glm-5.3"
+}

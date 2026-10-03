@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Sangenes sang, som er Shelomos.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sang"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "sangenes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "er Shelomos"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:30.746074670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Du sender din ruach ud, de skabes, og du fornyr jordens ansigt.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Du sender ud"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "din ruach"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "de skabes"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "og du fornyr"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:12.055562346Z",
+  "model": "glm-5.3"
+}

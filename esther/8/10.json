@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han skrev i kongen Achashveroshs navn og forseglede med kongens ring og sendte breve ved løbernes hånd på heste, ryttere på hurtige avlshopper, de kongeligepagesize, afkom af stutteriheste.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "og han skrev"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navnet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "og forseglede"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "med ringen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "breve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånden af"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "løberne"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "på heste"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "ryttere på"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "de hurtige"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "de kongelige"
+    },
+    {
+      "surface": "בני",
+      "gloss": "afkom af"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "stutterihestene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:32.356524127Z",
+  "model": "glm-5.3"
+}

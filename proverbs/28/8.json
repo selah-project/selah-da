@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 28:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Den, der forøger sin rigdom ved rente og åger, samler den for én, der er nådig mod de fattige.",
+  "tokens": [
+    {
+      "surface": "מרבה",
+      "gloss": "Den, der forøger"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "sin rigdom"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ved åger"
+    },
+    {
+      "surface": "ובתרבית",
+      "gloss": "og rente"
+    },
+    {
+      "surface": "לחונן",
+      "gloss": "for én, der er nådig"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "mod de fattige"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "samler den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:46.915898191Z",
+  "model": "glm-5.3"
+}

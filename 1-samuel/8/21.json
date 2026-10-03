@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Shmuel hørte ⟨את⟩ alle folkets ord og talte dem i Jahves ører.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle folkets ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "og talte dem"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i ørerne af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:15.130958355Z",
+  "model": "glm-5.3"
+}

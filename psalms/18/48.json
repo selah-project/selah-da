@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "⟨Den⟩ El, som giver hævn til mig og undersåtter folk under mig.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "som giver"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "hævn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "og undersåtter"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folk"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "under mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:03.341673405Z",
+  "model": "glm-5.3"
+}

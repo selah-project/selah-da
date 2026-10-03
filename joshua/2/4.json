@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og kvinden tog ⟨את⟩ de to mænd og gemte dem, og hun sagde: Jo, mændene kom til mig, men jeg ved ikke, hvorfra de var.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "האשׁה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to mænd"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "האנשׁים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "og gemte dem"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Jo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "האנשׁים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ved jeg"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hvorfra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    }
+  ],
+  "timestamp": "2026-10-03T15:37:11.797576367Z",
+  "model": "glm-5.3"
+}

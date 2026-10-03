@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "så skal de ældste i hans by sende bud og hente ham ⟨את⟩ derfra og give ham ⟨את⟩ i blodshævnerens hånd, og han skal dø.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "så skal de sende"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste i"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "hans by"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "og hente"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "og give"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hævneren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodets"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og han skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:57.599212851Z",
+  "model": "glm-5.3"
+}

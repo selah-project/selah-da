@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Kush avlede ⟨את⟩ Nimrod; han var den, der begyndte at være en gibbor på jorden.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Og Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "החל",
+      "gloss": "begyndte"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "at være"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "en gibbor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:56.669950768Z",
+  "model": "glm-5.3"
+}

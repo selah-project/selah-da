@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og han førte ⟨את⟩ præsterne og ⟨את⟩ leviterne ind og samlede dem på ⟨den⟩ østlige plads.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og han førte ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "præsterne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leviterne"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviterne"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "og samlede dem"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "på pladsen"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "den østlige"
+    }
+  ],
+  "timestamp": "2026-10-03T19:26:31.957661918Z",
+  "model": "glm-5.3"
+}

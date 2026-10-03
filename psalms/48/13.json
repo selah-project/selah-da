@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Gå rundt om Tzion, omkreds ⟨hende⟩, tæller hendes tårne.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Gå rundt om"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "omkreds ⟨hende⟩"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "tæller"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "hendes tårne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:46.950812757Z",
+  "model": "glm-5.3"
+}

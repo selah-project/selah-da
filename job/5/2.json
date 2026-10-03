@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "For vrede dræber dåren, og misundelse bringer den enfoldige i døden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "dræber"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "den enfoldige"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "bringer i døden"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "misundelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:06.737773254Z",
+  "model": "glm-5.3"
+}

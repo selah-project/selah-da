@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Din ⟨er⟩ arm med styrke; stærk ⟨er⟩ din hånd, ophøjet ⟨er⟩ din højre hånd.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "din"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "stærk ⟨er⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ophøjet ⟨er⟩"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:07.226334668Z",
+  "model": "glm-5.3"
+}

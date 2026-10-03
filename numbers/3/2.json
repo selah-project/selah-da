@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og dette er navnene på Aharons sønner: den førstefødte Nadav, og Avihu, Elazar og Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navnene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "og Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "og Itamar"
+    }
+  ],
+  "timestamp": "2026-10-03T15:04:32.639352824Z",
+  "model": "glm-5.3"
+}

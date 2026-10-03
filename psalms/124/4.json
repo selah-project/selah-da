@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 124,
+  "translation": "så havde vandene skyllet over os, en flodbæk var gået over vor sjæl,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "så"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "havde skyllet over os"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "en flodbæk"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "var gået"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "vor sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:05.935948566Z",
+  "model": "glm-5.3"
+}

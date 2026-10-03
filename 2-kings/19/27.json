@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Men jeg kender dit siddende og dit udgående og dit indgående, og ⟨את⟩ dit raseri mod mig.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "dit siddende"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "dit udgående"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "dit indgående"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg kender"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dit raseri mod mig"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "dit raseri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:44:40.836523057Z",
+  "model": "glm-5.3"
+}

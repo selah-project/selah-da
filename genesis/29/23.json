@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og det skete om aftenen, at han tog ⟨את⟩ Lea, sin datter, og førte ⟨את⟩ hende ind til ham; og han gik ind til hende.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om aftenen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "at han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea, sin datter"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin datter"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og førede"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ind til ham"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og han gik ind"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:31.465370480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "og du gav mig ikke i fjendens hånd, du satte mine fødder i et rum ⟨sted⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "gav mig"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjendens"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "du satte"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "i et rum"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mine fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:23.933972103Z",
+  "model": "glm-5.3"
+}

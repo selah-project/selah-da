@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim satte ⟨את⟩ dem i rakia'en i himlene til at lyse over jorden.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og … satte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem — de to store lys og stjernerne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "i rakia'en"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "til at lyse"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.760636361Z",
+  "model": "glm-5.3"
+}

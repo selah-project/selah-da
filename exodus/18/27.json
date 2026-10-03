@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Moshe lod ⟨את⟩ sin svigerfar rejse, og han gik ⟨til sig selv⟩ til sit land.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lod rejse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin svigerfar"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sin svigerfar"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og han gik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨til sig selv⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sit land"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:04.990521615Z",
+  "model": "glm-5.3"
+}

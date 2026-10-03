@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han skal svinge ⟨את⟩ omeren foran Jahves ansigt til jeres velbehag; dagen efter Shabbat skal præsten svinge den.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Og han skal svinge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeren"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omeren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves ansigt"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "til jeres velbehag"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dagen efter"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "skal præsten svinge den"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:03.801511961Z",
+  "model": "glm-5.3"
+}

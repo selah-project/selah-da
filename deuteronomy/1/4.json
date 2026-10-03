@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Efter at han havde slået ⟨את⟩ Sichon, kongen af emoriterne, som boede i Cheshbon, og ⟨את⟩ Og, kongen af Bashan, som boede i Ashtarot i Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Efter at"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "havde slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "af emoriterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "i Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "af Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "i Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "i Edrei"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:19.888616879Z",
+  "model": "glm-5.3"
+}

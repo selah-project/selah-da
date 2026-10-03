@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg har bevaret dine bud og dine vidnesbyrd, for alle mine veje er foran dig.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "jeg har bevaret"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "og dine vidnesbyrd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mine veje"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "er foran dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:58.207849218Z",
+  "model": "glm-5.3"
+}

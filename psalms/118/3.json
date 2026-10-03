@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Aharons hus skal sige: Ja, for til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:06.203981069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og kongen tog sin seglring, som han havde taget fra Haman, og gav den til Mordechai; og Ester satte Mordechai over Hamans hus.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin seglring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sin seglring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "havde taget"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "fra Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "og gav den"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "til Mordechai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:36.987053209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og den ene råbte til den anden og sagde: Hellig, hellig, hellig ⟨er⟩ Jahve Tsevaot; hele jorden ⟨er⟩ fuld af hans herlighed.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "og den ene råbte"
+    },
+    {
+      "surface": "זה",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "זה",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hellig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "af hans herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:55.492010726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "En Shigajon af David, som han sang for Jahve, om Kush ben-jeminitis ord.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "En Shigajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שר",
+      "gloss": "han sang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "en benjaminit"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:37.683272277Z",
+  "model": "glm-5.3"
+}

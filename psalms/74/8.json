@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "De sagde i deres hjerte: Lad os udpresse dem alle sammen! Alle Els mødesteder i landet har de brændt.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "de sagde"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i deres hjerte"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "lad os udpresse dem"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "har de brændt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mødesteder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:49.907810258Z",
+  "model": "glm-5.3"
+}

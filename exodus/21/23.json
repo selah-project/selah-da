@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Men hvis der sker skade, skal du give ⟨et⟩ liv for ⟨et⟩ liv,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men hvis"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "skade"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sker"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "skal du give"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "liv"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "liv"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:35.401487699Z",
+  "model": "glm-5.3"
+}

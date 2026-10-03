@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "Han gør krige til at hvile indtil jordens ende; bue knuser han, og spyd gennemhugger han; vogne brænder han i ilden.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "gør ... til at hvile"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "krige"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "enden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "knuser han"
+    },
+    {
+      "surface": "ויקצץ",
+      "gloss": "og gennemhugger"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "gennemhugger"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spyd"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "vogne"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "brænder han"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:01.041258668Z",
+  "model": "glm-5.3"
+}

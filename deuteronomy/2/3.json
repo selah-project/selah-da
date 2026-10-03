@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "I har gået rundt om dette bjerg længe nok; vend jer mod nord.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "længe nok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "I har"
+    },
+    {
+      "surface": "סב",
+      "gloss": "gået rundt om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette bjerg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "vend jer"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "mod nord"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:20.647094467Z",
+  "model": "glm-5.3"
+}

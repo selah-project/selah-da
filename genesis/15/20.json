@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "og ⟨את⟩ hetitterne og ⟨את⟩ perizzitterne og ⟨את⟩ refaitterne —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hetitterne"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetitterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "perizzitterne"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizzitterne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "refaitterne"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "refaitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:49.295755043Z",
+  "model": "glm-5.3"
+}

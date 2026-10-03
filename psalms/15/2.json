@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Den, som vandrer i fuldkommenhed, og gør tsedek, og taler sandhed i sit hjerte.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "vandrer"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "i fuldkommenhed"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "og gør"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "og taler"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sandhed"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "i sit hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:36.630986997Z",
+  "model": "glm-5.3"
+}

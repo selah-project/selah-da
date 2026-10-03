@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "For dit navns skyld, Jahve, tilgiv min misgerning, for den er stor.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "tilgiv"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "min misgerning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den er"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:06.801534725Z",
+  "model": "glm-5.3"
+}

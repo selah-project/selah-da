@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "På en god dag vær i det gode, og på en ond dag se ⟨dér⟩; også ⟨את⟩ det ene har Elohim gjort lige over for det andet, med det formål at mennesket ikke skal finde noget som helst efter sig.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På en dag"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "god"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vær"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "i det gode"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "og på en dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det ene"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "lige over for"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det andet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "det formål"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "at ikke"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "skal finde"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter sig"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "noget som helst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:24.176385203Z",
+  "model": "glm-5.3"
+}

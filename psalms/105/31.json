@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han sagde det, og der kom sværme ⟨af fluer⟩ og myg i hele deres landegrænse.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Han sagde"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og der kom"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sværme ⟨af fluer⟩"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "myg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "deres landegrænse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:33.153626293Z",
+  "model": "glm-5.3"
+}

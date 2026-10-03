@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "og siger: Elohim har forladt ham; forfølg og greb ham, thi der er ingen som frelser.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "har forladt ham"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "forfølg"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "og greb ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "en som frelser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:11.012238410Z",
+  "model": "glm-5.3"
+}

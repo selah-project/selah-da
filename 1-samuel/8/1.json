@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det skete, da Shemuel blev gammel, satte han ⟨את⟩ sine sønner som dommere over Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "blev gammel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "satte han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "som dommere"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "over Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:02.943519856Z",
+  "model": "glm-5.3"
+}

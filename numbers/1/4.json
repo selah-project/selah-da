@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og ⟨את⟩ jer skal der være en mand for hver stamme, hver mand som hoved for sine fædres hus — han.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Og ⟨את⟩ jer",
+      "marks": "jer (Moshe og Aharon)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal der være"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "for hver … mand"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for … hus"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sine fædres"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:45.290507909Z",
+  "model": "glm-5.3"
+}

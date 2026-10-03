@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Lad mig gæste i dit telt evindelig, jeg flygter til ly i skjulet under dine vinger. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Lad mig gæste"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "i dit telt"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "evindelig"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "jeg flygter til ly"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i skjulet"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "under dine vinger"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:14.657365790Z",
+  "model": "glm-5.3"
+}

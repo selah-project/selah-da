@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Thi hendes sår er ⟨dødelige⟩; thi det er kommet til Juda, det har nået mit folks port, helt til Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "⟨dødelige⟩"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "hendes sår"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "har nået"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folks"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:04.348922409Z",
+  "model": "glm-5.3"
+}

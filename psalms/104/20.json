@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Du sætter mørke, og det bliver nat; i den rører al skovens dyr sig.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Du sætter"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og det bliver"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "i den"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "rører sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skovens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:34.617064085Z",
+  "model": "glm-5.3"
+}

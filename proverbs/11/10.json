@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Ved tsedik'ernes fremgang jubler ⟨byen⟩ ⟨den⟩ by, og ved rasha'ims undergang ⟨er der⟩ frydefuldt råb.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "ved fremgang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsedik'ernes"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "jubler"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "by"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "og ved undergang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rasha'ims"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "frydefuldt råb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:53.879679270Z",
+  "model": "glm-5.3"
+}

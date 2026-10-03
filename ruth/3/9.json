@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han sagde: Hvem er ⟨du⟩? Og hun sagde: Jeg er Rut, din trælkvinde — og bred din kappe ud over din trælkvinde, for du er goel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trælkvinde"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "og bred ud"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "din kappe"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trælkvinde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:24.198714457Z",
+  "model": "glm-5.3"
+}

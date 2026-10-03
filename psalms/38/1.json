@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "En sang til toner af David, til ihukommelse.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En sang til toner af"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "til ihukommelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.707134779Z",
+  "model": "glm-5.3"
+}

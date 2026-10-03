@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Til enhver tid skal dine klæder være hvide, og olie på dit hoved må ikke mangle.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "til alt"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "dine klæder"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "hvide"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "og olie"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "dit hoved"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "må mangle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:08.869710997Z",
+  "model": "glm-5.3"
+}

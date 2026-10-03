@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Bjerge stiger op, daler synker ned, til det sted, som du grundfæstede for dem.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "stiger op"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "synker ned"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "daler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "det sted"
+    },
+    {
+      "surface": "זה",
+      "gloss": "som"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "du grundfæstede"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:25.876648036Z",
+  "model": "glm-5.3"
+}

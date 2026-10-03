@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 48,
+  "translation": "Fordi jeg ved, at du er hård, og din nakke er en sene af jern, og din pande er kobber —",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Fordi jeg ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hård"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "og en sene"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "af jern"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "din nakke"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "og din pande"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kobber"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:39.439341170Z",
+  "model": "glm-5.3"
+}

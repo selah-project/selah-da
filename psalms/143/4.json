@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Og min ruach svigter i mig, mit hjerte inde i mig læsses øde.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "svigter"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "min ruach"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "inde i mig"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "læsses øde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:59.771739413Z",
+  "model": "glm-5.3"
+}

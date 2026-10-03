@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal salve ⟨את⟩ brændofferaltet og ⟨את⟩ alle dets redskaber, og du skal hellige ⟨את⟩ alteret, og alteret skal være helligt af hellige.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Og du skal salve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferaltet"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændoffer-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets redskaber"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og du skal hellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alteret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal være"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helligt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "af hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:50.411060559Z",
+  "model": "glm-5.3"
+}

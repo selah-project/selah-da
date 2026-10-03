@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og nu: én bøn beder jeg af ⟨את⟩ dig — vend ikke ⟨את⟩ mit ansigt tilbage. Og hun sagde til ham: Tal.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "bøn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "beder"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "af ⟨את⟩ dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "vend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hun sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tal"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:57.355310842Z",
+  "model": "glm-5.3"
+}

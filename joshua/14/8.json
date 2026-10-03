@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Men mine brødre, som drog op med mig, smeltede ⟨את⟩ folkets hjerte; jeg derimod fulgte helt Jahve, min Elohim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "men mine brødre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "smeltede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkets hjerte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "jeg derimod"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "fulgte helt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:58.046771824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Vor Elohim kommer, og han tier ikke; ild fortærer foran ham, og det stormer voldsomt omkring ham.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Vor Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "han tier"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "fortærer"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "og omkring ham"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "stormer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "voldsomt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:27.222832208Z",
+  "model": "glm-5.3"
+}

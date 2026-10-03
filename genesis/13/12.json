@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Avram boede i landet Kenaan, og Lot boede i slettens byer og slog sit telt op helt til Sodom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "og Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i byerne"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "slettens"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "og slog sit telt op"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:29.994852833Z",
+  "model": "glm-5.3"
+}

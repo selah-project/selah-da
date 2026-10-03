@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "Må min bøn stå frem som røgelse for dit ansigt, løftet af mine hænder som en aften-mincha.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Må ... stå frem"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "som røgelse"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit ansigt"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "løftet"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "af mine hænder"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "som en ... mincha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aften"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:10.387811325Z",
+  "model": "glm-5.3"
+}

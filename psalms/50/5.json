@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Saml ⟨til⟩ mig mine fromme, ⟨de⟩ der skar min pagt med mig over offer.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Saml"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "mine fromme"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "skar"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:53.788502009Z",
+  "model": "glm-5.3"
+}

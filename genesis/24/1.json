@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Avraham var gammel, kommet ind i dagene, og Jahve havde velsignet ⟨את⟩ Avraham i alt.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Og Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommet ind"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i dagene"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "havde velsignet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:40.116040231Z",
+  "model": "glm-5.3"
+}

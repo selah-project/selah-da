@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Indtil jeg kom til Els helligdomme, forstod jeg deres ende.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "jeg kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "helligdomme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "forstod jeg"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "deres ende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:28.733835802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og det skete ved dagenes omløb, at Channa blev frugtsommelig og fødte en søn, og hun kaldte ⟨את⟩ hans navn Shemuël, for fra Jahve har jeg bedt ham.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "ved omløbet"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "af dagene"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "og hun blev frugtsommelig"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "fra Jahve"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "har jeg bedt ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:32.061407361Z",
+  "model": "glm-5.3"
+}

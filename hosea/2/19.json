@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg vil fjerne ⟨את⟩ ba'alernes navne fra hendes mund, og de skal ikke mere nævnes ved deres navn.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Og jeg vil fjerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba'alernes navne"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navne"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ba'alernes"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "fra hendes mund"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "skal de nævnes"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "ved deres navn"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:19.809834629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Dette er ⟨את⟩ porten ⟨til⟩ Jahve — de retfærdige skal gå ind ad den.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨er⟩ porten"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "skal gå ind"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ad den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:04.787942833Z",
+  "model": "glm-5.3"
+}

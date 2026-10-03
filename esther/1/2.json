@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "i de dage, da kong Akhashverosh sad på sin kongeriges trone, han som ⟨var⟩ i Shushan ⟨på⟩ borgen,",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "i de dage"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "de"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "da … sad"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trone"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sin kongeriges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "han som"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "i Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "borgen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:52.120636583Z",
+  "model": "glm-5.3"
+}

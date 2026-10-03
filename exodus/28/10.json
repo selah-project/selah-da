@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "seks af deres navne på ⟨den⟩ ene sten, og ⟨את⟩ navnene på de seks tilbageværende på ⟨den⟩ anden sten, efter deres avlssrækkefølge.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "seks"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "af deres navne"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "sten"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "navnene på de seks tilbageværende"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navnene"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "de seks"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "tilbageværende"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "sten"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "efter deres avlssrækkefølge"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:35.053555973Z",
+  "model": "glm-5.3"
+}

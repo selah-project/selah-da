@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Dette er dyrene, som I må spise:oksen, får af fårene og kid af gederne.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dyrene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "I må spise"
+    },
+    {
+      "surface": "שור",
+      "gloss": "oksen"
+    },
+    {
+      "surface": "שה",
+      "gloss": "får"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "af fårene"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "og kid"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "af gederne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:25:43.590690534Z",
+  "model": "glm-5.3"
+}

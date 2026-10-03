@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Godt ⟨er⟩ at søge ly hos Jahve, bedre end at stole på et menneske.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "at søge ly"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "hos Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "bedre end at stole"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "på et menneske"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:03.648238520Z",
+  "model": "glm-5.3"
+}

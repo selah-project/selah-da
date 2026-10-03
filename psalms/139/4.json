@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Thi der er ikke et ord på min tunge — se, Jahve, du kender det helt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "på min tunge"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du kender"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "det helt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:09.430793941Z",
+  "model": "glm-5.3"
+}

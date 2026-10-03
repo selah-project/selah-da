@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Jeg gav dig en konge i min vrede, og jeg tog ⟨ham⟩ bort i min harme.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "jeg gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "og jeg tog"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "i min harme"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:00.956815083Z",
+  "model": "glm-5.3"
+}

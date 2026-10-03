@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jeg så vædderen ⟨את⟩ stange mod vest og mod nord og mod syd, og intet levende kunne stå foran den, og der var ingen, der reddede ud af dens hånd; og den gjorde efter sin vilje og gjorde sig stor.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Jeg så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vædderen"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "stange"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mod vest"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "og mod nord"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "og mod syd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og intet"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "levende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kunne stå"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran den"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der var ingen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "der reddede"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ud af dens hånd"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og den gjorde"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "efter sin vilje"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "og gjorde sig stor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:59:53.382111725Z",
+  "model": "glm-5.3"
+}

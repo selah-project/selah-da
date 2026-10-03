@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Den sjæl, som synder, den skal dø; en søn skal ikke bære farens misgerning, og en far skal ikke bære sønnens misgerning; den retfærdiges tsedaka skal være på ham, og den gudloses ondskab skal være på ham.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "den sjæl"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "som synder"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal bære"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "misgerning"
+    },
+    {
+      "surface": "האב",
+      "gloss": "farens"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "og en far"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal bære"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "misgerning"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sønnens"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "tsedaka"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "og ondskab"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudloses"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    }
+  ],
+  "timestamp": "2026-10-03T17:36:58.552375838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Hans fjender vil Jeg klæde i skam, og på ham skal hans krone blomstre.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Hans fjender"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "vil Jeg klæde"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "i skam"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "og på ham"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "skal blomstre"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hans krone"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:30.855428566Z",
+  "model": "glm-5.3"
+}

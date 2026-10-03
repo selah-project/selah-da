@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Og hans sønner gjorde således for ham, som han havde påbudt dem.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "og de gjorde"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צום",
+      "gloss": "han havde påbudt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:31.676535476Z",
+  "model": "glm-5.3"
+}

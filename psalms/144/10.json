@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Han som giver frelse til konger, han som frier ⟨את⟩ David, sin træl, fra ond sværd.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Han som giver"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "til konger"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "han som frier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "fra ond sværd"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.948612147Z",
+  "model": "glm-5.3"
+}

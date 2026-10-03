@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 99,
+  "translation": "Og kongens styrke elsker ret; du har grundlagt det retfærdige — ret og tsedekah i Jaakov har du gjort.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Og styrken"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "har grundlagt"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "det retfærdige"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedekah"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "i Jaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har gjort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:40.070752167Z",
+  "model": "glm-5.3"
+}

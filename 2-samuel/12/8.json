@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og jeg gav dig ⟨את⟩ din herres hus og ⟨את⟩ din herres hustruer i din favn, og jeg gav dig ⟨את⟩ Israels hus og Judas; og hvis ⟨det var⟩ for lidt, ville jeg have tilføjet dig sådant og sådant.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Og jeg gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din herres hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din herres hustruer"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "hustruer"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "din herres"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "i din favn"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og jeg gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israels hus og Judas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Judas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "for lidt"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "ville jeg have tilføjet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "sådant"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "og sådant"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:30.716404736Z",
+  "model": "glm-5.3"
+}

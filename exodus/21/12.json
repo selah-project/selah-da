@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Den der slår en mand, så han dør, skal visseligt dræbes.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Den der slår"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "så han dør"
+    },
+    {
+      "surface": "מות",
+      "gloss": "visseligt"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dræbes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:42.769230868Z",
+  "model": "glm-5.3"
+}

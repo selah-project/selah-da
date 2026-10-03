@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 9:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Husk, glem ikke, hvordan du gjorde Jahve, din Elohim, vred i ørkenen — fra den dag du drog ud af landet Mitsrajim, helt til I kom til dette sted: I har været genstridige mod Jahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "husk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som du gjorde vred i ørkenen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "הקצפת",
+      "gloss": "du gjorde vred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, din Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "למן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "du drog ud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "I kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "genstridige"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "I har været"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:20.374967036Z",
+  "model": "glm-5.3"
+}

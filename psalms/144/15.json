@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Salige er det folk, som har det således; salige er det folk, hvis Elohim er Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "salige er"
+    },
+    {
+      "surface": "העם",
+      "gloss": "det folk"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "som har det således"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨for det⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "salige er"
+    },
+    {
+      "surface": "העם",
+      "gloss": "det folk"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "hvis er Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:50.015339023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de misundte Moshe i lejren, Aharon, Jahves hellige.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Og de misundte"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lejren"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:32.743780802Z",
+  "model": "glm-5.3"
+}

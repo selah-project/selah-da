@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Jahve, vær os nådig; til dig har vi ventet; vær deres arm hver morgen, ja vor frelse i trængselens tid!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "vær os nådig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "har vi ventet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vær"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "deres arm"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "hver morgen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "vor frelse"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "i"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trængselens tid"
+    }
+  ],
+  "timestamp": "2026-10-03T16:57:15.215477772Z",
+  "model": "glm-5.3"
+}

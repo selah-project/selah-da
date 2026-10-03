@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og det skete, da David var ⟨את⟩ Edom, i den tid Joav, hærskarens høvding, gik op for at begrave ⟨את⟩ de fældede, at han slog enhver mand i Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "da … var"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "i at gå op"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "høvding"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hærskaren"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "for at begrave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fældede"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de fældede"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "at han slog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mand"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:12.165006948Z",
+  "model": "glm-5.3"
+}

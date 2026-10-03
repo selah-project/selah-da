@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Blandt alle mine fjender er jeg blevet til smæde, ja i høj grad for mine naboer, og en rædsel for mine bekendte; de der ser mig på gaden, flygter fra mig.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "blandt alle"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "er jeg blevet"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "til smæde"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "for mine naboer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "i høj grad"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "og en rædsel"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "for mine bekendte"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "de der ser mig"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "på gaden"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "flygter"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:23.934637533Z",
+  "model": "glm-5.3"
+}

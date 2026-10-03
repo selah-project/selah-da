@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Og der vil jeg forsørge dig ⟨את⟩, for der er endnu fem år med hungersnød — for at du ikke skal blive fattig, du og dit hus og alt, hvad du har.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "Og jeg vil forsørge"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "med hungersnød"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "skal blive fattig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "og dit hus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du har"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:09.808493297Z",
+  "model": "glm-5.3"
+}

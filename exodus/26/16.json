@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Ti alen skal være længden af et bræt, og en alen og en halv alen bredden af ⟨hvert⟩ enkelt bræt.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "længden"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "af et bræt"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og en alen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og en halv"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredden"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "af brættet"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "det ene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:21.969551074Z",
+  "model": "glm-5.3"
+}

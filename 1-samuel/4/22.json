@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og hun sagde: Æren er gået fra Jisrael, for Elohims ark er blevet taget.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun sagde"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "er gået"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Æren"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "fra Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "er blevet taget"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:14.220645377Z",
+  "model": "glm-5.3"
+}

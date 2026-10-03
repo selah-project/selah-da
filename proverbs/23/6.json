@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Spis ikke ⟨את⟩ brødet hos en ond øje⟨t⟩s mand, og attrå ikke hans lækkerier.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "spis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brødet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ond"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "attrå"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "hans lækkerier"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:37.078389694Z",
+  "model": "glm-5.3"
+}

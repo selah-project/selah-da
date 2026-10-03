@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og præsten skal tage af syndofferets blod på sin finger og sætte det på hornene af brændofferets alter, og ⟨את⟩ dens blod skal han udgyde ved fodenden af brændofferets alter.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Og ... skal tage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "af ... blod"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferets"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "på sin finger"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og sætte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "hornene"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dens blod"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "skal udgyde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ved"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "fodenden"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alter"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:02.608845206Z",
+  "model": "glm-5.3"
+}

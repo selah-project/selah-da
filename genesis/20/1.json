@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Avraham brød op derfra mod ⟨את⟩ sydlandet og bosatte sig mellem Kadesh og mellem Shur, og han boede som fremmed i Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "brød op"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mod landet"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sydlandet"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bosatte sig"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og mellem"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "boede som fremmed"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "i Gerar"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:23.655918164Z",
+  "model": "glm-5.3"
+}

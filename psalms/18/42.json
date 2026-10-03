@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "De råbte, men der var ingen frelser; ⟨og⟩ til Jahve — men han svarede dem ikke.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "de råbte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der var ingen"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "svarede han dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:06.170739428Z",
+  "model": "glm-5.3"
+}

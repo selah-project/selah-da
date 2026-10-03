@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Med deres småkvæg og deres kvæg skal de gå for at søge ⟨את⟩ Jahve, men de skal ikke finde ham; han har trukket sig bort fra dem.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "med deres småkvæg"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "og med deres kvæg"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "skal de gå"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "for at søge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "skal de finde ham"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "har han trukket sig bort"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "fra dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:04.774951016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Må jeg gå over, jeg beder, og se ⟨את⟩ det gode land, som er på den anden side af Jordan, dette gode bjergegn og Libanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "må jeg gå over"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det gode land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "det gode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på den anden side"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "af Jordan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjergegnen"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "denne gode"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "og Libanon"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:42.216724516Z",
+  "model": "glm-5.3"
+}

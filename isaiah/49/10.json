@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "De skal ikke sulte og ikke tørste, hede og sol skal ikke ramme dem; for han som forbarmers sig over dem, skal føre dem, og ved vandkilder skal han lede dem.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "skal de sulte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "skal de tørste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "ramme"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "hede"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "og sol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "han som forbarmers sig over dem"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "skal føre dem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og ved"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "kilder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vand"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "skal lede dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:04.553079220Z",
+  "model": "glm-5.3"
+}

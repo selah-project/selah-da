@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Ve over dem, der føjer hus til hus, felt til felt sammen, indtil der ikke er noget sted tilbage, og I bliver sat til at bo alene midt i landet.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "over dem, der føjer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "til hus"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "felt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "til felt"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ikke er noget"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sted tilbage"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "og I bliver sat til at bo"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "alene"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:35.514950623Z",
+  "model": "glm-5.3"
+}

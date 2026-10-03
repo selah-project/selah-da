@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 19:12",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og ⟨den⟩ vendte fra Sarid østpå, mod solens opgang, langs grænsen af Kislot-Tavor, og gik ud til Daberat og gik op til Jafia.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "Og vendte"
+    },
+    {
+      "surface": "משריד",
+      "gloss": "fra Sarid"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "østpå"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "mod ... opgang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solens"
+    },
+    {
+      "surface": "על",
+      "gloss": "langs"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grænsen"
+    },
+    {
+      "surface": "כסלת",
+      "gloss": "Kislot"
+    },
+    {
+      "surface": "תבר",
+      "gloss": "-Tavor"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הדברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "og gik op"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "Jafia"
+    }
+  ],
+  "timestamp": "2026-10-03T15:43:08.592414533Z",
+  "model": "glm-5.3"
+}

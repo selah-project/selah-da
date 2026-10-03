@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Se, han døser ikke hen og sover ikke, Jisraels vogter.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "døser hen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "sover"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:33.157315311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Elohim, fra min ungdom har du lært mig, og indtil nu forkynder jeg dine undergerninger.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "har lært mig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "fra min ungdom"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "forkynder jeg"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dine undergerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:53.788160152Z",
+  "model": "glm-5.3"
+}

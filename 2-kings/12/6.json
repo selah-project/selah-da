@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Præsterne må tage det til sig, hver mand fra ⟨את⟩ sin bekendte, og de skal udbedre ⟨את⟩ skaderne på huset, overalt hvor der findes skade.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "må tage"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩",
+      "marks": "sin bekendte"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sin bekendte"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "skal udbedre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skaderne på huset"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "skaderne"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "på huset"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "overalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "der findes"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "skade"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:43.472628738Z",
+  "model": "glm-5.3"
+}

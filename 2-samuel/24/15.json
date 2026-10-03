@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Jahve gav pest i Jisrael fra morgenstunden indtil den fastsatte tid; og der døde af folket, fra Dan og indtil Beer-Sheba, halvfjerds tusind mand.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pest"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "fra morgenstunden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tiden"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "den fastsatte"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og der døde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "fra Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "halvfjerds"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:23.350141397Z",
+  "model": "glm-5.3"
+}

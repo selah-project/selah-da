@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jisrael tog ⟨את⟩ alle disse byer, og Jisrael boede i alle emoritternes byer, i Cheshbon og i alle dens datterbyer.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle disse byer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og boede"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoritternes"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "i Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og i alle"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dens datterbyer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:37.319040172Z",
+  "model": "glm-5.3"
+}

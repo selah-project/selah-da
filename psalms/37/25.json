@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Jeg har været ung, og jeg er også blevet gammel, men jeg har ikke set ⟨en⟩ tsadik forladt, ej heller hans sæd tigge brød.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ung"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "har været"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "er blevet gammel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "har set"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "forladt"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ej heller hans sæd"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tigge"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:29.928438492Z",
+  "model": "glm-5.3"
+}

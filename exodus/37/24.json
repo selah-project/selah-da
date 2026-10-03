@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Af én kikkar rent guld gjorde han den, ⟨את⟩ og ⟨את⟩ alt dens tilbehør.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "én kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den",
+      "marks": "den (lysestagen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt dens tilbehør"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dens tilbehør"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:52.577139236Z",
+  "model": "glm-5.3"
+}

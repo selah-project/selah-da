@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "som han kar ⟨את⟩ Avraham, og sin ed til Jitschak",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "og sin ed"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "til Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.213945446Z",
+  "model": "glm-5.3"
+}

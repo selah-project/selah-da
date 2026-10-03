@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Jordens kongeriger, syng for Elohim, spille ⟨Adonaj⟩ til højtidelig sang — Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "kongeriger"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "syng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "for Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spille til højtidelig sang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:25.036024525Z",
+  "model": "glm-5.3"
+}

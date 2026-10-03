@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "nej, hans lyst er Jahves Tora, og om hans Tora grynt han ⟨véd⟩ dag og nat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨nej⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨men⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "i Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "hans lyst"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "og om hans Tora"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "grynter han ⟨véd⟩"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nat"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:07.085889534Z",
+  "model": "glm-5.3"
+}

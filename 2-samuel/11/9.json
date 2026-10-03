@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Urija lagde sig til at sove ved indgangen til kongens hus ⟨sammen med⟩ ⟨את⟩ alle sin herres trælle, og han gik ikke ned til sit hus.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "og lagde sig til at sove"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle sin herres trælle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trælle"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herres"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "gik han ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:30.609888429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Shaúl hørte på Jonatans røst, og Shaúl svor: Så sandt Jahve lever, han skal ikke dræbes.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "på røsten"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "og svor"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨så sandt⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal ikke dræbes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:49.082270337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og der blev tilbage blandt Jisraels børn, som ikke havde fordelt ⟨את⟩ deres arv, syv stammer.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "og der blev tilbage"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "blandt børnene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "havde fordelt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres arv"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "deres arv"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "stammer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:42:58.432508177Z",
+  "model": "glm-5.3"
+}

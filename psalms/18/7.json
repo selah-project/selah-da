@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "I min trængsel kaldte jeg på Jahve, og til min Elohim råbte jeg om hjælp; han hørte min røst fra sit tempel, og mit råb kom for hans ansigt, ind i hans ører.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "i min trængsel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kaldte jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "råbte jeg om hjælp"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "han hørte"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "fra sit tempel"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "og mit råb"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "for hans ansigt"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "ind i hans ører"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:03.338229315Z",
+  "model": "glm-5.3"
+}

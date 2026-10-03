@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og ⟨את⟩ søjlegangens forhal gjorde han, halvtreds alen dets længde og tredive alen dets bredde, og et forhal foran dem, og søjler og en overligger foran dem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "søjlegangens forhal"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "forhal"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "søjlegangens"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dets længde"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dets bredde"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "og et forhal"
+    },
+    {
+      "surface": "על",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "og søjler"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "og en overligger"
+    },
+    {
+      "surface": "על",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:25:08.222466240Z",
+  "model": "glm-5.3"
+}

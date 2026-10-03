@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Gennem dine bud får jeg forstand, derfor hader jeg enhver løgnens vej.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "gennem dine bud"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "får jeg forstand"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(derfor)"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hader jeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "vej"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgnens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:40.719741343Z",
+  "model": "glm-5.3"
+}

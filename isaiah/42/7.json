@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "til at åbne blindes øjne, til at førrе fangen ud af fængslet, dem der sidder i mørke, ud af fængselshuset.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "til at åbne"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "blindes"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "til at føre ud"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "af fængslet"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fangen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ud af huset"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "fængsel"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dem der sidder"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "i mørke"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:22.455793078Z",
+  "model": "glm-5.3"
+}

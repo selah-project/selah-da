@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Stå op, Jahve, til dit hvilested, du og arken for din styrke.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Stå op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "til dit hvilested"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "og arken"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "for din styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:44.765057310Z",
+  "model": "glm-5.3"
+}

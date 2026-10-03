@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Ve dig, du land, hvis din konge er en yngling, og dine høvdinger spiser om morgenen!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "hvis din konge"
+    },
+    {
+      "surface": "נער",
+      "gloss": "er en yngling"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "og dine høvdinger"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "spiser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:21.331006839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Giv os hjælp mod trængsel, og tom er menneskets frelse.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hjælp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mod trængsel"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "og tom"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "frelse"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:57.042508392Z",
+  "model": "glm-5.3"
+}

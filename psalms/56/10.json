@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Da skal mine fjender vende tilbage på den dag jeg råber; dette ved jeg, at Elohim ⟨er⟩ for mig.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "skall vende tilbage"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tilbage"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "jeg råber"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ved jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:51.147425311Z",
+  "model": "glm-5.3"
+}

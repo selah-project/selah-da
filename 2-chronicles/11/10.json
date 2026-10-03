@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og ⟨את⟩ Tsortsa og ⟨את⟩ Ajalon og ⟨את⟩ Chevron, som ⟨lå⟩ i Jehuda og i Binjamin, befæstede byer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsortsa"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsortsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "og i Binjamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "befæstede"
+    }
+  ],
+  "timestamp": "2026-10-03T19:45:14.603871785Z",
+  "model": "glm-5.3"
+}

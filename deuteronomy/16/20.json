@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Tsedek, tsedek skal du efterstræbe, for at du skal leve og arve ⟨את⟩ det land, som Jahve din Elohim giver dig.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "skal du efterstræbe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "du skal leve"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "og arve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "det land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:22.375842565Z",
+  "model": "glm-5.3"
+}

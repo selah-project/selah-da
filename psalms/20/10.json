@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Jahve, frels! ⟨Den⟩ konge svare os på ⟨den⟩ dag, vi råber!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "frels!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨den⟩ konge"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "svare os"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ⟨den⟩ dag"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "vi råber"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:45.320551676Z",
+  "model": "glm-5.3"
+}

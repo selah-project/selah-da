@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Thi ⟨det⟩ ⟨er⟩ ham, der grundede den på havene og fastslog den på floderne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "havene"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "grundede den"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "floderne"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "fastslog den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:42.956741433Z",
+  "model": "glm-5.3"
+}

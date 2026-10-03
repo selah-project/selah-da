@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "og til kongene, der ⟨lå⟩ mod nord, i bjergegnen og i Arabah syd for Kinnerot og i lavlandet og i egene ved Dor ved havet",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kongene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mod nord"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "i bjergegnen"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "og i Arabah"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "syd for"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinnerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "og i lavlandet"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "og i egene"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ved Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ved havet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:41:35.870852997Z",
+  "model": "glm-5.3"
+}

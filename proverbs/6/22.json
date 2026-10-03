@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Når du vandrer, leder den ⟨את⟩ dig; når du lægger dig, væger den over dig; og når du vågner, ⟨er det den⟩, der taler med dig.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Når du vandrer"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "leder den"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "når du lægger dig"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "veger den"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over dig"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "og når du vågner"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "taler med dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:42.530231386Z",
+  "model": "glm-5.3"
+}

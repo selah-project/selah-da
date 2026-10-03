@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Avraham stod op og bøjede sig for landets folk, for Hetts sønner.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Og stod op"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og bøjede sig"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "for folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne"
+    },
+    {
+      "surface": "חת",
+      "gloss": "af Hett"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:35.299886866Z",
+  "model": "glm-5.3"
+}

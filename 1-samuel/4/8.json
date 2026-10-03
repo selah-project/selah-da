@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Ve os! Hvem skal fri os fra hånden på disse mægtige Elohim? Disse ⟨er⟩ de Elohim, som slog ⟨את⟩ Mitsrajim med alle slagene i ørkenen.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "skal fri os"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "på Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "disse mægtige"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "som slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med alle"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slagene"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:20.844338575Z",
+  "model": "glm-5.3"
+}

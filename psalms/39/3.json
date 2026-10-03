@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Jeg blev stum i tavshed, jeg tav helt, ⟨endog⟩ fra det gode; og min smerte blev oprørt.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Jeg blev stum"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "i tavshed"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "jeg tav helt"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "fra det gode"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "og min smerte"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "blev oprørt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.026811395Z",
+  "model": "glm-5.3"
+}

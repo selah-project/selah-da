@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Han ⟨er⟩ Jahve, vor Elohim; hans domme ⟨gælder⟩ i hele ⟨den⟩ jord.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jord"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hans domme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.558764219Z",
+  "model": "glm-5.3"
+}

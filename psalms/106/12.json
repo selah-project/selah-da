@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de troede hans ord, de sang hans lovprisning.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "og de troede"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans lovprisning"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:29.024237672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "For din chesed er bedre end livet; mine læber skal love dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "er bedre"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "end livet"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mine læber"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "skal love dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:52.216587071Z",
+  "model": "glm-5.3"
+}

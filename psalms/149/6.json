@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 149,
+  "translation": "El-lovsangenes ophøjelse ⟨er⟩ i deres strube, og et tveægget sværd i deres hånd.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ophøjede lovsange"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "i deres strube"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "og et sværd"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "tveægget"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "i deres hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:15.697306202Z",
+  "model": "glm-5.3"
+}

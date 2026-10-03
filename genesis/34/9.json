@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "og gift jer ind i os: Jeres døtre giver I ⟨את⟩ os, og ⟨את⟩ vores døtre tager I til jer.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "og gift jer ind i"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ os",
+      "marks": "os"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "jeres døtre"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "giver I"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vores døtre"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "vores døtre"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "tager I"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:28.850957814Z",
+  "model": "glm-5.3"
+}

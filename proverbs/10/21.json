@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "De retfærdiges læber vogter mange, men dårerne dør af mangel på hjerte.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "læber"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdiges"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "men dårerne"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "af mangel på"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "dør"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:45.528892908Z",
+  "model": "glm-5.3"
+}

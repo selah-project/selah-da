@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Send vædderen til landets hersker, fra Sela ud i ørkenen, til Zions datters bjerg.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Send"
+    },
+    {
+      "surface": "כר",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hersker"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "fra Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ud i ørkenen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datters"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:23.855869042Z",
+  "model": "glm-5.3"
+}

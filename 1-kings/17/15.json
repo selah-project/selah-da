@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og hun gik hen og gjorde efter Eliyahus ord; og hun spiste — han og hun og hendes hus — i mange dage.",
+  "tokens": [
+    {
+      "surface": "ו תלך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter ordet"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "og spiste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "og hun"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "og hendes hus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:04.559424834Z",
+  "model": "glm-5.3"
+}

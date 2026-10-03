@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "⟨Vejen⟩ til løgn − vend den bort fra mig, og med din Tora vær mig nådig.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "vend bort"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og med din Tora"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:27.075463120Z",
+  "model": "glm-5.3"
+}

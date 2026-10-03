@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Voldens vidner står op; det, jeg ikke kendte, spørger de mig om.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "står op"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vidner"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "voldens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg kendte"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "spørger de mig om"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:39.878408811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og fiskerne skal sukke, og alle de der kaster krog i flodløbet, skal sørge, og de der bredt net ud over vandenes overflade, skal vansmægte.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "skal sukke"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "fiskerne"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "sørge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "de der kaster"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "i flodløbet"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "krog"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "og de der bredt ud"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "net"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "overfladen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "vansmægte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:35.875603295Z",
+  "model": "glm-5.3"
+}

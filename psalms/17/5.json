@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Mine skridt holdt fast ved dine stier, mine fødder vaklede slet ikke.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "holdt fast"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mine skridt"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ved dine stier"
+    },
+    {
+      "surface": "בל",
+      "gloss": "slet ikke"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "vaklede"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mine fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:11.919570044Z",
+  "model": "glm-5.3"
+}

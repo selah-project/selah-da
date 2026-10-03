@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Frygt Jahve, ⟨את⟩ hans hellige; thi der er ingen mangel for dem, der frygter ham.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Frygt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hans hellige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "mangel"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "for dem der frygter ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:31.053206296Z",
+  "model": "glm-5.3"
+}

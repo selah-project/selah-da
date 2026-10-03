@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Ved stemmen af den som håner og bespotter, for fjendens og hævnerens ⟨ansigt⟩.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ved stemmen af"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "den som håner"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "og bespotter"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ⟨ansigt⟩ af"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "og hævneren"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.071831858Z",
+  "model": "glm-5.3"
+}

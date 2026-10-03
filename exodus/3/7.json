@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jahve sagde: At se har jeg set ⟨את⟩ mit folks nød, som ⟨er⟩ i Mitsrajim, og ⟨את⟩ deres skrig har jeg hørt foran deres driveres ansigt; thi jeg kender deres smerter.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Jahve sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "At se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "har jeg set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folks nød"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nød"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres skrig"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "deres skrig"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "har jeg hørt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "deres driveres"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jeg kender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres smerter"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "deres smerter"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:03.432484786Z",
+  "model": "glm-5.3"
+}

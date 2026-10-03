@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Alle er vegne tilbage, alle sammen er blevet fordærvede; der er ingen, der gør godt, ikke én, ikke engang én.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "alle"
+    },
+    {
+      "surface": "סג",
+      "gloss": "er vegne tilbage"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "er blevet fordærvede"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "גם",
+      "gloss": "engang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:16.478782464Z",
+  "model": "glm-5.3"
+}

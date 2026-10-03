@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og du skal elske ⟨את⟩ Jahve, din Elohim, og vogte hans vagt, hans chukkim og hans mishpatim og hans mitzvot alle dage.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Og du skal elske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "og vogte"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "hans vagt"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "hans chukkim"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hans mishpatim"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "hans mitzvot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:42.846279232Z",
+  "model": "glm-5.3"
+}

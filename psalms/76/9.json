@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Fra himlene lod du dommen høre; jorden frygtede og var stille.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "fra himlene"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "lod du høre"
+    },
+    {
+      "surface": "דין",
+      "gloss": "dommen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "frygtede"
+    },
+    {
+      "surface": "ויקטה",
+      "gloss": "og var stille"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.902971953Z",
+  "model": "glm-5.3"
+}

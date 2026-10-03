@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Og rystede Paroh og hans hær af sted i Sivhavet, thi til evig tid varer hans chesed.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Og rystede af sted"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "og hans hær"
+    },
+    {
+      "surface": "בים",
+      "gloss": "i"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sivhavet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "varer hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:41.552470152Z",
+  "model": "glm-5.3"
+}

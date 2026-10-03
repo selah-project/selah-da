@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "For Achaz tog en del af Jahves hus og af kongens hus og af høvdingerne, og gav ⟨den⟩ til kongen af Ashur — men det hjalp ham ikke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "tog en del"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kongens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "og høvdingerne"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "til hjælp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:47.077482087Z",
+  "model": "glm-5.3"
+}

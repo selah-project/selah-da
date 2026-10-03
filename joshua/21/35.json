@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna med dets græsningsområde, ⟨את⟩ Nahalal med dets græsningsområde — fire byer.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsningsområde"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dets græsningsområde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsningsområde"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dets græsningsområde"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:09.711671826Z",
+  "model": "glm-5.3"
+}

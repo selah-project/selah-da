@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Dog skal der ikke gøres regnskab ⟨את⟩ med dem for sølvet, der gives i deres hånd, fordi de handler i trofasthed.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "skal regnskab gøres"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ med",
+      "marks": "med dem (arbejderne)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "der gives"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "i trofasthed"
+    },
+    {
+      "surface": "הם",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "handler"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:12.507057841Z",
+  "model": "glm-5.3"
+}

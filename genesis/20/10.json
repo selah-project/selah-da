@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Avimelech sagde til Avraham: Hvad så du, siden du gjorde ⟨את⟩ denne sag?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "så du"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siden"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gjorde du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne sag"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "denne sag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:48.917086978Z",
+  "model": "glm-5.3"
+}

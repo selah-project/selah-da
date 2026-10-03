@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Til korlederen, med strengeinstrumenter. En maskil af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "med strengeinstrumenter"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "En maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:27.179058815Z",
+  "model": "glm-5.3"
+}

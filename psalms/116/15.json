@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Kostbar er i Jahves øjne døden for hans chasidim.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "kostbar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i øjne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "døden"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "for hans chasidim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:07.821526212Z",
+  "model": "glm-5.3"
+}

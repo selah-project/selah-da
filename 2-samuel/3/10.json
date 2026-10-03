@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "at føre kongerigheden bort fra Shauls hus og rejse ⟨את⟩ Davids trone over Jisrael og over Juda, fra Dan og til Be'er Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "at føre bort"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongerigheden"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra huset"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "og rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davids trone"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trone"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "fra Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:05.376032674Z",
+  "model": "glm-5.3"
+}

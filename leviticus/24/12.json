@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og de satte ham i varetægt for at få det forklaret for dem efter Jahves ord.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "og de satte ham"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "i varetægt"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "for at få forklaret"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ordene af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:06.747655161Z",
+  "model": "glm-5.3"
+}

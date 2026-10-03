@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og han førte dem frem for ⟨את⟩ Moavs konges ansigt, og de blev hos ham alle de dage, David var i fæstningen.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "og han førte dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavs konges ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og de blev"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "היות",
+      "gloss": "at være"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "i fæstningen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:53.156413640Z",
+  "model": "glm-5.3"
+}

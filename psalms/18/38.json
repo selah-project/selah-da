@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Jeg forfølger mine fjender og indhenter dem og vender ikke om, før jeg har gjort en ende på dem.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "forfølger jeg"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "og indhenter dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": " vender jeg om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "før"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "har gjort en ende på dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:45.102202444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og de førte ⟨את⟩ stenstøtterne ud af Ba'als hus og brændte dem.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "og de førte ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenstøtterne"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stenstøtterne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "af Ba'al"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "og brændte dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:14.526731637Z",
+  "model": "glm-5.3"
+}

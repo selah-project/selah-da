@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Der skal ikke være i din pose en sten og en sten, stor og lille.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i din"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "pose"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "en sten"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og en sten"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "og lille"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:52.985883780Z",
+  "model": "glm-5.3"
+}

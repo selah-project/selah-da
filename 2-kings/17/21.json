@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Thi Jisrael blev revet løs fra Davids hus, og de gjorde Jerovam, Nevats søn, til konge; og Jerovam drev Jisrael bort fra at følge Jahve og fik dem til at synde en stor synd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "blev revet løs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "og de gjorde … til konge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sønnens"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "og drev"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "fra at følge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "og fik dem til at synde"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "synd"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:17.559428264Z",
+  "model": "glm-5.3"
+}

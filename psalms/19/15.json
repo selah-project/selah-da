@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Må min munds ord og mit hjertes grublen være til velbehag foran dit ansigt, Jahve, min klippe og min genløser.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Må ... være"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "til velbehag"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min munds"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "og ... grublen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjertes"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "foran dit ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "og min genløser"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:58.574762003Z",
+  "model": "glm-5.3"
+}

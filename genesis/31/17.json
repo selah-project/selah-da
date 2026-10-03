@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Jaakov stod op og satte ⟨את⟩ sine sønner og ⟨את⟩ sine hustruer på kamelerne.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og stod op"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sine hustruer"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sine hustruer"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kamelerne"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:47.723995528Z",
+  "model": "glm-5.3"
+}

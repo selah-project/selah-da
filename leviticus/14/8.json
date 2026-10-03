@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og ham, der skal renses, skal vaske ⟨את⟩ sine klæder og barke ⟨את⟩ alt sit hår og bade sig i vand og blive ren; og bagefter må han komme ind i lejren, men skal bo uden for sit telt i syv dage.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "og vaske"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ham der skal renses"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "og barke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt sit hår"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "sit hår"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og bade sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "og blive ren"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "må han komme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og bo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "sit telt"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:37.647576947Z",
+  "model": "glm-5.3"
+}

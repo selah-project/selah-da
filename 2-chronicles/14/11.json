@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Jahve slog ⟨את⟩ kushiterne foran Asa og foran Juda, og kushiterne flygtede.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Og slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kushiterne"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kushiterne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "og foran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kushiterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:44.920809801Z",
+  "model": "glm-5.3"
+}

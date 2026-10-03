@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jonatan lod David atter sværge ⟨את⟩ ⟨ham⟩, i sin kærlighed til ham; for med sin sjæls kærlighed elskede han ham.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "lod … atter"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "sværge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "i sin kærlighed"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "kærlighed"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin sjæl"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "elskede han ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:02.795162917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Dine bud gør mig visere end mine fjender, for de ⟨er⟩ mig til evig tid.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "end mine fjender"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "gør du mig vis"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ved dine bud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "היא",
+      "gloss": "de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.462443873Z",
+  "model": "glm-5.3"
+}

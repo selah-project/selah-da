@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Shaúl sammenkaldte ⟨את⟩ hele folket til krig, til at gå ned til Keila, for at belejre David og hans mænd.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "sammenkaldte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "til krig"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "til at gå ned"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "til Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "for at belejre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hans mænd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:36.319933382Z",
+  "model": "glm-5.3"
+}

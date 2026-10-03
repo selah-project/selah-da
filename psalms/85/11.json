@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Chesed og sandhed mødes, tsedek og fred kysser hinanden.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ו אמת",
+      "gloss": "og sandhed"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "mødes"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "og fred"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "kysser hinanden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:50.470124053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 82,
+  "translation": "De ved det ikke, og de forstår intet; i mørket vandrer de om; alle jordens grundvold rystes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ved de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "forstår de"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "vandrer de om"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "rystes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "grundvold"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:52.472726818Z",
+  "model": "glm-5.3"
+}

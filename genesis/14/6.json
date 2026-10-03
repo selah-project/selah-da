@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og ⟨את⟩ horitterne i deres bjerg Seir, indtil El-Paran, som ⟨ligger⟩ ved ørkenen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "horitterne"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horitterne"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "i deres bjerg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:57.508589087Z",
+  "model": "glm-5.3"
+}

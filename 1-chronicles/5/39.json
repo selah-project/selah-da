@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Shallum avlede ⟨את⟩ Chilkija, og Chilkija avlede ⟨את⟩ Azarja.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "og Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkija"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkija"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "og Chilkija"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:36.807003744Z",
+  "model": "glm-5.3"
+}

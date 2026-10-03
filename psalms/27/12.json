@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Giv mig ikke i vold til mine modstanderes vilde ⟨למען sjæl⟩, thi falske vidner er rejst sig imod mig, og de udånder vold.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "giv mig"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "til sjæl"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mine modstandere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "er rejst sig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vidner"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falske"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "og udånder"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vold"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:23.383985568Z",
+  "model": "glm-5.3"
+}

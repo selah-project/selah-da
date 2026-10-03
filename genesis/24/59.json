@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og de sendte Rivka, deres søster, bort, og ⟨את⟩ hendes amme og ⟨את⟩ Avrahams tjener og ⟨את⟩ hans mænd.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Og de sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka, deres søster"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "deres søster"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hendes amme"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "hendes amme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahams tjener"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tjener"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans mænd"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hans mænd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:53.673760701Z",
+  "model": "glm-5.3"
+}

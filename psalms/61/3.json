@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Fra enden af jorden råber jeg til dig; når mit hjerte er omhyllet, leder du mig hen på klippen, der er højere end jeg.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Fra enden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "af jorden"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "råber jeg"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "når … er omhyllet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "hen på klippen"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "der er højere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "end jeg"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leder du mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:41.528882540Z",
+  "model": "glm-5.3"
+}

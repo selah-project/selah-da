@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og han gjorde ⟨את⟩ midterstangen, så den løb gennem brædternes midte fra den ene ende til den anden ende.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midterstangen"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "midterstangen"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "midter-"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "så den løb"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gennem midten af"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brædterne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "den ene ende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "den anden ende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:52.740133746Z",
+  "model": "glm-5.3"
+}

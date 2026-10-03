@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Din træl er jeg; giv mig forstand, og jeg skal kende dine vidnesbyrd.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Din træl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er jeg"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "giv mig forstand"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "og jeg skal kende"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "dine vidnesbyrd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:55.887900129Z",
+  "model": "glm-5.3"
+}

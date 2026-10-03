@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og hvis en mand sælger ⟨את⟩ sin datter som trælkvinde, skal hun ikke gå ud, som trællene går ud.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "sælger"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin datter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin datter"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "som trælkvinde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "skal hun gå ud"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "som ... går ud"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "trællene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:43.788805620Z",
+  "model": "glm-5.3"
+}

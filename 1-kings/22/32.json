@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 22:32",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og det skete, da vognhøvdingerne så ⟨את⟩ Jehoshafat, at de sagde: Det er sikkert Jisraels konge. Og de vendte sig mod ham for at kæmpe, og Jehoshafat råbte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "da … så"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vogn-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshafat"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "at de"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sikkert"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Det er … han"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "Og de vendte sig"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mod ham"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "for at kæmpe"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "og råbte"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:18.798236687Z",
+  "model": "glm-5.3"
+}

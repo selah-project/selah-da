@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Da stod alle tapre mænd op og gik hele natten og tog ⟨את⟩ Shauls lig og ⟨את⟩ ligene af hans sønner fra muren i Beit-Shan og kom til Javesh og brændte dem der.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "og de stod op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tapre"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauls lig"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "lig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ligene af hans sønner"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ligene"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "af hans sønner"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "fra muren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og kom til"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Javesh"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "og brændte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:44.321929232Z",
+  "model": "glm-5.3"
+}

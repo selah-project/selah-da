@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Gads sønner byggede ⟨את⟩ Divon og ⟨את⟩ Atarot og ⟨את⟩ Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Divon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Divon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:14.861381390Z",
+  "model": "glm-5.3"
+}

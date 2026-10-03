@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Tomhed taler hver mand med ⟨את⟩ sin næste; glatte læber, med hjerte og ⟨med⟩ hjerte taler de.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Tomhed"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taler"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "læber"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "glatte"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "med hjerte"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "og ⟨med⟩ hjerte"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "taler de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:51.668541046Z",
+  "model": "glm-5.3"
+}

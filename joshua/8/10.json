@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Yehoshua stod tidligt op om morgenen og mønstrede ⟨את⟩ folket, og han og Jisraels ældste gik op foran folket mod Aj.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "og han stod tidligt op"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "og han mønstrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og han gik op"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "og ældste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "העי",
+      "gloss": "mod Aj"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:15.938213412Z",
+  "model": "glm-5.3"
+}

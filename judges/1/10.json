@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Juda gik mod kanaanæeren, der boede i Chevron — og Chevrons navn var fordum Kirjat-Arba — og de slog ⟨את⟩ Sheshaj og ⟨את⟩ Achiman og ⟨את⟩ Talmaj.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og gik"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "der boede"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "i Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og navn"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "var fordum"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og de slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshaj"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Talmaj"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaj"
+    }
+  ],
+  "timestamp": "2026-10-03T15:45:37.842672164Z",
+  "model": "glm-5.3"
+}

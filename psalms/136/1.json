@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Lovsiger Jahve, for ⟨han er⟩ god, for til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lovsiger"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:16.814835185Z",
+  "model": "glm-5.3"
+}

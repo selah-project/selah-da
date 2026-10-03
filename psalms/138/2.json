@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "Jeg kaster mig ned mod din hellige helligdom og takker dit navn for din chesed og din troskab; for du har gjort dit ord stort over hele dit navn.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "jeg kaster mig ned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "helligdom"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din hellige"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "og takker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit navn"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og for"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din troskab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "har du gjort stor"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:22.713298307Z",
+  "model": "glm-5.3"
+}

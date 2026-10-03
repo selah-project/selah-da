@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Stå op, Elohim, før din sag; husk din spottelse fra ⟨en⟩ dåre, hele dagen.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Stå op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "før"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "din sag"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "husk"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "din spottelse"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:40.831434826Z",
+  "model": "glm-5.3"
+}

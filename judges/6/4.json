@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og de slog lejr imod dem og ødelagde ⟨את⟩ landets afgrøde, indtil man kommer til Azza, og de efterlod ingen livsføde i Jisrael, hverken får eller okse eller æsel.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "og de slog lejr"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "imod dem"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "og de ødelagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landets afgrøde"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "afgrøde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "man kommer til"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "efterlod de"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "nogen livsføde"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "hverken får"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "eller okse"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "eller æsel"
+    }
+  ],
+  "timestamp": "2026-10-03T15:48:55.748624605Z",
+  "model": "glm-5.3"
+}

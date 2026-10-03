@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Vinden bandt hende ⟨את⟩ ind i sine vinger, og de skal skamme sig over deres slagtofre.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "bandt ind"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vinden"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "hende"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ind i sine vinger"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "og de skal skamme sig"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "over deres slagtofre"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:07.687837514Z",
+  "model": "glm-5.3"
+}

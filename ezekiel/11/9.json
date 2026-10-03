@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og jeg vil føre jer ud af dens midte og give jer i fremmedes hånd og fuldbyrde domme over jer.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "og jeg vil føre ud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer (flyttes: 'ud af dens midte')"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "af dens midte"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil give"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "fremmedes"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "og jeg vil gøre"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "over jer"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "domme"
+    }
+  ],
+  "timestamp": "2026-10-03T17:33:06.225224131Z",
+  "model": "glm-5.3"
+}

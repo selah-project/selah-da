@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og kongen Achashverosh talte og sagde til dronning Ester: Hvem er han, og hvor er han, denne ⟨han⟩, hvis hjerte har fyldt ham til at gøre sådan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og talte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "til Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "dronningen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er han"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "og hvor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨han⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "har fyldt"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til at gøre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:40.597418665Z",
+  "model": "glm-5.3"
+}

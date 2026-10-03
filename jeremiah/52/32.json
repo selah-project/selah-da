@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Og han talte venlige ord med ⟨את⟩ ham og satte ⟨את⟩ hans trone over tronen for de konger, der var hos ⟨את⟩ ham i Babel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "og han talte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "med ham"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "venlige ord"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans trone"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hans trone"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "over"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "tronen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "for konger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "var hos ham"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "i Babel"
+    }
+  ],
+  "timestamp": "2026-10-03T17:31:07.090775302Z",
+  "model": "glm-5.3"
+}

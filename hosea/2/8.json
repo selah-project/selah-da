@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Derfor, se, jeg bomber din vej til med tjørn og opfører en mur om ⟨את⟩ hende, og hendes stier finder hun ikke.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jeg"
+    },
+    {
+      "surface": "שך",
+      "gloss": "bomber til"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din vej"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din vej"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "med tjørn"
+    },
+    {
+      "surface": "ווגדרתי",
+      "gloss": "og opfører jeg",
+      "note": "overfladeformidling korrigeret nedenfor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en mur"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "en mur"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "og hendes stier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "finder hun"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:31.046887428Z",
+  "model": "glm-5.3"
+}

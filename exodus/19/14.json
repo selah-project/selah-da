@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Moshe steg ned fra bjerget til folket, og han helligede ⟨את⟩ folket, og de vaskede deres klæder.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Og steg ned"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "og han helligede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "og de vaskede"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "deres klæder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:15.221297797Z",
+  "model": "glm-5.3"
+}

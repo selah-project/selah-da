@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Af David. Velsignet ⟨er⟩ Jahve, min klippe, han som lærer mine hænder kamp, mine fingre krig.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "han som lærer"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mine hænder"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mine fingre"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "krig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:31.015496558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Et falsk vidne skal ikke gå ustraffet, og den der puster løgne ud, skal ikke slippe fri.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "vidne"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "falsk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "gå ustraffet"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "og den der puster ud"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "løgne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "slippe fri"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:24.090950354Z",
+  "model": "glm-5.3"
+}

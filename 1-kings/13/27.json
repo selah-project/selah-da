@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han talte til sine sønner og sagde: Sadl ⟨את⟩ æslet til mig. Og de sadlede det.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og han talte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sine sønner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Sadl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "æslet"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "æslet"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "Og de sadlede det"
+    }
+  ],
+  "timestamp": "2026-10-03T16:27:57.595916322Z",
+  "model": "glm-5.3"
+}

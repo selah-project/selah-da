@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "og jeg har fyldt ham ⟨את⟩ med ruach Elohim, med visdom og med forstand og med kundskab og med al slags håndværk —",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "og jeg har fyldt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "med visdom"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "og med forstand"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "og med kundskab"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og med al"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "håndværk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:11.535097411Z",
+  "model": "glm-5.3"
+}

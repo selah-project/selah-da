@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "En sønderknust eller lemlæstet i det private må ikke træde ind i Jahves forsamling.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "må træde ind"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "sønderknust"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "lemlæstet"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "og afskåret"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "i det private"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "i forsamlingen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:51.560067288Z",
+  "model": "glm-5.3"
+}

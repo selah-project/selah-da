@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg er gået forkert som et firsendt får; søg din træl, for dine bud har jeg ikke glemt.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "er jeg gået forkert"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "som et får"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "firsændt"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "søg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine bud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "har jeg glemt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.118253571Z",
+  "model": "glm-5.3"
+}

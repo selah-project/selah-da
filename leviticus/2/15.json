@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og du skal hælde olie på den og lægge røgelse på den — det ⟨er⟩ en mincha.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Og du skal hælde"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "og lægge"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på den"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "røgelse"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "en mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:08.268527965Z",
+  "model": "glm-5.3"
+}

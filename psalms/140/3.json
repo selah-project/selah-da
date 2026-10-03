@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "som planlægger onde planer i hjertet; hver dag samler de sig til krig.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "planlægger de"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "onde planer"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjertet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "samler de sig"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "til krig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:08.397372173Z",
+  "model": "glm-5.3"
+}

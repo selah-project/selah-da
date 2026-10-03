@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Han skal dø, fordi tukt mangler, og i sin dårskabs storhed farer han vild.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Han"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "באין",
+      "gloss": "fordi ... mangler"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tukt"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "og i ... storhed"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "sin dårskabs"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "farer han vild"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:55.562544438Z",
+  "model": "glm-5.3"
+}

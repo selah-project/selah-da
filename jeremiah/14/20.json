@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Vi ved det, Jahve: vor ondskab og vore fædres skyld, for vi har syndet mod dig.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "vi ved"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "vor ondskab"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "vore fædres"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vi har syndet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:15:08.939599104Z",
+  "model": "glm-5.3"
+}

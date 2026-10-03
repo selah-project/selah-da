@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og det skete, da de brød op fra østen, fandt de en slette i landet Shinar og bosatte sig der.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "da de brød op"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "fra østen"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "fandt de"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "en slette"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og bosatte de sig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.748083351Z",
+  "model": "glm-5.3"
+}

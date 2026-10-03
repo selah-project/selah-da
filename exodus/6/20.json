@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Amram tog ⟨את⟩ Jokeved, sin moster, til hustru, og hun fødte ham ⟨את⟩ Aharon og ⟨את⟩ Moshe; og årene for Amrams liv var syv og tredive og hundrede år.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jokeved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Jokeved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "sin moster"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hun fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "og årene"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "for livet"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amrams"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og tredive"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "og hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:42.574580892Z",
+  "model": "glm-5.3"
+}

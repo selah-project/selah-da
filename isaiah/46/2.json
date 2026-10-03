@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 46,
+  "translation": "De krøb sammen, de faldt på knæ sammen; de kunne ikke redde ⟨byrden⟩ — og deres sjæl gik i fangenskab.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "De krøb sammen"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "faldt på knæ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "redde"
+    },
+    {
+      "surface": "משא",
+      "gloss": "⟨byrden⟩"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "og deres sjæl"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "i fangenskab"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "gik"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:13.753312447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og David erobrede ⟨את⟩ Zions fæstning — den ⟨er⟩ Davids by.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Og erobrede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zions fæstning"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "fæstning"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zions"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davids"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:00.493511765Z",
+  "model": "glm-5.3"
+}

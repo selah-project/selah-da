@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 26:11",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Med hovene fra sine heste skal han trampe ⟨את⟩ alle dine gader; dit folk skal han dræbe med sværd, og din styrkes søjler skal synke til jorden.",
+  "tokens": [
+    {
+      "surface": "בפרסות",
+      "gloss": "med hovene"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "fra sine heste"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "skal han trampe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle dine gader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חוצותיך",
+      "gloss": "dine gader"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "med sværd"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "skal han dræbe"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "og søjlerne"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "af din styrke"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "skal synke"
+    }
+  ],
+  "timestamp": "2026-10-03T17:40:18.605330739Z",
+  "model": "glm-5.3"
+}

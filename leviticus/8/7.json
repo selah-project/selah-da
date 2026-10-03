@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og han satte på ham ⟨את⟩ kjortlen og omgjordede ham med beltet, og han klædte ham med ⟨את⟩ kappen og satte på ham ⟨את⟩ efoden, og han omgjordede ham med efodens vævede bånd og bandt den til ham med den.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og han satte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kjortlen"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kjortlen"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "og omgjordede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "med beltet"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "og han klædte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "med ⟨את⟩",
+      "marks": "kappen"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kappen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efoden"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "og han omgjordede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "med … vævede bånd"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodens"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "og bandt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "בו",
+      "gloss": "med den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:02.045330178Z",
+  "model": "glm-5.3"
+}

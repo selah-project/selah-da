@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og han fjernede ⟨את⟩ hjulene på deres vogne og drev dem med møje frem; og Mitsrajim sagde: Lad os flygte fra Jisraels ansigt, for Jahve kæmper for dem mod Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "og han fjernede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjulene"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "hjulene"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "på deres vogne"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "og drev dem"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "med møje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Lad os flygte"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fra ansigtet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kæmper"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "mod Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:25.403701840Z",
+  "model": "glm-5.3"
+}

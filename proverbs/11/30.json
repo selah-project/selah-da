@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Den retfærdiges frugt er et livets træ, og den der vinder ⟨את⟩ sjæle er vis.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "og den der vinder"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "sjæle"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "er vis"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:37.426723087Z",
+  "model": "glm-5.3"
+}

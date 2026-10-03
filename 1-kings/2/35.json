@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og kongen satte ⟨את⟩ Benajahu, søn af Jehojada, i hans sted over hæren; og ⟨את⟩ Tsadok præsten satte kongen i Evjatars sted.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "satte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "satte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:25.276783044Z",
+  "model": "glm-5.3"
+}

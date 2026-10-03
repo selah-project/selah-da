@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og Esav løb ham i møde og omfavnede ham og faldt ham om halsen og kyssede ham, og de græd.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "og løb"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ham i møde"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "og omfavnede ham"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "og faldt"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "halsen"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "og kyssede ham"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "og de græd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:43.886343852Z",
+  "model": "glm-5.3"
+}

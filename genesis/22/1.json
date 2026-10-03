@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og det skete efter disse ting, at Elohim prøvede ⟨את⟩ Avraham, og han sagde til ham: Avraham! Og han svarede: Se, her er jeg.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "disse ting"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "at Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "prøvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han svarede"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Se, her er jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T14:19:51.209203261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og Jaakov sendte bud og kaldte på Rachael og Lea ud på marken til sin småkvæg.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte bud"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kaldte på"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachael"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "og Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ud på marken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sin småkvæg"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:46.034432466Z",
+  "model": "glm-5.3"
+}

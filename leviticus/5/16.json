@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og ⟨det⟩, som han har syndet med i det hellige, skal han betale tilbage, og en femtedel skal han lægge oveni og give det til præsten; og præsten skal skaffe soning for ham med skyldoffervædderen, og det skal tilgives ham.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det, som han har syndet med i det hellige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "han har syndet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "med"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det hellige"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal han betale tilbage"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "en femtedel"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "en femtedel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "skal han lægge"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "overi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og give"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (til præsten)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til præsten"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "og præsten"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "skal skaffe soning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "med vædderen"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "af skyldofferet"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "og det skal tilgives"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:41.846605109Z",
+  "model": "glm-5.3"
+}

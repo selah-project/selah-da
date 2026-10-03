@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Vildsvinet fra skoven gnaver den op, og markens dyr græsser den af.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "gnaver den op"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "vildsvinet"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "fra skoven"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "og det bevægelige"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "markens"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "græsser den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:03.818606737Z",
+  "model": "glm-5.3"
+}

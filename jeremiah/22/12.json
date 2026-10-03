@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "For på det sted, hvor de førte ham i landflygtighed, dér skal han dø, og ⟨את⟩ dette land skal han ikke se mere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på stedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "de førte i landflygtighed"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "Shalum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal han dø"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dette land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skal han se"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:02.382502619Z",
+  "model": "glm-5.3"
+}

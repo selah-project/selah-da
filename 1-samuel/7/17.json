@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og hans tilbagevendende var til Rama, for der var hans hus, og der dømte han ⟨את⟩ Jisrael; og han opbyggede der et alter for Jahve.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Og hans tilbagevendende"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "til Rama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "var hans hus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og der"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "dømte han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og han opbyggede"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:09.515432923Z",
+  "model": "glm-5.3"
+}

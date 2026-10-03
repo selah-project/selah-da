@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 110,
+  "translation": "Fra en bæk på vejen drikker han; derfor løfter han ⟨sit⟩ hoved.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Fra en bæk"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "drikker"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.510723528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Den stod stille, men jeg kunne ikke kende dens skikkelse — en skabning var foran mine øjne; der var ⟨stilhed⟩, og en røst hørte jeg.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "den stod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "kunne jeg kende"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "dens skikkelse"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "en skabning"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "stilhed"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og en røst"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hørte jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:47.929734463Z",
+  "model": "glm-5.3"
+}

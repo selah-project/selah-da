@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Ødelæggelser planlægger din tunge, som en sleben ragekniv, der øver svig.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ødelæggelser"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "planlægger"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "din tunge"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "som en ragekniv"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "sleben"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "der øver"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:39.428786711Z",
+  "model": "glm-5.3"
+}

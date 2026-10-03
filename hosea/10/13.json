@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 10:13",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "I pløjede ondskab, uret høstede I, løgens frugt spiste I — fordi du fortrøste dig på din vej, på mangfoldigheden af dine kæmper.",
+  "tokens": [
+    {
+      "surface": "חרשתם",
+      "gloss": "pløjede I"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "uret"
+    },
+    {
+      "surface": "קצרתם",
+      "gloss": "høstede I"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "spiste I"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "løgens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "fortrøste dig"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "på din vej"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "på mangfoldigheden"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "af dine kæmper"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:53.679039886Z",
+  "model": "glm-5.3"
+}

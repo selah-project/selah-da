@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Ved larmens ⟨røst⟩ flygter folkene; ved din ophøjelse spredtes nationerne.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ved"
+    },
+    {
+      "surface": "המון",
+      "gloss": "larmens ⟨røst⟩"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "flygter"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "ved din ophøjelse"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "spredtes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nationerne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:57:15.215619771Z",
+  "model": "glm-5.3"
+}

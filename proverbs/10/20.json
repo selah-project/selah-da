@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Udvalgt sølv ⟨er⟩ den retfærdiges tunge; de ondes hjerte ⟨er⟩ som lidt.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "udvalgt"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ondes"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "som lidt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:50.512255667Z",
+  "model": "glm-5.3"
+}

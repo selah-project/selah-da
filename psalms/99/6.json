@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 99,
+  "translation": "Moshe og Aharon blandt hans præster, og Shmuel blandt dem der påkalder hans navn; de kaldte på Jahve, og han svarede dem.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "blandt hans præster"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "og Shmuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "blandt der påkalder"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "de kaldte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "svarede dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:41.541766380Z",
+  "model": "glm-5.3"
+}

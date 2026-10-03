@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Han murede ⟨en mur⟩ omkring mig, så jeg ikke kan komme ud; han gjorde min kobberlænke tung.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "murede"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "omkring mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så jeg ikke"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kan komme ud"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "gjorde han tung"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "min kobberlænke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:07.600903792Z",
+  "model": "glm-5.3"
+}

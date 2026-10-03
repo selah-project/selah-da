@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Hør, jeg beder, og jeg vil tale; jeg vil spørge dig, og du skal lade mig vide.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "vil tale"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "jeg vil spørge dig"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "og du skal lade mig vide"
+    }
+  ],
+  "timestamp": "2026-10-03T18:46:14.968055304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "i hvis hænder ⟨er⟩ ondskabsplaner, og hvis højre hånd ⟨er⟩ fuld af bestikkelse.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i hvis"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ondskabsplaner"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "og hvis højre hånd"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fuld"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "af bestikkelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:03.322443332Z",
+  "model": "glm-5.3"
+}

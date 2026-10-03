@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Mine øjne fór i forvejen med nattevagterne, for at grunde over dit ord.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "fór i forvejen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "nattevagterne"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "for at grunde"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "over dit ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:43.383536686Z",
+  "model": "glm-5.3"
+}

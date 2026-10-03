@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han sagde: Hvilken vej skal vi drage op ad? Og han sagde: Vejen gennem Edoms ørken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Hvilken"
+    },
+    {
+      "surface": "זה",
+      "gloss": "… (den)"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vej"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "skal vi drage op ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Vejen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gennem … ørken"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:06.125788768Z",
+  "model": "glm-5.3"
+}

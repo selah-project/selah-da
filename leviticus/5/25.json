@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og ⟨את⟩ sin skyld skal han bringe til Jahve: en vædder uden lyde fra fåreflokken, efter din takstringsværdi, som skyldoffer, til præsten.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin skyld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sin skyld"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "skal han bringe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "איל",
+      "gloss": "en vædder"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "uden lyde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": " fåreflokken"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "efter din takstringsværdi"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "som skyldoffer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:54.880677070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Fyrretyve slag må han give ham, ikke mere — for at han ikke skal give flere og slå ham ud over dette med mange slag, og din broder bliver foragtet i dine øjne.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrretyve"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "slag må han give ham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "mere"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "skal give flere"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "og slå ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "ud over"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slag"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "bliver foragtet"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "i dine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:05.499429716Z",
+  "model": "glm-5.3"
+}

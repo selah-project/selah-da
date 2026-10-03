@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de ofrede ⟨את⟩ deres sønner og ⟨את⟩ deres døtre til dæmonerne.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "og de ofrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sønner"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "deres sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres døtre"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "deres døtre"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "til dæmonerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:22.161226247Z",
+  "model": "glm-5.3"
+}

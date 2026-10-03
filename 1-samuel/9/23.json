@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Shmuel sagde til kokken: Giv den portion ⟨את⟩, som jeg gav dig, og om hvilken jeg sagde til dig: Læg den ⟨את⟩ hos dig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "til kokken"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den portion"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "portionen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg gav"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "om hvilken"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "שים",
+      "gloss": "læg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:57.606790507Z",
+  "model": "glm-5.3"
+}

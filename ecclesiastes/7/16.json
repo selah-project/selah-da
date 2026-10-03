@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Vær ikke altfor tsadik, og gør dig ikke klogere end nødvendigt — hvorfor skulle du gøre dig selv til intet?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vær"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "altfor"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "gør dig klog"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "mere end nødvendigt"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "skulle du gøre dig selv til intet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:24.176683729Z",
+  "model": "glm-5.3"
+}

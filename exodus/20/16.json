@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Du skal ikke afgive falsk vidnesbyrd mod din næste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "skal du afgive vidnesbyrd"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "mod din næste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vidnesbyrd"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "falsk"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:35.618558747Z",
+  "model": "glm-5.3"
+}

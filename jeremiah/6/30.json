@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Kassørt sølv kalder man dem, for Jahve har forkastet dem.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "kassørt"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kalder man"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "har forkastet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:09:45.322649867Z",
+  "model": "glm-5.3"
+}

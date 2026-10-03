@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Bevar mig som pupillen, øjets datter, i skyggen af dine vinger skjuler du mig.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bevar mig"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "som pupillen"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "עין",
+      "gloss": "af øjet"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "i skyggen"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "af dine vinger"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "skjuler du mig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:09.424335729Z",
+  "model": "glm-5.3"
+}

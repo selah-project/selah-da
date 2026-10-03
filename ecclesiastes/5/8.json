@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og jordens gevinst er til gavn for alle — endog kongen ⟨tjener⟩ et felt, der dyrkes.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Og gevinst"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "היא",
+      "gloss": "den"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "et felt"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "der dyrkes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:01.300080895Z",
+  "model": "glm-5.3"
+}

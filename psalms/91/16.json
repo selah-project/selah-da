@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 91,
+  "translation": "Med langt liv skal jeg mætte ham og lade ham se min frelse.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "langt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "liv (dage)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "skal jeg mætte ham"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "og lade ham se"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "min frelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:10.676973068Z",
+  "model": "glm-5.3"
+}

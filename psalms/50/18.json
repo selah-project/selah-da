@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Hvis du så en tyv, løb du med ham, og med ægteskabsbrydere var din del.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "du så"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "en tyv"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "løb du"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ægteskabsbrydere"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "din del"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.498025573Z",
+  "model": "glm-5.3"
+}

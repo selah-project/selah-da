@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "For dine pile er sunket ned i mig, og din hånd hviler tungt på mig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "dine pile"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "er sunket ned"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "og du har lagt ned"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:46.707585291Z",
+  "model": "glm-5.3"
+}

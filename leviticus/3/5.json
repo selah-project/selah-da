@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Aharons sønner skal bringe det i røg på alteret, oven på brændofferet, som er på brændet, som er på ilden — et ildoffer, en duft til velbehag for Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "skal bringe det i røg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (fedtdelene)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "על",
+      "gloss": "oven på"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "brændet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "et ildoffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "en duft"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "til velbehag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:32.710463518Z",
+  "model": "glm-5.3"
+}

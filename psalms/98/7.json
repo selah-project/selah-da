@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "Havet bruser, og dets fylde, verden og dens beboere.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "bruser"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "og dets fylde"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "og beboerne"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:10.590403730Z",
+  "model": "glm-5.3"
+}

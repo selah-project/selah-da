@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Jeg vil lovprise Elohims navn med sang og forherlige ⟨ham⟩ med takkeoffer.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Jeg vil lovprise"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "med sang"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "og forherlige ham"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med takkeoffer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:59.465758367Z",
+  "model": "glm-5.3"
+}

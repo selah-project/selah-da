@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hos Jahve er frelsen; over dit folk ⟨er⟩ din velsignelse. Sela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Hos Jahve"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "frelsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "din velsignelse"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:03:52.575457145Z",
+  "model": "glm-5.3"
+}

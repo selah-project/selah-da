@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og kong Achashverosh sagde til dronning Ester og til Mordechai jøden: Se, Hamans hus har jeg givet til Ester, og ⟨את⟩ ham har man hængt på træet, fordi han rakte sin hånd ud mod jøderne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "til Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "dronningen"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "og til Mordechai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "jøden"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jeg givet"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "til Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (Haman)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "har man hængt"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "træet"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(som)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "han rakte ud"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "mod jøderne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:35.029089301Z",
+  "model": "glm-5.3"
+}

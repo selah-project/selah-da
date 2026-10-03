@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Jorden smelter bort med alle dens beboere — jeg ⟨selv⟩ har fastsat dens søjler. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "smelter bort"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "med alle"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "dens beboere"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg ⟨selv⟩"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "har fastsat"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "dens søjler"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:05.976729258Z",
+  "model": "glm-5.3"
+}

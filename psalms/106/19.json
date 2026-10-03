@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "De gjorde en kalv ved Chorev og bøjede sig for et støbt billede.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "de gjorde"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "en kalv"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ved Chorev"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og bøjede sig"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "for et støbt billede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:36.970547428Z",
+  "model": "glm-5.3"
+}

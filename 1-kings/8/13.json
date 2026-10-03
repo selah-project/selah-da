@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "At bygge — har jeg bygget dig et hus, en zevul til dig, et sted til din bolig for evigheder.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "at bygge"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "har jeg bygget"
+    },
+    {
+      "surface": "בית",
+      "gloss": "et hus"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "en zevul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "til din bolig"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "for evigheder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:43.004560037Z",
+  "model": "glm-5.3"
+}

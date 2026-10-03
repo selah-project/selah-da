@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Bat-Sheva kom ind til kongen i ⟨det⟩ kammer — og kongen var meget gammel — og Avishag shunamitten betjente ⟨את⟩ kongen.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Og kom ind"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "i ⟨det⟩ kammer"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "og kongen"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var gammel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "og Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "shunamitten"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "betjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:21.460220932Z",
+  "model": "glm-5.3"
+}

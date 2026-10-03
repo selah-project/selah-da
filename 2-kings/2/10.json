@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og han sagde: Du har bedt om noget svært; hvis du ser mig, når jeg tages fra dig, skal det ske dig således; men hvis ikke, skal det ikke ske.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "har bedt om noget svært"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "at bede om"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "du ser"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tages"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ fra dig"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "skal det ske"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal det ske"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:09.756169534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "På den dag skal Jisrael være den tredje ved siden af Mitsrajim og Ashshur, en velsignelse i midten af landet.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "den tredje"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ved siden af Mitsrajim"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "og Ashshur"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "en velsignelse"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i midten af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T16:52:47.910350038Z",
+  "model": "glm-5.3"
+}

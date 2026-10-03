@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Af David, en mizmor. Jahves ⟨er⟩ jorden og dens fylde, verden og dens beboere.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "og dens fylde"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "og dens beboere"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:42.956510520Z",
+  "model": "glm-5.3"
+}

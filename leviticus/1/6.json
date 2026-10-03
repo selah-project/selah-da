@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han skal flå ⟨את⟩ brændofferet og skære ⟨את⟩ den i stykker ⟨af dens stykker⟩.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "og han skal flå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "og skære den i stykker"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ den",
+      "marks": "לנתחיה dens stykker"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "i dens stykker"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:16.018397987Z",
+  "model": "glm-5.3"
+}

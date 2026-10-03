@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Lad dem skammes og blushe, de som søger min sjæl; lad dem vige bagud og stå med skam, de som pøner ondt ⟨imod⟩ mig.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Lad dem skammes"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "og blushe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de som søger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "lad dem vige"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bagud"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "og stå med skam"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "de som pøner"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ondt mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:57.131594595Z",
+  "model": "glm-5.3"
+}

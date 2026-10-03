@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og folket hørte ⟨את⟩ denne onde ord, og de sørgede, og ingen mand satte sit smykke på sig.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og … hørte"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne onde ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "og de sørgede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "satte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen mand"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "smit smykke"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på sig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:21.882036497Z",
+  "model": "glm-5.3"
+}

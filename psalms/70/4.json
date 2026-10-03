@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 70,
+  "translation": "Lad dem vende tilbage på grund af ⟨belønningen for⟩ deres skam — de som siger: Aha, aha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Lad dem vende tilbage"
+    },
+    {
+      "surface": "על",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨belønningen for⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "deres skam"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "de som siger"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:31.041200168Z",
+  "model": "glm-5.3"
+}

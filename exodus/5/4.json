@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Mitsrajims konge sagde til dem: Hvorfor, Moshe og Aharon, holder I ⟨את⟩ folket tilbage fra dets arbejde? Gå hen til jeres byrder!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "holder I tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "fra dets arbejde"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gå hen"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "til jeres byrder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:23.185917501Z",
+  "model": "glm-5.3"
+}

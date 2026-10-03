@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Ham der bredte jorden ud over vandene, thi til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Ham der bredte ud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:39.961821770Z",
+  "model": "glm-5.3"
+}

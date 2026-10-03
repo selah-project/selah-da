@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Som en snegl, der smelter ⟨væk⟩, går ⟨han⟩; som en kvindes abort — de har ikke set solen.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "en snegl"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "der smelter ⟨væk⟩"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "går ⟨han⟩"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "abort"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "en kvindes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "har set"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:19.052828958Z",
+  "model": "glm-5.3"
+}

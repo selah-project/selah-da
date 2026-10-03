@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og de sagde: En mand, en Mitsrajiter, reddede os fra hyrdernes hånd, og desuden trakte han vand op rigeligt til os og gav ⟨את⟩ flokken at drikke.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "En mand"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "en Mitsrajiter"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "reddede os"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "hyrderne"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og desuden"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "trakte op"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "vand op rigeligt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "til os"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "og gav at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "flokken"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "flokken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:51.008833305Z",
+  "model": "glm-5.3"
+}

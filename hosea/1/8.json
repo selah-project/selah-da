@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og da hun havde vendt ⟨את⟩ Lo-Ruchamah fra brystet, undfangede hun og fødte en søn.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "og hun vendte fra brystet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruchamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "undfangede hun"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:58.032063300Z",
+  "model": "glm-5.3"
+}

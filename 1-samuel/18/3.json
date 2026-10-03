@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Jehonatan og David skar pagt, fordi han elskede ham ⟨אתו⟩ som sin egen sjæl.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Og de skar"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagt"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "fordi han elskede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "som sin egen sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:21.888922285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Velsignet ⟨er⟩ Jahve, for han har gjort sin chesed underfuld mod mig i en belejret by.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "velsignet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "har gjort underfuld"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sin chesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i en by"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "belejret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:29.771493912Z",
+  "model": "glm-5.3"
+}

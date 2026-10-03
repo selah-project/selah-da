@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "så må du høre i himlene ⟨את⟩ deres bøn og ⟨את⟩ deres ydmyge bøn, og du må skaffe dem ret.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "så må du høre"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres bøn"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deres bøn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres ydmyge bøn"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "deres ydmyge bøn"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og du må gøre"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "deres ret"
+    }
+  ],
+  "timestamp": "2026-10-03T16:26:59.299227188Z",
+  "model": "glm-5.3"
+}

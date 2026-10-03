@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og ⟨han skal lade⟩ ⟨את⟩ huset skrabes af indefra rundt om, og de skal udgyde ⟨את⟩ støvet, som de skrabede af, uden for byen, på et urent sted.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "skrabes af"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "indredefra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "og de skal udgyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "støvet"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "støvet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "de skrabede af"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "et sted uden for"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urent"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:48.753811069Z",
+  "model": "glm-5.3"
+}

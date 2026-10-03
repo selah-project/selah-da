@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Ester sagde: En mand, en trænger og fjende — denne onde Haman. Og Haman blev grebet af frygt foran kongen og dronningen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "צר",
+      "gloss": "en trænger"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "og fjende"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "og Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "blev grebet af frygt"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "og dronningen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:56:40.597706574Z",
+  "model": "glm-5.3"
+}

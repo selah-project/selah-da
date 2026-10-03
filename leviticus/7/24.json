@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og fedtet fra et selvdødt dyr og fedtet fra et dyr, der er flænget af rovdyr, kan bruges til ethvert arbejde, men spise det må I ikke spise.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Og fedtet"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "fra et selvdødt dyr"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "og fedtet"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "fra et flænget dyr"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan bruges"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til ethvert"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "men spise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "må I spise det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:40.119649941Z",
+  "model": "glm-5.3"
+}

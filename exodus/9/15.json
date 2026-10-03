@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "For ⟨nu⟩ havde jeg allerede rakt min hånd ud ⟨את⟩ og slået ⟨את⟩ dig og ⟨את⟩ dit folk med pest, så du var blevet udryddet fra landet —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "havde jeg rakt ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hånd"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "og slået"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dit folk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "med pest"
+    },
+    {
+      "surface": "ויכחד",
+      "gloss": "så var du blevet udryddet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:29.777792070Z",
+  "model": "glm-5.3"
+}

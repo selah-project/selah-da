@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "De ydmyges længsel har du hørt, Jahve; du gør deres hjerte fast, du spidser ⟨dit⟩ øre.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "længsel"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "de ydmyges"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "har du hørt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "gør du fast"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "deres hjerte"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "spidser du"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:33.751470535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Men du, Jahve, vær mig nådig og rejs mig op, så jeg kan gengælde dem.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "rejs mig op"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "så jeg kan gengælde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:47.735066570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og arken til Elohim blev taget, og Elis to sønner døde, Chofni og Pinchas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Og arken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "blev taget"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "og … to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "døde"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "og Pinchas"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:40.846212134Z",
+  "model": "glm-5.3"
+}

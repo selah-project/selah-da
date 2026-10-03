@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og de som lejr ⟨sig⟩ ved siden af ham: stamme Jissaskar, og fyrsten for Jissaskars sønner ⟨er⟩ Netanel, søn af Tsuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Og de som lejr"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ved siden af ham"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "og fyrsten"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønnerne af"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:12.191719177Z",
+  "model": "glm-5.3"
+}

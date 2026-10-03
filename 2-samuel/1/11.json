@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og David greb fat i sine klæder og sønderrev dem, og også alle de mænd, som var ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og David greb fast"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "i sine klæder"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "og sønderrev dem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "de mænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "hos ham (præposition, ikke objektsmarkør)"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:01.562344347Z",
+  "model": "glm-5.3"
+}

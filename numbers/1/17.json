@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Moshe og Aharon tog ⟨את⟩ disse mænd, som var udpeget ved navne.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse mænd"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "var udpeget"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ved navne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:58.699542926Z",
+  "model": "glm-5.3"
+}

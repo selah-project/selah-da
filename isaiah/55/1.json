@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Hov, I alle som tørster, kom til vandene! Og den der ingen sølv har, kom, køb og spis! Ja, kom, køb uden sølv og uden betaling vin og mælk!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "som tørster"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "למים",
+      "gloss": "til vandene"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "Og den som"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "har"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "køb"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "og spis"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "Ja, kom"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "køb"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "og uden"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "betaling"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ו חלב",
+      "gloss": "og mælk"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:52.290135053Z",
+  "model": "glm-5.3"
+}

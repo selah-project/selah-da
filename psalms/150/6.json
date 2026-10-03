@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 150,
+  "translation": "Alt hvad ⟨der har⟩ ånde ⟨skal⟩ lovprise Jah; lovpriser Jah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "hvad der har ånde"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "lovprise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lovpriser"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:40.785014677Z",
+  "model": "glm-5.3"
+}

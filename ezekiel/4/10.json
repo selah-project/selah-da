@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og din mad, som du skal spise, skal være efter vægt: tyve shekel om dagen; fra tid til tid skal du spise det.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "Og din mad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "du skal spise"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "efter vægt"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "fra tid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "skal du spise det"
+    }
+  ],
+  "timestamp": "2026-10-03T17:31:07.778279283Z",
+  "model": "glm-5.3"
+}

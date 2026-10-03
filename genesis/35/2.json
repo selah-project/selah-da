@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Da sagde Jaakov til sit hus og til alle, som var med ham: Bort med ⟨את⟩ de fremmede guder, som er iblandt jer, og ren jer, og skift jeres klæder!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Da sagde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "var med ham"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "Bort med"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fremmede guder"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de fremmede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "iblandt jer"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "og ren jer"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "og skift"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "jeres klæder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:47.619673222Z",
+  "model": "glm-5.3"
+}

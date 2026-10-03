@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han drak af vinen og blev beruset og blottede sig inde midt i sit telt.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "og han drak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vinen"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "og blev beruset"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "og blottedede sig"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inde midt i"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "sit telt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:34.331487922Z",
+  "model": "glm-5.3"
+}

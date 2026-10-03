@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og ⟨את⟩ Jerushalajims huse talte I, og husene brød I ned for at befæste muren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "huse"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "talte I"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "og I brød ned"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "husene"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "for at befæste"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muren"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:07.365749395Z",
+  "model": "glm-5.3"
+}

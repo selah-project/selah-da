@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og nu, bær nu ⟨את⟩ min synd, og vend tilbage med mig, så jeg kan tilbede Jahve.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "שא",
+      "gloss": "bær"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min synd"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "min synd"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "og vend tilbage"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "så jeg kan tilbede"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:24.093963482Z",
+  "model": "glm-5.3"
+}

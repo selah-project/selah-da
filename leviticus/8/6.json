@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Moshe fremstillede ⟨את⟩ Aharon og ⟨את⟩ hans sønner og tvættede ⟨את⟩ dem med vand.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Og fremstillede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "og tvættede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "במים",
+      "gloss": "med vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:02.045038008Z",
+  "model": "glm-5.3"
+}

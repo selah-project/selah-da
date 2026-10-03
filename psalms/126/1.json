@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 126,
+  "translation": "En sang ved opstigningen. Da Jahve vendte ⟨את⟩ skæbnen for Tsiyon, var vi som drømmende.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningen"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "da … vendte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skæbnen for Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "skæbnen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "var vi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "som drømmende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:18.111804917Z",
+  "model": "glm-5.3"
+}

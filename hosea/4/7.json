@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Jo flere de blev, jo mere syndede de imod mig; deres herlighed forvandler jeg til skam.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "jo flere de blev"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jo mere"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syndede de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "deres herlighed"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "til skam"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "forvandler jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:46.225182801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og det skete, da Yosef kom til sine brødre, at de trak Yosef ⟨את⟩ kjortlen af ham, ⟨את⟩ kjortlen af pasim, som han havde på.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "at de trak af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kjortlen af ham"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "sin kjortel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kjortlen af pasim"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kjortlen"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "af pasim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "han havde på"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:28.288997493Z",
+  "model": "glm-5.3"
+}

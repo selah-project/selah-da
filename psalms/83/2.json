@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Elohim, vær ikke tavs for dig, tie ikke stille, og vær ikke rolig, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vær tavs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tie stille"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "vær rolig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:11.789477199Z",
+  "model": "glm-5.3"
+}

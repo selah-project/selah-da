@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete i det tredje år for Hoshea, søn af Ela, konge af Jisrael, at Chizkija, søn af Achaz, konge af Juda, blev konge.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "i året"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "det tredje"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "for Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "af Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "af Achaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "af Juda"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:54.591681745Z",
+  "model": "glm-5.3"
+}

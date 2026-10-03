@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Tag ikke fra ⟨את⟩ ham rente eller forøgelse, men frygt din Elohim, og lad din broder leve hos dig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "fra ⟨את⟩ ham",
+      "marks": "rente eller forøgelse"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "eller forøgelse"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "men frygt"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og lad leve"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:29.254984648Z",
+  "model": "glm-5.3"
+}

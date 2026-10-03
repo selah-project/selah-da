@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Avimelech bød ⟨את⟩ hele folket og sagde: Den, der rører ved denne mand eller hans kone, skal visseligt dø.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "og bød"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele folket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "den, der rører"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ved denne mand"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "eller hans kone"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dø"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal visseligt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:17.883378275Z",
+  "model": "glm-5.3"
+}

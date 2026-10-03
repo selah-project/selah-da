@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemot og ⟨את⟩ dens græsgange, og ⟨את⟩ Mejpaat og ⟨את⟩ dens græsgange — byer, fire.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Mejpaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mejpaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:13.056068875Z",
+  "model": "glm-5.3"
+}

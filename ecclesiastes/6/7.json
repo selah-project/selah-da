@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Alt menneskets slid er for dets mund, og dog bliver sjælen ikke mæt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "slid"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "for dets mund"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og dog"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sjælen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "bliver mæt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:50.266514113Z",
+  "model": "glm-5.3"
+}

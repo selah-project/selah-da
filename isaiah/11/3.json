@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og han skal dufte til frygten for Jahve; ikke efter øjnenes syn skal han dømme, og ikke efter ørenes hørelse skal han irettesætte.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "og han skal dufte til"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "til frygten for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "efter synet"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "af hans øjne"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "skal han dømme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "efter hørelsen"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "af hans ører"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "skal han irettesætte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:36.281726435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 98,
+  "translation": "Foran Jahve, for han er kommet for at dømme ⟨את⟩ jorden; han dømmer verden i tsedek og folkeslagene i oprigtighed.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בא",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "for at dømme"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "i tsedek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "og folkeslagene"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "i oprigtighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:50.857345171Z",
+  "model": "glm-5.3"
+}

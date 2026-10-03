@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "og de skal sige: Fordi de forlod ⟨את⟩ pagten hos Jahve, deres fædres Elohim, som han skar med dem, da han førte dem ud fra Mitsrajims land —",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "og de skal sige"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "de forlod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagten"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "deres fædres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "han skar"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "da han førte ud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajims land"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:06.604377545Z",
+  "model": "glm-5.3"
+}

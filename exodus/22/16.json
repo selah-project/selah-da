@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis hendes fader helt nægter at give hende til ham, skal han veje sølv efter jomfruers brudepris.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "helt"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "nægter"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "hendes fader"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "at give hende"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "skal veje"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "efter brudepris"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "jomfruers"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:05.159040942Z",
+  "model": "glm-5.3"
+}

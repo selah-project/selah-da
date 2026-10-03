@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og de døde i plage ⟨var⟩ fire og tyve tusind.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "og de var"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de døde"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "i plagen"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fire"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyve"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    }
+  ],
+  "timestamp": "2026-10-03T19:32:12.205425999Z",
+  "model": "glm-5.3"
+}

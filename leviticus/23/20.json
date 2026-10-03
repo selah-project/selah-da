@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og præsten skal vifte dem ⟨את dem⟩ sammen med førstegrødens brød, et vifteoffer for ansigtet af Jahve, sammen med de to lam; hellige skal de være for Jahve, til præsten.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Og præsten skal vifte"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את dem⟩",
+      "marks": "dem — de to lam og førstegrødens brød"
+    },
+    {
+      "surface": "על",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brødet"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "af førstegrøden"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "vifteoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lam"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal de være"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til præsten"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:12.567052365Z",
+  "model": "glm-5.3"
+}

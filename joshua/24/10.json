@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og jeg ville ikke lytte til Bileam, så velsignede han jer ved gentagen velsignelse, og jeg frelste jer af hans hånd.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og … ikke"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ville jeg"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "lytte til"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "så velsignede han"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ved gentagen velsignelse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "og jeg frelste"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "af hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:05.005710021Z",
+  "model": "glm-5.3"
+}

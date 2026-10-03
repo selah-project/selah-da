@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og efter ham stod Jair, giladiten, op; og han dømte ⟨את⟩ Jisrael to og tyve år.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "stod op"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "giladiten"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "og han dømte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "og to"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:28.619755772Z",
+  "model": "glm-5.3"
+}

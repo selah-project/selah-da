@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Bekymring i et menneskes hjerte bøjer ⟨det⟩ ned, men et godt ord gør det glad.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "bekymring"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "i hjertet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "et menneskes"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "bøjer ⟨det⟩ ned"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "men et ord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "gør det glad"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:24.596867613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Dræb dem ikke, for at mit folk ikke skal glemme; få dem til at vandre omkring ved din styrke, og styrt dem ned, Adonaj, ⟨vores⟩ skjold.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "dræb dem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "skal glemme"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "få dem til at vandre"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ved din styrke"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "og styrt dem ned"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "⟨vores⟩ skjold"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:09.894166302Z",
+  "model": "glm-5.3"
+}

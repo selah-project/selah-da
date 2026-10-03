@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og der var konge i Jeshurun, da folkenes overhoveder samlede sig, Jisraels stammer sammen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og der var"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "i Jeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "da … samlede sig"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "overhoveder"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sammen"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stammer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:47.895704918Z",
+  "model": "glm-5.3"
+}

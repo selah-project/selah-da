@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Og han skal herske fra hav til hav, og fra floden til jordens ender.",
+  "tokens": [
+    {
+      "surface": "ונירד",
+      "gloss": "og han skal herske"
+    },
+    {
+      "surface": "מים",
+      "gloss": "fra hav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "og fra floden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ender"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:09.982090189Z",
+  "model": "glm-5.3"
+}

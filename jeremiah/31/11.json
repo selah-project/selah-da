@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "For Jahve har løskøbt ⟨את⟩ Jaakov og forløst ham fra hånden af ⟨den⟩, der var stærkere end han.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "har løskøbt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "og forløst ham"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "stærkere"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "end han"
+    }
+  ],
+  "timestamp": "2026-10-03T17:19:55.134556280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jahve slog ⟨את⟩ folket, fordi de havde gjort ⟨את⟩ kalven, som Aharon havde lavet.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Og slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "de havde gjort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalven"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "kalven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde lavet"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:35.939951524Z",
+  "model": "glm-5.3"
+}

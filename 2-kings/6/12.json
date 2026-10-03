@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og én af hans trælle sagde: Nej, min herre kongen, for Elisha, profeten som er i Jisrael, fortæller Jisraels konge ⟨את⟩ de ord, som du taler i dit sovekammer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "af hans trælle"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Nej"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "fortæller"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de ord"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "de ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "du taler"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "i kammeret"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "dit sovekammer"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:20.774857043Z",
+  "model": "glm-5.3"
+}

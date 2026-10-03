@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Elohim rejste ham en modstander ⟨את⟩ Rezon, søn af Eljadá, som var flygtet fra sin herre ⟨את⟩ Hadadézer, konge af Tsova.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og rejste"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "en modstander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "af Eljadá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "var flygtet"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "af Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:14.609420221Z",
+  "model": "glm-5.3"
+}

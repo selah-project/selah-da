@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Med ⟨את⟩ hvem har du talt ord, og hvems ånde udgik fra dig?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med",
+      "marks": "מי — hvem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "har du talt"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ord"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "og hvems ånde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "udgik"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "fra dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:42:16.153307201Z",
+  "model": "glm-5.3"
+}

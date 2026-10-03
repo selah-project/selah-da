@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "og til dit kvæg og til dyret, som ⟨er⟩ i dit land — al dets afgrøde skal være til føde.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "og til dit kvæg"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "og til dyret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i dit land"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dets afgrøde"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "til føde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:37.663695036Z",
+  "model": "glm-5.3"
+}

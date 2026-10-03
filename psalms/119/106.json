@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg har svoret og vil ⟨det⟩ stadfæste, at vogte din tsedeks retter.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "Jeg har svoret"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "og vil ⟨det⟩ stadfæste"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "at vogte"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "retter"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "din tsedeks"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:36.781482481Z",
+  "model": "glm-5.3"
+}

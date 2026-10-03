@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Da bliver jeg ikke til skamme, når jeg ser på alle dine mitzvot.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "bliver jeg til skamme"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "når jeg ser"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "dine mitzvot"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:15.461797036Z",
+  "model": "glm-5.3"
+}

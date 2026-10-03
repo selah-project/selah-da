@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "For bud på bud, bud på bud, målestok på målestok, målestok på målestok, lidt dér, lidt dér.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bud"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "på bud"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bud"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "på bud"
+    },
+    {
+      "surface": "קו",
+      "gloss": "målestok"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "på målestok"
+    },
+    {
+      "surface": "קו",
+      "gloss": "målestok"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "på målestok"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "lidt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "lidt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    }
+  ],
+  "timestamp": "2026-10-03T16:54:56.585296433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Jahves røst får hindene til at føde og flår skovene nøgne, og i sit tempel siger det hele: Herlighed!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "får … til at føde"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "hindene"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "og flår nøgne"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "skovene"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "og i sit tempel"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:06.689680264Z",
+  "model": "glm-5.3"
+}

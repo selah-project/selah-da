@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Riv mig ud fra blod, Elohim, Elohim for min frelse, og min tunge skal juble over din tsedek.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "riv mig ud"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "fra blod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim for"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "min frelse"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "skal juble"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "min tunge"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "din tsedek"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:24.463056404Z",
+  "model": "glm-5.3"
+}

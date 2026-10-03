@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Elohim sagde til Bilam: Du skal ikke gå med dem, og du skal ikke forbande ⟨את⟩ folket, for det er velsignet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skal du gå"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "skal du forbande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "velsignet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T15:12:57.593726376Z",
+  "model": "glm-5.3"
+}

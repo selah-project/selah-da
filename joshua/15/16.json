@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Kalev sagde: Den der slår ⟨את⟩ Kirjat-Sefer og indtager den, ham giver jeg ⟨את⟩ Aksa, min datter, til hustru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den som"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slår"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "og indtager den"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ham giver jeg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "min datter"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T15:42:36.925274231Z",
+  "model": "glm-5.3"
+}

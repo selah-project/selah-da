@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis han ikke forløser feltet, ⟨את⟩ feltet, og hvis han har solgt feltet, ⟨את⟩ feltet, til en anden mand, kan det ikke forløses mere.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "forløser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feltet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "feltet"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "har solgt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feltet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "feltet"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "til en mand"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kan forløses"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:47.087331177Z",
+  "model": "glm-5.3"
+}

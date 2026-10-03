@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Så førte Elohim folket en omvej ⟨את⟩ ad vejen gennem ørkenen mod Sivhavet, og bevæbnet drog Jisraels sønner op fra landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "førte … en omvej"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ad vejen"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gennem ørkenen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hav"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Siv- (siv)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "bevæbnet"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "drog op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:57.550350038Z",
+  "model": "glm-5.3"
+}

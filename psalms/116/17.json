@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Til dig vil jeg slagte et takoffer, og i Jahves navn vil jeg påkalde.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "vil jeg slagte"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "et offer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "og i navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vil jeg påkalde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:56.232714275Z",
+  "model": "glm-5.3"
+}

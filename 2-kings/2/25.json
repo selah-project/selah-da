@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og han gik derfra til Karmel-bjerget, og derfra vendte han tilbage til Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og han gik"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerget"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "og derfra"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vendte han tilbage"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-10-03T16:34:27.545972804Z",
+  "model": "glm-5.3"
+}

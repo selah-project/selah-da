@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 54,
+  "translation": "Må det onde vende tilbage til mine fjender; i din trofasted udrydd ⟨dem⟩.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "må vende tilbage"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "til mine fjender"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din trofasted"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "udrydd dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:07.711967397Z",
+  "model": "glm-5.3"
+}

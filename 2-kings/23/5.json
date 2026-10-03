@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han lod ⟨את⟩ afgudspræsterne ophøre, som Judas konger havde indsat til at brænde røgelse på højene i Judas byer og i Jerushalajims omegn — og ⟨את⟩ dem der brændte røgelse for Ba'al, for solen og for månen og for stjernetegnene og for hele himlens hær.",
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "lod ... ophøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afgudspræsterne"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "afgudspræsterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "havde indsat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "at brænde røgelse"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "på højene"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i byerne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "og i omegnen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem der brændte røgelse"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "dem der brændte røgelse"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "for Ba'al"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "for solen"
+    },
+    {
+      "surface": "ו לירח",
+      "gloss": "og for månen"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "og for stjernetegnene"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og for hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hæren"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:21.327897344Z",
+  "model": "glm-5.3"
+}

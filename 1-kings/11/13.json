@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Kun ⟨את⟩ hele kongeriget vil jeg ikke rive i stykker; én stamme vil jeg give din søn, for Davids skyld, min træl, og for Jerushalajims skyld, som jeg har udvalgt.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele kongeriget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongeriget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "vil jeg rive"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vil jeg give"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "din søn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "min træl"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og for … skyld"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jeg har udvalgt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:12.164559369Z",
+  "model": "glm-5.3"
+}

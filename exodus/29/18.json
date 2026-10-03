@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal bringe ⟨את⟩ hele vædderen i røg på alteret; det er en brændoffer til Jahve, en behagelig duft, et ildoffer til Jahve ⟨er det⟩.",
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "og du skal bringe i røg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele vædderen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "en duft"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "behagelig"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "et ildoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:05.714835121Z",
+  "model": "glm-5.3"
+}

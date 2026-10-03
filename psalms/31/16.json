@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "I din hånd er mine tider; ryk mig bort fra mine fjenders hånd og fra dem, der forfølger mig.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "I din hånd"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "mine tider"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ryk mig bort"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra ... hånd"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mine fjenders"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "og fra dem der forfølger mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:35.664427068Z",
+  "model": "glm-5.3"
+}

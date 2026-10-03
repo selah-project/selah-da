@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Thi han siger: Er ikke mine høvdinger alle sammen konger?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger han"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Er ikke"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mine høvdinger"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "alle sammen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    }
+  ],
+  "timestamp": "2026-10-03T16:50:05.028103987Z",
+  "model": "glm-5.3"
+}

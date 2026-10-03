@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Jeg er Jahve, og der er ingen andre; uden mig findes der ingen Elohim; jeg spænder bælte om dig, skønt du ikke har kendt mig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der ikke er"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "andre"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "uden mig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der findes ikke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "jeg spænder bælte om dig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "har du kendt mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:03:11.277577846Z",
+  "model": "glm-5.3"
+}

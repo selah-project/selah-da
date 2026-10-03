@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Som vand er jeg udgydt, og alle mine knogler er gledet fra hinanden; mit hjerte er blevet som voks, det smelter i mit indre.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "som vand"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "er jeg udgydt"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "er gledet fra hinanden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mine knogler"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "som voks"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "det smelter"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mit indre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:19.494729087Z",
+  "model": "glm-5.3"
+}

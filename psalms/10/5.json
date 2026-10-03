@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Hans veje ⟨er⟩ bestandige til enhver tid; dine domme ⟨er⟩ i det høje, langt borte fra ham; alle hans modstandere puster han ⟨ad⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "er bestandige"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hans veje"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "til enhver"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "i det høje"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine domme"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "langt borte fra ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "hans modstandere"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "puster han"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨ad⟩ dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:32.410595251Z",
+  "model": "glm-5.3"
+}

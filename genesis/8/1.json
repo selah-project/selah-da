@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Elohim huskede ⟨את⟩ Noach og ⟨את⟩ alt liv og ⟨את⟩ alt kvæget, som ⟨var⟩ hos ⟨את⟩ ham i arken; og Elohim lod en ruach gå over jorden, og vandene lagde sig.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "og huskede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt liv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "liv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt kvæget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "i arken"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og lod gå over"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ruach"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "og lagde sig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:17.897495983Z",
+  "model": "glm-5.3"
+}

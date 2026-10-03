@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Ingen konge frelses ved stor hær; den tapre undslipper ikke ved stor styrke.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ingen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "frelses"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ved stor"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hær"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "den tapre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "undslipper"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ved stor"
+    },
+    {
+      "surface": "כח",
+      "gloss": "styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:44.412653564Z",
+  "model": "glm-5.3"
+}

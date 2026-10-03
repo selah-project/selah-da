@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim sagde: Der blive en rakia i midten af vandene, og den skal skille mellem vand og vand.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Der blive"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "en rakia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i midten af"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og den skal"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "skille"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "למים",
+      "gloss": "og vand"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:37.210797352Z",
+  "model": "glm-5.3"
+}

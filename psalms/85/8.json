@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Vis os, Jahve, din chesed, og giv os din frelse.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "vis os"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "og din frelse"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:54.212578608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Jeg vil slå dem med pest og gøre dem arveløse, og jeg vil gøre ⟨את⟩ dig til et folk, større og mægtigere end det.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "jeg vil slå dem"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "med pest"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "og gøre dem arveløse"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "og jeg vil gøre"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "til et folk"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "til et folk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "større"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "og mægtigere"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "end det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:09:03.228565563Z",
+  "model": "glm-5.3"
+}

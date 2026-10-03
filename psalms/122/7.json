@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 122,
+  "translation": "Må der være fred i dine volde, ro i dine borge.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Må der være"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "i dine volde"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "ro"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "i dine borge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:45.399820448Z",
+  "model": "glm-5.3"
+}

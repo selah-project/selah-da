@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Til korlederen. Af David. En mizmor, en sang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:59.502509128Z",
+  "model": "glm-5.3"
+}

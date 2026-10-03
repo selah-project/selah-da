@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Chazael, kongen af Aram, undertrykte ⟨את⟩ Jisrael alle Jehoachaz' dage.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Og Chazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "af Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "undertrykte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz'"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:02.975318203Z",
+  "model": "glm-5.3"
+}

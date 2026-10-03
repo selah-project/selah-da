@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Kan papyrus vokse op uden sump? Kan siv vokse uden vand?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "kan ... vokse op"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "papyrus"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "uden"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "sump"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "kan vokse"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "siv"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "uden"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:20.331089550Z",
+  "model": "glm-5.3"
+}

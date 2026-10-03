@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Det hele går til ét sted; det hele er blevet af støvet, og det hele vender tilbage til støvet.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "går"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sted"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "støvet"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "og det hele"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "støvet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:24.104814980Z",
+  "model": "glm-5.3"
+}

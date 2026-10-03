@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Arams konge havde budt ⟨את⟩ høvdingerne for vognene, som han havde, og sagt: Kæmp ikke med den lille og ikke med den store, men kun med Jisraels konge alene.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Og … kongen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde budt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "høvdingerne for vognene"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "for vognene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han havde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kæmp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den lille"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "den lille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den store"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "den store"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels konge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:47.949024605Z",
+  "model": "glm-5.3"
+}

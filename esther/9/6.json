@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og i fæstningen Shushan dræbte og tilintetgjorde jøderne fem hundrede mand.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "og i Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "fæstningen"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jøderne"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "og tilintetgjorde"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:10.485001998Z",
+  "model": "glm-5.3"
+}

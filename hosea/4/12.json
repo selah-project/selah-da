@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Mitt folk spørger sit træ, og dets stav giver det besked; for en ruach af utugt har ført dem vilde, og de har drevet utugt bort fra deres guder.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "sit træ"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "spørger"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "og dets stav"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "giver besked"
+    },
+    {
+      "surface": "לו",
+      "gloss": "det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "af utugt"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "har ført vilde"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "og de har drevet utugt"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "bort fra"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres guder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:06.124812129Z",
+  "model": "glm-5.3"
+}

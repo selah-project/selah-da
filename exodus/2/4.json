@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hans søster stillede sig på afstand for at vide, hvad der ville blive gjort mod ham.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "og stillede sig"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hans søster"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "på afstand"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "for at vide"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ville blive gjort"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mod ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:46.508449469Z",
+  "model": "glm-5.3"
+}

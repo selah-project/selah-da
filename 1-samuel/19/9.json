@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 19:9",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og en ruach fra Jahve, ond ⟨kom⟩ over Shaul, mens han sad i sit hus med sit spyd i sin hånd; og David spillede med hånden.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Og … kom"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ond"
+    },
+    {
+      "surface": "אל",
+      "gloss": "over"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i sit hus"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sad"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "med sit spyd"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i sin hånd"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "spillede"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "med hånden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:41.002334836Z",
+  "model": "glm-5.3"
+}

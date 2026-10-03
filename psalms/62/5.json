@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Kun for at styrte ham ned fra hans værdighed rådslår de; de behager løgn ⟨at tale⟩; med sin mund velsigner de, og i deres indre forbander de. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "hans værdighed"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "rådslår de"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "at styrte ned"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "de behager"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "med sin mund"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "velsigner de"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "og i deres indre"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "forbander de"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:27.197915184Z",
+  "model": "glm-5.3"
+}

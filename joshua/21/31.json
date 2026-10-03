@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkat med sine græsgange og ⟨את⟩ Rechov med sine græsgange — fire byer.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sine græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "med sine græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sine græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "med sine græsgange"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:32.975620450Z",
+  "model": "glm-5.3"
+}

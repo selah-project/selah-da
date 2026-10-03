@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg har arvet dine vidnesbyrd til evigt ⟨eje⟩, for de er mit hjertes glæde.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "jeg har arvet"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "dine vidnesbyrd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "glæde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjertes"
+    },
+    {
+      "surface": "המה",
+      "gloss": "er de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:14.809030520Z",
+  "model": "glm-5.3"
+}

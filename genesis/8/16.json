@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Gå ud af arken, du og din hustru og dine sønner og dine sønners hustruer ⟨את⟩ dig.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Gå ud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "og din hustru"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "og dine sønner"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "og hustruerne"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "til dine sønner"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:45.318846621Z",
+  "model": "glm-5.3"
+}

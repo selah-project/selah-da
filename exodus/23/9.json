@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og en fremmed skal du ikke undertrykke; I kender ⟨את⟩ den fremmedes sjæl, for I var fremmede i landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Og en fremmed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "skal du undertrykke"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "kender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den fremmedes sjæl"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "den fremmedes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "var I"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:28.161012550Z",
+  "model": "glm-5.3"
+}

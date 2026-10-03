@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og ⟨את⟩ vædderen skal du skære i stykker, efter dets stykker, og du skal vaske dets indre og dets ben og lægge ⟨dem⟩ på dets stykker og på dets hoved.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": " vædderen"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "vædderen"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "skal du skære i stykker"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "efter dets stykker"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "og du skal vaske"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "dets indre"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "og dets ben"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "og lægge"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "dets stykker"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dets hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:05.714562649Z",
+  "model": "glm-5.3"
+}

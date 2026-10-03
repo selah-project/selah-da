@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og han vendte tilbage til sine brødre og sagde: Barnet ⟨er⟩ der ikke, og jeg — hvor skal jeg gå hen?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "vendte tilbage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sine brødre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Barnet"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨er⟩ der ikke"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בא",
+      "gloss": "skal gå hen"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:49.186426838Z",
+  "model": "glm-5.3"
+}

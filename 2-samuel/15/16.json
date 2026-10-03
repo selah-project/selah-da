@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og kongen gik ud, og hele hans hus ved hans fødder; og kongen efterlod ⟨את⟩ ti kvinder, bihustruer, til at vogte huset.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ved hans fødder"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "og efterlod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ti kvinder, bihustruer"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "kvinder"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "bihustruer"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "til at vogte"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:35.530410108Z",
+  "model": "glm-5.3"
+}

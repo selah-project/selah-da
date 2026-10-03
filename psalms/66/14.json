@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "som mine læber har åbnet, og min mund har talt i min trængsel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "har åbnet"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mine læber"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "og (har) talt"
+    },
+    {
+      "surface": "פי",
+      "gloss": "min mund"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i min trængsel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(for mig)"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:35.685965490Z",
+  "model": "glm-5.3"
+}

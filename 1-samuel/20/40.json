@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jehonatan gav ⟨את⟩ sit udstyr til drengen, som tjente ham, og sagde til ham: Gå, bær det til byen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit udstyr"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sit udstyr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tjente ham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "bær"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "til byen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:17.612930487Z",
+  "model": "glm-5.3"
+}

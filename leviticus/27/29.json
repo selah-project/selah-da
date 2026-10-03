@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Ethvert cherem, som bliver viet fra mennesket, må ikke løskøbes; døden skal det dø.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ethvert"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bliver viet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "løskøbes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal det dø"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:31.003763310Z",
+  "model": "glm-5.3"
+}

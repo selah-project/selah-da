@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "En lærerdigt af Ejtan ha-Ezrachi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "lærerdigt"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "af Ejtan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrachi"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.476700210Z",
+  "model": "glm-5.3"
+}

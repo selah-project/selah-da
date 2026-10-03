@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og jøderne tog imod ⟨את⟩ det, de var begyndt at gøre, og ⟨את⟩ det, Mordechai havde skrevet til dem.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "og tog imod"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jøderne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, de var begyndt at gøre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "de var begyndt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "at gøre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "det, Mordechai havde skrevet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "havde skrevet"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:50.489755238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jaakov flygtede til Arams mark, og Jisrael tjente for en kvinde, og for en kvinde vogtede han.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Og flygtede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mark"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "og tjente"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "for en kvinde"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "og for en kvinde"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogtede han"
+    }
+  ],
+  "timestamp": "2026-10-03T17:50:32.491953507Z",
+  "model": "glm-5.3"
+}

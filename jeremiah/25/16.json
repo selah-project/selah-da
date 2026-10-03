@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og de skal drikke og rave og være som rasende, for sværdets skyld, som jeg sender iblandt dem.",
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "og de skal drikke"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "og rave"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "og være som rasende"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sværdet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "iblandt dem"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:35.097532526Z",
+  "model": "glm-5.3"
+}

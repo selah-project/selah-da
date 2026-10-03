@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "⟨Den⟩ viden er for underfuld for mig, den er ophøjet — jeg formår den ikke.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "for underfuld"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "viden"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ophøjet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "jeg formår"
+    },
+    {
+      "surface": "לה",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:51.624263480Z",
+  "model": "glm-5.3"
+}

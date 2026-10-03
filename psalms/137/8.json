@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "Babels datter, ⟨den⟩ hærgede — salig ⟨er⟩ han, der gengælder dig ⟨את⟩ din løn, ⟨den⟩ som du viste os.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "den hærgede"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "salig (oh, lykkelig)"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "som gengælder"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din løn (d gengældelse)"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "din løn, din gengældelse"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "som du gjorde (viste)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mod os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:30.561207133Z",
+  "model": "glm-5.3"
+}

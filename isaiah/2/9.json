@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og mennesket bøjede sig, og manden ydmygede sig — og tilgiv dem ikke.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Og bøjede sig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "og ydmygede sig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "tilgiv"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:15.936613865Z",
+  "model": "glm-5.3"
+}

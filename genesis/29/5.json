@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og han sagde til dem: Kender I ⟨את⟩ Lavan, søn af Nachor? Og de sagde: Vi kender ⟨ham⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Kender I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "af Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Vi kender"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:33.507566348Z",
+  "model": "glm-5.3"
+}

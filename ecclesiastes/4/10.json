@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "For hvis de falder, kan den ene rejse ⟨את⟩ sin fælle; men ve den ene, som falder uden en anden til at rejse ham.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "de falder"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "rejser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fælle"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "sin fælle"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "men ve"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "som falder"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "uden"
+    },
+    {
+      "surface": "שני",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "til at rejse ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:50:59.790469540Z",
+  "model": "glm-5.3"
+}

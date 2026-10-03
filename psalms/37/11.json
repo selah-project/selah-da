@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og de ydmyge skal arve landet og fryde sig over fredens overflod.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "og de ydmyge"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "skal arve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "og fryde sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "רב",
+      "gloss": "overflod"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:06.874944297Z",
+  "model": "glm-5.3"
+}

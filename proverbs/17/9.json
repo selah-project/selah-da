@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Den, der dækker over en overtredelse, søger kærlighed; men den, der gentager en sag, skiller en nær ven.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "den, der dækker over"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "en overtredelse"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kærlighed"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "men den, der gentager"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "en sag"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "skiller"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "en nær ven"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:04.867767011Z",
+  "model": "glm-5.3"
+}

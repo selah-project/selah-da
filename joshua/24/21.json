@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og folket sagde til Yehoshua: Nej, men ⟨את⟩ Jahve vil vi tjene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "vil vi tjene"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:12.404811286Z",
+  "model": "glm-5.3"
+}

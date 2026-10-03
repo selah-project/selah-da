@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "I skal ikke spise ⟨på⟩ blodet; I skal ikke drive spådomskunst, og I skal ikke praktisere magi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "I skal ikke spise"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨på⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "drive spådomskunst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "praktisere magi"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:09.942091179Z",
+  "model": "glm-5.3"
+}

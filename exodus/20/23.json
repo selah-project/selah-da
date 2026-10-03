@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "I må ikke gøre ⟨את⟩ ved siden af mig guder af sølv, og guder af guld må I ikke gøre jer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "må I gøre"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ved siden af mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "af sølv"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og guder"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "må I gøre"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:38:58.007536242Z",
+  "model": "glm-5.3"
+}

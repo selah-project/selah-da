@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og hvis en mand slår ⟨את⟩ øjet på sin træl eller ⟨את⟩ øjet på sin trælkvinde, så det ødelægges, skal han lade ⟨ham⟩ gå fri som erstatning for hans øje.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slår"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "øjet"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øjet"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sin træl"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "øjet"
+    },
+    {
+      "surface": "עין",
+      "gloss": "øjet"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sin trælkvinde"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "så det ødelægges"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "fri"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "skal han lade ham gå"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "som erstatning for"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "hans øje"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:11.146332442Z",
+  "model": "glm-5.3"
+}

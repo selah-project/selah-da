@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Til dig ⟨er⟩ stilhed ⟨som⟩ lovsang, Elohim, i Tsiyon, og til dig bliver ⟨et⟩ løfte fuldført.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "stilhed"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lovsang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "i Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "og til dig"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bliver fuldført"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "løfte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:52.646021077Z",
+  "model": "glm-5.3"
+}

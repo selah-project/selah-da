@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Lavan gav hende ⟨את⟩ Zilpa, sin trælkvinde, til Lea, sin datter, ⟨som⟩ trælkvinde.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa, sin trælkvinde"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "sin trælkvinde"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "til Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sin datter"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "trælkvinde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:31.465505285Z",
+  "model": "glm-5.3"
+}

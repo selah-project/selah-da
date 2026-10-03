@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Naarah fødte ham ⟨את⟩ Achuzzam og ⟨את⟩ Chefer og ⟨את⟩ Temeni og ⟨את⟩ Ha'asjtari. Disse er sønnerne af Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Og fødte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ha'asjtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ha'asjtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "er sønnerne af"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:45.409561684Z",
+  "model": "glm-5.3"
+}

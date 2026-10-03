@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jahve, jeres fædres Elohim, tilføje jer tusind gange så mange som I er, og velsigne ⟨את⟩ jer, som han har talt til jer!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "jeres fædres"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "tilføje"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "som I er"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gange"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsigne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:14.139486151Z",
+  "model": "glm-5.3"
+}

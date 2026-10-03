@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og de tog ⟨את⟩ deres knogler og begravede dem under tamarisken i Javesh, og de fastede syv dage.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "og de tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres knogler"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "deres knogler"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og begravede"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarisken"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "i Javesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "og de fastede"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:09:26.159167099Z",
+  "model": "glm-5.3"
+}

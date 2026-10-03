@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Du skal ikke undertrykke ⟨את⟩ din næste og ikke røve fra ham; en daglejers løn skal ikke blive ⟨את⟩ hos dig til morgen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "skal du undertrykke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din næste"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "din næste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "røve fra ham"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "skal blive"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "løn"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "en daglejer"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hos dig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:04.173270826Z",
+  "model": "glm-5.3"
+}

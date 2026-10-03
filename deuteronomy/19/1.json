@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Når Jahve, din Elohim, udrydder ⟨את⟩ folkeslagene, hvis land Jahve, din Elohim, giver dig, og du tager det i arv og bor i deres byer og i deres huse,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "udrydder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkeslagene"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "og du tager det i arv"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "og bor"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "i deres byer"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "og i deres huse"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:29.840312663Z",
+  "model": "glm-5.3"
+}

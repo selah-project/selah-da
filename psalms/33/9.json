@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Thi han sagde, og ⟨det⟩ skete; han bød, og ⟨det⟩ stod fast.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og ⟨det⟩ skete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bød"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og ⟨det⟩ stod fast"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:21.757805699Z",
+  "model": "glm-5.3"
+}

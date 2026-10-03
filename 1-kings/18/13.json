@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Er det ikke blevet fortalt min herre ⟨את⟩ det, som jeg gjorde, da Izevel drabte ⟨את⟩ Jahves profeter, og jeg skjulte af Jahves profeter hundrede mænd, halvtreds og halvtreds mænd, i en hule og forså dem med brød og vand?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "er det ikke"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "blevet fortalt"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "min herre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som jeg gjorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jeg gjorde"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "da ... drabte"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves profeter"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "profeter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "og jeg skjulte"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "af ... profeter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "i en hule"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "og forså dem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:58.399588786Z",
+  "model": "glm-5.3"
+}

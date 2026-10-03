@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Der er en ondskab, jeg har set under solen, som en fejltagelse, der går ud fra ⟨ansigtet af⟩ den herskende.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "der er"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "en ondskab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "som en fejltagelse"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "der går ud"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fra ⟨ansigtet af⟩"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "den herskende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:23.238159226Z",
+  "model": "glm-5.3"
+}

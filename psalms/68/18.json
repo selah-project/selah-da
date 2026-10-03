@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Elohims vogne er myriader, tusinder på tusinder; Adonaj er iblandt dem — Sinai, i helligheden.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "vogne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "myriader"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tusinder på"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "tusinder"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iblandt dem"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helligheden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:48.699014455Z",
+  "model": "glm-5.3"
+}

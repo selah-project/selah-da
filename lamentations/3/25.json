@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "God ⟨er⟩ Jahve mod den, der venter på ham, mod den sjæl, der søger ham.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "mod den, der venter på ham"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "mod den sjæl"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "der søger ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:34.087059949Z",
+  "model": "glm-5.3"
+}

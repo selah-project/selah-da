@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Folkenes billedstøtter ⟨er⟩ sølv og guld, værk af menneskers hænder.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "billedstøtter"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkenes"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og guld"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "af hænder"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menneskers"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:07.634758125Z",
+  "model": "glm-5.3"
+}

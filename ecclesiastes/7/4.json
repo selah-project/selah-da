@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "De vises hjerte er i sørgens hus, og dåres hjerte i glædens hus.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vises"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sørgens"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "og hjerte"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dåres"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i hus"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "glædens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.746728651Z",
+  "model": "glm-5.3"
+}

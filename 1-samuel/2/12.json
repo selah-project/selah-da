@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Elis sønner var Belials sønner; de kendte ikke Jahve ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og … sønner"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belials"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "de kendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:35.485454106Z",
+  "model": "glm-5.3"
+}

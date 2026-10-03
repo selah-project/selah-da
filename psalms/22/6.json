@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Til dig råbte de og blev frelst; i dig stolede de og blev ikke skamfulde.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "råbte de"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "og blev frelst"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "stolede de"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "blev skamfulde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.516803027Z",
+  "model": "glm-5.3"
+}

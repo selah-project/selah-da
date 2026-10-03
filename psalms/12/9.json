@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Rundt omkring går de onde frem, således som værdiløshed er ophøjet blandt menneskenes børn.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "rundt omkring"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "går frem"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "således som"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "værdiløshed"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "blandt børnene af"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:33.645668207Z",
+  "model": "glm-5.3"
+}

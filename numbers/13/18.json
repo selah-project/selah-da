@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og I skal se ⟨את⟩ landet, hvad det er, og ⟨את⟩ folket, som bor på det — er det stærkt, er det svagt? Er det fåtalletigt, eller er det talrigt?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Og I skal se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på det"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "stærkt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "svagt"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "fåtalletigt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eller"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talrigt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:09:32.816113286Z",
+  "model": "glm-5.3"
+}

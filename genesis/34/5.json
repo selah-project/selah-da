@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og Jaakov hørte, at ⟨han⟩ havde vanæret ⟨את⟩ Dina, hans datter — og hans sønner var ⟨את⟩ med hans kvæg ude på marken — og Jaakov tav, indtil de kom.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Og Jaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "havde vanæret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "hans datter"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og hans sønner"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "hans kvæg"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "og tav"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "באם",
+      "gloss": "de kom"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:55.166930649Z",
+  "model": "glm-5.3"
+}

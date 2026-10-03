@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Parohs datter gik ned for at bade ved floden, og hendes piger gik langs flodens bred; og hun så ⟨את⟩ kisten midt i sivene og sendte ⟨את⟩ sin trælkvinde, og hun tog den.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "gik ned"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "for at bade"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "og hendes piger"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "gik"
+    },
+    {
+      "surface": "על",
+      "gloss": "langs"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bred"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "flodens"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "og hun så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kisten"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kisten"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "sivene"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin trælkvinde"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "sin trælkvinde"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "og hun tog den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:04.873066663Z",
+  "model": "glm-5.3"
+}

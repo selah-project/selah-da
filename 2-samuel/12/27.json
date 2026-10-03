@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Joav sendte bud til David og sagde: Jeg har kæmpet mod Rabbat, og jeg har også indtaget vandstaden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "bud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "jeg har kæmpet"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "mod Rabbat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "har indtaget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandstaden"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vand-"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:50.763730504Z",
+  "model": "glm-5.3"
+}

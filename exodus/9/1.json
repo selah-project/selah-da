@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve sagde til Moshe: Gå ind til Farao og tal til ham: Sådan siger Jahve, hebræernes Elohim: Send ⟨את⟩ mit folk af sted, så de kan tjene mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "og tal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebræernes"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "så de kan tjene mig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:45.014412040Z",
+  "model": "glm-5.3"
+}

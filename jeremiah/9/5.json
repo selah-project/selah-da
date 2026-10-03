@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Din bolig er midt i bedrag; i bedrag nægter de at kende ⟨את⟩ mig, siger Jahve.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "din bolig"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrag"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "i bedrag"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nægter de"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "at kende"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:12:03.836901418Z",
+  "model": "glm-5.3"
+}

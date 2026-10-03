@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Nådefuld og barmhjertig ⟨er⟩ Jahve, langmodig og stor i chesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "nådefuld"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "og barmhjertig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langmodig"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨i vrede⟩"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "og stor i"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:02.261031305Z",
+  "model": "glm-5.3"
+}

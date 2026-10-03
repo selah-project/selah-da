@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Vask jer, rens jer; fjern det onde i jeres gerninger fra mit åsyns øjne; hold op med at gøre ondt.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "vask jer"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "rens jer"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "fjern"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "i jeres gerninger"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "fra"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "hold op"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "at gøre ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:51.790444604Z",
+  "model": "glm-5.3"
+}

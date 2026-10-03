@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Du må ikke undertrykke en fattig og nødlidende lønnet arbejder, enten en af dine brødre eller en fremmed, der bor i dit land, inden for dine porte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "må du undertrykke"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "en lønnet arbejder"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fattig"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og nødlidende"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "af dine brødre"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "en fremmed hos dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i dit land"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "inden for dine porte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:41.784138686Z",
+  "model": "glm-5.3"
+}

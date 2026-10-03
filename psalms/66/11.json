@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Du førte os ind i snaren, du lagde tryk på vores lænder.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "førte du os ind"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "i snaren"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "lagde du"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "tryk"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "på vores lænder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:06.798621241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Thi så højt som himlene ⟨er⟩ over jorden, så mægtig er hans chesed over dem, der frygter ham.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "så højt som"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "så mægtig er"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dem der frygter ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:04.614275707Z",
+  "model": "glm-5.3"
+}

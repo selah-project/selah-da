@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Den, der låner Jahve ⟨את⟩ noget — han viser ⟨den⟩ fattige godhed, og hans gerning gengælder Han ham for.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "låner"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "viser godhed"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "og hans gerning"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "gengælder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:37.191130752Z",
+  "model": "glm-5.3"
+}

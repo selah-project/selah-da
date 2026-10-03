@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Mit legeme blev ikke skjult for dig, da jeg blev gjort i skjulhed, da jeg blev broderet i jordens nederste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "blev skjult"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mit legeme"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jeg blev gjort"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "i skjulhed"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "jeg blev broderet"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "i de nederste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "af jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:05.536984480Z",
+  "model": "glm-5.3"
+}

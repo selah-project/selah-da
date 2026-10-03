@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og David længtes og sagde: Hvem vil give mig vand at drikke fra brønden i Bet-Lechem, den ved ⟨by⟩porten?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "længtes"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "vil give mig at drikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "fra brønden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ved porten"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:31.361467998Z",
+  "model": "glm-5.3"
+}

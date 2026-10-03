@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Hvis en mand synder mod en mand, skal Elohim dømme ⟨ham⟩; men hvis en mand synder mod Jahve, hvem skal da bede for ham? Men de hørte ikke på deres fars røst, for Jahve ville lade dem dø.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "synder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mod en mand"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "skal dømme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mod Jahve"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "synder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "skal bede"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hørte de"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "på røsten"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "af deres far"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ville"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "lade dem dø"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:21.647811049Z",
+  "model": "glm-5.3"
+}

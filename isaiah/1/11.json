@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 1:11",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Hvad skal jeg med jereres mange slagtofre? siger Jahve. Jeg er mæt af brændofre af væddere og fedt af gøet kvæg, og blod af unge okser og lam og bukke — det har jeg ikke lyst til.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "skal jeg"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mange"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "slagtofre"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבעתי",
+      "gloss": "Jeg er mæt"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "af brændofre"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "af væddere"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "og fedt"
+    },
+    {
+      "surface": "מריאים",
+      "gloss": "af gøet kvæg"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "og blod"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "af unge okser"
+    },
+    {
+      "surface": "וכבשים",
+      "gloss": "og lam"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "og bukke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "har jeg lyst til"
+    }
+  ],
+  "timestamp": "2026-10-03T16:46:23.295440924Z",
+  "model": "glm-5.3"
+}

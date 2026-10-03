@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og det skete på den anden dag, efter at ⟨את⟩ Gedalja var blevet dræbt, at ingen mand vidste det.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "efter at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalja"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalja"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og en mand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vidste"
+    }
+  ],
+  "timestamp": "2026-10-03T17:24:55.214356699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Se, jeg har sat landet foran jer; gå ind og tag ⟨את⟩ landet i besiddelse, det som Jahve har svoret at give jeres fædre, Avraham, Jitschak og Jaakov, at give dem og deres sæd efter dem.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jeg har sat"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "foran jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gå ind"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "og tag i besiddelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "jeres fædre"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "og Jaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "at give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "og deres sæd"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "efter dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:21:20.177175314Z",
+  "model": "glm-5.3"
+}

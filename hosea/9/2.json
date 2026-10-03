@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Tærskeplads og vinperse skal ikke føde dem, og mosten skal svigte dem ⟨i den⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "tærskeplads"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "og vinperse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "skal føde dem"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "og mosten"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "skal svigte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:42.285465887Z",
+  "model": "glm-5.3"
+}

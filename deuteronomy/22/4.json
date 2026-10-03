@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Du må ikke se din broders ⟨את⟩ æsel eller hans okse faldne på vejen og skjule dig for dem — du skal i ethvert tilfælde rejse ⟨dem⟩ op sammen med ham.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "æslet"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "æsel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "hans okse"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "faldne"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "og skjule dig"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "i ethvert tilfælde rejse op"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "skal du rejse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sammen med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:28.447090811Z",
+  "model": "glm-5.3"
+}

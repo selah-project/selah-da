@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og han bragte ⟨את⟩ sin fars hellige gaver og sine egne hellige gaver ind i Elohims hus: sølv og guld og kar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og han bragte ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars hellige gaver"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "hellige gaver"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "og sine egne hellige gaver"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og guld"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "og kar"
+    }
+  ],
+  "timestamp": "2026-10-03T19:22:11.982128571Z",
+  "model": "glm-5.3"
+}

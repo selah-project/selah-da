@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Da jeg råbte, svarede du mig, min tsedeks Elohim; i trængsel gav du mig rum. Vær mig nådig og hør min bøn.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Da jeg råbte"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "svarede du mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min … Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedeks"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i trængsel"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "gav du … rum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "og hør"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:56.738137772Z",
+  "model": "glm-5.3"
+}

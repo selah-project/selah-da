@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og fra Gads stamme ⟨את⟩ Ramot i Gil'ad med dens græsgange og ⟨את⟩ Machanajim med dens græsgange",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "og fra stammen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "i Gil'ad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Machanajim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:11:33.668651315Z",
+  "model": "glm-5.3"
+}

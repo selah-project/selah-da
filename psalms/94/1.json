@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "El over hævn, Jahve; El over hævn, træd frem i lys!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "over hævn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "over hævn"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "træd frem i lys"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:34.326811219Z",
+  "model": "glm-5.3"
+}

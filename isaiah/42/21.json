@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Jahve havde behag, for sin tsedeks skyld, at gøre Toraen stor og herlig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "havde behag"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sin tsedek"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "gøre stor"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toraen"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "og herlig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:58.256002287Z",
+  "model": "glm-5.3"
+}

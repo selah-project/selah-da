@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Du må ikke se din broders ⟨את⟩ okse eller ⟨את⟩ hans får vredne og skjule dig for dem — du skal i ethvert tilfælde bringe dem tilbage til din broder.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oksen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "okse"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broders"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fåret"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "hans får"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "vredne"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "og skjule dig"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "השב",
+      "gloss": "i ethvert tilfælde bringe tilbage"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "skal du bringe dem tilbage"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "til din broder"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:28.446518833Z",
+  "model": "glm-5.3"
+}

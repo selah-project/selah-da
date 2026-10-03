@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Sha'uls onkel sagde: Fortæl mig dog, hvad Shemuel sagde til jer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "onkel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uls"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Fortæl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:13.530520932Z",
+  "model": "glm-5.3"
+}

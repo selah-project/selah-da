@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Arnan vendte sig og så ⟨את⟩ englen, og hans fire sønner var med ham, skjulte sig; og Arnan tærskede hvede.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og vendte sig"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "englen"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "englen"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "og hans fire"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "skjulte sig"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "og Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "tærskede"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "hvede"
+    }
+  ],
+  "timestamp": "2026-10-03T19:16:09.774133095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Ved de retskafnes velsignelse opløftes ⟨byen⟩ byen, og ved rasha'ims mund brydes den ned.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "ved velsignelse"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "de retskafnes"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "opløftes"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "og ved mund"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rasha'ims"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "brydes den ned"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:53.879809814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "og ⟨את⟩ Esav hadede jeg, og jeg satte ⟨את⟩ hans bjerge til øde, og ⟨את⟩ hans arv til ørkenens sjakaler.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hadede jeg"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "og jeg satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans bjerge"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "hans bjerge"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "til øde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans arv"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arv"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "til sjakaler"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ørkenens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:03:33.698070034Z",
+  "model": "glm-5.3"
+}

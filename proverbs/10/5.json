@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Den der høster om sommeren, ⟨er⟩ en forstandig søn; den der sover ved høsten, ⟨er⟩ en søn der vækker skam.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "den der høster"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "om sommeren"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "forstandig"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "den der sover"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ved høsten"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "der vækker skam"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:35.195415402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og de skal tage af blodet og sætte det på de to dørstolper og på overliggeren, på de huse, i hvilke de skal spise ⟨את⟩ det.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Og de skal tage"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "og sætte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "dørstolper"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "overliggeren"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "de huse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i hvilke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "de skal spise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:09.651348211Z",
+  "model": "glm-5.3"
+}

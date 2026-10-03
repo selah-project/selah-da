@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Hver mand hjælper ⟨את⟩ sin næste og siger til sin broder: Vær stærk!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "hjælper"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "og til sin broder"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "vær stærk"
+    }
+  ],
+  "timestamp": "2026-10-03T17:00:27.693593144Z",
+  "model": "glm-5.3"
+}

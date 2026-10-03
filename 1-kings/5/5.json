@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Jehudah og Jisrael boede i sikkerhed, hver mand under sin vinstok og under sit figentræ, fra Dan og til Be'er-Sheva, alle Shelomos dage.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og boede"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "og Jisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "i sikkerhed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "sin vinstok"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "og under"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "sit figentræ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "fra Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomos"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:58.084203137Z",
+  "model": "glm-5.3"
+}

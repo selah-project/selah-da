@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "I det fjerde år blev Jahves hus grundlagt, i måneden Ziv.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "i det ... år"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "fjerde"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "blev grundlagt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Ziv"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:34.803722230Z",
+  "model": "glm-5.3"
+}

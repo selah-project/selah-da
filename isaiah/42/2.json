@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Han skal ikke skrige, og han skal ikke løfte ⟨sin røst⟩, og han skal ikke lade sin røst høres ude på gaden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "skal han skrige"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "skal han løfte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "skal han lade høres"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ude på gaden"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sin røst"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:39.317141004Z",
+  "model": "glm-5.3"
+}

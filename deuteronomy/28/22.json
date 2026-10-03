@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve skal slå dig med svindsot og med feber og med betændelse og med brændende hede og med sværdet og med gulrust og med meldug, og de skal forfølge dig, indtil du omkommer.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "skal slå"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "med svindsot"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "og med feber"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "og med betændelse"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "og med brændende hede"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "og med sværdet"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "og med gulrust"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "og med meldug"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "og de skal forfølge dig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "du omkommer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:45.867773944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og han uddelte til alle i Jisrael, fra mand til kvinde, til hver mand en rund brødkage og en dadelkage og en rosinkage.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "Og han uddelte"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "fra mand"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "til"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kvinde"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "til hver mand"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "en rund kage"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "og en dadelkage"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "og en rosinkage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:57.555860252Z",
+  "model": "glm-5.3"
+}

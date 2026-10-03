@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Men du, Jahve, ler ad dem; du spotter alle folkeslagene.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ler ad"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "spotter"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslagene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:09.893645244Z",
+  "model": "glm-5.3"
+}

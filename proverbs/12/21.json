@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Der skal ikke møde ⟨den⟩ retfærdige nogen ondskab, men de gudløse er fyldte med ondt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יְאֻנֶּה",
+      "gloss": "skal møde"
+    },
+    {
+      "surface": "לַצַּדִּיק",
+      "gloss": "⟨den⟩ retfærdige"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "nogen"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "וּרְשָׁעִים",
+      "gloss": "men de gudløse"
+    },
+    {
+      "surface": "מָלְאוּ",
+      "gloss": "er fyldte"
+    },
+    {
+      "surface": "רָע",
+      "gloss": "med ondt"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:39.004801593Z",
+  "model": "glm-5.3"
+}

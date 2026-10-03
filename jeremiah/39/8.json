@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og ⟨את⟩ kongens hus og ⟨את⟩ folkets hus brændte Kasdæerne med ild; og ⟨את⟩ Jerushalajims mure rev de ned.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kongens hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "folkets hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdæerne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jerushalajims mure"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mure"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "rev de ned"
+    }
+  ],
+  "timestamp": "2026-10-03T17:24:11.928554841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Adonaj, åbn ⟨du⟩ mine læber, og min mund skal forkynde din lovsang.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mine læber"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "åbn"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "og min mund"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "skal forkynde"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "din lovsang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:44.614921451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "En byrde fra ørkenen ved havet. Som hvirvelvinde i Negev, sådan farer de forbi; fra en ørken kommer den, fra et frygteligt land.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "En byrde"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ørkenen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Som hvirvelvinde"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "i Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "farer forbi"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "fra en ørken"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer den"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra et land"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "frygteligt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:53:14.460584411Z",
+  "model": "glm-5.3"
+}

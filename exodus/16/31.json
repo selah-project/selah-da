@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Bet Jisrael kaldte ⟨את⟩ dets navn manna; og den var som korianderfrø, hvid, og dens smag som en fladbrødskage i honning.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Og ... kaldte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dets navn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og den"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "som ... frø"
+    },
+    {
+      "surface": "גד",
+      "gloss": "korianderfrø"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "hvid"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "og dens smag"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "som en fladbrødskage"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "i honning"
+    }
+  ],
+  "timestamp": "2026-10-03T14:39:17.801237564Z",
+  "model": "glm-5.3"
+}

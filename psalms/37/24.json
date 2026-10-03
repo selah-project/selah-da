@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Selv om han falder, kastes han ikke bort, thi Jahve støtter hans hånd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "selv om"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "han falder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "kastet bort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "støtter"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:24.520904927Z",
+  "model": "glm-5.3"
+}

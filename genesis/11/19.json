@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Peleg levede, efter at han havde avlet ⟨את⟩ Re'u, ni år og to hundrede år, og avlede sønner og døtre.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og Peleg levede"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "han havde avlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re'u"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "og to hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og døtre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:37.961783198Z",
+  "model": "glm-5.3"
+}

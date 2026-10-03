@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og det var mig meget ondt, og jeg kastede ⟨את⟩ alt Tobija husets kar ud ⟨af⟩ rummet.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "og det var ondt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meget"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "og jeg kastede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt Tobija husets kar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobija"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "rummet"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:16.028637935Z",
+  "model": "glm-5.3"
+}

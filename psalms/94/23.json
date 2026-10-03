@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Og han vil vende deres ondskab tilbage over ⟨את⟩ dem og i deres ondskab udrydde dem; udrydde dem vil Jahve, vor Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og han vender tilbage"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres ondskab"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "deres ondskab"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "og i deres ondskab"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "udrydde dem"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "udrydde dem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:55.653862636Z",
+  "model": "glm-5.3"
+}

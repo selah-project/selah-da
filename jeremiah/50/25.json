@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Jahve har åbnet ⟨את⟩ sit forråd og ført ⟨את⟩ redskaberne for sin vrede ud, for et værk har Adonaj Jahve Tsevaot i kasdernes land.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "har åbnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit forråd"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "sit forråd"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "og ført ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "redskaberne for sin vrede"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "redskaberne"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "for sin vrede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "et værk"
+    },
+    {
+      "surface": "היא",
+      "gloss": "har"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdernes land"
+    }
+  ],
+  "timestamp": "2026-10-03T19:40:10.780664429Z",
+  "model": "glm-5.3"
+}

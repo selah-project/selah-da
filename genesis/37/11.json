@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og hans brødre blev misundelige på ham, men hans far bevarede ⟨את⟩ ordet.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "og blev misundelige"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "men hans far"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bevarede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ordet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ordet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:58.242729166Z",
+  "model": "glm-5.3"
+}

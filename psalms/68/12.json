@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Adonaj giver ordet; budbærerskerne er en stor hær.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ordet"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "budbærerskerne"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hær"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:07.651049941Z",
+  "model": "glm-5.3"
+}

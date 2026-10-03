@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Ved Jahves ord blev himlene gjort, og ved ruach fra hans mund hele deres hær.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "ved ordet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "blev gjort"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "og ved ruach"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "fra hans mund"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "deres hær"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.431171111Z",
+  "model": "glm-5.3"
+}

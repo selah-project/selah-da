@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og jeg priste ⟨את⟩ de døde, som allerede er døde, frem for de levende, som endnu lever.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Og jeg priste"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de døde"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "de døde"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "allerede"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "er døde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frem for"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lever"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "endnu"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:44.819677004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og solen går op, og solen går ned, og puster mod sit sted — der går den op igen.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "og går op"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og går ned"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sit sted"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "puster"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "går op"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:38.025547022Z",
+  "model": "glm-5.3"
+}

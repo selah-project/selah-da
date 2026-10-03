@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og det skete dagen efter, at filisterne kom for at plyndre ⟨את⟩ de dræbte, og de fandt ⟨את⟩ Shaul og ⟨את⟩ hans tre sønner liggende på Gilboa-bjerget.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "dagen efter"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "at … kom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "for at plyndre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de dræbte"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "de dræbte"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "og de fandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans tre sønner"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "hans tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "liggende"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "på … bjerget"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-03T16:10:22.865112928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Chushai sagde: Du kender ⟨את⟩ din far og ⟨את⟩ hans mænd — at de er helte og bitre i sjælen, som en berøvet bjørn på marken; og din far er en krigsmand og overnatter ikke ⟨⟨את⟩ hos⟩ folket.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chushai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din far"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans mænd"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hans mænd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "helte"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "og bitre"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "i sjælen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "som en bjørn"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "berøvet (unger)"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "og din far"
+    },
+    {
+      "surface": "איש",
+      "gloss": "er en mand"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "krigs-"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "overnatter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ hos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T16:15:30.179499659Z",
+  "model": "glm-5.3"
+}

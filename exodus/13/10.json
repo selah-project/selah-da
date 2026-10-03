@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og du skal holde ⟨את⟩ denne forskrift på dens fastsatte tid, fra dage til dage.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Og du skal holde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne forskrift"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "forskriften"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "på dens fastsatte tid"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "fra dage"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "til dage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:06.430629280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg længes efter din frelse, Jahve, og din Tora er min lyst.",
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "længes jeg"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "efter din frelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og din Tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "min lyst"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.117958048Z",
+  "model": "glm-5.3"
+}

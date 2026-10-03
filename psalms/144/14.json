@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Vore okser er stærke til at bære; der er intet indbrud, og ingen går ud, og intet vræl ⟨høres⟩ i vore gader.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "vore okser"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "er stærke til at bære"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er intet"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "indbrud"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og intet"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "vræl"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "i vore gader"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:50.015095606Z",
+  "model": "glm-5.3"
+}

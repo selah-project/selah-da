@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Stor er vor Adonaj og rig på kraft; til hans forstand er der intet tal.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Stor"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "vor Adonaj"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og rig"
+    },
+    {
+      "surface": "כח",
+      "gloss": "på kraft"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "til hans forstand"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er intet"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tal"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:09.510723149Z",
+  "model": "glm-5.3"
+}

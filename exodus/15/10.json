@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Du blæste med din ruach — havet dækkede dem; de sank som bly i de vældige vande.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Du blæste"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "med din ruach"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "dækkede dem"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "de sank"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "som bly"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i de"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "vide"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:34.127268383Z",
+  "model": "glm-5.3"
+}

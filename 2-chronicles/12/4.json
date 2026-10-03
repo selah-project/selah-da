@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og han erobrede ⟨את⟩ de befæstede byer, som hørte til Jehuda, og kom helt til Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Og han erobrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de befæstede byer"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "de befæstede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "hørte til Jehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:48.808254661Z",
+  "model": "glm-5.3"
+}

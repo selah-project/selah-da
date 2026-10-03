@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Elisha blev syg med ⟨את⟩ den sygdom, han skulle dø af, og Joash, Jisraels konge, gik ned til ham og græd over ham og sagde: Min fader! Min fader! Jisraels vogntog og dets ryttere!",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "Og Elisha"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "blev syg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den sygdom"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "sin sygdom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skulle dø"
+    },
+    {
+      "surface": "בו",
+      "gloss": "af den"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og gik ned"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "og græd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ham (bogstaveligt: hans ansigt)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Min fader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min fader"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vogntog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "og dets ryttere"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:30.956376085Z",
+  "model": "glm-5.3"
+}

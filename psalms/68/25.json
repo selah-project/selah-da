@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Dit hærtog har de set, Elohim, mit Els, min kongs hærtog, i helligdommen.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "har de set"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "dit hærtog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "hærtoget"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mit Els"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min kongs"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helligdommen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:54.890538749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Når den gudløse kommer, kommer også foragt, og med vanære ⟨kommer⟩ skændsel.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "når ... kommer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "foragt"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "vanære"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "skændsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:47.667976602Z",
+  "model": "glm-5.3"
+}

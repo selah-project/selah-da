@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Jaakov kyssede Rakhel, og han løftede ⟨את⟩ sin røst og græd.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "Og kyssede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "og løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin røst"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sin røst"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "og græd"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:58.449707366Z",
+  "model": "glm-5.3"
+}

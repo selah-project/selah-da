@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og alle provinsernes høvdinger og satraperne og statholderne og kongens embedsmænd løftede ⟨את⟩ jøderne ⟨op⟩, for frygten for Mordechai var faldet over dem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provinsernes"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "og satraperne"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "og statholderne"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "og kongens"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "embedsmænd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som tjente"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jøderne"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jøderne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "var faldet"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frygten"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "for Mordechai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:56.918338291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Du skældte ud på folkeslagene, du lod de onde gå til grunde, deres navn udslettede du for evigt og altid.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "du skældte ud"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "på folkeslagene"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "du lod gå til grunde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "deres navn"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "udslettede du"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og altid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:49.676282700Z",
+  "model": "glm-5.3"
+}

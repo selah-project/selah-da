@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og du skal gøre efter din visdom, og lad ikke hans grå hår gå ned til Sheol i fred.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal gøre"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "efter din visdom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "lad gå ned"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "hans grå hår"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "i fred"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "til Sheol"
+    }
+  ],
+  "timestamp": "2026-10-03T16:23:03.270330750Z",
+  "model": "glm-5.3"
+}

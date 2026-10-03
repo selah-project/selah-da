@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "De kredsede om mig som bier, de slukkedes som ild i tørne — i Jahves navn dem gør jeg kort.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "De kredsede om mig"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "som bier"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "de slukkedes"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "som ild"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "i tørne"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i ... navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "dem gør jeg kort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:02.374363439Z",
+  "model": "glm-5.3"
+}

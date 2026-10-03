@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Efter Jahve jeres Elohim skal I gå, og ⟨ham⟩ skal I frygte, og ⟨את⟩ hans bud skal I holde, og på hans røst skal I lytte, og ⟨ham⟩ skal I tjene, og på ham skal I holde fast.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "skal I gå"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ og ⟨ham⟩",
+      "marks": "ham (tredje person objekt)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skal I frygte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans bud"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hans bud"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skal I holde"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "og på hans røst"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "skal I lytte"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ og ⟨ham⟩",
+      "marks": "ham (tredje person objekt)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "skal I tjene"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "og på ham"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "skal I holde fast"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:30.876552756Z",
+  "model": "glm-5.3"
+}

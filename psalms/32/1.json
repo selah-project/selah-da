@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Af David, en maskil. Salige ⟨er⟩ den, hvis oprør er båret ⟨tilgivelsen⟩, hvis synd er dækket.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "båret ⟨tilgivet⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "oprør"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "dækket"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "synd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:07.986502083Z",
+  "model": "glm-5.3"
+}

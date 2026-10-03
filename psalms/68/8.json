@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Elohim, da du gik ud foran dit folk, da du skred gennem ødemarken — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "da du gik ud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "da du skred"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "gennem ødemarken"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:06.856593374Z",
+  "model": "glm-5.3"
+}

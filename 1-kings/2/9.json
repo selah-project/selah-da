@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og nu: lad ham ikke gå fri, for du er en vis mand, og du ved ⟨את⟩ det, du skal gøre ved ham, og du skal sende hans grå hage ned til Sheol i blod.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "lad ham gå fri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "og du ved"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, du skal gøre ved ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skal gøre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ved ham"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "og du skal sende ned"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans grå hage"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "hans grå hage"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "i blod"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:45.865006642Z",
+  "model": "glm-5.3"
+}

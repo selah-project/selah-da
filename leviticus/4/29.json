@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han skal lægge ⟨את⟩ sin hånd på syndofferets hoved og slagte ⟨את⟩ syndofferet på det sted, hvor man slagter brændofferet.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "og han skal lægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferets"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "og slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndofferet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndofferet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på det sted"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:40.263000257Z",
+  "model": "glm-5.3"
+}

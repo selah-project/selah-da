@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Jisraels børn boede midt iblandt kana'anæerne, hittæerne og emoræerne og perizæerne og hivæerne og jebusæerne.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og ... børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "boede"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kana'anæeren"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hittæeren"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "og emoræeren"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "og perizæeren"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "og hivæeren"
+    },
+    {
+      "surface": "ויבוסי",
+      "gloss": "og jebusæeren"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:54.932410173Z",
+  "model": "glm-5.3"
+}

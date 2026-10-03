@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Vågn op, I drukne, og græd, og klage, alle I som drikker vin, over mosten, for den er skåret fra jeres mund.",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "vågn op"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "I drukne"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "og græd"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "og klage"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "I som drikker"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "mosten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "er skåret fra"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "jeres mund"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:37.496991591Z",
+  "model": "glm-5.3"
+}

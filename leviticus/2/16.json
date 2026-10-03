@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og præsten skal bringe ⟨את⟩ dens ihukommelsesdel i røg — af dens knuste kerner og af dens olie, ud over al dens røgelse — et ildoffer til Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Og skal bringe i røg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens ihukommelsesdel"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "dens ihukommelsesdel"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "af dens knuste kerner"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "og af dens olie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ud over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "dens røgelse"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "et ildoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:08.268693152Z",
+  "model": "glm-5.3"
+}

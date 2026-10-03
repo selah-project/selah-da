@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og det skete på vejen, ved herberget, at Jahve mødte ham og søgte at dræbe ham.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "ved herberget"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "mødte ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "og søgte"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "at dræbe ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:33:59.037898982Z",
+  "model": "glm-5.3"
+}

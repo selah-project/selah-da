@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Den, der elsker tukt, elsker tsedek ⟨er⟩ viden, men den, der hader tilretning, er rå.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tukt"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "viden"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "men hader"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tilretning"
+    },
+    {
+      "surface": "בער",
+      "gloss": "er rå"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:16.120041948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "Jahve, fri min sjæl fra løgnens læber, fra den svigefuld tunge!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "fri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "fra løgnens læber"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "fra ... tunge"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svigefuld"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:26.481662667Z",
+  "model": "glm-5.3"
+}

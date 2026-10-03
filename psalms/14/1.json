@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Til korlederen. Af David. Dåren har sagt i sit hjerte: »Der er ingen Elohim.« De har ødelagt, de har handlet væmmeligt; der er ingen, som gør godt.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "har sagt"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Dåren"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "i sit hjerte"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "De har ødelagt"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "de har handlet væmmeligt"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "handling"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "som gør"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:13.036680415Z",
+  "model": "glm-5.3"
+}

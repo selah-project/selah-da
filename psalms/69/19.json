@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Træk nær til min sjæl, løskøb den; for mine fjenders skyld fri mig ud.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Træk nær"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "løskøb den"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for ... skyld"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjenders"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "fri mig ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:47.415567380Z",
+  "model": "glm-5.3"
+}

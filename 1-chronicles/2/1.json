@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Dette er sønnerne af Jisrael: Reuven, Shimon, Levi og Yehuda, Jissaschar og Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "בני",
+      "gloss": "er sønnerne af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Yehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaschar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "og Zevulun"
+    }
+  ],
+  "timestamp": "2026-10-03T19:10:15.839025138Z",
+  "model": "glm-5.3"
+}

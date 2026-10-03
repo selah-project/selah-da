@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Synger for Jahve, han som troner i Tsjion; forkynder blandt folkene hans gerninger!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Synger"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "han som troner"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "i Tsjion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "forkynder"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hans gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:47.717721239Z",
+  "model": "glm-5.3"
+}

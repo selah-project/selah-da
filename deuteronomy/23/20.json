@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke kræve rente af din broder — rente af sølv, rente af mad, rente af alt hvad der kan udlånes mod rente.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "du må kræve rente"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "af din broder"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "af sølv"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "af mad"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "kan udlånes mod rente"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:57.040173116Z",
+  "model": "glm-5.3"
+}

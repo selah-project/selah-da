@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "De skal ikke bo i Jahves land; og Efrajim skal vende tilbage til Mitsrajim, og i Ashshur skal de spise urent.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "de skal bo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i land"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og vende tilbage"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "og i Ashshur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "urent"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal de spise"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:42.285682901Z",
+  "model": "glm-5.3"
+}

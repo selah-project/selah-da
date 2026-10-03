@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Du holder mine øjnelåg vågende; jeg blev rystet og kan ikke tale.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "du holder fast"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "øjenlågenes vogtere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "jeg blev rystet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kan jeg tale"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:34.964123287Z",
+  "model": "glm-5.3"
+}

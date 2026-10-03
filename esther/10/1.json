@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og kongen Achashverosh lagde en tvangsskat på landet og på havets øer.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Og lagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "tvangsskat"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "og øerne"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:19.698164472Z",
+  "model": "glm-5.3"
+}

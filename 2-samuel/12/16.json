@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og David søgte ⟨את⟩ Elohim ⟨ansigtet⟩ for barnets skyld, og David fastede en faste, og han gik ind og lå der natten over og lagde sig på jorden.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Og … søgte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "og … fastede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "en faste"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og gik ind"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "lå der natten over"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "og lagde sig"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:50.740207055Z",
+  "model": "glm-5.3"
+}

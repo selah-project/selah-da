@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og jeg vil række min hånd ud mod Jehuda og mod alle Jerushalajims indbyggere, og jeg vil udrydde fra dette sted resten af Ba'al, ⟨את⟩ kemarenes navn sammen med præsterne.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "Og jeg vil række … ud"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og mod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "indbyggere"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajims"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "og jeg vil udrydde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sted"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "resten af Ba'al"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "resten"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "af Ba'al"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemarenes navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemarenes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:00:09.942988219Z",
+  "model": "glm-5.3"
+}

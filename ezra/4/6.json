@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og i Achashveroshs regeringstid, i begyndelsen af hans kongedømme, skrev de en anklage imod indbyggerne i Jehudah og Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Og i regeringstid"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashveroshs"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "i begyndelsen"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "af hans kongedømme"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "skrev de"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "en anklage"
+    },
+    {
+      "surface": "על",
+      "gloss": "imod"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "og Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:02:45.047262159Z",
+  "model": "glm-5.3"
+}

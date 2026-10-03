@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Min styrke er udørret som et potteskår, og min tunge hænger fast i min kæbe; og i dødens støv ⟨nedlægger⟩ du mig.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "er udørret"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "som et potteskår"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "min styrke"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "og min tunge"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "hænger fast"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "i min kæbe"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "og i støvet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "af død"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "⟨nedlægger⟩ du mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:19.494916626Z",
+  "model": "glm-5.3"
+}

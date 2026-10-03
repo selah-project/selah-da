@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og af Jissaskars stamme ⟨את⟩ Kishjon og ⟨את⟩ dens græsgange, ⟨את⟩ Daberat og ⟨את⟩ dens græsgange.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "og af stammen"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishjon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishjon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:34:15.781509524Z",
+  "model": "glm-5.3"
+}

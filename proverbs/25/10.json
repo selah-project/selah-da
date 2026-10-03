@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "for at den, der hører det, ikke skal gøre dig til skamme, og din ondskabsberetning ikke vender tilbage.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "skal gøre dig til skamme"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "den der hører"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "og din ondskabsberetning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vil vende tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:18.145700115Z",
+  "model": "glm-5.3"
+}

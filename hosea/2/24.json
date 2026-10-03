@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jorden skal svare ⟨את⟩ kornet og ⟨את⟩ mosten og ⟨את⟩ olien, og de skal svare ⟨את⟩ Jizre'el.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "og jorden"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "skal svare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kornet"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "kornet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mosten"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "mosten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "olien"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "olien"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "skal svare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizre'el"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizre'el"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:25.607680572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og Shekhem, søn af Khamor, hivæeren, landets fyrste, så hende ⟨את⟩; og han tog hende ⟨את⟩ og lå med hende ⟨את⟩ og vanærede hende.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende (Dina)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivæeren"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "fyrste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende (Dina)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "og lå med"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hende (Dina)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "og vanæerede"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:57.505240052Z",
+  "model": "glm-5.3"
+}

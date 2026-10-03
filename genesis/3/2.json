@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og kvinden sagde til slangen: Af frugten af havenes træer spiser vi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og kvinden sagde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "slangen"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Af frugten"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træer"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "havens"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "spiser vi"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:22.425429675Z",
+  "model": "glm-5.3"
+}

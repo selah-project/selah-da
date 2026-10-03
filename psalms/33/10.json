@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Jahve gjorde folkenes rååd til intet, ⟨han⟩ forpurrede menneskers planer.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "gjorde til intet"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "råd"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkenes"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "forpurrede"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planer"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "menneskers"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:21.758048905Z",
+  "model": "glm-5.3"
+}

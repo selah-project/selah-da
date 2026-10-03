@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Dårlige ⟨er de⟩ på grund af deres overtredelses vej, og for deres misgerninger blir de plage­de.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "dårlige"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "på grund af vejen"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "deres overtredelse"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "og for deres misgerninger"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "blir de plaget"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:50.313264286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Du ⟨er⟩ ⟨den⟩, min konge, Elohim; byd frelser for Jaakov!",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨den⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "min konge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "byd"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frelser"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:14.675778989Z",
+  "model": "glm-5.3"
+}

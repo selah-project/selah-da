@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og det blev fortalt David ⟨את⟩ det, som Ritspa, Ajahs datter, Sha'uls medhustru, havde gjort.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "og det blev fortalt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, som Ritspa havde gjort"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "איה",
+      "gloss": "af Ajah"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "medhustru"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uls"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:15.770239710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Når du aflægger et løfte til Elohim, så udsæt ikke at indfri det; for der er intet behag i tåber — ⟨את⟩ det, du lover, skal du indfri.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "når"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du lover"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "et løfte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "udsæt"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "at indfri det"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er intet"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behag"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "i tåber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, du lover"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "du lover"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "indfri"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:52.376905112Z",
+  "model": "glm-5.3"
+}

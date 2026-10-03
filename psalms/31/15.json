@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Men jeg — på dig har jeg sat min lid, Jahve; jeg sagde: Du er min Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men jeg"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "på dig"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har jeg sat min lid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg sagde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:35.664304487Z",
+  "model": "glm-5.3"
+}

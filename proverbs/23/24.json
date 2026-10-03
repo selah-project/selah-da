@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Den retfærdiges far fryder sig inderligt, og ⟨den⟩ der avler en vis, glæder sig over ham.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "inderligt"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "fryder sig"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "far til"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "avler"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "en vis"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "og glæder sig"
+    },
+    {
+      "surface": "בו",
+      "gloss": "over ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:07.045364408Z",
+  "model": "glm-5.3"
+}

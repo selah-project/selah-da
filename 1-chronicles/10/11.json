@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og hele Javesh-Gilad hørte ⟨את⟩ alt det, som filisterne havde gjort mod Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "mod Shaul"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:26.050724687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 60,
+  "translation": "Hvem er disse, der flyver som en sky, som duer til deres vinduer?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "som en sky"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "der flyver"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "som duer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "deres vinduer"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:57.621819914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Et udsagn ⟨om⟩ oprøret hos den gudløse, i mit hjertes indre: der er ingen frygt for Elohim foran hans øjne.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "udsagn"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "oprør"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "hos den gudløse"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i indre"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ikke"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hans øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:58.369804119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hans hær og hans optalte var syv og halvtreds tusind og fire hundrede.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Og hans hær"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "og hans optalte"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "syv"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "og halvtreds"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "og fire"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:12.192135954Z",
+  "model": "glm-5.3"
+}

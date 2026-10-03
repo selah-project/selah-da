@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Thi han skal frelse den fattige, som råber, og den nødlidende, som ikke har nogen hjælper.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "skal frelse"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "som råber"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "og den nødlidende"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "som ikke har"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "nogen hjælper"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:14.663567920Z",
+  "model": "glm-5.3"
+}

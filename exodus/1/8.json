@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Så opstod der en ny konge over Mitsrajim, som ikke kendte ⟨את⟩ Josef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Så opstod"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "en konge"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ny"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:37.546036332Z",
+  "model": "glm-5.3"
+}

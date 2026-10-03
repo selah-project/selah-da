@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og Yosefs herre tog ⟨את⟩ ham og satte ham i fængslets hus, det sted hvor kongens fanger var bundne; og han var der i fængslets hus.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefs"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "og satte ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "fængslets"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "det sted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "fangernes"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "var bundne"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og han var"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "fængslets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:53.215050867Z",
+  "model": "glm-5.3"
+}

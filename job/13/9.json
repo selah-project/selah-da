@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Er det godt, at han gransker ⟨את⟩ jer? Som man spotter et menneske — spotter I ham?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Er det godt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "gransker"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "som"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "man spotter"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "spotter I"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:57.669220699Z",
+  "model": "glm-5.3"
+}

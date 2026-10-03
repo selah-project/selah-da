@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "For findes der en mand ⟨את⟩ sin fjende, og lader ham gå ⟨på⟩ en god vej? Jahve skal gengælde dig godt for det, du gjorde mod mig i dag.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "For"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fjende"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "sin fjende"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "lader ham gå"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vej"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "en god"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "skal gengælde dig"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "godt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "for"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "du gjorde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:43.745295466Z",
+  "model": "glm-5.3"
+}

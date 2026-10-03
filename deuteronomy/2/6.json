@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Mad skal I købe fra dem ⟨את⟩ for sølv og æde; også vand skal I købe fra dem ⟨את⟩ for sølv og drikke.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "skal I købe"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "fra ⟨את⟩ dem"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "for sølv"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "og I skal æde"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "også"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "skal I købe"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "fra ⟨את⟩ dem"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "for sølv"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "og I skal drikke"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:42.549805229Z",
+  "model": "glm-5.3"
+}

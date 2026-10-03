@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Men hvis manden finder ⟨את⟩ pigen, den forlovede, på marken, og manden griber hende fast og ligger med hende, da skal manden, som lå med hende, dø alene.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men hvis"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finder"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pigen, den forlovede"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pigen"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "den forlovede"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "griber fast"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ligger"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "med hende"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lå"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "med hende"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:41.005602702Z",
+  "model": "glm-5.3"
+}

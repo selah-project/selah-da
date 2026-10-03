@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "også dér vil din hånd lede mig, og din højre hånd holde mig fast.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vil lede mig"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "og holde mig fast"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:53.880082606Z",
+  "model": "glm-5.3"
+}

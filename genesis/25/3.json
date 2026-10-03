@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og Jokshan avlede ⟨את⟩ Sheva og ⟨את⟩ Dedan; og Dedans sønner blev Ashurim, Letushim og Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Og Jokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og sønnerne af"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "blev"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "og Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og Leummim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:03.010086098Z",
+  "model": "glm-5.3"
+}

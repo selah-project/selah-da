@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og Jahve steg ned i skyen og stillede sig der med ham, og han kaldte i Jahves navn.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "og steg ned"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "i skyen"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "og stillede sig"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:27.972984203Z",
+  "model": "glm-5.3"
+}

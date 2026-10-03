@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Hvor kongens ord ⟨er⟩, der ⟨er⟩ magt, og hvem kan sige til ham: Hvad gør du?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "magt"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kan sige"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gør du"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.756749797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og han sagde: Du kan ikke se ⟨את⟩ mit ansigt; for intet menneske kan se mig og leve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Du kan"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "kan se mig"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og leve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:21.905528662Z",
+  "model": "glm-5.3"
+}

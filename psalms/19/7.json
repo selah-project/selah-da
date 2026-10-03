@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Fra himlenes ende er hans udgang, og hans kredsløb til deres ender; og intet er skjult for dets hede.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "fra enden af"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "hans udgang"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "og hans kredsløb"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "deres ender"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og intet er"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "skjult"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "for dets hede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:48.985012081Z",
+  "model": "glm-5.3"
+}

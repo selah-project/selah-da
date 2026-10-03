@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Ved mangfoldigheden af din vej mødte du dig; du sagde ikke: 'Det er håbløst.' Livet ved din hånd fandt du; derfor var du ikke svag.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ved mangfoldigheden"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "af din vej"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "mødte du dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sagde du"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "'Det er håbløst'"
+    },
+    {
+      "surface": "חית",
+      "gloss": "livet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ved din hånd"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "fandt du"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(på grund af det)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "var du svag"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:14.726774950Z",
+  "model": "glm-5.3"
+}

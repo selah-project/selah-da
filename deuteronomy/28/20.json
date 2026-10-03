@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve sender imod dig ⟨את⟩ forbandelsen, ⟨את⟩ forvirringen og ⟨את⟩ truslen i alt, hvad din hånd griber ud efter at gøre, indtil du ødelægges og indtil du går under hastigt — på grund af ondskaben i dine gjerninger, som du forlod mig for.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sender"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forbandelsen"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "forbandelsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forvirringen"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "forvirringen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "truslen"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "truslen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i alt"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hvad din hånd griber ud efter"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du gør"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "du ødelægges"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "du går under"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hastigt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondskaben"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "i dine gjerninger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "du forlod mig for"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:17.936178013Z",
+  "model": "glm-5.3"
+}

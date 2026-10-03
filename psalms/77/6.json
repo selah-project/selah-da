@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Jeg gennemtænkte dage fra fortiden, år fra evige tider.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "jeg gennemtænkte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "fra fortiden"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "år"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "fra evige tider"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:34.964416714Z",
+  "model": "glm-5.3"
+}

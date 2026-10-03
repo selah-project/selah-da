@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "og blodshævderen finder ⟨את⟩ ham uden for grænsen for hans tilflugtsstad, og blodshævderen slår ⟨את⟩ drabsmanden ihjel — han har ingen blodskyld.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "og finder"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham (drabsmanden)"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hævderen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blods"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "grænsen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stadens"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "hans tilflugts-"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "og slår ihjel"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hævderen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blods"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drabsmanden"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "drabsmanden"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blodskyld"
+    }
+  ],
+  "timestamp": "2026-10-03T15:19:37.083154973Z",
+  "model": "glm-5.3"
+}

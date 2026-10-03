@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Jeg vil velsigne ⟨את⟩ Jahve, som har rådet mig; ja, om nætter tugter mine nyrer mig.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "jeg vil velsigne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "har rådet mig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "om nætter"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "tugter mig"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mine nyrer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:06.444685952Z",
+  "model": "glm-5.3"
+}

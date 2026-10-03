@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "I Elohim har vi prist ⟨os⟩ hele dagen, og dit navn vil vi takke til evigheden. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "har vi prist"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "og dit navn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "vil vi takke"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:28.830695919Z",
+  "model": "glm-5.3"
+}

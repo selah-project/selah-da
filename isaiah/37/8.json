@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og Ravshake vendte tilbage og fandt ⟨את⟩ kongen af Ashshur i kamp mod Livna; for han havde hørt, at han var brudt op fra Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "og fandt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashshur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "i kamp"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "han havde hørt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "var brudt op"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "fra Lakhish"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:15.549446103Z",
+  "model": "glm-5.3"
+}

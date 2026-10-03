@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 11:11",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og kongen af syd bliver harm og går ud og kæmper mod ham, mod kongen af nord; og ⟨nordkongen⟩ stiller en stor hob op, men hoben gives i hans hånd.",
+  "tokens": [
+    {
+      "surface": "ויתמרמר",
+      "gloss": "Og bliver harm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "af syd"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og går ud"
+    },
+    {
+      "surface": "וינלחם\/ונלחם",
+      "gloss": "og kæmper"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mod ham"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mod"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "af nord"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "og stiller op"
+    },
+    {
+      "surface": "המון",
+      "gloss": "en hob"
+    },
+    {
+      "surface": "רב",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "men gives"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "hoben"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T19:01:16.065997182Z",
+  "model": "glm-5.3"
+}

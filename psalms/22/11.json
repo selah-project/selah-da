@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "På dig blev jeg kastet fra moders liv, fra min mors liv var du min El.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "På dig"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "blev jeg kastet"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "fra moders liv"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fra … liv"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "min mors"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "var du"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.871589795Z",
+  "model": "glm-5.3"
+}

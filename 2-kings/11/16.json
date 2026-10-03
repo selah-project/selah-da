@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og de lagde hænder på hende, og hun gik ad vejen ved hestenes indgang til kongens hus, og hun blev dræbt der.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "på hende"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hænder"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "gik"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ad vejen"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "indgang"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hestenes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "blev dræbt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T16:41:20.774966426Z",
+  "model": "glm-5.3"
+}

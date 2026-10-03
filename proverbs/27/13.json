@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Tag hans klædebon, for han gik i kaution for en fremmed, og tag pant af ham for en fremmed kvinde.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hans klædebon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gik i kaution"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en fremmed"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og for"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "en fremmed kvinde"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "tag pant af ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:26.832877035Z",
+  "model": "glm-5.3"
+}

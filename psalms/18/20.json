@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han førte mig ud til et vidt rum, han friede mig, for han havde behag i mig.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "og han førte mig ud"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "til et vidt rum"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "friede mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "havde behag"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:27.614360959Z",
+  "model": "glm-5.3"
+}

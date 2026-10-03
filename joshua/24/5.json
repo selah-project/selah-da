@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og jeg sendte ⟨את⟩ Moshe og ⟨את⟩ Aharon, og jeg slog ⟨את⟩ Mitsrajim, som jeg gjorde i dets midte, og bagefter førte jeg ⟨את⟩ jer ud.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "og jeg sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "og jeg slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jeg gjorde"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i dets midte"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "førte jeg ud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:33.178971723Z",
+  "model": "glm-5.3"
+}

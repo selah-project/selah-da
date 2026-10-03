@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "På min trængsels dag kalder jeg på dig, for du svarer mig.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På ... dag"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "min trængsels"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "kalder jeg på dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "du svarer mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.499377992Z",
+  "model": "glm-5.3"
+}

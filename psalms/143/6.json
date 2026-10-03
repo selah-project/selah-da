@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "Jeg udbreder mine hænder mod dig, min sjæl ⟨er⟩ som et tørstland — efter dig. Sela.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "jeg udbreder"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mine hænder"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "som et land"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "tørst\/udmattet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:28.827578639Z",
+  "model": "glm-5.3"
+}

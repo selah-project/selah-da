@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Derfor vil jeg endnu gå i rette med jer, siger Jahve, og med jeres børnebørn vil jeg gå i rette.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "vil jeg gå i rette"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jeres børnebørn"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "vil jeg gå i rette"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:25.119880087Z",
+  "model": "glm-5.3"
+}

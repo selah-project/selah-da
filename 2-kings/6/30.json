@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og det skete, da kongen hørte ⟨את⟩ kvindens ord, at han flængede sine klæder — og han gik netop på muren — og folket så, og se, sekeldragten på hans kød, indenunder.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "da han hørte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvindens ord"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvindens"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "flængede han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gik"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "muren"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "השק",
+      "gloss": "sekeldragten"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hans kød"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "indenunder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:01.833937236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 126,
+  "translation": "Gående går han og grædende bærer såsæden ⟨ud⟩; komme kommer han med jubel, bærende sine neg.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Gående"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "går han"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "og grædende"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bærer"
+    },
+    {
+      "surface": "משך",
+      "gloss": "en portion"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "såsæden"
+    },
+    {
+      "surface": "בא",
+      "gloss": "komme"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kommer han"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubel"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bærende"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "sine neg"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:43.950671176Z",
+  "model": "glm-5.3"
+}

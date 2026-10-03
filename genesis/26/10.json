@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og Avimelech sagde: Hvad er dette, du har gjort mod os? Næsten havde én af folket ligget ⟨hos⟩ ⟨את⟩ din kone, og du ville have bragt skyld over os.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dette"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har gjort du"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mod os"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "næsten"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "havde ligget"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "העם",
+      "gloss": "af folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din kone"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "din kone"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "og du ville have bragt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:20:17.883174042Z",
+  "model": "glm-5.3"
+}

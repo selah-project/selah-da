@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Hvis det stjålne virkelig findes i hans hånd — fra okse til æsel til får, i live — skal han betale dobbelt.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Hvis"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "virkelig"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "findes"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "det stjålne"
+    },
+    {
+      "surface": "משור",
+      "gloss": "fra okse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "æsel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "שה",
+      "gloss": "får"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "i live"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dobbelt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal han betale"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:46.212709792Z",
+  "model": "glm-5.3"
+}

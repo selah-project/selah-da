@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han ledte dem om dagen med skyen, og hele natten med et lys af ild.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "og han ledte dem"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "med skyen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "om dagen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "natten"
+    },
+    {
+      "surface": "באור",
+      "gloss": "med et lys"
+    },
+    {
+      "surface": "אש",
+      "gloss": "af ild"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.603550410Z",
+  "model": "glm-5.3"
+}

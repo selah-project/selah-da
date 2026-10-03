@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Men for Davids skyld gav Jahve, hans Elohim, ham en lampe i Jerushalajim, ved at rejse hans søn efter ham og gjort Jerushalajim stående ⟨ved at give⟩ ⟨את⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "en lampe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ved at rejse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans søn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "og gjort stående"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:13.008385273Z",
+  "model": "glm-5.3"
+}

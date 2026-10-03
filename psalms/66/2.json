@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 66,
+  "translation": "Synger hans navns herlighed, giver hans pris herlighed!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Synger"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navns"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "giver"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hans pris"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.162765470Z",
+  "model": "glm-5.3"
+}

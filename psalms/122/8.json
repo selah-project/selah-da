@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 122,
+  "translation": "For mine brødres og mine fællers skyld vil jeg tale: fred ⟨ være⟩ i dig!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "For … skyld"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mine brødres"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "og mine fællers"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "vil jeg tale"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "בך",
+      "gloss": "i dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:45.399925917Z",
+  "model": "glm-5.3"
+}

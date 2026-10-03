@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Mine knæ vakler af faste, og mit kød mangler fedt.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Mine knæ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "vakler"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "af faste"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "og mit kød"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "mangler"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "fedt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:11.682459397Z",
+  "model": "glm-5.3"
+}

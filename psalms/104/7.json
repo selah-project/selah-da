@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "For din revselse flygter de, for lyden af din torden skynder de sig bort —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "for"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "din revselse"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "flygter de"
+    },
+    {
+      "surface": "מן",
+      "gloss": "for"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden af"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "din torden"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "skynder de sig bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:25.876499193Z",
+  "model": "glm-5.3"
+}

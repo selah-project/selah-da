@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og Jirmejahu gik ind og ud midt iblandt folket, for de havde ikke sat ⟨את⟩ ham i fængslet.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Og Jirmejahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gik ind"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og ud"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "for ikke"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "havde de sat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i fængslet"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "(indsættelsessted)"
+    }
+  ],
+  "timestamp": "2026-10-03T17:23:51.338366130Z",
+  "model": "glm-5.3"
+}

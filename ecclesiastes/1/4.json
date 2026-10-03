@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "En slægt går, og en slægt kommer, og jorden står til evighed.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "En slægt"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "og en slægt"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jorden"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evighed"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:20.719805646Z",
+  "model": "glm-5.3"
+}

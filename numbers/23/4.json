@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og Elohim kom til Bileam, og han sagde til ham: ⟨את⟩ de syv altre har jeg ordnet, og jeg har ofret en tyr og en vædder på ⟨hvert⟩ alter.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Og … kom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og … sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de syv altre"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "de syv"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altre"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "har jeg ordnet"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "og jeg har ofret"
+    },
+    {
+      "surface": "פר",
+      "gloss": "en tyr"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "og en vædder"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "på alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:35.607497998Z",
+  "model": "glm-5.3"
+}

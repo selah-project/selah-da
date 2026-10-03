@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Min El er du, og jeg vil takke dig; min Elohim, jeg vil ophøje dig.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "min El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "ו אודך",
+      "gloss": "og jeg vil takke dig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "jeg vil ophøje dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:29.209899750Z",
+  "model": "glm-5.3"
+}

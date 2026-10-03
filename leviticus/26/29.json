@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og I skal æde kødet af jeres sønner, og kødet af jeres døtre skal I æde.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Og I skal æde"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kødet"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "af jeres sønner"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "og kødet"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "af jeres døtre"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skal I æde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:55.633249815Z",
+  "model": "glm-5.3"
+}

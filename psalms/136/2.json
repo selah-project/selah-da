@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Lovsiger Elohims guder ⟨over⟩ — Elohim ⟨er⟩ gudernes Gud — for til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lovsiger"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "gudernes Gud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:16.815045355Z",
+  "model": "glm-5.3"
+}

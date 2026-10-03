@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Da kaldte Mitsrajims konge på jordemødrene og sagde til dem: Hvorfor har I gjort denne ting og ladet ⟨את⟩ drengene leve?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajims"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "på jordemødrene"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "להן",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "har I gjort"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tingen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "og ladet … leve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drengene"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "drengene"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:15.750194857Z",
+  "model": "glm-5.3"
+}

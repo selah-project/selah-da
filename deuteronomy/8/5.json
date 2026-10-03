@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og du skal vide med dit hjerte, at som en mand tukter ⟨את⟩ sin søn, så tukter Jahve, din Elohim, dig.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "og du skal vide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "tukter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin søn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "tukter dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:47.527766003Z",
+  "model": "glm-5.3"
+}

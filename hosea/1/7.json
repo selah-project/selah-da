@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Men ⟨את⟩ Judas hus vil jeg vise barmhjertighed, og jeg vil frelse dem ved Jahve, deres Elohim — og ikke frelse dem ved bue og ved sværd og ved krig, ved heste og ved ryttere.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Judas hus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "vil jeg vise barmhjertighed"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "og jeg vil frelse dem"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ved Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "frelse dem"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ved bue"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "og ved sværd"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "og ved krig"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ved heste"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "og ved ryttere"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:58.031621238Z",
+  "model": "glm-5.3"
+}

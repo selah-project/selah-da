@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Foran de ondes ansigt, ⟨de⟩ som hærger mig, mine fjender, som belejrer min sjæl rundt om mig.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "foran ansigtet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de onde"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨de⟩ som"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "hærger mig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "belejrer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rundt om mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:55.474227076Z",
+  "model": "glm-5.3"
+}

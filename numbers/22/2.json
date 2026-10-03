@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Balak, Tsippors søn, så ⟨את⟩ alt, hvad Jisrael havde gjort med amoriterne.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og så"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippors"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "havde gjort"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "med amoriterne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:13:14.616952213Z",
+  "model": "glm-5.3"
+}

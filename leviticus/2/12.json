@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Som en korban af førstegrøde må I bringe dem til Jahve; men på alteret må de ikke bringes op til en vellugt til behag.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "en korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "af førstegrøde"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "må I bringe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "men til"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "må de bringes op"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "til en vellugt"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "til behag"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:39.640728895Z",
+  "model": "glm-5.3"
+}

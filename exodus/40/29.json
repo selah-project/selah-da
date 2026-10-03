@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 40:29",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og ⟨את⟩ brændofferalteret satte han ved indgangen til Mishkan, mødeteltet, og han førte op på det ⟨את⟩ brændofferet og ⟨את⟩ minchaen, således som Jahve havde påbudt ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferalteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "brændofferalteret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændoffer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte han"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og han førte op"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minchaen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:00.637950800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 17:13",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Yishais tre ældste sønner gik efter Shaul i krigen; og navnene på hans tre sønner, som gik i krigen, ⟨var⟩ Eliab den førstefødte og den næste efter ham Avinadav og den tredje Shamma.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishais"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "i krigen"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og navnene"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gik"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i krigen"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "og den næste efter ham"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "og den tredje"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shamma"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:56.759501149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Dette vores brød tog vi varmt ⟨את⟩ det fra vores hjem den dag, vi gik ud for at gå til jer; og nu, se, er det tørt og er blevet smuldret.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "vores brød"
+    },
+    {
+      "surface": "חם",
+      "gloss": "varmt"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "tog vi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det (vores brød)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "fra vores hjem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "vi gik ud"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "for at gå"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "er det tørt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og er blevet"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "smuldret"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:20.598207422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Å, mit folk hørte på mig, Jisrael vandt i mine veje!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Å hvis"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "på mig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "i mine veje"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "vandt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:00.209454082Z",
+  "model": "glm-5.3"
+}

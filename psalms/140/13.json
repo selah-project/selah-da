@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "Jeg ved, at Jahve vil skaffe den bedrøvede ret, dom for de fattige.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Jeg ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "vil skaffe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ret"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den bedrøvede"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "for de fattige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:36.352148082Z",
+  "model": "glm-5.3"
+}

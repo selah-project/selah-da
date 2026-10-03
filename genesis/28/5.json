@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og Jitschak sendte ⟨את⟩ Jaakov af sted, og han gik til Padan-Aram, til Lavan, søn af Betuel arameeren, bror til Rivka, Jaakovs og Esavs mor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte af sted"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og han gik"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "arameeren"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bror"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "og Esavs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:09.274477289Z",
+  "model": "glm-5.3"
+}

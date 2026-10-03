@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og det, der bliver tilbage af kødet og af brødet, skal I brænde i ild.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Og det, der bliver tilbage"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "af kødet"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "og af brødet"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ild"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "skal I brænde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:50.447559722Z",
+  "model": "glm-5.3"
+}

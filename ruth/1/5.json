@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og også de begge døde, Machlon og Kiljon; og kvinden blev efterladt ⟨fra⟩ sine to sønner og fra sin mand.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "og de døde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "de begge"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "og Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "og blev efterladt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "משני",
+      "gloss": "fra sine to"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "og fra sin mand"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:34.364712406Z",
+  "model": "glm-5.3"
+}

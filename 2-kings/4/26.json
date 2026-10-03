@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Løb nu, jeg beder, hende i møde, og sig til hende: Er der shalom med dig? Er der shalom med din mand? Er der shalom med barnet? Og hun svarede: Shalom!",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "Løb"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "hende i møde"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Er der shalom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "med dig"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Er der shalom"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "med din mand"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Er der shalom"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "med barnet"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hun svarede"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    }
+  ],
+  "timestamp": "2026-10-03T16:37:20.522543682Z",
+  "model": "glm-5.3"
+}

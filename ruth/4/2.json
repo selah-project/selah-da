@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han tog ti mænd af byens ældste og sagde: Sædt ⟨jer⟩ her. Og de satte sig.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og han tog"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "af ældste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Sædt jer"
+    },
+    {
+      "surface": "פה",
+      "gloss": "her"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og de satte sig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:48:50.139436038Z",
+  "model": "glm-5.3"
+}

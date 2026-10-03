@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Hør, Elohim, mit råb; lyt til min bøn.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mit råb"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "lyt til"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:41.528744802Z",
+  "model": "glm-5.3"
+}

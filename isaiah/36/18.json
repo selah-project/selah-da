@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "at Chizkijahu ikke skal forføre ⟨את⟩ jer og sige: Jahve vil redde os. Har guderne blandt folkeslagene reddet, hver sin ⟨את⟩ sit land, af kongen af Ashurs hånd?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "at … ikke"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "skal forføre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "vil redde os"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "har … reddet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guderne"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "blandt folkeslagene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sit land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af … hånd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashur"
+    }
+  ],
+  "timestamp": "2026-10-03T16:59:10.962920997Z",
+  "model": "glm-5.3"
+}

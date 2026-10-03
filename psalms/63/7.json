@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "Når jeg husker dig på mit leje, grubler jeg på dig i nattevagterne.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "når"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "jeg husker dig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "mit leje"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "i nattevagterne"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "grubler jeg"
+    },
+    {
+      "surface": "בך",
+      "gloss": "på dig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:00.406596175Z",
+  "model": "glm-5.3"
+}

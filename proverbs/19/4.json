@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Rigdom føjer mange venner til, men den fattige skilles fra sin ven.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "rigdom"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "fører til"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "venner"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "men den fattige"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "fra sin ven"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "skilles"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:32.185771984Z",
+  "model": "glm-5.3"
+}

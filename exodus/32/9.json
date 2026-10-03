@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jahve sagde til Moshe: Jeg har set ⟨את⟩ dette folk, og se, det er et folk med hård nakke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jeg har set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette folk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hård"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nakke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    }
+  ],
+  "timestamp": "2026-10-03T14:46:43.753438952Z",
+  "model": "glm-5.3"
+}

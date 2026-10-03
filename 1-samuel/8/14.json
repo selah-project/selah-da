@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ jeres marker og ⟨את⟩ jeres vingårde og jeres oliventræer, de bedste, vil han tage og give til sine trælle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres marker"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "jeres marker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres vingårde"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "jeres vingårde"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "jeres oliventræer"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "de bedste"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vil han tage"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og give"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "til sine trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:36.185005355Z",
+  "model": "glm-5.3"
+}

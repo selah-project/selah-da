@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og jeg førte ⟨את⟩jer fyrre år i ørkenen; jeres klæder slidtes ikke på jer, og din sko slidtes ikke af din fod.",
+  "tokens": [
+    {
+      "surface": "ויאולך",
+      "gloss": "Og jeg førte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "slidtes"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "jeres klæder"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "på jer"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "og din sko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "slidtes"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fod"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:31.745602492Z",
+  "model": "glm-5.3"
+}

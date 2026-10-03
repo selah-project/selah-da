@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "I den første måned, på den fjortende dag i måneden, mellem aftenene, ⟨er⟩ Pesach for Jahve.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "I den første måned"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "den første"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "på den fjortende"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fjortende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "aftenene"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:59:21.278911830Z",
+  "model": "glm-5.3"
+}

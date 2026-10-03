@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Eliyahu tog ⟨את⟩ barnet og bar ham ned fra øverstuen ind i huset og gav ham til hans mor; og Eliyahu sagde: Se, din søn lever.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnet"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnet"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "og bar ham ned"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "øverstuen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "og gav ham"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "til hans mor"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "se"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søn"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:12.555875477Z",
+  "model": "glm-5.3"
+}

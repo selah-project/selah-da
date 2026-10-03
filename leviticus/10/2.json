@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og ild udgik fra Jahves ansigt og fortærede ⟨את⟩ dem, og de døde for Jahves ansigt.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "og udgik"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fra ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "og fortærede"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "og de døde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:36.096510497Z",
+  "model": "glm-5.3"
+}

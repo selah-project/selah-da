@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Dog har du knust os på stedet for sjakaler og dækket os med dødsskyggen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dog"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "har du knust os"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "på stedet"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "for sjakaler"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "og dækket"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "os"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "med dødsskyggen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.072355639Z",
+  "model": "glm-5.3"
+}

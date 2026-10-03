@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Frem for de ældre forstår jeg mere, for dine anordninger har jeg vogtet.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "frem for de ældre"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "forstår jeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "dine anordninger"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "har jeg vogtet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:00.462795762Z",
+  "model": "glm-5.3"
+}

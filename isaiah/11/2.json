@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Jahves ruach skal hvile over ham, en ruach af visdom og forstand, en ruach af råd og styrke, en ruach af kundskab og frygt for Jahve.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "skal hvile"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ruach"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "af visdom"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "og forstand"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ruach"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "af råd"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "og styrke"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "en ruach"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "af kundskab"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "og frygt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "for Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:36.281576892Z",
+  "model": "glm-5.3"
+}

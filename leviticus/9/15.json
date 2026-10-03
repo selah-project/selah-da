@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han bar ⟨את⟩ folkets korban frem, og han tog ⟨את⟩ syndoffer-bukken, som var til folket, og slagtede den og frembar den som syndoffer, som den første.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "og han bar frem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folkets korban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndoffer-bukken"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "bukken"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndoffer-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "var til folket"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "og slagtede den"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "og frembar den som syndoffer"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "som den første"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:39.100250126Z",
+  "model": "glm-5.3"
+}

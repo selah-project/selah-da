@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Yishaj avlede ⟨את⟩ sin førstefødte ⟨את⟩ Eliav, og Avinadav den anden, og Shim'a den tredje.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Og Yishaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin førstefødte"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sin førstefødte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "og Avinadav"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "og Shim'a"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "den tredje"
+    }
+  ],
+  "timestamp": "2026-10-03T19:09:52.418676089Z",
+  "model": "glm-5.3"
+}

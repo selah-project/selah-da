@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "I sin ondskab stødes den gudløse ned, men den retfærdige finder ly ved sin død.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "i sin ondskab"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "stødes ned"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "men finder ly"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ved sin død"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:50.962372610Z",
+  "model": "glm-5.3"
+}

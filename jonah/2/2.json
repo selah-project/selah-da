@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jona bad til Jahve, sin Elohim, fra fiskens indre.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "og bad"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sin Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "fra fiskens indre"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "fiskens"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:08.815591844Z",
+  "model": "glm-5.3"
+}

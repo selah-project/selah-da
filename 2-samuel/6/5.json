@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og David og hele Israels hus spillede foran Jahve med alle slags instrumenter af cyprestræ, og med harper og med psaltre og med trommer og med sistrer og med cymbaler.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Og David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "spillede"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med alle slags"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "instrumenter af træ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cypres"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "og med harper"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "og med psaltre"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "og med trommer"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "og med sistrer"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "og med cymbaler"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:08.380817959Z",
+  "model": "glm-5.3"
+}

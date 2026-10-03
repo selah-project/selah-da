@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og nu, se, jeg har bragt ⟨את⟩ førstegrøden af jordens frugt, som du, Jahve, har givet mig, og du skal sætte det for Jahve, din Elohim, og du skal tilbede for Jahve, din Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "jeg har bragt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "førstegrøden af jordens frugt"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "førstegrøden"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "af jorden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "du har givet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "og du skal sætte det"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "og du skal tilbede"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:29.595268720Z",
+  "model": "glm-5.3"
+}

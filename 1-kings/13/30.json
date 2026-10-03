@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han lagde ⟨את⟩ hans lig i hans grav; og de holdt klage over ham: Ve, min broder!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "lagde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans lig"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "hans lig"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "i hans grav"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "holdt de klage"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "min broder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:34.500997731Z",
+  "model": "glm-5.3"
+}

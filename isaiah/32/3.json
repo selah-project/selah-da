@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og de seendes øjne skal ikke stirre afvej, og de hørendes ører skal lytte opmærksomt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "skal stirre afvej"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "øjne"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "de seende"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "og ører"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "de hørende"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "skal lytte opmærksomt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:19.828669651Z",
+  "model": "glm-5.3"
+}

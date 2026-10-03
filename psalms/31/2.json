@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "I dig, Jahve, har jeg søgt ly; lad mig aldrig blive til skamme; i din tsedek, fri mig ud.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "I dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "har jeg søgt ly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "blive til skamme"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nogensinde"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din tsedek"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "fri mig ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:52.737647818Z",
+  "model": "glm-5.3"
+}

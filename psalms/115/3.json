@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Vores Elohim ⟨er⟩ i himlene; alt hvad han ville, har han gjort.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "vores Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "han ville"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:46.744669576Z",
+  "model": "glm-5.3"
+}

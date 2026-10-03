@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Og førte Jisrael ud fra deres midte, for hans chesed ⟨varer⟩ til evig tid.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Og førte ud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "fra deres midte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:38.943269200Z",
+  "model": "glm-5.3"
+}

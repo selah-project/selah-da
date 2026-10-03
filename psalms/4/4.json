@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og ved, at Jahve har udskilt ⟨den⟩ chasid til sig selv; Jahve hører, når jeg råber til ham.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Og ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "har udskilt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chasid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til sig selv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "når jeg råber"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:56.738487496Z",
+  "model": "glm-5.3"
+}

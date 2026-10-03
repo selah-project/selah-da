@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "En dygtig hustru er en krone på sin herre, men den, der bringer skam, ⟨er⟩ som forrådnelse i hans knogler.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dygtig"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "krone"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "men som forrådnelse"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "i hans knogler"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "den der bringer skam"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:16.120519562Z",
+  "model": "glm-5.3"
+}

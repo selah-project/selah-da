@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Du, Jahve, tilbageholder ikke dine barmhjertigheder fra mig; dit chesed og din sandhed vogter mig bestandig.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "tilbageholder"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "dine barmhjertigheder"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dit chesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "og din sandhed"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandig"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "vogter mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:57.531016984Z",
+  "model": "glm-5.3"
+}

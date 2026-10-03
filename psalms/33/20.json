@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Vores sjæl har ventet på Jahve; han ⟨er⟩ vores hjælp og vores skjold.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Vores sjæl"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "har ventet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "på Jahve"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "vores hjælp"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "og vores skjold"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:36.918250625Z",
+  "model": "glm-5.3"
+}

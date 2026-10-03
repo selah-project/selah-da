@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 87,
+  "translation": "Og om Tzion skal der siges: Mand og mand er født i hende, og han, Elyjon, grundfæster hende.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "og om Tzion"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skal der siges"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og mand"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "er født"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i hende"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "grundfæster hende"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyjon"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:49.785303354Z",
+  "model": "glm-5.3"
+}

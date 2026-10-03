@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Må hans fædres misgerning huskes hos Jahve, og hans moders synd må ikke udslettes.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "huskes"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgerning"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hans fædres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "og synd"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hans moders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "udslettes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:38.849889937Z",
+  "model": "glm-5.3"
+}

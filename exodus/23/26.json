@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Der skal ikke være misfødsel eller barnløshed i dit land; ⟨את⟩ antallet af dine dage skal jeg opfylde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal være"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "misfødsel"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "eller barnløshed"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i dit land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antallet"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "antallet"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "af dine dage"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "skal jeg opfylde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:57.549669213Z",
+  "model": "glm-5.3"
+}

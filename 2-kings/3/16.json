@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og han sagde: Sådan siger Jahve: Grav i denne dal grav — grav!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Grav"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "i denne dal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "grav"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "grav!"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:51.273055316Z",
+  "model": "glm-5.3"
+}

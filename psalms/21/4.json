@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Thi du møder ham med gode velsignelser, du sætter på hans hoved en krone af fint guld.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "møder du ham"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "med velsignelser"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gode"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "sætter du"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "på hans hoved"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "en krone"
+    },
+    {
+      "surface": "פז",
+      "gloss": "af fint guld"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:35.610549645Z",
+  "model": "glm-5.3"
+}

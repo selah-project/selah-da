@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Af David. Døm mig, Jahve, for jeg har vandret i min oprigtighed, og på Jahve har jeg fortrøstet mig; jeg skal ikke vakle.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "døm mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "i min oprigtighed"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "har vandret"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "og på Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "har fortrøstet mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "vakle"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.246220308Z",
+  "model": "glm-5.3"
+}

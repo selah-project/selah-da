@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "og de skal sige til ⟨de⟩ ældste i hans by: Denne vor søn er genstridig og oprørsk, han adlyder ikke vor røst; han er en ødeland og drukkenbolt.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "og de skal sige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ældste"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "i hans by"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "vor søn"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Denne"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "genstridig"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "og oprørsk"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "adlyder"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "vor røst"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "en ødeland"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "og drukkenbolt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:47.579854054Z",
+  "model": "glm-5.3"
+}

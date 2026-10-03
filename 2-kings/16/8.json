@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Achaz tog ⟨את⟩ sølvet og ⟨את⟩ gulvet, som fandtes i Jahves hus og i skatkamrene i kongens hus, og sendte det som bestikkelse til kongen af Ashur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sølvet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gulvet"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "som fandtes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "og i skatkamrene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bestikkelse"
+    }
+  ],
+  "timestamp": "2026-10-03T16:43:39.338370178Z",
+  "model": "glm-5.3"
+}

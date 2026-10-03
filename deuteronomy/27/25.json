@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet ⟨er⟩ han, der tager bestikkelse for at slå ⟨את⟩ et liv ihjel — uskyldigt blod — og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tager"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "bestikkelse"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "for at slå ihjel"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "et liv"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldigt"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:40.739242057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Ve ⟨dem⟩ der udsteder dekreter af ondskab, og skrivere, der skriver ⟨møje⟩ ned!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "⟨dem⟩ der udsteder"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "dekreter"
+    },
+    {
+      "surface": "און",
+      "gloss": "af ondskab"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "og skrivere"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "skriver ned"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:54.333055952Z",
+  "model": "glm-5.3"
+}

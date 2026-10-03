@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og I skal holde ⟨את⟩ dette ord som en vedtagelse for dig og for dine sønner til evig tid.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal holde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette ord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "som en vedtagelse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "for dig"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "og for dine sønner"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evig tid"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:05.995852885Z",
+  "model": "glm-5.3"
+}

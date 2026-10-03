@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Jeg vil takke dig blandt folkene, Adonaj; jeg vil lovsynge dig blandt ⟨את⟩ nationerne.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "jeg vil takke dig"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "blandt folkene"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "jeg vil lovsynge dig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "blandt"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "nationerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:52.620746072Z",
+  "model": "glm-5.3"
+}

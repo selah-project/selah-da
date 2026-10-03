@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 80,
+  "translation": "Foran Efrayim og Binjamin og Menashe — væk din styrke ⟨את⟩, og kom til frelse for os!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Foran"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "og Binjamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "og Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "vek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din styrke"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "din styrke"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "til frelse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "for os"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:29.475211521Z",
+  "model": "glm-5.3"
+}

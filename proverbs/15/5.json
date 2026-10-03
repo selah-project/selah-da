@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "En tåbe trodser sin fars tugtelse, men den, der agter på rivelse, bliver klog.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "en tåbe"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "trodser"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugtelse"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "men den, der agter"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "rivelse"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "bliver klog"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:59.611929629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 126,
+  "translation": "De, der sår i tårer, skal høste med jubel.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "De, der sår"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "i tårer"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "med jubel"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "skal høste"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:43.950413580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Efrayim drev ikke ⟨את⟩ kanaanæeren, som boede i Gezer, ud; og kanaanæeren boede i midten af ham, i Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Og Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "drev … ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanæeren"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "som boede"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "i Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og … boede"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæeren"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "i midten af ham"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "i Gezer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:10.694056082Z",
+  "model": "glm-5.3"
+}

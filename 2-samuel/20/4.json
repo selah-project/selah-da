@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og kongen sagde til Amasa: Kald Judas ⟨את⟩ mænd sammen til mig på tre dage, og du, stå her.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Kald sammen ved råb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judas mænd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og du"
+    },
+    {
+      "surface": "פה",
+      "gloss": "her"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stå"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:47.079579350Z",
+  "model": "glm-5.3"
+}

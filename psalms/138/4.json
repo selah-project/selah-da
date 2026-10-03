@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "Alle jordens konger skal takke dig, Jahve, for de har hørt ordene fra din mund.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "skal takke dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "de har hørt"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ordene"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "fra din mund"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:22.713544378Z",
+  "model": "glm-5.3"
+}

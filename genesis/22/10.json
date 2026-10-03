@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Avraham rakte ⟨את⟩ sin hånd ud og tog ⟨את⟩ kniven for at slagte ⟨את⟩ sin søn.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "og rakte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kniven"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "kniven"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "for at slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin søn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:52.965688049Z",
+  "model": "glm-5.3"
+}

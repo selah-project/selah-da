@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og det var ondt for Jona, en stor ondskab, og det brændte i ham.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "var ondt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i ham"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:39.002312342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Han sendte blandt dem ⟨את⟩ sværm ⟨af fluer⟩, og den åd dem, og frøer, og de ødelagde dem.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sendte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "blandt dem"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sværm"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "og den åd dem"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "og frøer"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "og de ødelagde dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:37.411922083Z",
+  "model": "glm-5.3"
+}

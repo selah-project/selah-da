@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du dækker bord foran mig, over for mine fjender; du salver mit hoved med olie; min bæger er fyldt til randen.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "dækker"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "bord"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "over for"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "salver"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olie"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mit hoved"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "min bæger"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "fyldt til randen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:04.309151282Z",
+  "model": "glm-5.3"
+}

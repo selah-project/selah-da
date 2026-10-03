@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og Betuel avlede ⟨את⟩ Rivka. Disse otte avlede Milkka med Nakor, Avrahams broder.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Og Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "otte"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Disse"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milkka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "med Nakor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broder"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:18.820172679Z",
+  "model": "glm-5.3"
+}

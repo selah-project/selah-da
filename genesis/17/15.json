@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og Elohim sagde til Avraham: Saraj, din hustru — du skal ikke kalde hende ⟨את⟩ ved navn Saraj, for Sarah er hendes navn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "din hustru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "skal du kalde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes navn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ved navn"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "er hendes navn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:16.929899588Z",
+  "model": "glm-5.3"
+}

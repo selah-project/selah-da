@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Efrajims misundelse skal vige, og Jehudas fjender skal udryddes; Efrajim skal ikke misunde ⟨את⟩ Jehuda, og Jehuda skal ikke trænge ⟨את⟩ Efrajim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "skal vige"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "misundelse"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajims"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "og fjender"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "skal udryddes"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "skal misunde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Jehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "skal trænge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:51:18.937318506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Eliahu gik for at vise sig for Akhav; og hungeren var hård i Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og gik"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "for at vise sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "for"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "og hungeren"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "var hård"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomron"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:12.968571737Z",
+  "model": "glm-5.3"
+}

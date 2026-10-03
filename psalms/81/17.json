@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 81,
+  "translation": "Og ⟨han⟩ lod ham spise af hvedens fedme, og med honning fra klippen ville jeg mætte dig.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "og lod ham spise"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "af fedmen"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "hvede"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "og fra klippen"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "honning"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ville jeg mætte dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:33.416688261Z",
+  "model": "glm-5.3"
+}

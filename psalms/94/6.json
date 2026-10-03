@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 94,
+  "translation": "Enke og fremmed slår de ihjel, og faderløse myrder de.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "enke"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "og fremmed"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "slår de ihjel"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "og faderløse"
+    },
+    {
+      "surface": "יירצחו",
+      "gloss": "myrder de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:51.283493895Z",
+  "model": "glm-5.3"
+}

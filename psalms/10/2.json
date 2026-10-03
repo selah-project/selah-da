@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "I den ondes hovmod forfølger han ⟨את⟩ den arme; må de fanges i de rænker, de har udtænkt.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "i hovmod"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "forfølger han"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨את⟩ den arme",
+      "marks": "den arme"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "må de fanges"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "i rænker"
+    },
+    {
+      "surface": "זו",
+      "gloss": "som"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "de har udtænkt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:27.685777123Z",
+  "model": "glm-5.3"
+}

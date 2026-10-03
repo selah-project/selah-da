@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "En mizmor af Asaf. Sandelig, god er Elohim mod Jisrael, mod dem af rent hjerte.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "af Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Sandelig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mod Jisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "mod dem af"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "rent hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:16.671273919Z",
+  "model": "glm-5.3"
+}

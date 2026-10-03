@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Lad min sjæl leve, og den skal lovprise dig, og dine domme skal hjælpe mig.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "lad leve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "og lovprise dig"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "og dine domme"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "skal hjælpe mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:48.118091945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 72,
+  "translation": "Kongerne af Tarshish og ⟨af⟩ øerne skal mincha bringe; kongerne af Sheba og Sva skal gaver frembære.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne af"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "og øerne"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "skal bringe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kongerne af"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "og Sva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "gaver"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "skal frembære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:14.663290698Z",
+  "model": "glm-5.3"
+}

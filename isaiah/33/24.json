@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og ingen beboer skal sige: Jeg er syg; folket, som bor i den, er ⟨nådig⟩ tilgivet sin synd.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "skal sige"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "beboer"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "jeg er syg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "som bor"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tilgivet"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sin synd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:56:16.769893454Z",
+  "model": "glm-5.3"
+}

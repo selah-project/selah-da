@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og det blev meldt til David, og han samlede ⟨את⟩ hele Jisrael og gik over ⟨את⟩ Jordan og kom til Chelam; og Aram stillede sig i slagorden mod David og kæmpede med ham.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "og det blev meldt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "og han samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og gik over"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "til Chelam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "og stillede sig i slagorden"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mod"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T16:13:21.742177375Z",
+  "model": "glm-5.3"
+}

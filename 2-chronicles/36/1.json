@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og landets folk tog ⟨את⟩ Jehoachaz, Josjiahus søn, og gjorde ham til konge i stedet for hans fader i Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og … tog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjiahus"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "og gjorde ham til konge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fader"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:29:27.264548521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og hele Jisrael og Jehuda elskede ⟨את⟩ David, fordi han gik ud og ind foran dem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Jehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "gik ud"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og ind"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "foran dem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:56.587172511Z",
+  "model": "glm-5.3"
+}

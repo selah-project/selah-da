@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Jahve støtte ham på sygelejet; hele hans leje har du vendt i hans sygdom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "støtte ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "lejet"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "af sygdom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "hans leje"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "har du vendt"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "i hans sygdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.860211463Z",
+  "model": "glm-5.3"
+}

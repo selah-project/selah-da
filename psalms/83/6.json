@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Thi de har rådslået i hjertet samdrægtigt; mod dig slutter de en pagt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "de har rådslået"
+    },
+    {
+      "surface": "לב",
+      "gloss": "i hjertet"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "samdrægtigt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mod dig"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "en pagt"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "slutter de"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:26.952354892Z",
+  "model": "glm-5.3"
+}

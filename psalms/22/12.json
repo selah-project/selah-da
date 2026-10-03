@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Flyt dig ikke langt fra mig, for trængslen er nær, for der er ingen hjælper.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "Flyt dig … langt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trængslen"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "er nær"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אין",
+      "gloss": "der er ingen"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "hjælper"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:47.871783062Z",
+  "model": "glm-5.3"
+}

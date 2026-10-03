@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shaúl sagde til Shmuel: Jo, jeg har lyttet til Jahves røst og gået den vej, som Jahve sendte mig af, og jeg har ført ⟨את⟩ Agag, kongen af Amalek, med tilbage, og ⟨את⟩ Amalek har jeg viet til bande.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jeg har lyttet"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "til røsten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "og gået"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "den vej"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "sendte mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "og ført med tilbage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "af Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "har jeg viet til bande"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:26.283979104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og Jahve sagde til Moshe: Ræk ⟨את⟩ din hånd ud over havet, så vandene vender tilbage over Mitsrajim, over hans vogne og over hans ryttere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ræk ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hånd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "så vandene vender tilbage"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "hans vogne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "hans ryttere"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:25.404024184Z",
+  "model": "glm-5.3"
+}

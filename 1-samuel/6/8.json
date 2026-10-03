@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og I skal tage Jahves ark og sætte den på vognen, og karrene af guld, som I bringer tilbage til ham som skyldoffer, lægger I i kassen ved siden af den; og I sender den af sted, og den går.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "Og I skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "og sætte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vognen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "karrene af guld"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "karrene"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "I bringer tilbage"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "som skyldoffer"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "lægger I"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "i kassen"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "ved siden af den"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "og I sender"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "af sted, og den går"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:50.264146541Z",
+  "model": "glm-5.3"
+}

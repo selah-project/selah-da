@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Jeg sendte ikke ⟨את⟩ profeterne, og de løb; jeg talte ikke til dem, og de profeterede.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "sendte jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeterne"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeterne"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "løb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "talte jeg"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "profeterede"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:07.237325912Z",
+  "model": "glm-5.3"
+}

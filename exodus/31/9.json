@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "og ⟨את⟩ brændofferalteret og ⟨את⟩ dets heltes redskaber, og ⟨את⟩ vaskekarret og ⟨את⟩ dets fodstel",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brændofferalteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændoffer-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle dets redskaber"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dets redskaber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vaskekarret"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "vaskekarret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dets fodstel"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "dets fodstel"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:43.263823256Z",
+  "model": "glm-5.3"
+}

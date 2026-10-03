@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim sagde: Samles skal vandene under himlene til ét sted, og det tørre ⟨skal⟩ synes. Og det skete sådan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "Samles skal"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ét sted"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "og synes"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "det tørre"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:41.192160582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Og du: Løft ⟨את⟩ din stav og ræk ⟨את⟩ din hånd ud over havet og kløv det, og Jisraels børn skal gå ind midt i havet på tør grund.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Løft"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din stav"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "din stav"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "og ræk ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hånd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "og kløv det"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de skal gå ind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "på tør grund"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:29.765447134Z",
+  "model": "glm-5.3"
+}

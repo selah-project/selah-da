@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 61,
+  "translation": "Dage over kongens dage føjer du til; hans år ⟨bliver⟩ som slægt ved slægt.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kongens dage"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "fører du til"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "hans år"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "דר",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ved slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:22.990459778Z",
+  "model": "glm-5.3"
+}

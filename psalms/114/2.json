@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 114,
+  "translation": "Jehuda blev til hans hellighed, Jisrael til hans riger.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "blev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "til hans hellighed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "til hans riger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:35.877100448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han sagde: Inderligt elsker jeg dig, Jahve, min styrke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "inderligt elsker jeg dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "min styrke"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:35.963438352Z",
+  "model": "glm-5.3"
+}

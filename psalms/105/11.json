@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "og sagde: Dig giver jeg ⟨את⟩ Kenaans land, ⟨det⟩ som edelomsreb, jeres arv",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaans land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "som edelomsreb"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "jeres arv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:11.214350838Z",
+  "model": "glm-5.3"
+}

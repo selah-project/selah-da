@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 125,
+  "translation": "Jerushalajim — bjerge står rundt om den, og Jahve står rundt om sit folk, fra nu af og til evigheden.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "לה",
+      "gloss": "den"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "fra nu af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:23.868199165Z",
+  "model": "glm-5.3"
+}

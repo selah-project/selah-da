@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Må han ikke lade din fod vakle, må din vogter ikke døse hen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lade"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "vakle"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "din fod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "døse hen"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "din vogter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:33.157202787Z",
+  "model": "glm-5.3"
+}

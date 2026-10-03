@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Jeg synker i dybt mudder, og der er intet fodfæste; jeg er kommet i vandets dybder, og strømmen skyller mig bort.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Jeg synker"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "i dybt"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "mudder"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er intet"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "fodfæste"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jeg er kommet"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "i dybder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vand"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "og strømmen"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "skyller mig bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:46.080727645Z",
+  "model": "glm-5.3"
+}

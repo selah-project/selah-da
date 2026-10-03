@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Hvorfor skjuler du dit ansigt, glemmer vor elendighed og vor trængsel?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "skjuler du"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glemmer"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "vor elendighed"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "og vor trængsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:25.449213293Z",
+  "model": "glm-5.3"
+}

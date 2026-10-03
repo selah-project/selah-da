@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Se, mens du endnu taler der med kongen, vil jeg komme ind efter dig og fylde ⟨את⟩ dine ord ud.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "mens du endnu"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "taler"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "vil komme ind"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "efter dig"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "og fylde ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine ord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dine ord"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:21.459972277Z",
+  "model": "glm-5.3"
+}

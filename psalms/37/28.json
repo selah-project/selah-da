@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "For Jahve elsker ret, og han forlader ikke ⟨את⟩ sine chasidim; til evig tid bevogtes de, men de ugudeliges sæd bliver udryddet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "forlader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine chasidim"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sine chasidim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "bevogtes de"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "men sæden"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "af de ugidelige — de ugudelige",
+      "notes": null
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "bliver udryddet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:29.928976243Z",
+  "model": "glm-5.3"
+}

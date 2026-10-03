@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og når Mishkanet bryder op, skal levitterne tage det ned, og når Mishkanet skal lejres, skal levitterne rejse det; og den fremmede, som kommer nær, skal lide døden.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "og når … bryder op"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "skal tage ned"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (Mishkanet)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "og når … skal lejres"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "skal rejse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (Mishkanet)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "og den fremmede"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "som kommer nær"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal lide døden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:39.322581244Z",
+  "model": "glm-5.3"
+}

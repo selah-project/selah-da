@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Sølv ⟨fra⟩ skyldofre og sølv ⟨fra⟩ syndofrer blev ikke bragt ind i Jahves hus; præsterne fik det.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "skyldoffer"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "og sølv"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "syndofrer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "blev bragt ind"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "fik det"
+    }
+  ],
+  "timestamp": "2026-10-03T16:40:46.612877519Z",
+  "model": "glm-5.3"
+}

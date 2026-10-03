@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Sammen hvisker alle ⟨de⟩ der hader mig mod mig; mod mig udtænker de ondskab mod mig:",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Sammen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "hvisker"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "der hader mig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "udtænker"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:05.108373398Z",
+  "model": "glm-5.3"
+}

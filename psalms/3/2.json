@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jahve, hvor er mine trængere dog mange! Mange står op imod mig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "er … dog mange"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mine trængere"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Mange"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "står op"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:41.394121404Z",
+  "model": "glm-5.3"
+}

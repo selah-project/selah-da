@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Han, som flytter bjerge, så de ikke ved ⟨det⟩, han, som vælter dem i sit vrede.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "som flytter"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "de ved"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "værter dem"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "i sit vrede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:06.344998948Z",
+  "model": "glm-5.3"
+}

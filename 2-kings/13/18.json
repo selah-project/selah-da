@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og han sagde: Tag pilene. Og han tog ⟨dem⟩. Og han sagde til kongen i Jisrael: Slå mod jorden! Og han slog tre gange og standsede.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "pilene"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Slå"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mod jorden"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og han slog"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gange"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og standsede"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:13.897839513Z",
+  "model": "glm-5.3"
+}

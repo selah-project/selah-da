@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Han mættede mig med beskheder, han druknede mig med malurt.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "han mættede mig"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "med beskheder"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "han druknede mig"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "med malurt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:22.877560835Z",
+  "model": "glm-5.3"
+}

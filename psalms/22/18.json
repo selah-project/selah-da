@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Jeg kan tælle alle mine ben; de stirrer, de ser på mig.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "jeg kan tælle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mine ben"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "stirrer"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "de ser"
+    },
+    {
+      "surface": "בי",
+      "gloss": "på mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:14.204210316Z",
+  "model": "glm-5.3"
+}

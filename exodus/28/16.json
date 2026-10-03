@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Firkantet skal den være, ⟨dobbelt⟩ foldet sammen; en zeret skal dens længde være, og en zeret dens bredde.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "firkantet"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal den være"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "foldet sammen (dobbelt)"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "en zeret (håndsbred)"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dens længde"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "og en zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "dens bredde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:54.072868446Z",
+  "model": "glm-5.3"
+}

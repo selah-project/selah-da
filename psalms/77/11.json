@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "translation": "Og jeg sagde: Dette er min sygdom ⟨— de⟩ år ⟨med⟩ Elyons højre hånd.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og jeg sagde"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "min sygdom"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dette er"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "år"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "højre hånd"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyons"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:38.521142511Z",
+  "model": "glm-5.3"
+}

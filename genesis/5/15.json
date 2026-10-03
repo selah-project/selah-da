@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Mahalalel levede fem år og tresindstyve år, og han avlede ⟨את⟩ Jared.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og … levede"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "og tresindstyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og han avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jared"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:47.158462930Z",
+  "model": "glm-5.3"
+}

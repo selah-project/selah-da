@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Thi deres fødder løber mod ondt, og de skynder sig til at udgyde blod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "deres fødder"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mod ondt"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "løber"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "og de skynder sig"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "til at udgyde"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blod"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:25.228693994Z",
+  "model": "glm-5.3"
+}

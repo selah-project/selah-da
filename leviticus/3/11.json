@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og præsten skal brænde det på alteret, ⟨som⟩ mad, et ildoffer til Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "Og præsten skal brænde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mad"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "et ildoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:59.231812386Z",
+  "model": "glm-5.3"
+}

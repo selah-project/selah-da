@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og Josesef befalede, og de fyldte deres sække med korn og skulle bringe deres sølv tilbage, hver mand i sin sæk, og give dem mad til vejen; og således gjorde han mod dem.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "befalede"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséf"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres sække"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "deres kar"
+    },
+    {
+      "surface": "בר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "bring tilbage"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "deres sølv"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "sin sæk"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "give"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "mad"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "til vejen"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:29.070488808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Se, ild kom ned fra himlene og fortærede ⟨את⟩ de to første høvdinger over halvtreds og ⟨את⟩ deres halvtreds mænd; og nu må mit liv være dyrebart i dine øjne!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "kom ned"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "og fortærede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de to første høvdinger"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "over halvtreds"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "de første"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres halvtreds mænd"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "og deres halvtreds"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "må være dyrebart"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mit liv"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "i dine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T16:36:39.480540064Z",
+  "model": "glm-5.3"
+}

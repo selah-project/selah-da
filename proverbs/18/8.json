@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "En bagtalers ord er som ⟨lækre⟩ bidder, og de stiger ned i ⟨de⟩ inderste kamre af bugen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "bagtalers"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "som bidder"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "stiger ned"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "kamre"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "bugen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:39.462358055Z",
+  "model": "glm-5.3"
+}

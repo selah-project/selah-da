@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "og ⟨את⟩ vævningstøjene og ⟨את⟩ de hellige klæder til Aharon, præsten, og ⟨את⟩ klæderne til hans sønner, til at præstere i",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tjenesteklæderne"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæderne"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tjeneste- (vævede)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de hellige klæder"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæderne"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "hellige"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "til Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "klæderne til hans sønner"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæderne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "til hans sønner"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til at præstere"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:43.264110465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Adam kendte atter ⟨את⟩ sin hustru, og hun fødte en søn og kaldte ⟨את⟩ hans navn Shet: Thi, sagde hun, Elohim har sat mig andet sæd i stedet for Hevel, thi Kajin dræbte ham.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "atter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hun fødte"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "og hun kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans navn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hans navn"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "har sat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sæd"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "andet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "i stedet for"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "dræbte ham"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:10.617946041Z",
+  "model": "glm-5.3"
+}

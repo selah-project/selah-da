@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Du skal tale ⟨את⟩ alt det, jeg befaler dig, og Aharon, din broder, skal tale til Farao, og ⟨han⟩ sender ⟨את⟩ Jisraels børn ud af sit land.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "skal tale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt det, jeg befaler dig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det, som"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "jeg befaler dig"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "skal tale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "og han sender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ud af sit land"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:29.246509314Z",
+  "model": "glm-5.3"
+}

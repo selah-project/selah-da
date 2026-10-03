@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Du må ikke pløje med en okse og et æsel sammen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "skal du pløje"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "med en okse"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "og med et æsel"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sammen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:27:53.939375504Z",
+  "model": "glm-5.3"
+}

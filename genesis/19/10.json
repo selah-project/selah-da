@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og mændene rakte ⟨את⟩ deres hånd ud og førte ⟨את⟩ Lot ind til sig i huset, og ⟨את⟩ døren lukkede de.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Og mændene rakte ud"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres hånd"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "deres hånd"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "og førte ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til sig"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "døren"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "døren"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "lukkede de"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:21.428465873Z",
+  "model": "glm-5.3"
+}

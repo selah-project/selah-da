@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hvad har den, som gør, for gevinst i det, som han slider med?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "gevinst"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "den, som gør"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "i det, som"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "slider"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:08.359652800Z",
+  "model": "glm-5.3"
+}

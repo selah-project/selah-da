@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "For Jahve hører ⟨til⟩ de fattige, og ⟨את⟩ hans fanger foragter ⟨han⟩ ikke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hører"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨til⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "de fattige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans fanger"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "hans fanger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "foragter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:20.954521988Z",
+  "model": "glm-5.3"
+}

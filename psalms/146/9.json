@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "Jahve vogter ⟨את⟩ de fremmede, faderløse og enker rejser han op, men de gudløses vej gør han skæv.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de fremmede"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "de fremmede"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "faderløse"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "og enker"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "rejser han op"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "men vej"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløses"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "gør han skæv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:42.039840742Z",
+  "model": "glm-5.3"
+}

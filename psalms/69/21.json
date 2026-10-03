@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Hån knuste mit hjerte, og jeg er syg; og jeg ventede på én, der ville klage, men der var ingen, og på trøstere, men dem fandt jeg ikke.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "hån"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "knuste"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "og jeg er syg"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "og jeg ventede"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "på at klage"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der var ingen"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "og på trøstere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "men ikke"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "fandt jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:08.651597782Z",
+  "model": "glm-5.3"
+}

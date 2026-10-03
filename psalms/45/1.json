@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 45,
+  "translation": "Til korlederen, over Shoshannim, for Korachs sønner, en maskil, en sang om yndester.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til korlederen"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for sønner af"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "om yndester"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:13.358379194Z",
+  "model": "glm-5.3"
+}

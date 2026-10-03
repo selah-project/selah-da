@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Og han bød ⟨את⟩ den, der var over hans hus, således: Fyld mændenes ⟨את⟩ sække med mad, så meget de kan bære, og læg hver mands sølv i munden på hans sack.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og han bød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den, der var over hans hus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den, der"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hans hus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "således"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Fyld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mændenes sække"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sække"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændenes"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "så meget som"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "de kan"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "bære"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "og læg"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mands"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i munden på"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "hans sack"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:35.259772768Z",
+  "model": "glm-5.3"
+}

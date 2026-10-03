@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Thi som græsvisnet visner de hastigt, som den grønne urt visner de bort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "som græs"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "hastigt"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "visner de"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "som den grønne"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "urt"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "visner de bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:11.972969139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og filisteren trådte frem tidligt om morgenen og om aftenen og stillede sig ⟨op⟩ i fyrre dage.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "og trådte frem"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tidligt om morgenen"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "og om aftenen"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "og stillede sig"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:56.760117549Z",
+  "model": "glm-5.3"
+}

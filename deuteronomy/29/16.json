@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og I så ⟨את⟩ deres vederstyggeligheder og ⟨את⟩ deres afguder — træ og sten, sølv og guld, som var hos dem.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Og I så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres vederstyggeligheder"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "deres vederstyggeligheder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres afguder"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "deres afguder"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og sten"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og guld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "var hos dem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:22.779070094Z",
+  "model": "glm-5.3"
+}

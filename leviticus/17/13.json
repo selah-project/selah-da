@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og hver mand blandt Jisraels børn og blandt den fremmede, der bor iblandt dem, som fanger jaget vildt, dyr eller fugl, som må spises, han skal udgyde ⟨את⟩ dets blod og dække det med støv.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og hver mand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "blandt børnene af"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og blandt"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "den fremmede"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "der bor som fremmed"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "iblandt dem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "fanger"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "jaget vildt"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dyr"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kan spises"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "skal udgyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dets blod"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "dets blod"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "og dække det"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "med støv"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:32.809542066Z",
+  "model": "glm-5.3"
+}

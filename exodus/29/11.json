@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal slagte ⟨את⟩ tyren foran Jahve, ved indgangen til mødeteltet.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "og du skal slagte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "til teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:39.937587063Z",
+  "model": "glm-5.3"
+}

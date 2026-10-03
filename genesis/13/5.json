@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og også Lot, som gik med ⟨את⟩ Avram, havde får og kvæg og telte.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Og også"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "som gik"
+    },
+    {
+      "surface": "את",
+      "gloss": "med ⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "havde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "og kvæg"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "og telte"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:05.443850976Z",
+  "model": "glm-5.3"
+}

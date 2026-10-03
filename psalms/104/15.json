@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Og vin, der glæder et dødeligt menneskes hjerte, til at få ansigtet til at lyse af olie, og brød, der styrker et dødeligt menneskes hjerte.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "og vin"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "glæder"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dødeligt menneskes"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "til at få til at lyse"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ansigtet"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "af olie"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "og brød"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjerte"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dødeligt menneskes"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "styrker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:32.232499526Z",
+  "model": "glm-5.3"
+}

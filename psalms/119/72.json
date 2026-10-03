@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Godt er mig din munds Tora frem for tusinder af guld og sølv.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er mig"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din munds"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "frem for tusinder af"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "og sølv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:19.472727074Z",
+  "model": "glm-5.3"
+}

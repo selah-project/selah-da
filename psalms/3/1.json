@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "En sang til Davids eftertanke, da han flygtede fra Absjalom, sin søn.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En sang til eftertanke"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "til Davids"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "da han flygtede"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fra"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absjalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sin søn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:41.393896637Z",
+  "model": "glm-5.3"
+}

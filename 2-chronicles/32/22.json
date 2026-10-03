@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jahve frelste ⟨את⟩ Hizkija og ⟨את⟩ indbyggerne i Jerushalajim fra Sancherivs, kongen af Ashurs, hånd og fra hånden af alle, og han ledede dem blidt rundt om.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "og frelste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizkija"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indbyggerne i Jerushalajim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherivs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "og fra hånden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af alle"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "og han ledede dem blidt"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T19:27:54.310092598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og kong Shlomo var konge over hele Jisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og han var"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:34.440431583Z",
+  "model": "glm-5.3"
+}

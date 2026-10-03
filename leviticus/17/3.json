@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Hver eneste mand af Jisraels hus, som slagter en okse eller et får eller en ged i lejren, eller som slagter ⟨den⟩ uden for lejren,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eneste mand"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "af hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slagter"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en okse"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "et får"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "עז",
+      "gloss": "en ged"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "i lejren"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slagter"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:14.482840349Z",
+  "model": "glm-5.3"
+}

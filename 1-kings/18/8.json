@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og han sagde til ham: Det er jeg. Gå, sig til din herre: Se, Eliyahu ⟨er her⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gå"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sig"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "til din herre"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:02.264180944Z",
+  "model": "glm-5.3"
+}

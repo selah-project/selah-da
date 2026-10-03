@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Og mennesket i ære bliver ikke; det er blevet lignet med kvæget — de omkom.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Og mennesket"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "i ære"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bliver"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "er blevet lignet"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "med kvæget"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "de omkom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:19.792532722Z",
+  "model": "glm-5.3"
+}

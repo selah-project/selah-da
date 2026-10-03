@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Ild sendte de ind i din helligdom; til jorden vanhelligede de dit navns Mishkan.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "sendte de"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "i din helligdom"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "vanhelligede de"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navns"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:49.907654010Z",
+  "model": "glm-5.3"
+}

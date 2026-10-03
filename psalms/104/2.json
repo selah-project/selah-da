@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Du, der svøber dig i lys som i en kappe, du, der spænder himlene ud som et teltklæde.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "svøber dig"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lys"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "som i en kappe"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "spænder ud"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "som et teltklæde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.226737234Z",
+  "model": "glm-5.3"
+}

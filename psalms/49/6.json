@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Hvorfor skulle jeg frygte i onde dage, når min hælers misgerning omgiver mig?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "skulle jeg frygte"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "i dage"
+    },
+    {
+      "surface": "רע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgerning"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "min hælers"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "omgiver mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:38.118052576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Shmuel voksede op, og Jahve var med ham, og ⟨han⟩ lod ikke et af alle hans ord falde til jorden.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Og voksede op"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "lod falde"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "et af alle"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hans ord"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:30.359539017Z",
+  "model": "glm-5.3"
+}

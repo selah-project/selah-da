@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og vi tog ⟨את⟩ deres land og gav det til arvedel for rubeniterne og for gaditerne og for halvdelen af Menashhs stamme.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Og vi tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "deres land"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "og gav det"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "til arvedel"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "for rubeniterne"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "og for gaditerne"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "og for halvdelen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "af stammen"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "af Menashh"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:29.644490169Z",
+  "model": "glm-5.3"
+}

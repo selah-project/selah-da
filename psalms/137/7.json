@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 137,
+  "translation": "Husk, Jahve, Edoms børn ⟨את⟩ Jerushalajims dag, ⟨de⟩ som sagde: Nedriv den, nedriv den, helt til grunden i hende!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "husk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "for (angående) børnene af"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajims dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "de som sagde"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "nedriv!"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "nedriv!"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "grunden, fundamenteret"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i hende (den)"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:30.561008349Z",
+  "model": "glm-5.3"
+}

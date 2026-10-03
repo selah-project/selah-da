@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og David gik frem, stadig større blevende, og Jahve Elohim Tsevaot var med ham.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gik frem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "stadig"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "større"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:36:02.141181438Z",
+  "model": "glm-5.3"
+}

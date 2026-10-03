@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 95,
+  "translation": "fyrretyve år var jeg harm på den slægt, og jeg sagde: ⟨det er⟩ et folk, der farer vild i hjertet, og de kendte ikke mine veje.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrretyve"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "var jeg harm"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "på den slægt"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og jeg sagde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "der farer vild"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "i hjertet"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨det er⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mine veje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:57.219444812Z",
+  "model": "glm-5.3"
+}

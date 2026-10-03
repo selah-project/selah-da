@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og jeg vil føre jer ind i ⟨את⟩ landet, som jeg løftede ⟨את⟩ min håd for at give ⟨את⟩ det til Avraham, til Jitschak og til Jaakov, og jeg vil give ⟨את⟩ det til jer til ejendom; jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "og jeg vil føre ind"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "jeg løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min hånd"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "min hånd"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "for at give"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ det",
+      "marks": "det"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "til Jitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "og til Jaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil give"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ det",
+      "marks": "det"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til jer"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "til ejendom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:28.033281655Z",
+  "model": "glm-5.3"
+}

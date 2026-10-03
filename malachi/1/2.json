@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jeg har elsket ⟨את⟩ jer, siger Jahve; og I siger: Hvorledes har du elsket os? Er Esav ikke Jaakovs bror? siger Jahve; og jeg elskede ⟨את⟩ Jaakov",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Jeg har elsket"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "og I siger"
+    },
+    {
+      "surface": "במה",
+      "gloss": "hvorledes"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "har du elsket os"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er ... ikke"
+    },
+    {
+      "surface": "אח",
+      "gloss": "bror"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "og jeg elskede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-03T18:03:33.696732882Z",
+  "model": "glm-5.3"
+}

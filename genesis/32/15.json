@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "geder to hundrede og bukke tyve, får to hundrede og væddere tyve,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "geder"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "to hundrede"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "og bukke"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "får"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "to hundrede"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "og væddere"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:23:29.670572382Z",
+  "model": "glm-5.3"
+}

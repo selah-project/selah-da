@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Se, han slog klippen, og vand strømmede ud, og bække væltede frem. Kan han også give brød? Kan han rede kød til sit folk?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "han slog"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "og strømmede ud"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "ויחלים",
+      "gloss": "og bække"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "væltede frem"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "kan også"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan han"
+    },
+    {
+      "surface": "תת",
+      "gloss": "give"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "rede"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "til sit folk"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:02.161973290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Der var en lille by med få mænd i den, og der kom en stor konge imod den, og han omgav ⟨את⟩ den og opførte store belejringsværker imod den.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "lille"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "og mænd"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "få"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og der kom"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "imod den"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "og han omgav"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (byen)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "og opførte"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "imod den"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "belejringsværker"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "store"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:39.522953959Z",
+  "model": "glm-5.3"
+}

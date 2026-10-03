@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 5:12",
+  "book": "job",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Han gør de snusages planer til intet, så deres hænder ikke udretter ⟨det, de har udtænkt⟩.",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "gør til intet"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planer"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "de snusages"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så ikke"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "udretter"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænder"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "⟨det, de har udtænkt⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:37.104897820Z",
+  "model": "glm-5.3"
+}

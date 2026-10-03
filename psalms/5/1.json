@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Til korlederen, efter nechilot, en salme af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nechilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en salme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.780985429Z",
+  "model": "glm-5.3"
+}

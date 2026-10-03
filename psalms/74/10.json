@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Hvor længe, oh Elohim, skal modstanderen smæde? Skal fjenden forhåne dit navn for evigt?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "længe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "smæde"
+    },
+    {
+      "surface": "צר",
+      "gloss": "modstanderen"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "forhåne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:37.450838030Z",
+  "model": "glm-5.3"
+}

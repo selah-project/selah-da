@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Velsignet ⟨er⟩ du i byen, og velsignet ⟨er⟩ du på marken.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "og velsignet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:26.962243041Z",
+  "model": "glm-5.3"
+}

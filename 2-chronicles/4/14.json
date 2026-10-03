@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og ⟨את⟩ socklerne lavede han, og ⟨את⟩ kedlerne lavede han på socklerne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "socklerne"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "socklerne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lavede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kedlerne"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "kedlerne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lavede"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "socklerne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:40.070400049Z",
+  "model": "glm-5.3"
+}

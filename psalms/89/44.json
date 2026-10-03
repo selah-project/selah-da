@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Ja, du vendte ryggen på hans sværd og lod ham ikke stå fast i slaget.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "du vendte"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ryggen — egentlig 'spidsen\/klippen' på"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "hans sværd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "lod ham stå fast"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i slaget"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:59.143880589Z",
+  "model": "glm-5.3"
+}

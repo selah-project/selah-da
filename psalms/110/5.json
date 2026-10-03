@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 110,
+  "translation": "Adonaj ved din højre hånd knuser konger på sin vredes dag.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre hånd"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "knuser"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dag"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sin vrede"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.510247939Z",
+  "model": "glm-5.3"
+}

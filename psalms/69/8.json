@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Thi for din skyld har jeg båret smæde, skam har dækket mit ansigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "for din skyld"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "har jeg båret"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smæde"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "har dækket"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "skam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:11.546920008Z",
+  "model": "glm-5.3"
+}

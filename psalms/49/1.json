@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Til dirigenten. Af Korachs sønner. En mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til dirigenten"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Af sønner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachs"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:24.873073422Z",
+  "model": "glm-5.3"
+}

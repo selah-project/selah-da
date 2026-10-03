@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og ⟨את⟩ Aharon og ⟨את⟩ hans sønner skal du indsætte, og de skal bevogte ⟨את⟩ deres præstedømme; og den uvedkommende, som træder nær, skal dø.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hans sønner"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "תפקod",
+      "gloss": "skal du indsætte"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "og de skal bevogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres præstedømme"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "deres præstedømme"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "og den uvedkommende"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "som træder nær"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:51.112902218Z",
+  "model": "glm-5.3"
+}

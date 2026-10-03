@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Avram gik, som Jahve havde talt til ham, og Lot gik med ham ⟨את⟩; og Avram var fem og halvfjerds år gammel, da han gik ud fra Charan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "med ham"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "og Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var… år"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "og halvfjerds"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "da han gik ud"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "fra Charan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:16:04.601853323Z",
+  "model": "glm-5.3"
+}

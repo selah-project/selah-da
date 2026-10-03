@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og ⟨han⟩ skal barbere sig, men ⟨את⟩ skællet skal han ikke barbere; og præsten skal lukke ⟨את⟩ skællet inde i syv dage, for anden gang.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "skal barbere sig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skællet"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "skællet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "barbere"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "skal lukke inde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skællet"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "skællet"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "for anden gang"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:31.215109050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Drag mig ikke bort med de ugudelige og med dem, der gør ondt, som taler fred med deres næste, mens ondskab er i deres hjerte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "drag mig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de ugudelige"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og med"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem der gør"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "som taler"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "deres næste"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mens ondskab"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "er i deres hjerte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:02.402164291Z",
+  "model": "glm-5.3"
+}

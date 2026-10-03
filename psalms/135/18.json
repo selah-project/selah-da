@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 135,
+  "translation": "Som dem skal deres gjørere være; alle de, som stoler på dem.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "som dem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal de være"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "deres gjørere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "de, som"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "stoler"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "på dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:11.407162382Z",
+  "model": "glm-5.3"
+}

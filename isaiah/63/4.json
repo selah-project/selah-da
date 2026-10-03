@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 63,
+  "translation": "For hævnens dag var i mit hjerte, og mit genløsnings år var kommet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hævnens"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mit hjerte"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "og ... år"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "mit genløsnings"
+    },
+    {
+      "surface": "באה",
+      "gloss": "var kommet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:08.916787779Z",
+  "model": "glm-5.3"
+}

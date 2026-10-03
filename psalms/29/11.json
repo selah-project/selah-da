@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Jahve giver sit folk styrke, Jahve velsigner ⟨את⟩ sit folk med fred.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "giver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsigner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit folk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "med fred"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:06.690124420Z",
+  "model": "glm-5.3"
+}

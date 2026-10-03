@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Ord af Agur, søn af Jakeh, byrden. Udsagnet af manden: til Itiel, til Itiel og Ukhal.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ord"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "af Agur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "af Jakeh"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "byrden"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Udsagnet"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "af manden"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "til Itiel"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "til Itiel"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og Ukhal"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:13.052602397Z",
+  "model": "glm-5.3"
+}

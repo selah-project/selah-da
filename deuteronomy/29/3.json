@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "men Jahve gav jer ikke et hjerte til at vide og øjne til at se og ører til at høre, indtil denne dag.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "men ... ikke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "לב",
+      "gloss": "et hjerte"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "til at vide"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "og øjne"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "til at se"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "og ører"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "til at høre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "denne"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:31.745428782Z",
+  "model": "glm-5.3"
+}

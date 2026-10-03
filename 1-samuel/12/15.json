@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Men hvis I ikke hører Jahves røst og gør oprør mod ⟨את⟩ Jahves mund, da skal Jahves hånd være imod jer og imod jeres fædre.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Men hvis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "I hører"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "og gør oprør mod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves mund"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "da skal … være"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "imod jer"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "og imod jeres fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T16:00:14.972608915Z",
+  "model": "glm-5.3"
+}

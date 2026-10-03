@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 147,
+  "translation": "Han, der dækker himlene med skyer, han, der gør regnen klar til jorden, han, der lader græs spire på bjergene.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Han, der dækker"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "med skyer"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "han, der gør klar"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jorden"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "regnen"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "han, der lader spire"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "på bjergene"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "græs"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:09.511313426Z",
+  "model": "glm-5.3"
+}

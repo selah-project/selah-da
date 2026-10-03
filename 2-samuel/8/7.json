@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og David tog ⟨את⟩ guldsoldene, som var på trællene af Hadadezer, og bragte dem til Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldsoldene"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "soldene"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trællene"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "og bragte dem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:11:58.861108627Z",
+  "model": "glm-5.3"
+}

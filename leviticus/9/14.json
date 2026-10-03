@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og han tvættede ⟨את⟩ indvoldene og ⟨את⟩ benene og lod dem ryge ovenpå brændofferet på alteret.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "og han tvættede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indvoldene"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "indvoldene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "benene"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "benene"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "og han lod dem ryge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovenpå"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "på alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:39.100078792Z",
+  "model": "glm-5.3"
+}

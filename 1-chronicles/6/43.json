@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og ⟨את⟩ Hilen og ⟨את⟩ dens græsgange, ⟨את⟩ Devir og ⟨את⟩ dens græsgange.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:34.113884425Z",
+  "model": "glm-5.3"
+}

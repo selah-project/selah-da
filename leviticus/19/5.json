@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og når I slagter ⟨et⟩ shlamin-offer til Jahve, skal I slagtre det, så det bliver til behag for jer.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og når"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "I slagter"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offer"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shlamin- (freds-)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "til behag for jer"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "skal I slagtre det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:21.466300213Z",
+  "model": "glm-5.3"
+}

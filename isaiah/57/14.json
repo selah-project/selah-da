@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Og ⟨man⟩ siger: Byg vejen op, byg vejen op, ryd stien, fjern snublestenen fra mit folks vej!",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "og ⟨man⟩ siger"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "byg vejen op"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "byg vejen op"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ryd"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "stien"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "fjern"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "snublestenen"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "fra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folks"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:58.297440141Z",
+  "model": "glm-5.3"
+}

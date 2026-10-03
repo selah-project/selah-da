@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Din undergang, Jisrael — at ⟨den er⟩ imod mig, imod din hjælp.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "din undergang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "בי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "imod din hjælp"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:00.954691313Z",
+  "model": "glm-5.3"
+}

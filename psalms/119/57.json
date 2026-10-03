@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jahve ⟨er⟩ min del; jeg har sagt, at jeg vil holde dine ord.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "min del"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jeg har sagt"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "at holde"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dine ord"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:30.465845860Z",
+  "model": "glm-5.3"
+}

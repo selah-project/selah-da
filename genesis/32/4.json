@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og Jaakov sendte bud foran sig til Esav, sin broder, til Seirs land, Edoms mark.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "bud"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "foran sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til … land"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mark"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:07.977287555Z",
+  "model": "glm-5.3"
+}

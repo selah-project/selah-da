@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Oplift ⟨את⟩ hovedet ⟨af⟩ Kohats sønner, midt blandt Levi'ernes sønner, efter deres familier, efter deres fædrene huse —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Oplift"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovedet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kohats"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "midt blandt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levis"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "efter deres familier"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter huset"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "af deres fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:13.948412437Z",
+  "model": "glm-5.3"
+}

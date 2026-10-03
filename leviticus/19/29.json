@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Vanhellig ikke ⟨את⟩ din datter ved at gøre hende til skøge, for at landet ikke skal drive hor og landet blive fyldt med udsvævelse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "vanhellige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din datter"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "din datter"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "ved at gøre hende til skøge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "drive hor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "og blive fyldt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "udsvævelse"
+    }
+  ],
+  "timestamp": "2026-10-03T14:58:00.953401806Z",
+  "model": "glm-5.3"
+}

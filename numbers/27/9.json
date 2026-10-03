@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis han ikke har en datter, skal I give ⟨את⟩ hans arv til hans brødre.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke har"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "בת",
+      "gloss": "en datter"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "skal I give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans arv"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arv"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "til hans brødre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:16:01.760448800Z",
+  "model": "glm-5.3"
+}

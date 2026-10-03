@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og ⟨את⟩ dem som tilbeder på tagene, himlenes hær, og ⟨את⟩ dem som tilbeder, som sværger ved Jahve og sværger ved deres konge",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem som tilbeder på tagene"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "dem som tilbeder"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "tagene"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "hær"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlenes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dem som tilbeder og sværger"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "dem som tilbeder"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "som sværger"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ved Jahve"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "og sværger"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ved deres konge"
+    }
+  ],
+  "timestamp": "2026-10-03T17:59:43.170893557Z",
+  "model": "glm-5.3"
+}

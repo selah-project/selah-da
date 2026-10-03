@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Giv dem efter deres gerning og efter ondskaben i deres handlinger; efter deres hænders værk giv dem; bring deres løn tilbage over dem.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "efter deres gerning"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "og efter ondskaben"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "i deres handlinger"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "efter værk"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "deres hænders"
+    },
+    {
+      "surface": "תן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring tilbage"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "deres løn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "over dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:02.402352248Z",
+  "model": "glm-5.3"
+}

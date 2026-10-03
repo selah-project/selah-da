@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Kend dem skyldige, Elohim; lad dem falde ved deres egne råd; driv dem bort ved mangfoldigheden af deres overtrædelser, thi de har gjort oprør mod dig.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "kend dem skyldige"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "lad dem falde"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ved deres råd"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ved mangfoldigheden"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "af deres overtrædelser"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "driv dem bort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "de har gjort oprør"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mod dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.455694384Z",
+  "model": "glm-5.3"
+}

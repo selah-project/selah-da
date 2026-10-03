@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og du gav dem riger og folkeslag og tildelte dem dem ⟨til⟩ hjørne; og de tog i arv ⟨את⟩ landet Sichon og ⟨את⟩ landet kongen i Chejshbon og ⟨את⟩ landet Og, kongen i Bashan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "og du gav"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "riger"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "og folkeslag"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "og tildelte dem dem"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "til hjørne"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "og de tog i arv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet Sichon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "landet kongen i Chejshbon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chejshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "landet Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "i Bashan"
+    }
+  ],
+  "timestamp": "2026-10-03T19:07:38.408012297Z",
+  "model": "glm-5.3"
+}

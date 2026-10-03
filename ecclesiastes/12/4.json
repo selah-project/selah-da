@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "og dørene lukkes mod gaden, når kværnens lyd bliver lav, og man vågner ved fuglens røst, og alle sangens døtre bringes til tavshed,",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "og lukkes"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dørene"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "mod gaden"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "når … bliver lav"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lyden"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "kværnens"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "og man vågner"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ved røsten"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "fuglens"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "og bringes til tavshed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "sangens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:52.626944361Z",
+  "model": "glm-5.3"
+}

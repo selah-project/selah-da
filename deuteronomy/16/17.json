@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Enhver efter sin hands gave, efter den velsignelse, Jahve din Elohim har givet dig.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "efter sin gave"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hands"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "efter den velsignelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "har givet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:22.375002164Z",
+  "model": "glm-5.3"
+}

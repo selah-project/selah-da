@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 56,
+  "translation": "Mine flakkende veje har du talt; sæt mine tårer i din læderflaske — er de ikke i din bog?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "mine flakkende veje"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "har du talt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "sæt"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mine tårer"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "i din læderflaske"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "er de ikke"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "i din bog"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:51.147138100Z",
+  "model": "glm-5.3"
+}

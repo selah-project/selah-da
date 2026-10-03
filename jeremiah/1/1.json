@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Jirmejahu's, søn af Chilkijahu, ord — af præsterne, som ⟨var⟩ i Anatot, i landet Binjamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ord"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu's"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkijahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsterne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "i Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-10-03T17:07:35.927998398Z",
+  "model": "glm-5.3"
+}

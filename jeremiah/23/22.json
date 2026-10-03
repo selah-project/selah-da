@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Men hvis de havde stået i min ⟨סוד⟩, så ville de have fået ⟨את⟩ mit folk til at høre mine ord og vendt dem fra deres onde vej og fra deres onde gerninger.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "men hvis"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "de havde stået"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "i min ⟨סוד⟩"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "så ville de have fået ... til at høre"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit folk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "og vendt dem"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "fra deres vej"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "onde"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "og fra deres onde"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:07.237619480Z",
+  "model": "glm-5.3"
+}

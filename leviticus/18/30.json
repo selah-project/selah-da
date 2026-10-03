@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og I skal vogte ⟨את⟩ min bevogtning, så I ikke gør nogen af de vederstyggelige skikke, som blev gjort før jer, og I skal ikke gøre jer urene ved dem; jeg ⟨er⟩ Jahve, jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min bevogtning"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "min bevogtning"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "så I ikke"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gør"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "af skikkene"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "vederstyggelige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "blev gjort"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "før jer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "skal I gøre jer urene"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:39.810060245Z",
+  "model": "glm-5.3"
+}

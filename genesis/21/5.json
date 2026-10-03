@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Avraham ⟨var⟩ hundrede år gammel, da ⟨את⟩ Jitschak, hans søn, blev født ham.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Og Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "da … blev født"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:30.982831338Z",
+  "model": "glm-5.3"
+}

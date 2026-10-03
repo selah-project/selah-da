@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Vi ventede på shalom, men der kom intet godt, på en tid for lægedom, og se, rædsel.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "vi ventede"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "på shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "men der kom intet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "på en tid for"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "lægedom"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "rædsel"
+    }
+  ],
+  "timestamp": "2026-10-03T17:12:43.466015536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "⟨את⟩ selvsådden af din høst må du ikke høste, og ⟨את⟩ druerne fra din udeladte vinstok må du ikke høste — et år for Shabbat-vilrå skal det være for landet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selvsådden af din høst"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "selvsådden"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "af din høst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "må du høste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "druerne fra din udeladte vinstok"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "druerne"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "fra din udeladte vinstok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "må du plukke"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "et år"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "for Shabbat-vilrå"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal det være"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "for landet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:00:37.663142477Z",
+  "model": "glm-5.3"
+}

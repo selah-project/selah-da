@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 76,
+  "translation": "Du, ja du, er frygtindgydende, og hvem kan stå for dit ansigt, fra den stund din vrede ⟨vakte sig⟩?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "frygtindgydende"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ja du"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "kan stå"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit ansigt"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "fra den stund"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "din vrede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:51.581368990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og David tog ⟨את⟩ hovedet af filisteren og bragte det til Jerushalajim; og ⟨את⟩ hans våben satte han i sit telt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovedet af filisteren"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hovedet"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "af filisteren"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "og bragte det"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans våben"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hans våben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "satte"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "i sit telt"
+    }
+  ],
+  "timestamp": "2026-10-03T19:35:45.982061538Z",
+  "model": "glm-5.3"
+}

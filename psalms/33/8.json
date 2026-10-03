@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Hele jorden skal frygte Jahve; foran ham bæver alle verdens beboere.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "skal frygte"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "foran ham"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bæver"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "beboere"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.431483815Z",
+  "model": "glm-5.3"
+}

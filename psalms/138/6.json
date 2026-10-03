@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "For høj er Jahve, og den lave ser ⟨han⟩, og den stolte kender ⟨han⟩ fra fjern af.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רם",
+      "gloss": "høj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "er Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "og den lave"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ser ⟨han⟩"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "og den stolte"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "fra fjern af"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "kender ⟨han⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:13.430048512Z",
+  "model": "glm-5.3"
+}

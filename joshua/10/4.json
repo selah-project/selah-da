@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Kom op til mig og hjælp mig, så vi kan slå Givon, for den har sluttet fred med ⟨את⟩ Jehoshua og ⟨את⟩ Jisraels børn.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Kom op"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "og hjælp mig"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "så vi kan slå"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "den har sluttet fred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:11.532831553Z",
+  "model": "glm-5.3"
+}

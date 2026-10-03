@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Thi mine lænder er fulde af svien, og der er intet sundt i mit kød.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "mine lænder"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "er fulde af"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "svien"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er intet"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sundt"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "i mit kød"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:43.737418932Z",
+  "model": "glm-5.3"
+}

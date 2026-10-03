@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Giv jer selv tre mænd fra hver stamme, og jeg vil sende dem, og de skal stå op og vandre igennem landet og skrive ⟨את⟩ det efter deres arv, og de skal komme til mig.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer selv"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "fra hver stamme"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "og jeg vil sende dem"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "og de skal stå op"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "og vandre"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "igennem landet"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "og skrive"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "det (landet)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "deres arv"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de skal komme"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:42:58.432889473Z",
+  "model": "glm-5.3"
+}

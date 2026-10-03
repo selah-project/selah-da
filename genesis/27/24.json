@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og han sagde: Er du dette, min søn Esav? Og han sagde: Det er jeg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Det er jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:32.424800518Z",
+  "model": "glm-5.3"
+}

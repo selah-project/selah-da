@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 113,
+  "translation": "han rejser den fattige op af støvet, af skarnbunken løfter han den nødlidende —",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "han rejser op"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "af støvet"
+    },
+    {
+      "surface": "דל",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "af skarnbunken"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "løfter"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den nødlidende"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:06.075844532Z",
+  "model": "glm-5.3"
+}

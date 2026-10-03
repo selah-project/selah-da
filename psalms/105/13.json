@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Og de vandrede fra folk til folk, fra ⟨det⟩ ene rige til et andet folk.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "og de vandrede"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "fra folk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "folk"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "fra rige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "et andet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:21.459797541Z",
+  "model": "glm-5.3"
+}

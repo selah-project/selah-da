@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og præsten skal dyppe ⟨את⟩ sin finger i blodet og stænke af blodet syv gange for Jahves ansigt, foran det hellige forhæng.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "og dyppe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin finger"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "sin finger"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "i blodet"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "og stænke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blodet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gange"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ansigtet af forhænget"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigtet af"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "forhænget"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "det hellige"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:40.159359365Z",
+  "model": "glm-5.3"
+}

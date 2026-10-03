@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "og til at lære Jisraels ⟨את⟩ sønner ⟨את⟩ alle ⟨de⟩ vedtægter, som Jahve har talt til dem ved Moshes hånd.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "og til at lære"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels sønner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle vedtægterne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "vedtægter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshes"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:42.654132389Z",
+  "model": "glm-5.3"
+}

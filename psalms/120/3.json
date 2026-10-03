@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "Hvad skal ⟨der⟩ gives dig, og hvad lægges ⟨der⟩ til dig, du tunge med svig?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "skal gives"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvad"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lægges til"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "med svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:26.481782804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 50,
+  "translation": "Disse ting gjorde du, og jeg tav — du troede, at jeg var som dig. Jeg vil irettesætte dig og stille ⟨det⟩ op for dine øjne.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gjorde du"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "og jeg tav"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "du troede"
+    },
+    {
+      "surface": "היות",
+      "gloss": "at være"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "som dig"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "irettesætter jeg dig"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "og stiller op"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "for dine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:01.702864752Z",
+  "model": "glm-5.3"
+}

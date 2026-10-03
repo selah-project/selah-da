@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeg vil knække ⟨את⟩ jeres magts hømod, og jeg vil gøre jeres himle ⟨את⟩ som jern og jeres land ⟨את⟩ som kobber.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "og jeg vil knække"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres magts hømod"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "hømod"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "jeres magt"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres himle"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "jeres himle"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "som jern"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeres land"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jeres land"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "som kobber"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:18.002938326Z",
+  "model": "glm-5.3"
+}

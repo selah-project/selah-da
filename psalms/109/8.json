@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Måtte hans dage blive få, og en anden tage hans embede.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "måtte blive"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hans dage"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "få"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "hans embede"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tage"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.301082289Z",
+  "model": "glm-5.3"
+}

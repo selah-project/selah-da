@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "Hjælp os, vor frelses Elohim, for din navns æres skyld, og fri os og son for vore synder, for dit navns skyld.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "hjælp os"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "vor frelse"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨skyld⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "æren"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navns"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "og fri os"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og son"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "vore synder"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:17.130340884Z",
+  "model": "glm-5.3"
+}

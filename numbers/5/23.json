@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og præsten skal skrive ⟨את⟩ disse forbandelser i bogen og udviske dem ud i det bitre vand.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Og præsten skal skrive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse forbandelser"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "forbandelser"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "i bogen"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "og udviske"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ud i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vand"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "det bitre"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:55.567049109Z",
+  "model": "glm-5.3"
+}

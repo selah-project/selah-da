@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og han bragte derfra op ⟨את⟩ knoglerne af Shaul og ⟨את⟩ knoglerne af Jehonatan hans søn, og de samlede ⟨את⟩ knoglerne af de ophængte.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "bragte op"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knoglerne af Shaul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "knoglerne"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "knoglerne af Jehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "knoglerne"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "og de samlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knoglerne af de ophængte"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "knoglerne"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "af de ophængte"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:06.232059881Z",
+  "model": "glm-5.3"
+}

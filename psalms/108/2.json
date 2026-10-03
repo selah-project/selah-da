@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Fast ⟨er⟩ mit hjerte, Elohim; jeg vil synge, ja, jeg vil lovsynge, også min herlighet ⟨skal synge⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Fast"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "jeg vil synge"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja, jeg vil lovsynge"
+    },
+    {
+      "surface": "אף",
+      "gloss": "også"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "min herlighet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:30.154366446Z",
+  "model": "glm-5.3"
+}

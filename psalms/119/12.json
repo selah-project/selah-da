@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Velsignet er du, Jahve; lær mig dine vedtægter.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Velsignet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "er du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lær mig"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dine vedtægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:33.946633468Z",
+  "model": "glm-5.3"
+}

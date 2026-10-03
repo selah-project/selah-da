@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Og den ene åbnede ⟨את⟩ sin sæk for at give foder til sit æsel på herberget, og han så ⟨את⟩ sit sølv, og se, det var i munden på hans pose.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "åbnede"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin sæk"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "sin sæk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "give"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "foder"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "til sit æsel"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "på herberget"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit sølv"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "sit sølv"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "i munden på"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "hans pose"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:29.070876110Z",
+  "model": "glm-5.3"
+}

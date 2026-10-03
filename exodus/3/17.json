@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg sagde: Jeg vil føre jer ⟨את⟩ op af Mitsrajims nød, til kanaanæernes, hittiternes, amoriternes, perizziternes, hivviternes og jebusiternes land, til et land, der flyder med mælk og honning.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "og jeg sagde"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "jeg vil føre op"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer — Mitsrajims nød (objektet for udførelsen)"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "nød"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæernes"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "og hittiternes"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "og amoriternes"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "og perizziternes"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "og hivviternes"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "og jebusiternes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "et land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "der flyder"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "med mælk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "og honning"
+    }
+  ],
+  "timestamp": "2026-10-03T19:31:17.152136525Z",
+  "model": "glm-5.3"
+}

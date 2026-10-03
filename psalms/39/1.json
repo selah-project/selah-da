@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Til korlederen, til Jedutun, en mizmor af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "til Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.026376110Z",
+  "model": "glm-5.3"
+}

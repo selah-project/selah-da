@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg har taget ⟨את⟩ eder i ed, Jerushalajims døtre, ved gazellerne eller markerens hind, at I ikke vækker og ikke opvækker ⟨את⟩ kærligheden, før den selv ønsker det.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Jeg har taget eder i ed"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ eder",
+      "marks": "Jerushalajims døtre"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "døtre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ved gazellerne"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "ved hinderne"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "markens"
+    },
+    {
+      "surface": "אם",
+      "gloss": "at ikke"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "I vækker"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og at ikke"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "I opvækker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kærligheden"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "kærligheden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "før"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "den selv ønsker det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:47:00.736016958Z",
+  "model": "glm-5.3"
+}

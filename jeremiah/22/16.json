@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Han skaffede den fattige og nødlidende sin ret — da gik det godt. Er det ikke dette at kende ⟨את⟩ mig? siger Jahve.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Han skaffede ret"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ret"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og nødlidende"
+    },
+    {
+      "surface": "אז",
+      "gloss": "da"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gik det godt"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er det ikke"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dette"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "at kende"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T17:16:33.365970656Z",
+  "model": "glm-5.3"
+}

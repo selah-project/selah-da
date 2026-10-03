@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Salige ⟨er⟩ den, du udvælger og lader komme nær, ⟨så han⟩ bor i dine forgårde; vi mættes af godt i dit hus, af dit helliges tempel.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Salige"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "du udvælger"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "og lader komme nær"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bor"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "i dine forgårde"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "vi mættes"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "af godt"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "dit helliges"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:31.129146393Z",
+  "model": "glm-5.3"
+}

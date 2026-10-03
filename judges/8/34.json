@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jisraels sønner huskede ikke ⟨את⟩ Jahve, deres Elohim, som havde frelst ⟨את⟩ dem af hånden på alle deres fjender rundt om.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "som havde frelst"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T15:49:44.038592021Z",
+  "model": "glm-5.3"
+}

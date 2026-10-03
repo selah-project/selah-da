@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "For Ezra gjorde sit hjerte rede til at søge ⟨את⟩ Jahves Tora og til at gøre ⟨den⟩ og til at lære i Jisrael lov og ret.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gjorde… rede"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sit hjerte"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "til at søge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "og til at gøre"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "og til at lære"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "i Jisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lov"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og ret"
+    }
+  ],
+  "timestamp": "2026-10-03T19:03:38.495869370Z",
+  "model": "glm-5.3"
+}

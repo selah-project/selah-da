@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Jahve gjorde sig kendt gennem dom; i sine hænders værk blev den gudløse fanget. Higgajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "gjorde sig kendt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udførte"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "i værk"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "sin hænder"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "fanget i snare"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:07.577473274Z",
+  "model": "glm-5.3"
+}

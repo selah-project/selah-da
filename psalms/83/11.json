@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "De blev tilintetgjort ved En-Dor, de blev til gødning for jorden.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "blev tilintetgjort"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ved En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "de blev"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "til gødning"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "for jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:52.275896028Z",
+  "model": "glm-5.3"
+}

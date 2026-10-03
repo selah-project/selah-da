@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Gå, sig til dem: Vend tilbage til Jeres telte!",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sig"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Vend tilbage"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "Jeres telte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:12.887592702Z",
+  "model": "glm-5.3"
+}

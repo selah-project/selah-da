@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 32:27",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Og han sagde til dem: Sådan siger Jahve, Israels Elohim: Hver mand lægge sit sværd på sin lær; gå frem og tilbage fra port til port gennem lejren, og dræbe hver mand ⟨את⟩ sin broder, og hver mand ⟨את⟩ sin nære, og hver mand ⟨את⟩ sin slægtning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israels"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "lægge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sit sværd"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "sin lær"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gå frem"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "og tilbage"
+    },
+    {
+      "surface": "משער",
+      "gloss": "fra port"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "til port"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "gennem lejren"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "og dræbe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin nære"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nære"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin slægtning"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sin slægtning"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:21.625849253Z",
+  "model": "glm-5.3"
+}

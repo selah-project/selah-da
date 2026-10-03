@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Himlene forkyndte ⟨hans⟩ tsedek, og alle folkene så ⟨hans⟩ herlighed.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "forkyndte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨hans⟩ tsedek"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "og så"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨hans⟩ herlighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:40.609469119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Enhver mand, som trodser ⟨את⟩ din mund og ikke lyder ⟨את⟩ dine ord i alt det, du befaler ham, skal dø; vær blot stærk og modig!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "trodser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din mund"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "din mund"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "lyder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine ord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dine ord"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "du befaler ham"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "רק",
+      "gloss": "blot"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "vær stærk"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "og modig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:36:19.274004263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Thi stor indtil himlene ⟨er⟩ dit chesed, og indtil skyerne din troværdighed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dit chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og indtil"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skyerne"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din troværdighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:52.620862716Z",
+  "model": "glm-5.3"
+}

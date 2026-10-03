@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Jisraels børn gik og gjorde ⟨det⟩, som Jahve havde befalet ⟨את⟩ Moshe og ⟨את⟩ Aharon — sådan gjorde de.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde befaler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjorde de"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:27.671308763Z",
+  "model": "glm-5.3"
+}

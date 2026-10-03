@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Thi vi er fortæret i din vrede, og i din harme blev vi grebet af rædsel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "vi er fortæret"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "i din vrede"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "og i din harme"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "blev vi grebet af rædsel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.357311885Z",
+  "model": "glm-5.3"
+}

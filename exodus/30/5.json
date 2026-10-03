@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og du skal lave ⟨את⟩ stængerne af shittim-træ, og du skal beklæde ⟨את⟩ dem med guld.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal lave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stængerne"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af træ af"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "og du skal beklæde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (= stængerne)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:13.003445400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og dette er Jitschaks afkom, Avrahams søn: Avraham avlede ⟨את⟩ Jitschak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "er afkommet"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschaks"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:12.068344568Z",
+  "model": "glm-5.3"
+}

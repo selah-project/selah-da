@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og også af tjenerindens ⟨את⟩ søn vil jeg gøre ham til et folk, for han er dit afkom.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Og også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sønnen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "af tjenerinden"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "til et folk"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "vil jeg gøre ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dit afkom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er han"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:25.303042828Z",
+  "model": "glm-5.3"
+}

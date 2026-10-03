@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Jisraels børn gav levitterne ⟨את⟩ disse byer og ⟨את⟩ deres græsgange, således som Jahve havde påbudt ved Moshes hånd, ved lod.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "til levitterne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse byer"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "byerne"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "disse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres græsgange"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "deres græsgange"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ved lod"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:30.369787936Z",
+  "model": "glm-5.3"
+}

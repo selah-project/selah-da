@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 4:9",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og han gjorde præsternes forgård og den store forgård og døre til forgården, og deres døre beklædte han med kobber.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "forgård"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "præsternes"
+    },
+    {
+      "surface": "והעזרה",
+      "gloss": "og forgården"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "den store"
+    },
+    {
+      "surface": "ודלתות",
+      "gloss": "og døre"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "til forgården"
+    },
+    {
+      "surface": "ודלתותיהם",
+      "gloss": "og deres døre"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "beklædte han"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "med kobber"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:32.963613027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "hvis mund taler tomhed, og hvis højre hånd ⟨er⟩ løgnens højre hånd.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mund"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tomhed"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "og deres højre hånd"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "højre hånd"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:48.928718801Z",
+  "model": "glm-5.3"
+}

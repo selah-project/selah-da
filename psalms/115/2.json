@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Hvorfor skal folkeslagene sige: Hvor er dog deres Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "skal ... sige"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hvor er"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "deres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:46.744505995Z",
+  "model": "glm-5.3"
+}

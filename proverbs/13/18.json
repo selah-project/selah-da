@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Fattigdom og skam ⟨rammer⟩ den, der kaster tukt bag sig, men den, der agter på tugt, æres.",
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "fattigdom"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "og skam"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "den, der kaster bag sig"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tukt"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "men den, der agter på"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tugt"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "æres"
+    }
+  ],
+  "timestamp": "2026-10-03T18:31:38.437414173Z",
+  "model": "glm-5.3"
+}

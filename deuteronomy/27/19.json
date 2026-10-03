@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Forbandet ⟨er⟩ den, der bøjer retten for den fremmede, den faderløse og enken, og hele folket skal sige: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Forbandet"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "den, der bøjer"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "retten"
+    },
+    {
+      "surface": "גר",
+      "gloss": "for den fremmede"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "den faderløse"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "og enken"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og skal sige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:31:44.101379943Z",
+  "model": "glm-5.3"
+}

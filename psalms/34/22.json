@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Ondskab dræber den gudløse, og de der hader den retfærdige, dømmes skyldige.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "dræber"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "og de der hader"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "dømmes skyldige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:17.587080295Z",
+  "model": "glm-5.3"
+}

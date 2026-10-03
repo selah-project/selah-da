@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Lot valgte sig ⟨את⟩ hele Jordansletten, og Lot brød op østpå; og de skiltes, hver fra sin bror.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Og valgte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sig"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Jordansletten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "sletten"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordans"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "og brød op"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "østpå"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "og de skiltes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin bror"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:29.994697772Z",
+  "model": "glm-5.3"
+}

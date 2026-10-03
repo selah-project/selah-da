@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Hvor længe, Jahve, vil du skjule dig for evigt? Vil din vrede brænde som ild?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hvor længe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(hvor)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "vil du skjule dig"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "vil brænde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "din vrede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:15.326705898Z",
+  "model": "glm-5.3"
+}

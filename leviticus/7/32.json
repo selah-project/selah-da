@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og ⟨את⟩ det højre lår skal I give som teruma-gave til præsten, fra jeres shlamim-ofre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "det højre lår"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lår"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "det højre"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "skal I give"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "som teruma-gave"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til præsten"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "jeres shlamim-ofre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:31.536749122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og kongen svor og sagde: Så sandt Jahve lever, han som friede ⟨את⟩ min sjæl ud af al trængsel —",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Og svor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lever"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "friede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min sjæl"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ud af al"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "trængsel"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:46.673388152Z",
+  "model": "glm-5.3"
+}

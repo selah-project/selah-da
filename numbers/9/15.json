@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og på den dag, da man rejste ⟨את⟩ Mishkanet, dækkede skyen ⟨את⟩ Mishkanet, vidnesbyrdets telt, og om aftenen var der over Mishkanet som et ildens udseende indtil morgen.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Og på den dag"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "man rejste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "dækkede"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdets"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "og om aftenen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "var der"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "som et udseende"
+    },
+    {
+      "surface": "אש",
+      "gloss": "af ild"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgen"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:54.440299860Z",
+  "model": "glm-5.3"
+}

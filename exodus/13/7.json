@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Usyret brød skal spises ⟨de⟩ ⟨את⟩ syv dage, og surt skal ikke ses hos dig, og gær skal ikke ses hos dig inden for hele dit landsområde.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "usyret brød"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal spises"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de syv dage"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skal ses"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "surt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "skal ses"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "gær"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "inden for hele"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "dit landsområde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:35.093159535Z",
+  "model": "glm-5.3"
+}

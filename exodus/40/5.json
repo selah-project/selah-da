@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal sætte ⟨את⟩ guldligealteret til røgelse foran vidnesbyrdens ark, og du skal sætte ⟨את⟩ forhænget ved indgangen til Mishkan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guldligealteret"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "til røgelse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vidnesbyrdets"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forhænget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhænget"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "indgangens"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "til Mishkan"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:32.478086570Z",
+  "model": "glm-5.3"
+}

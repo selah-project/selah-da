@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og den salvede præst skal tage af tyrens blod og bringe ⟨det⟩ ind i mødeteltet.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "og skal tage"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "den salvede"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "af blodet"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyrens"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "og bringe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "blodet (af tyrens blod)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mødet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:40.159091712Z",
+  "model": "glm-5.3"
+}

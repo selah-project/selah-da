@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og overdruiden huskede ikke ⟨את⟩ Josef, men glemte ham.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "huskede"
+    },
+    {
+      "surface": "שר",
+      "gloss": "overdruiden"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "drikkerne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "men glemte ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:05.515129529Z",
+  "model": "glm-5.3"
+}

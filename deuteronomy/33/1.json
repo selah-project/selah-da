@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og denne er velsignelsen, som Moshe, Elohims mand, velsignede ⟨את⟩ Jisraels børn med, før sin død.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "og denne"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "velsignelsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsignede"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels børn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "før"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sin død"
+    }
+  ],
+  "timestamp": "2026-10-03T15:34:29.820118096Z",
+  "model": "glm-5.3"
+}

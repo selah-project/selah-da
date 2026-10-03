@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og jeres sæd og jeres vingårde vil han tiende og give til sine embedsmænd og til sine trælle.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "jeres sæd"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "jeres vingårde"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "vil han tiende"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og give"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "til sine embedsmænd"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "og til sine trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:36.185166143Z",
+  "model": "glm-5.3"
+}

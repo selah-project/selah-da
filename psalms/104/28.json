@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 104,
+  "translation": "Du giver dem ⟨mad⟩, de samler ⟨den⟩; du åbner din hånd, de mættes med godt.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "du giver"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "samler"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "du åbner"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "mættes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "med godt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.236118941Z",
+  "model": "glm-5.3"
+}

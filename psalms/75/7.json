@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 75,
+  "translation": "Thi ophøjelse kommer ikke fra øst og ikke fra vest, og ikke fra bjergenes ørken",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "fra øst"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "og fra vest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "fra ørken"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergenes"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:53.701335554Z",
+  "model": "glm-5.3"
+}

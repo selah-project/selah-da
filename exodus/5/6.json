@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Paroh bød samme dag ⟨את⟩ fogederne over folket og ⟨את⟩ dets arbejdsformænd og sagde:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Og … bød"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på dagen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "samme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fogederne"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "fogederne"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "over folket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets arbejdsformænd"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "dets arbejdsformænd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:34:07.263376319Z",
+  "model": "glm-5.3"
+}

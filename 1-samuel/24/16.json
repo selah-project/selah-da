@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Jahve være dommer og dømme mellem mig og dig, og se og føre min sag ⟨את⟩ og fri mig fra din hånd.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og være"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "til dommer"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "og dømme"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mellem mig"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og dig"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og se"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "og føre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min sag"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "min sag"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "og fri mig"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "fra din hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:39.180170473Z",
+  "model": "glm-5.3"
+}

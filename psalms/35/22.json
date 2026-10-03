@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Du har set ⟨ det ⟩, Jahve; hold ikke ⟨ din mund ⟩, Adonaj, vær ikke fjern fra mig!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "du har set"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hold (ikke) tavshed"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vær fjern"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:33.347396242Z",
+  "model": "glm-5.3"
+}

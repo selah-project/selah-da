@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Og kongen Tsidkijah sagde: Se, han er i jeres hånd, for kongen formår intet imod ⟨את⟩ jer i noget ⟨דבר⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "i jeres hånd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "formår"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer i noget דבר"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ting"
+    }
+  ],
+  "timestamp": "2026-10-03T17:24:07.909218947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Men I, som forlader Jahve, som glemmer mit hellige ⟨את⟩ bjerg, som dækker bord for Gad og fylder blandet vin for Meni —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "men I"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "som forlader"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "som glemmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit hellige bjerg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mit hellige"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "som dækker"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "for Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "bord"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "og som fylder"
+    },
+    {
+      "surface": "למני",
+      "gloss": "for Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "blandet vin"
+    }
+  ],
+  "timestamp": "2026-10-03T17:08:12.859527488Z",
+  "model": "glm-5.3"
+}

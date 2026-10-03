@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg hadede ⟨את⟩ livet, for det var ondt for mig, det værk som gøres under solen, for alt er tomhed og kval ved ruach.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "og jeg hadede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "livet"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "livet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "det værk"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "som gøres"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tomhed"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "og kval"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ved ruach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:51.932524252Z",
+  "model": "glm-5.3"
+}

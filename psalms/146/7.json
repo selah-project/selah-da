@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "som gør ret for de undertrykte, som giver brød til de sultne; Jahve løser de bundne.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "som gør"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ret"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "for de undertrykte"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "som giver"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "til de sultne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "løser"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "de bundne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:19.996038443Z",
+  "model": "glm-5.3"
+}

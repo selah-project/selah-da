@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "I syv dage skal de skaffe soning for ⟨את⟩ alteret og rense ⟨את⟩ det, og de skal fylde dets hånd.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "skal de skaffe soning for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alteret"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "og rense"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "og de skal fylde"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "dets hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:47:12.831694224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 141,
+  "translation": "En mizmor af David. Jahve, jeg har kaldt på dig, skynd dig til mig, lyt til min røst, når jeg råber til dig.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "En mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jeg har kaldt på dig"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynd dig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "til min røst"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "når jeg råber"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:10.387573216Z",
+  "model": "glm-5.3"
+}

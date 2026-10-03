@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke søge deres fred og deres gavn, alle dine dage, for evigt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "Du må søge"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "deres fred"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "og deres gavn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dine dage"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:17.444830742Z",
+  "model": "glm-5.3"
+}

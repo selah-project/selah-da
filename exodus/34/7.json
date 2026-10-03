@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 34:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "som bevarer chesed for tusinder, som bærer på synd og overtrædelse og skyld, men som slet ikke lader ⟨den skyldige⟩ ustraffet, som hjemsøger fædrenes skyld på børn og børnebørn, på tredje og fjerde led.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bevarer"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "for tusinder"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bærer"
+    },
+    {
+      "surface": "עון",
+      "gloss": "på synd"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "og overtrædelse"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "og skyld"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "men lader ustraffet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "slet ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "lader gå fri"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "hjemsøger"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "fædrenes"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn af"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børn"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredje led"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og på"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "fjerde led"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:27.973481511Z",
+  "model": "glm-5.3"
+}

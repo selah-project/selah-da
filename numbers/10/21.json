@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og kehatitterne brød op, ⟨de⟩ som bar helligdommen, og ⟨de andre⟩ rejste ⟨את⟩ Mishkanet, indtil de kom frem.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "og brød op"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "kehatitterne"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bærerne af"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "helligdommen"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "og de rejste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanet"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "באם",
+      "gloss": "de kom frem"
+    }
+  ],
+  "timestamp": "2026-10-03T15:07:01.002130958Z",
+  "model": "glm-5.3"
+}

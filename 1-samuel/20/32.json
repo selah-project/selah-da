@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jonatan svarede ⟨את⟩ Shaul, sin far, og sagde til ham: Hvorfor skal han dræbes? Hvad har han gjort?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svarede"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ויאאםר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal han dræbes"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "har han gjort"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:10.115332214Z",
+  "model": "glm-5.3"
+}

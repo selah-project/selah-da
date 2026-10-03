@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og filisterne blev bange, for de sagde: Elohim ⟨er⟩ kommet ind i lejren. Og de sagde: Ve os! For sådan har det ikke været i går og før i går.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Og blev bange"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de sagde"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "har … været"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "i går"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "før i går"
+    }
+  ],
+  "timestamp": "2026-10-03T15:58:20.844152293Z",
+  "model": "glm-5.3"
+}

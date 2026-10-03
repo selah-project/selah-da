@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Døren drejer sig på sit hængsel, og den dovene ⟨drejer sig⟩ på sin seng.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "døren"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "drejer sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "sit hængsel"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "og den dovene"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sin seng"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:50.739665262Z",
+  "model": "glm-5.3"
+}

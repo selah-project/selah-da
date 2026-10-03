@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de vækkede vrede ved Meribas vand, og det gik Moshe ilde for deres skyld.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "vækkede vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מי",
+      "gloss": "...s vand"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "og det gik ilde"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "for deres skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:38.547315490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "De sætter deres mund i himlene, og deres tunge vandrer på jorden.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "sætter"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "i himlene"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "deres mund"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "og deres tunge"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "vandrer"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:00.439576380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 19:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og det skete, da de førte dem ud ⟨את dem⟩ udenfor, sagde ⟨han⟩: Flygt for dit liv! Se dig ikke tilbage, og stå ikke i hele ⟨sletten⟩; til bjerget — flygt, for at du ikke skal blive fejret bort!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כהוציאם",
+      "gloss": "da de førte ud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את dem⟩",
+      "marks": "dem (Lot og hans familie)"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "udenfor"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "flygt"
+    },
+    {
+      "surface": "על",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dit liv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "se"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "tilbage"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sletten"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "til bjerget"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "flygt"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "blevet fejret bort"
+    }
+  ],
+  "timestamp": "2026-10-03T14:17:55.368728280Z",
+  "model": "glm-5.3"
+}

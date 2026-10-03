@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og Paroh sagde til Yosef: Jeg er Paroh, og uden dig skal ingen mand løfte ⟨את⟩ sin hånd og ⟨את⟩ sin fod i hele landet Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "er Paroh"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "og uden dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "skal løfte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nogen mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hånd"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sin fod"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "sin fod"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:35.015320613Z",
+  "model": "glm-5.3"
+}

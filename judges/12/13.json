@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og efter ham dømte ⟨את⟩ Jisrael: Avdon, søn af Hillel, Piratonitten.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "og dømte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn af"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratonitten"
+    }
+  ],
+  "timestamp": "2026-10-03T15:51:38.317425047Z",
+  "model": "glm-5.3"
+}

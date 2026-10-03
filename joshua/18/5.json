@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og de skal dele ⟨את⟩ den i syv dele; Yehuda skal stå på sin grænse mod syd, og Yosefs hus skal stå på deres grænse mod nord.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "Og de skal dele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "den (landet)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "i syv"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "dele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "skal stå"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "sin grænse"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "mod syd"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og hus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefs"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "skal stå"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "deres grænse"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "mod nord"
+    }
+  ],
+  "timestamp": "2026-10-03T15:43:33.729502282Z",
+  "model": "glm-5.3"
+}

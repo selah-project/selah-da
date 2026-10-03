@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Syng lovsang for Elohim, syng lovsang; syng lovsang for vor konge, syng lovsang!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "syng lovsang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "for Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "syng lovsang"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "syng lovsang"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "for vor konge"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "syng lovsang"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:09.346033856Z",
+  "model": "glm-5.3"
+}

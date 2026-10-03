@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og Zimri kom ind og slog ham og dræbte ham i Asas, kongen af Jehudas, tyvende og syvende år, og han blev konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kom ind"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "slog ham"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "dræbte ham"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "i året"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyvende"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og syv"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "blev konge"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:07.934902147Z",
+  "model": "glm-5.3"
+}

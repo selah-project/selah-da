@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Værag den ulastelige, og se ⟨på⟩ den oprette; for der ⟨er⟩ en fremtid for den fredelige mand.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "værag"
+    },
+    {
+      "surface": "תם",
+      "gloss": "den ulastelige"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "den oprette"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "en fremtid"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "for manden"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:28.731436171Z",
+  "model": "glm-5.3"
+}

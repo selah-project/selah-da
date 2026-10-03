@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og han kom til Jerushalajim i den femte måned — det var kongens syvende år.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og ... kom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "i ... måned"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "den femte"
+    },
+    {
+      "surface": "היא",
+      "gloss": "det var"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "år"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "det syvende"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T19:03:35.299125151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og han drog ud og kæmpede mod filisterne og brød ⟨את⟩ muren i Gat og ⟨את⟩ muren i Javne og ⟨את⟩ muren i Ashdod; og han byggede byer i Ashdod og hos filisterne.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "og han drog ud"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og kæmpede"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mod filisterne"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "og brød"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muren i Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muren"
+    },
+    {
+      "surface": "גת",
+      "gloss": "i Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "muren i Javne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muren"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "i Javne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "muren i Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muren"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "i Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "og han byggede"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "i Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "og hos filisterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:25:29.653363793Z",
+  "model": "glm-5.3"
+}

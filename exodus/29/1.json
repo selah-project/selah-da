@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og dette er det, du skal gøre ved dem for at vie ⟨את⟩ dem til at tjene mig som præster: Tag én tyr, en unge af kvæget, og to væddere, uden lyde.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "er det"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "du skal gøre"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "for at vie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (Aharon og hans sønner)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til at tjene som præster"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "פר",
+      "gloss": "én tyr"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en unge"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "af kvæget"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "og to væddere"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "uden lyde"
+    }
+  ],
+  "timestamp": "2026-10-03T14:45:31.103294968Z",
+  "model": "glm-5.3"
+}

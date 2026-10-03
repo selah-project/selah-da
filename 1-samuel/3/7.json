@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Shemuel kendte endnu ikke ⟨את⟩ Jahve, og endnu var Jahves ord ikke åbenbaret for ham.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "og Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "endnu ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "og endnu ikke"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "var åbenbaret"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:51.937679847Z",
+  "model": "glm-5.3"
+}

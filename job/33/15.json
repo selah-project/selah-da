@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "I en drøm, i et nattesyn, når dyb søvn falder over mennesker, i slummer på ⟨deres⟩ leje —",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "i en drøm"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "syn"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "natte-"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "når ... falder"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "dyb søvn"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mennesker"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "i slummer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "på"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "leje"
+    }
+  ],
+  "timestamp": "2026-10-03T18:43:42.929868321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 139,
+  "translation": "Du kender ⟨mit⟩ at sidde og ⟨mit⟩ at stå op; du forstår min tanke ⟨allerede⟩ langt borte.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Du"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kender"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mit at sidde"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "og mit at stå op"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "du forstår"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "min tanke"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "langt borte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:09.430521189Z",
+  "model": "glm-5.3"
+}

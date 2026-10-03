@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Du stødte hårdt på mig, så jeg skulle falde, men Jahve hjalp mig.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "stødte hårdt"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "du stødte mig"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "så jeg skulle falde"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "men Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "hjalp mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:09.631267241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Giv ikke ⟨את⟩ din trælkvinde for en datter af Belial; thi af mangfoldigheden af min klage og min harme har jeg talt indtil nu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Giv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din trælkvinde"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din trælkvinde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "בת",
+      "gloss": "en datter"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "af Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "af mangfoldigheden"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "af min klage"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "og min harme"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "har jeg talt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nu"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:25.965137562Z",
+  "model": "glm-5.3"
+}

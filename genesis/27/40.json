@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og ved dit sværd skal du leve, og ⟨את⟩ din broder skal du tjene; og det skal ske, når du løsriver dig, at du kaster hans åg af fra din hals.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Og ved"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "dit sværd"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "skal du leve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din broder"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skal du tjene"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "når"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "du løsriver dig"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "at du kaster"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hans åg"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af fra"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "din hals"
+    }
+  ],
+  "timestamp": "2026-10-03T14:21:59.051994660Z",
+  "model": "glm-5.3"
+}

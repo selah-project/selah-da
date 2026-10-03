@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Og Tsion sagde: Jahve har forladt mig, og Adonaj har glemt mig.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "har forladt mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "og Adonaj"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "har glemt mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:02:35.925991128Z",
+  "model": "glm-5.3"
+}

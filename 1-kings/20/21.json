@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Jisraels konge gik ud og slog ⟨את⟩ hestene og ⟨את⟩ stridsvognene og ramte Aram med et stort slag.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gik ud"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hestene"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hestene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stridsvognene"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "stridsvognene"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "og ramte"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "stort"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:15.236260906Z",
+  "model": "glm-5.3"
+}

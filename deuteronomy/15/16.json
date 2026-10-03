@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og det skal ske, ⟨når⟩ han siger til dig: Jeg vil ikke gå ud fra dig — for han elsker dig og ⟨את⟩ dit hus, fordi det er godt for ham hos dig —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og det skal ske"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨når⟩"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "han siger"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "jeg vil gå ud"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "fra dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "han elsker dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dit hus"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:36.645664982Z",
+  "model": "glm-5.3"
+}

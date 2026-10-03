@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Men kongens ord blev stærkt over Joav, og Joav gik ud og gik gennem hele Jisrael og kom til Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "men kongens ord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "blev stærkt"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "og gik gennem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom til"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:15:52.820415491Z",
+  "model": "glm-5.3"
+}

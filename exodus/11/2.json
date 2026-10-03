@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Tal nu i folkets ører, og hver mand skal bede ⟨את⟩ sin nabo og hver kvinde ⟨את⟩ sin nabokvinde om sølvkar og guldkar.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Tal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i ørerne af"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkets"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "og de skal bede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin nabo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "og hver kvinde"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sin nabokvinde"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "og kar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:12.526862483Z",
+  "model": "glm-5.3"
+}

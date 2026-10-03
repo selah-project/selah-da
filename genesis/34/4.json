@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og Shekhem sagde til Khamor, sin far, således: Tag mig denne ⟨את⟩ pige til hustru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "således"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Tag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denne pige"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "denne pige"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "denne"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til hustru"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:57.505618553Z",
+  "model": "glm-5.3"
+}

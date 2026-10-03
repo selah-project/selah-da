@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hans hærskare, og de opregnede af dem: tre og halvtreds tusinde og fire hundrede.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Og hans hærskare"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "og de opregnede af dem"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tre"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "og halvtreds"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "og fire"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    }
+  ],
+  "timestamp": "2026-10-03T15:03:35.948618089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og han kom til Shomeron og slog ⟨את⟩ alle de tilbageværende af Achavs ⟨hus⟩ i Shomeron, indtil han udryddede ⟨dem⟩, efter det ord, som Jahve havde talt til Eliahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og han kom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "til Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og slog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle de tilbageværende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "de tilbageværende"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "af Achav"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "i Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "han udryddede ham"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efter det ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "havde talt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    }
+  ],
+  "timestamp": "2026-10-03T16:38:46.934070757Z",
+  "model": "glm-5.3"
+}

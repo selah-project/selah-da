@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og folket sagde til Yehoshua: ⟨את⟩ Jahve, vor Elohim, vil vi tjene, og hans røst vil vi lyde.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, vor Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "vil vi tjene"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "og hans røst"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "vil vi lyde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:46:12.405558370Z",
+  "model": "glm-5.3"
+}

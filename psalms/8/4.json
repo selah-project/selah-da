@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Når jeg ser dine himlene, dine fingres værk, månen og stjernerne, som du har grundfæstet —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "jeg ser"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "dine himlene"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "værk"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "dine fingres"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "og stjernerne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "du har grundfæstet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:03.469745429Z",
+  "model": "glm-5.3"
+}

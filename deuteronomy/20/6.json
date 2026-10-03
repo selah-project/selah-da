@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og hvem er manden, som har plantet en vingård og ikke har høstet dens frugter ⟨דִּילֵּנוּ⟩? Han skal gå og vende tilbage til sit hus, for at han ikke skal dø i krigen, og en anden mand høste dens frugter.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Og hvem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "er manden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "har plantet"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "en vingård"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "har høstet dens frugter ⟨חילל⟩"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Han skal gå"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og vende tilbage"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "til sit hus"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "i krigen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og en anden mand"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "en anden"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "skal høste dens frugter ⟨חילל⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:11.386037981Z",
+  "model": "glm-5.3"
+}

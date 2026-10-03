@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Den rasha ser ⟨det⟩ og bliver vred; han skærer tænder, og smelter hen; de rzhas lgænge — de gudløses begær går til grunde.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "den rasha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ser ⟨det⟩"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "og bliver vred"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "hans tænder"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "skærer"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "og smelter hen"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "begæret"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløses"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "går til grunde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:03.505030748Z",
+  "model": "glm-5.3"
+}

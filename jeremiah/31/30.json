@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 31,
+  "translation": " Nej, hver mand skal dø for sin egen skyld; hver menneske der spiser de sure druer, hans egne tænder skal blive ømme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": " nej"
+    },
+    {
+      "surface": "אם",
+      "gloss": "… (forening med כי: 'men')"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "for sin egen skyld"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal dø"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "der spiser"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "de sure druer"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "skal blive ømme"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "hans egne tænder"
+    }
+  ],
+  "timestamp": "2026-10-03T17:20:35.521840017Z",
+  "model": "glm-5.3"
+}

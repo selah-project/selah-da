@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "For sin far og sin mor, for sin broder og sin søster må han ikke gøre sig uren ved deres død — for hans Elohims vietegn er på hans hoved.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "for sin far"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "og sin mor"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "for sin broder"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "og sin søster"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "må han gøre sig uren"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "ved deres død"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "vietegnet"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hans Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans hoved"
+    }
+  ],
+  "timestamp": "2026-10-03T15:05:28.153612195Z",
+  "model": "glm-5.3"
+}

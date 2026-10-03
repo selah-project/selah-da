@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og Jahve var ⟨את⟩ med Jehosjua, og hans rygte lød i hele landet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og… var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ med",
+      "marks": "Jehosjua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og… lød"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hans rygte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "i hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T15:38:25.053883101Z",
+  "model": "glm-5.3"
+}

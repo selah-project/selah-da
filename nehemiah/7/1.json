@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 7:1",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og det skete, da muren var bygget, og jeg havde sat dørene op, blev portnerne og sangerne og levitterne indsat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "var bygget"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muren"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "og jeg havde sat op"
+    },
+    {
+      "surface": "הדלתות",
+      "gloss": "dørene"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "blev indsat"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "portnerne"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "og sangerne"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og levitterne"
+    }
+  ],
+  "timestamp": "2026-10-03T19:06:40.664764729Z",
+  "model": "glm-5.3"
+}

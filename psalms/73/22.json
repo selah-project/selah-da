@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 73,
+  "translation": "Og jeg var uforstandig og uden kundskab; jeg var som kvæg hos dig.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "בער",
+      "gloss": "var uforstandig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og uden"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kundskab"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "som kvæg"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jeg var"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hos dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:16:21.092750155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 102,
+  "translation": "Men du, Jahve, troner til evig tid, og dit minde slægt efter slægt.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "troner"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "dit minde"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "efter slægt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:20.144391971Z",
+  "model": "glm-5.3"
+}

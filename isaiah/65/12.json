@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "og jeg vil tælle jer til sværdet, og I skal alle bøje jer ned til slagtning, fordi jeg kaldte, og I ikke svarede, jeg talte, og I ikke hørte, men I gjorde det onde i mine øjne og valgte det, jeg ikke havde behag i.",
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "og jeg vil tælle"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer",
+      "marks": "jer (til sværdet)"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "til sværdet"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "og I alle"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "til slagtning"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "skal I bøje jer ned"
+    },
+    {
+      "surface": "יען",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jeg kaldte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "svarede I"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jeg talte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "hørte I"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "men I gjorde"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i mine øjne"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "og det som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jeg havde behag i"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "valgte I"
+    }
+  ],
+  "timestamp": "2026-10-03T17:08:12.859754142Z",
+  "model": "glm-5.3"
+}

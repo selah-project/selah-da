@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Den flittiges planer fører kun til overskud, men alle hastige kun til mangel.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "planer"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "den flittiges"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "til overskud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "men alle"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "hastiges"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "til mangel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:33:15.490697168Z",
+  "model": "glm-5.3"
+}

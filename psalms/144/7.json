@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 144,
+  "translation": "Ræk dine hænder ud fra det høje, fri mig og frels mig fra store vande, fra fremmede børns hånd.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ræk ud"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "dine hænder"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "fra det høje"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "fri mig"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "og frels mig"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "fra vande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "store"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børn"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremmede"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:48.928585603Z",
+  "model": "glm-5.3"
+}

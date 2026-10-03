@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Arm er jeg og døende fra min ungdom; jeg har båret dine rædsler, jeg forgås.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er jeg"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "og døende"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "fra ungdommen"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "har båret jeg"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "dine rædsler"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "forgås"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:20.792155768Z",
+  "model": "glm-5.3"
+}

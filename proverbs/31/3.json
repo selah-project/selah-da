@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Giv ikke din styrke til kvinder, ej heller dine veje til ⟨det som⟩ udrydder konger.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "til kvinder"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "din styrke"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ej heller dine veje"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "til at udrydde"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "konger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:23.733881343Z",
+  "model": "glm-5.3"
+}

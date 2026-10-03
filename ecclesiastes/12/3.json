@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "på den dag da husets vogtere skælver, og de stærke mænd bøjer sig, og kværnene holder op, for de er blevet få, og de der ser ud af vinduerne, mørkner,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "når … skælver"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vogtere"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "og bøjer sig"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "de stærke"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "og holder op"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "kværnene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "de er blevet få"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "og mørkner"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "de der ser"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ud af vinduerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:52.626763877Z",
+  "model": "glm-5.3"
+}

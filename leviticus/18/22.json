@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og ⟨את⟩ en mand skal du ikke ligge hos som man ligger hos en kvinde; en vederstyggelighed er det.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "en mand"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "en mand (hankøn)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "skal du ligge"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "som man ligger hos"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinde"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "en vederstyggelighed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er det"
+    }
+  ],
+  "timestamp": "2026-10-03T14:56:36.066083648Z",
+  "model": "glm-5.3"
+}

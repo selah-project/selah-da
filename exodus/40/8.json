@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og du skal sætte ⟨את⟩ forgården rundt om, og du skal sætte ⟨את⟩ forhænget ved forgårdens port.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forgården"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "og du skal sætte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forhænget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhænget"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portens"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgårdens"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:32.478698498Z",
+  "model": "glm-5.3"
+}

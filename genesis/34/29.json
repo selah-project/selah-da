@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Og ⟨את⟩ hele deres formue og ⟨את⟩ alle deres småbørn og ⟨את⟩ deres hustruer førte de bort som fanger, og de røvede ⟨את⟩ alt, hvad der var i huset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele deres formue"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "deres formue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle deres småbørn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "deres småbørn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres hustruer"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "deres hustruer"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "førte de bort som fanger"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "og de røvede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt, hvad der var i huset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:02.226815719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "tredive guldkummer, kummer af sølv af anden slags fire hundrede og ti, andre kar tusind",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "kummer"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld-"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kummer"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "af anden slags"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "og ti"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusind"
+    }
+  ],
+  "timestamp": "2026-10-03T19:01:29.656355850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og Kenan levede halvfjerds år og avlede ⟨את⟩ Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "levede"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "halvfjerds"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:26.483168081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og kongen af Jisrael svarede og sagde: Sig: Lad ikke den, der spænder ⟨את⟩ rustningen på, rose sig som den, der spænger den af.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og … svarede"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "rose sig"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "den, der spænder rustningen på"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "som den, der spænger den af"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:59.168635256Z",
+  "model": "glm-5.3"
+}

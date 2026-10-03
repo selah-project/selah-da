@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 84,
+  "translation": "De, som går gennem Bakas dal, gør den til en kilde; også velsignelser klæder den, tidligregn.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "De, som går gennem"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "dal"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Bakas"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "kilde"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "gør den"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "velsignelser"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "klæder"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "tidligregn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:29.444691859Z",
+  "model": "glm-5.3"
+}

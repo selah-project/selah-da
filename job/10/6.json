@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "fordi du søger efter min skyld og gransker min synd?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "du søger"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "efter min skyld"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "og min synd"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "gransker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:38:48.683473985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 23:20",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og han tog ⟨את⟩ høvdingerne over hundrederne og ⟨את⟩ de fornemme og ⟨את⟩ herskerne over folket og ⟨את⟩ hele landets folk, og han førte kongen ned fra Jahves hus, og de gik ind gennem den øvre port til kongens hus og satte kongen på kongerigets trone.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "og han tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "høvdingerne over hundrederne"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "høvdingerne over"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "hundrederne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de fornemme"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "de fornemme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "herskerne over folket"
+    },
+    {
+      "surface": "המושלים",
+      "gloss": "herskerne"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "over folket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hele landets folk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landets"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "og han førte ned"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "fra hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og de gik ind"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gennem"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "den øvre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "ויושיבו",
+      "gloss": "og satte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trone"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kongerigets"
+    }
+  ],
+  "timestamp": "2026-10-03T19:24:35.694927773Z",
+  "model": "glm-5.3"
+}

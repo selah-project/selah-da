@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "På den dag skal klagen blive stor i Jerushalajim, som klagen over Hadad-Rimmon i Megiddons dal.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "På ⟨den⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "skal blive stor"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "klagen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "som klagen"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimmon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "Megiddons"
+    }
+  ],
+  "timestamp": "2026-10-03T18:02:47.625943636Z",
+  "model": "glm-5.3"
+}

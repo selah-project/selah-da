@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Moshe kaldte på alle de ældste i Jisrael og sagde til dem: Træk ud og tag jer en hjord til jeres familier, og slagt pesachen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "på alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "Træk ud"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "og tag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jer"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "en hjord"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "til jeres familier"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "og slagt"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachen"
+    }
+  ],
+  "timestamp": "2026-10-03T14:37:05.994972672Z",
+  "model": "glm-5.3"
+}

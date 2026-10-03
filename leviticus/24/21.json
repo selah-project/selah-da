@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og den, der slår et dyr ihjel, skal erstatte det; og den, der slår et menneske ihjel, skal selv dø.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Og den, der slår"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "et dyr ihjel"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "skal erstatte det"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "og den, der slår"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneske ihjel"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal selv dø"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:14.754863118Z",
+  "model": "glm-5.3"
+}

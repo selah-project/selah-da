@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Den som vogter et figentræ, spiser dets frugt, og den som vogter sin herre, bliver æret.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "den som vogter"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "et figentræ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spiser"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "dets frugt"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "og den som vogter"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "bliver æret"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:24.594402558Z",
+  "model": "glm-5.3"
+}

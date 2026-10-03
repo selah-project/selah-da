@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Mit hjerte blev varmt indeni i mig; mens jeg grublede, flammede ilden — da talte jeg med min tunge.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "blev varmt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "inden i mig"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "mens jeg grublede"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "flammede"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ilden"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "talte jeg"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "med min tunge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:59.026974488Z",
+  "model": "glm-5.3"
+}

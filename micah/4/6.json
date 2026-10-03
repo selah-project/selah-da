@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 4:6",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "På den dag, siger Jahve, vil jeg samle den halte, og den fordrevne vil jeg samle, og den jeg har gjort ondt mod.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "vil jeg samle"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "den halte"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "og den fordrevne"
+    },
+    {
+      "surface": "אקבצה",
+      "gloss": "vil jeg samle"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og den som"
+    },
+    {
+      "surface": "הרעתי",
+      "gloss": "jeg har gjort ondt mod"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:37.220449009Z",
+  "model": "glm-5.3"
+}

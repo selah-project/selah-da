@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og ⟨את⟩ tyren og ⟨את⟩ dens skind og ⟨את⟩ dens kød og ⟨את⟩ dens møg brændte han med ild uden for lejren, således som Jahve havde budt ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "tyren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens skind"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dens skind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens kød"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dens kød"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens møg"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "dens møg"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte han"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "havde budt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:01.738019104Z",
+  "model": "glm-5.3"
+}

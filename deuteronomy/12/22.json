@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Kun således som ⟨את⟩ gazellen og ⟨את⟩ hjorten spises, sådan må du spise det; den urene og den rene må spise det ligeledes.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "således som"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "spises"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazellen"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazellen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hjorten"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hjorten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "må du spise det"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "den urene"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "og den rene"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ligeledes"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "må spise det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:05.300820564Z",
+  "model": "glm-5.3"
+}

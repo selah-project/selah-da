@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Og han give dig ⟨את⟩ Avrahams velsignelse, dig og dit afkom ⟨את⟩ med dig, så du kommer til at arve ⟨את⟩ landet for dine gæsteophold, som Elohim gav Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og han give"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahams velsignelse"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "velsignelse"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "og dit afkom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ med dig"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "så du kommer til at arve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "for dine gæsteophold"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:43.048292596Z",
+  "model": "glm-5.3"
+}

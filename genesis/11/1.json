@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og det skete, at hele jorden havde én læbe og ord, der var én for alle.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "læbe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "én"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "og ord"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "én for alle"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:51.747868362Z",
+  "model": "glm-5.3"
+}

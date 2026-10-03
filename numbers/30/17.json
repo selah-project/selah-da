@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Dette er ⟨de⟩ chukkim, som Jahve bød Moshe ⟨את⟩: mellem en mand og hans hustru, mellem en far og hans datter, i hendes ungdom, i sin fars hus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dette"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "er chukkim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bød"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "og hans hustru"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mellem"
+    },
+    {
+      "surface": "אב",
+      "gloss": "en far"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "og hans datter"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "i hendes ungdom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "af sin far"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:55.503328642Z",
+  "model": "glm-5.3"
+}

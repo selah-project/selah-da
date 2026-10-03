@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 138,
+  "translation": "Og de skal synge om Jahves veje, for stor er Jahves herlighed.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "og de skal synge"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "om ... veje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stor"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:13.429745585Z",
+  "model": "glm-5.3"
+}

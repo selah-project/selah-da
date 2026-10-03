@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 92,
+  "translation": "Plantet i Jahves hus, i vor Elohimsgårde skal de blomstre.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "plantet"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "i gårde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "vor Elohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "skal de blomstre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:14.433296602Z",
+  "model": "glm-5.3"
+}

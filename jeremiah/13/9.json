@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Således siger Jahve: På samme måde vil jeg ødelægge ⟨את⟩ Judas hovmod og ⟨את⟩ Jerushalajims store hovmod.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "På samme måde"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "vil jeg ødelægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judahs hovmod"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "hovmod"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajims store hovmod"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "hovmod"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "store"
+    }
+  ],
+  "timestamp": "2026-10-03T17:15:01.961293840Z",
+  "model": "glm-5.3"
+}

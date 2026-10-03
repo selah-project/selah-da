@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Hør mig, I der forfølger tsedek, I der søger Jahve! Se til klippen, I er hugget fra den, og til hullet i gruben, I er gravet fra den.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hør"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "I der forfølger"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "I der søger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "Se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "I er hugget"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "hullet i gruben"
+    },
+    {
+      "surface": "בור",
+      "gloss": "gruben"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "I er gravet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:05:24.215141666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Min sjæl giver han liv igen, han leder mig på tsedeks stier for sit navns skyld.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "giver han liv igen"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "leder han mig"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "på stier"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for skyld"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sit navns"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:42.218380827Z",
+  "model": "glm-5.3"
+}

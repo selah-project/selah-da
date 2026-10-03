@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og alt folket så ⟨את⟩ skyens støtte stå ved indgangen til teltet, og alt folket rejste sig og bøjede sig ned, hver mand ved indgangen til sit telt.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "og så"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skyens støtte"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "støtten"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skyens"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "til teltet"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "og rejste sig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "og bøjede sig ned"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ved indgangen"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "til sit telt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:47:45.416065181Z",
+  "model": "glm-5.3"
+}

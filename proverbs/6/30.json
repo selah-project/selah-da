@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Man agter ikke tyven ringe, når han stjæler for at mætte sin sjæl, når han er sulten.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "agter ringe"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "tyven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "stjæler"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "for at mætte"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin sjæl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "er sulten"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:13.461723669Z",
+  "model": "glm-5.3"
+}

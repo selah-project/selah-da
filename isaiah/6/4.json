@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og tærsklens dørstolper rystede ved røsten af ham, der råbte, og huset blev fyldt med røg.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "og … rystede"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dørstolper"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "tærsklens"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ved røsten af"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "ham, der råbte"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "og huset"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "blev fyldt"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "med røg"
+    }
+  ],
+  "timestamp": "2026-10-03T16:49:55.492143924Z",
+  "model": "glm-5.3"
+}

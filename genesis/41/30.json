@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og efter dem vil syv hungerår stå frem, og al mætheden i landet Mitsrajim vil blive glemt, og hungersnøden vil fortære ⟨את⟩ landet.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "vil stå frem"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שני",
+      "gloss": "år"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hunger"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "efter dem"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "vil blive glemt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "mætheden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "vil fortære"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungersnøden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:02.972693139Z",
+  "model": "glm-5.3"
+}

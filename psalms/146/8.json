@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 146,
+  "translation": "Jahve åbner de blindes ⟨øjne⟩; Jahve rejer de bøjede op; Jahve elsker de retfærdige.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "åbner"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "de blindes ⟨øjne⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "rejer op"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "de bøjede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdige"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:19.996162700Z",
+  "model": "glm-5.3"
+}

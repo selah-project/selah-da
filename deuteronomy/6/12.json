@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Vogt dig på, at du ikke glemmer ⟨את⟩ Jahve, som førte dig ud af landet Mitsrajim, af trællehuset.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Vogt dig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "på, at du"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "glemmer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "førte dig ud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "af landet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "af trællehuset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "trælle"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:07.935575946Z",
+  "model": "glm-5.3"
+}

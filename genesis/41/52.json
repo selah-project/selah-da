@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 41,
+  "translation": "Og ⟨את⟩ den andens navn kaldte han Efrayim, for Elohim har gjort mig frugtbar i min elendigheds land.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "den andens navn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "har gjort mig frugtbar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "min elendighed"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:25.475357111Z",
+  "model": "glm-5.3"
+}

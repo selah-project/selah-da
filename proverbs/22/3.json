@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Den kloge ser ulykken og skjuler sig, men de enfoldige går videre og bliver straffet.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "den kloge"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ulykken"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "og skjuler sig"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "men de enfoldige"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "går videre"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "og bliver straffet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:03.051534199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og nu — hvad har du under din hånd? Giv fem brød i min hånd, eller det der findes!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יש",
+      "gloss": "har du"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "giv"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i min hånd"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "det der findes"
+    }
+  ],
+  "timestamp": "2026-10-03T16:05:33.566517852Z",
+  "model": "glm-5.3"
+}

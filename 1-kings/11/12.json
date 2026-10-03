@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Dog vil jeg ikke gøre det i dine dage, for din fader Davids skyld; af din søns hånd vil jeg søndre det.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "i dine dage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "vil jeg gøre det"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fader"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hånd"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "din søns"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "vil jeg søndre det"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:02.585487104Z",
+  "model": "glm-5.3"
+}

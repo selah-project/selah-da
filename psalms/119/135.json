@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Lad dit ansigt skinne over din tjener, og lær mig ⟨את⟩ dine vedtægter.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    },
+    {
+      "surface": "האר",
+      "gloss": "lad skinne"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "over din tjener"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "og lær mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dine vedtægter"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "dine vedtægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:32.112144047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og kongen gav ⟨את⟩ sølvet og ⟨את⟩ guldet i Jerushalajim som sten, og ⟨את⟩ cederne gav han som sykomorerne, der er i lavlandet, i mængde.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sølvet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sølvet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "guldet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "guldet"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "som sten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cederne"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cederne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "som sykomorerne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "i lavlandet"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "i mængde"
+    }
+  ],
+  "timestamp": "2026-10-03T19:18:24.560403737Z",
+  "model": "glm-5.3"
+}

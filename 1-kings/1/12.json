@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og nu, gå og lad mig give dig råd, jeg beder dig, et råd, så du kan redde ⟨את⟩ dit liv og ⟨את⟩ livet af din søn Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "lad mig give dig råd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jeg beder dig"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "et råd"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "så du kan redde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit liv"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dit liv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "livet af din søn Shelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "livet"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "af din søn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:05.540312943Z",
+  "model": "glm-5.3"
+}

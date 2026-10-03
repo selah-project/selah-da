@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Thi sin sjæl velsigner han, så længe han lever; ⟨og⟩ de lover dig, når du gør godt mod dig selv.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sin sjæl"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "så længe han lever"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsigner han"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "⟨og⟩ de lover dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "gør godt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mod dig selv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:58.441636636Z",
+  "model": "glm-5.3"
+}

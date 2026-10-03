@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "skal de ikke se ⟨את⟩ landet, som jeg svor deres fædre — og alle, der ringeagter mig, skal ikke se det —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "om"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "de ser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jeg svor"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "deres fædre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "der ringeagter mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "skal se det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:09:35.109489101Z",
+  "model": "glm-5.3"
+}

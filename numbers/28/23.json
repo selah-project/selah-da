@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Ud over morgenbrændofferet, som ⟨er⟩ det stadige brændoffer, skal I gøre ⟨את⟩ disse.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ud over"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brændofferet"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgen-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "til brændofferet"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "det stadige"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skal I gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse"
+    }
+  ],
+  "timestamp": "2026-10-03T15:15:08.985917632Z",
+  "model": "glm-5.3"
+}

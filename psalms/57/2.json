@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 57,
+  "translation": "Vær mig nådig, Elohim, vær mig nådig, for hos dig har min sjæl søgt ly; i skyggen af dine vinger vil jeg søge ly, til ulykkerne er gået over.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Vær mig nådig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "vær mig nådig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hos dig"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "har søgt ly"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "i skyggen"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "af dine vinger"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "vil jeg søge ly"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "er gået over"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ulykkerne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:54.257052815Z",
+  "model": "glm-5.3"
+}

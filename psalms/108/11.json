@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 108,
+  "translation": "Hvem fører mig ind i den befæstede by? Hvem vejleder mig helt til Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "fører mig ind"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "befæstede"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hvem"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "vejleder mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:18.937780322Z",
+  "model": "glm-5.3"
+}

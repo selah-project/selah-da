@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og ⟨את⟩ det store hus beklædte han med cyprestræ, og han overtrak det med godt guld, og han frembragte på det palmetræer og kæder.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "det store hus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "store"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "beklædte"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cyprestræ"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "og han overtrak det"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "godt"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og han frembragte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmetræer"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "og kæder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:19:54.291471327Z",
+  "model": "glm-5.3"
+}

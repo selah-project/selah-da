@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Til dig, Jahve, råber jeg, og til Adonaj beder jeg om nåde.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "råber jeg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "beder jeg om nåde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:19.145941770Z",
+  "model": "glm-5.3"
+}

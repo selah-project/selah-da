@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Og det skete, da de havde spist ⟨את⟩ kornet, som de havde bragt fra Mitsrajim, sagde deres far til dem: Vend tilbage, køb os lidt mad.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "da"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "de havde spist"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "at spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kornet"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "kornet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "de havde bragt"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "fra Mitsrajim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagde"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deres far"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Vend tilbage"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "køb"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lidt"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mad"
+    }
+  ],
+  "timestamp": "2026-10-03T14:29:04.980046303Z",
+  "model": "glm-5.3"
+}

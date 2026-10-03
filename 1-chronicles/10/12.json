@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "da stod alle tapre mænd op og bar ⟨את⟩ Shauls lig og ⟨את⟩ ligene af hans sønner og bragte dem til Javesh og begravede deres knogler under terebinten i Javesh og fastede i syv dage.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "da stod de op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tapre"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "og bar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauls lig"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "lig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauls"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ligene af hans sønner"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "ligene"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "af hans sønner"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "og bragte dem"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "til Javesh"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og begravede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres knogler"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "deres knogler"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "under"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "terebinten"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "i Javesh"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "og fastede"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "i syv"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T19:13:26.051646458Z",
+  "model": "glm-5.3"
+}

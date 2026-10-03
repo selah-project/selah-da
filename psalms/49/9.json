@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 49,
+  "translation": "Og dyr ⟨er⟩ løsesummen for deres sjæl, og den opgives for evigt —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Og dyr ⟨er⟩"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "løsesummen"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "for deres sjæl"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "og den opgives"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:51.198141420Z",
+  "model": "glm-5.3"
+}

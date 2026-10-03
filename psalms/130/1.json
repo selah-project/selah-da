@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 130,
+  "translation": "En sang ved opstigningerne. Fra dybet råbte jeg til dig, Jahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ved opstigningerne"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "fra dybet"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "råbte jeg til dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:52.012752433Z",
+  "model": "glm-5.3"
+}

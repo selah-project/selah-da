@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "og han går bort og tjener andre guder og tilbeder dem, og solen, eller månen, eller hele himlens hærskare, som jeg ikke har påbudt —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og han går bort"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "og tjener"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og tilbeder"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "og solen"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "månen"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "eller hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hærskare"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "har jeg påbudt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:29:13.452940725Z",
+  "model": "glm-5.3"
+}

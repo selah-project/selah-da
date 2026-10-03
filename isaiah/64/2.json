@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "Da du gjorde frygtelige ting, vi ikke ventede, steg du ned; for dit åsyn smeltede bjergene.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "da du gjorde"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "frygtelige ting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "ventede"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "steg du ned"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "for dit åsyn"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "smeltede"
+    }
+  ],
+  "timestamp": "2026-10-03T19:39:12.587092716Z",
+  "model": "glm-5.3"
+}

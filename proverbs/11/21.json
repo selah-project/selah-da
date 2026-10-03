@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Hånd til hånd — den onde skal ikke gå fri, og de retfærdiges sæd skal undslippe.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "til hånd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "skal gå fri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "den onde"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "og sæd"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "de retfærdiges"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "skal undslippe"
+    }
+  ],
+  "timestamp": "2026-10-03T18:30:55.528049530Z",
+  "model": "glm-5.3"
+}

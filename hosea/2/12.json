@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og nu vil jeg blotlægge ⟨את⟩ hendes skam for øjnene af hendes elskere, og ingen mand skal fri hende ud af min hånd.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "vil jeg blotlægge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes skam"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "hendes skam"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "for øjnene af"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "hendes elskere"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og ingen mand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "skal fri hende"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ud af min hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:49:30.021488586Z",
+  "model": "glm-5.3"
+}

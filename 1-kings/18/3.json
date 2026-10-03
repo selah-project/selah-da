@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og Akhav kaldte på Ovadja, som ⟨var⟩ over huset; og Ovadja frygtede ⟨את⟩ Jahve højt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kaldte"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "og Ovadja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "frygtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "højt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:12.968750126Z",
+  "model": "glm-5.3"
+}

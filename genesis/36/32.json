@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og Bela, Beors søn, blev konge i Edom, og navnet på hans by var Dinhaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Og … blev konge"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "i Edom"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beors"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og navnet"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "på hans by"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:18.985178523Z",
+  "model": "glm-5.3"
+}

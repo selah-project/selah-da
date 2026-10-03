@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Sky og tæt mulm ⟨er⟩ omkring ham; tsedek og ret ⟨er⟩ hans trones grundvold.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "sky"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "og tæt mulm"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "omkring ham"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og ret"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "grundvold"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hans trones"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:43.514642059Z",
+  "model": "glm-5.3"
+}

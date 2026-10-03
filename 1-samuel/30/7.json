@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og David sagde til præsten Evjatar, søn af Achimelek: Bring mig nu efoden hid. Og Evjatar bragte ⟨את⟩ efoden til David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "af Achimelek"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Bring … hid"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "Og … bragte"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efoden"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efoden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T16:08:27.610797502Z",
+  "model": "glm-5.3"
+}

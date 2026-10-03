@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Din medfølelse er stor, Jahve, efter dine domme giv mig liv.",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "Din medfølelse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "stor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "efter dine domme"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "giv mig liv"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:46.142396667Z",
+  "model": "glm-5.3"
+}

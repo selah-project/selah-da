@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og Farao bød mænd ⟨som skulle vogte⟩ på ham, og de sendte ham bort ⟨את⟩ og hans hustru ⟨את⟩ og alt det, der var hans ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "og han bød"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "angående ham"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "og de sendte bort"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alt det, der var hans"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "der"
+    },
+    {
+      "surface": "לו",
+      "gloss": "var hans"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:20.259531752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "Den af Jeroboams ⟨slægt⟩ som dør i byen, skal hundene æde, og den som dør på marken, skal himlens fugle æde; for Jahve har talt.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "den som dør"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "af Jeroboam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "i byen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundene"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "og den som dør"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skal æde"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    }
+  ],
+  "timestamp": "2026-10-03T16:29:11.664430389Z",
+  "model": "glm-5.3"
+}

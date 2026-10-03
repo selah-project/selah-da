@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Med ⟨den⟩ chasidiske øver du chesed; med et helt menneske viser du dig hel.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "den chasidiske"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "øver du chesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "helt"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "viser du dig hel"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:45.374896343Z",
+  "model": "glm-5.3"
+}

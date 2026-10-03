@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Sæt en ugudelig over ham, og lad en anklager stå ved hans højre hånd.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "sæt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over ham"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "en ugudelig"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "og en anklager"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "על",
+      "gloss": "ved"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hans højre hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.300768885Z",
+  "model": "glm-5.3"
+}

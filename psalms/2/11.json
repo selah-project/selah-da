@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Tjen ⟨את⟩ Jahve med frygt, og juble med bæven!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "tjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "med frygt"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "og juble"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "med bæven"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:25.945507856Z",
+  "model": "glm-5.3"
+}

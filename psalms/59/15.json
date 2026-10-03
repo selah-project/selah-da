@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 59,
+  "translation": "Og ved aften vender de tilbage, larmer som hunde og kredser omkring byen.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "og de vender tilbage"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ved aften"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "larmer"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "som hunde"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "og kredser"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "omkring byen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:05.123511972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og mændene fra Giv'a rejste sig imod mig og omringede ⟨את⟩ huset imod mig om natten; mig regnede de med at dræbe, og min pilegesh mishandlede de, så hun døde.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "rejste sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "fra Giv'a"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "og omringede"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huset"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huset"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "om natten"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mig"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "regnede de med"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "at dræbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "min pilegesh"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "min pilegesh"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mishandlede de"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "så hun døde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:55:06.957968186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "Edoms telte og jishmaeliterne, Moav og hagriterne —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "telte"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "og jishmaeliterne"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "og hagriterne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:26.952493328Z",
+  "model": "glm-5.3"
+}

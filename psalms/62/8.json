@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "På Elohim ⟨hviler⟩ min frelse og min herlighed; klippen for min styrke, min tilflugt ⟨er⟩ i Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "min frelse"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "og min herlighed"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klippen"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "for min styrke"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "min tilflugt"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:27.198476124Z",
+  "model": "glm-5.3"
+}

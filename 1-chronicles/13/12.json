@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og David frygtede Elohim ⟨את⟩ på den dag og sagde: Hvordan skal jeg bringe ⟨את⟩ Elohims ark hjem til mig?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "og frygtede"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Hvordan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "skal jeg bringe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hjem til mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohims ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohims"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:32.502983285Z",
+  "model": "glm-5.3"
+}

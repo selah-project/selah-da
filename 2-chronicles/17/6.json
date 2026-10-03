@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og hans hjerte var opløftet i Jahves veje, og ydermere fjernede han ⟨את⟩ højderne og ⟨את⟩ ashera-billederne fra Jehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "var opløftet"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "i ... veje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "og ydermere"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "fjernede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "højderne"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "højderne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ashera-billederne"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ashera-billederne"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "fra Jehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T19:23:03.298442454Z",
+  "model": "glm-5.3"
+}

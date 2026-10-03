@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 125,
+  "translation": "Og dem der bøjer af til deres krogede veje — Jahve fører dem bort ⟨sammen⟩ med ⟨את⟩ dem der gør ondskab. Fred over Jisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Og dem der bøjer af"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "til deres krogede veje"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "fører dem bort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dem der gør ondskab"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "dem der gør"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Fred"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:26.097752952Z",
+  "model": "glm-5.3"
+}

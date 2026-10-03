@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Fortæl om det til jeres børn, og jeres børn til deres børn, og deres børn til et andet slægtled.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "om det"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "til jeres børn"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Fortæl"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "og jeres børn"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "til deres børn"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "og deres børn"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "til et slægtled"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "et andet"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:58.495634562Z",
+  "model": "glm-5.3"
+}

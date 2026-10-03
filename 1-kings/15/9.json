@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 15:9",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og i det tyvende år af Jarovam, kongen af Jisrael, blev Asa konge over Juda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Og i ... år"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "det tyvende"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "af Jarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "af Jisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "blev ... konge"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "over Juda"
+    }
+  ],
+  "timestamp": "2026-10-03T16:30:06.209019126Z",
+  "model": "glm-5.3"
+}

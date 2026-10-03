@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "I, der elsker Jahve, hade det onde! ⟨Han⟩ vogter ⟨את⟩ sjælene af hans fromme; ud af de gudløses hånd frier han dem.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "I, der elsker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hade"
+    },
+    {
+      "surface": "רע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogter"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "sjæle"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "af hans fromme"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ud af hånd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "af de gudløse"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "rier han dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:02.947806913Z",
+  "model": "glm-5.3"
+}

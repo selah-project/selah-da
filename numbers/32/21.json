@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "og alle ⟨der er⟩ væbnede blandt jer går over ⟨את⟩ Jordan foran Jahve, indtil han har drevet ⟨את⟩ sine fjender ud fra sit åsyn",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "og går over"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "blandt jer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "væbnede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "har drevet ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine fjender"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sine fjender"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fra sit åsyn"
+    }
+  ],
+  "timestamp": "2026-10-03T15:17:38.663446646Z",
+  "model": "glm-5.3"
+}

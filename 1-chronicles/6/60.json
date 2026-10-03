@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og ⟨את⟩ Chukkok med dets græsgange og ⟨את⟩ Rechov med dets græsgange.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chukkok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Chukkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dets græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dets græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:33.064607431Z",
+  "model": "glm-5.3"
+}

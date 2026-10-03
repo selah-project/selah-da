@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 109,
+  "translation": "Når han dømmes, går han ud som skyldig, og hans bøn bliver til synd.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "når han dømmes"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "går han ud"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "som skyldig"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "og hans bøn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bliver"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "til synd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:14.300926600Z",
+  "model": "glm-5.3"
+}

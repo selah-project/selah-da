@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "en spedalsk mand, han ⟨er⟩ uren; uren skal præsten erklære ham — hans plage ⟨er⟩ i hans hoved.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "spedalsk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "uren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "uren"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "skal erklære ham uren"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "i hans hoved"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "hans plage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:55:00.602214025Z",
+  "model": "glm-5.3"
+}

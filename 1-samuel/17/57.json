@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-samuel 17:57",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og da David vendte tilbage fra at dræbe ⟨את⟩ filisteren, tog Avner ⟨את⟩ ham og førte ham foran Shaul — og filisterens hoved i hans hånd.",
+  "tokens": [
+    {
+      "surface": "וכשוב",
+      "gloss": "Og da … vendte tilbage"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "fra at dræbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filisteren"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisteren"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "Avner tog ham"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "og førte ham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "og hovedet"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filisterens"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "i hans hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:23.098200570Z",
+  "model": "glm-5.3"
+}

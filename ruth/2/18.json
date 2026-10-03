@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hun bar det og kom til byen, og hendes svigermor så ⟨את⟩ det, hun havde samlet; og hun tog frem og gav hende ⟨את⟩ det, der var tilbage, efter at hun var blevet mæt.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "og hun bar"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "og hun kom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "til byen"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "og hun så"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "hendes svigermor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, hun havde samlet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "hun havde samlet"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "og hun tog frem"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det, der var tilbage"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "der var tilbage"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "efter at hun var blevet mæt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:49:01.671644335Z",
+  "model": "glm-5.3"
+}

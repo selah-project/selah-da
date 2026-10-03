@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 20:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og de kom og belejrede ham i Abel, i Beit Maakha, og de kastede en belejringsrampe op mod byen, og ⟨את⟩ den stod ved voldgraven; og alt folket, som ⟨var⟩ hos Joav, ødelagde ⟨את⟩ muren for at få den til at falde.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og de kom"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "og belejrede"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "באבלה",
+      "gloss": "i Abel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "המעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "וישפכו",
+      "gloss": "og de kastede op"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "en belejringsrampe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "og den stod"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "ved voldgraven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "ødelagde"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "for at få til at falde"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muren"
+    }
+  ],
+  "timestamp": "2026-10-03T16:17:59.481395469Z",
+  "model": "glm-5.3"
+}

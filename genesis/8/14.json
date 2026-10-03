@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og i den anden måned, på den syv og tyvendede dag i måneden, var jorden tør.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Og i måneden"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "på den syv"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyvende"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "i måneden"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "var tør"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:45.318588955Z",
+  "model": "glm-5.3"
+}

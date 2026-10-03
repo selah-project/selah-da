@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim velsignede ⟨את⟩ dem og sagde: Bliv frugtbare og talrige og opfyld ⟨את⟩ vandene i havene, og fuglen skal blive talrig på jorden.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "havdyrene og fuglene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "bliv frugtbare"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "og talrige"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "og opfyld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandene"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "i havene"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "og fuglen"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "skal blive talrig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T14:11:39.739027582Z",
+  "model": "glm-5.3"
+}

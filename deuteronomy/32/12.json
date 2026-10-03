@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 32,
+  "translation": "Jahve alene ledte ham, og der var ingen fremmed el med ham.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "alene"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ledte ham"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der var ingen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "fremmed"
+    }
+  ],
+  "timestamp": "2026-10-03T15:33:58.398165470Z",
+  "model": "glm-5.3"
+}

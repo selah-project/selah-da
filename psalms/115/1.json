@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 115,
+  "translation": "Ikke os, Jahve, ikke os, men til dit navn giv ære, over din chesed, over din sandhed.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "til dit navn"
+    },
+    {
+      "surface": "תן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ære"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "din sandhed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:46.744258108Z",
+  "model": "glm-5.3"
+}

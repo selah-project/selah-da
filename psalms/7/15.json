@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Se, han bliver havende med ondskab, og han undfanger møje og føder løgn.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "se"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "bliver havende med"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "og undfanger"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "og føder"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:17.606458822Z",
+  "model": "glm-5.3"
+}

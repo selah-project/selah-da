@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Min pagt vil jeg ikke vanhellige, og det der går ud fra mine læber vil jeg ikke forandre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "vil jeg vanhellige"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "og det der går ud"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "fra mine læber"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "vil jeg forandre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.231336029Z",
+  "model": "glm-5.3"
+}

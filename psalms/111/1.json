@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 111,
+  "translation": "Halleluja. Jeg takker Jahve med hele mit hjerte, i de retfærdiges kreds og menighed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "jeg takker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "i kredsen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "af de retfærdige"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "og menighed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:43.582315805Z",
+  "model": "glm-5.3"
+}

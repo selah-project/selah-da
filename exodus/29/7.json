@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og du skal tage ⟨את】 salveolien og hælde den på hans hoved, og du skal salve ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "og du skal tage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salveolien"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olien"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "salvelses-"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "og hælde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hans hoved"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "og du skal salve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T14:44:31.794944972Z",
+  "model": "glm-5.3"
+}

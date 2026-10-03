@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "En mand må ikke tage sin fars ⟨את⟩ hustru og må ikke blotte sin fars kjortelkant.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "må tage"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars hustru"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "hustru"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "må blotte"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kjortelkant"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin fars"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:51.559817306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og de bandt sig til Baal-Peor og spiste ofrene for de døde.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "og de bandt sig"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "til Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "og spiste"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ofrene"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "for de døde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:44.935628694Z",
+  "model": "glm-5.3"
+}

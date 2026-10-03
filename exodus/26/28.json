@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og den midterste bjælke skal i midten af brædderne løbe fra ⟨den⟩ ene ende til ⟨den⟩ anden ende.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "og bjælken"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "midterste"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "i midten af"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brædderne"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "løbe gennem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨den⟩ ene ende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨den⟩ anden ende"
+    }
+  ],
+  "timestamp": "2026-10-03T14:42:42.728802900Z",
+  "model": "glm-5.3"
+}

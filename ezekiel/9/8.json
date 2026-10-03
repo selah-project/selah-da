@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 9:8",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og det skete, mens de slog ⟨ihjel⟩, og jeg blev levnet tilbage, at jeg faldt ned på mit ansigt og råbte og sagde: Åh, Adonaj Jahve! Er du ved at udrydde ⟨את⟩ hele resten af Jisrael, mens du udgyder ⟨את⟩ din vrede over Jerushalajim?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og det skete"
+    },
+    {
+      "surface": "כהכותם",
+      "gloss": "mens de slog ihjel"
+    },
+    {
+      "surface": "ונאשאר",
+      "gloss": "og jeg blev levnet tilbage"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "og jeg faldt ned"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mit ansigt"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "og jeg råbte"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Åh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "ved at udrydde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele resten af Jisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "resten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בשפכך",
+      "gloss": "mens du udgyder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din vrede"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "din vrede"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:11.320967988Z",
+  "model": "glm-5.3"
+}

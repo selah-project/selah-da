@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og overheden for livvagten satte Yosef ⟨את⟩ til at være ⟨את⟩ hos dem, og han tjente dem; og de var der i dage i varetægt.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Og satte"
+    },
+    {
+      "surface": "שר",
+      "gloss": "overheden"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "for livvagten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hos dem"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "og han tjente"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og de var"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "i dage"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "i varetægt"
+    }
+  ],
+  "timestamp": "2026-10-03T14:28:00.443071225Z",
+  "model": "glm-5.3"
+}

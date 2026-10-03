@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Og hans brødre gik for at græsse ⟨את⟩ deres fars småkvæg i Shchem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "for at græsse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "småkvæg"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "småkvæg"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "deres far"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "i Shchem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:58.242839734Z",
+  "model": "glm-5.3"
+}

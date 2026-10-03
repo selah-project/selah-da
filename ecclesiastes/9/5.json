@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Thi de levende ved, at de skal dø; men de døde ved ingenting, og der er ikke længere nogen løn for dem, thi deres ihukommelse er glemt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de levende"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "ved"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "at de skal dø"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "men de døde"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "ved"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "noget som helst"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for dem"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "løn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "er glemt"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "deres ihukommelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:08.869041235Z",
+  "model": "glm-5.3"
+}

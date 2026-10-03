@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Den, der graver en grube, falder i den, og den, der ruller en sten, til ham vender den tilbage.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "graver"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "en grube"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "falder"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "og den der ruller"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "en sten"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "vender tilbage"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:14.181719027Z",
+  "model": "glm-5.3"
+}

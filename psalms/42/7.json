@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Min Elohim — over mig er min sjæl nedbøjet; derfor husker jeg dig fra Yarden-landet og Hermonim, fra Mitsar-bjerget.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "er nedbøjet"
+    },
+    {
+      "surface": "על",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "husker jeg dig"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra landet"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "og Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fra bjerget"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.528661635Z",
+  "model": "glm-5.3"
+}

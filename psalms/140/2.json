@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 140,
+  "translation": "Riv mig ud, Jahve, fra et ondt menneske, bevær mig for en mand af vold.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "riv mig ud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "fra et menneske"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "for en mand"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "af vold"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "bevær mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:08.397137557Z",
+  "model": "glm-5.3"
+}

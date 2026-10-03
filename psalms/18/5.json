@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Dødens reb omsluttede mig, og Belials strømme forskrækkede mig.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "omsluttede mig"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "rebene"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dødens"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "og strømmene"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belials"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "forskrækkede mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:03.337835098Z",
+  "model": "glm-5.3"
+}

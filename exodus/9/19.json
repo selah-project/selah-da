@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og send nu og sørg for ⟨את⟩ dit kvæg og ⟨את⟩ alt, hvad du har på marken. Hvert menneske og hver behema, som findes på marken og ikke samles ind i huset — haglen vil falde over dem, og de skal dø.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "העז",
+      "gloss": "sørg for"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit kvæg"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "dit kvæg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alt, hvad du har"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du har"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneske"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "og behema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "findes"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "samles ind"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "vil falde"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "haglen"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "og de skal dø"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:48.898739022Z",
+  "model": "glm-5.3"
+}

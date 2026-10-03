@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "En slagtende pil er deres tunge; bedrag taler den. Med sin mund taler han fred med ⟨את⟩ sin næste, men i sit indre lægger han baghold.",
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "en pil"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "slagtende"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "er deres tunge"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "med sin mund"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin næste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sin næste"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "taler"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "men i sit indre"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "lægger"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "baghold"
+    }
+  ],
+  "timestamp": "2026-10-03T17:12:03.837357660Z",
+  "model": "glm-5.3"
+}

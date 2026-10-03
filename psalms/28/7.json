@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve er min styrke og mit skjold; på ham har mit hjerte betroet sig, og jeg blev hjulpet, og mit hjerte jublede, og med min sang vil jeg lovprise ham.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "min styrke"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "og mit skjold"
+    },
+    {
+      "surface": "בו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "har betroet sig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "og jeg blev hjulpet"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "og jublede"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "og med min sang"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "vil jeg lovprise ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.571208354Z",
+  "model": "glm-5.3"
+}

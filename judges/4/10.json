@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Barak tilkaldte ⟨את⟩ Zevulun og ⟨את⟩ Naftali i Kadesh, og ti tusind mand stod op med ham, og Devora steg op med ham.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Og … tilkaldte"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "i Kadesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og han steg op"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "på sine fødder"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "og … steg op"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-10-03T15:48:33.158247146Z",
+  "model": "glm-5.3"
+}

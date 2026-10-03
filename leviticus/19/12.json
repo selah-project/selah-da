@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og I skal ikke sværge ved mit navn til løgn, så du vanhelliger ⟨את⟩ navnet på din Elohim. Jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ikke"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "I skal ikke sværge"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ved mit navn"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "til løgn"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "så du vanhelliger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navnet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navnet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "på din Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "er Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T14:57:06.809817472Z",
+  "model": "glm-5.3"
+}

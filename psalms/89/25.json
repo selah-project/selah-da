@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Min trofasthed og min chesed skal være med ham, og ved mit navn skal hans horn ophøjes.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "min trofasthed"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "min chesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "ved mit navn"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ophøjes"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "hans horn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:10.979356654Z",
+  "model": "glm-5.3"
+}

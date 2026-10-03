@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Yosef førte Jaakov, sin far, ind og stillede ham foran Paroh; og Jaakov velsignede ⟨את⟩ Paroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og førte ind"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "og stillede ham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "og velsignede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-03T14:30:41.021943546Z",
+  "model": "glm-5.3"
+}

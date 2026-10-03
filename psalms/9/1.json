@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Til lederen, efter «Labens død», en mizmor af David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til lederen"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "efter «…død»"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "«Labens»"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "en mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "af David"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:19.926999924Z",
+  "model": "glm-5.3"
+}

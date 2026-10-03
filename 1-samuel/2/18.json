@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Shmuel tjente ⟨foran⟩ Jahves ⟨את⟩ ansigt — en dreng omgjort med en efod af hør.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Og Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tjente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "נער",
+      "gloss": "en dreng"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "omgjort"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "af hør"
+    }
+  ],
+  "timestamp": "2026-10-03T15:57:01.947143862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Og han førte dem ad en lige vej, til at gå til en bosættelses by.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Og han førte dem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ad en vej"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "lige"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "til at gå"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "bosættelse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:47.039167040Z",
+  "model": "glm-5.3"
+}

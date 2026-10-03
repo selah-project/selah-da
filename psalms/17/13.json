@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Stå op, Jahve, mød hans ansigt, få ham til at knæle; flyt min sjæl ud af ⟨את⟩ ⟨den⟩ onde — ⟨nemlig⟩ dit sværd —",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Stå op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mød"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hans ansigt"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "få ham til at knæle"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "flyt ud"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "af den onde"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "dit sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:29.784405517Z",
+  "model": "glm-5.3"
+}

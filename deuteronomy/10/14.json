@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Se, Jahves, din Elohims, er ⟨de⟩ himlene og himlenes himle, jorden og alt, hvad der er i den.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahves tilhører"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "og himlene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlenes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:00.806086429Z",
+  "model": "glm-5.3"
+}

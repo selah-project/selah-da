@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "For du, Adonaj, er god og tilgivende, og rig på chesed mod alle der kalder på dig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "og tilgivende"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og rig på"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mod alle"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "der kalder på dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.498989154Z",
+  "model": "glm-5.3"
+}

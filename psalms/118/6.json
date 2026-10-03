@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 118,
+  "translation": "Jahve ⟨er⟩ for mig, jeg frygter ikke — hvad kan et menneske gøre mod mig?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "frygter jeg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan gøre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mod mig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et menneske"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:03.647937200Z",
+  "model": "glm-5.3"
+}

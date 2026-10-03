@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og kvinden tog og bredte ⟨את⟩ dækket ud over brøndens åbning og strøede knust korn derpå, og intet blev kendt.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kvinden"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "og bredte ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dækket"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "dækket"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "åbningen af"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "brønden"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "og strøede"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "derpå"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "knust korn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "blev kendt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "noget"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:27.578152334Z",
+  "model": "glm-5.3"
+}

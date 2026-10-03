@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 53,
+  "translation": "Dér greb dem rædsel — der var ingen rædsel — for Elohim har spredt benene af ⟨den⟩, der lejrer sig imod dig; du har gjort dem til skamme, for Elohim har forkastet dem.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "greb dem rædsel"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "rædsel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "har spredt"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "benene"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "⟨den⟩, der lejrer sig"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "du har gjort til skamme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "har forkastet dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:10.680019042Z",
+  "model": "glm-5.3"
+}

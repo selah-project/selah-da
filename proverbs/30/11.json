@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "En slægt, som forbander sin far, og ⟨את⟩ sin mor velsigner ikke.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "slægt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "forbander"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin mor"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sin mor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "velsigner"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:47.068027605Z",
+  "model": "glm-5.3"
+}

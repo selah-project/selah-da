@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Og de fører en forsamling op imod dig, og de stener ⟨את⟩ dig med sten og gennemstikker dig med deres sværd.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "Og de fører op"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "en forsamling"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "og de stener"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ dig",
+      "marks": "dig"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "med sten"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "og gennemstikker dig"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "med deres sværd"
+    }
+  ],
+  "timestamp": "2026-10-03T17:35:05.761749232Z",
+  "model": "glm-5.3"
+}

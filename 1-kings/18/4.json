@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og det skete, da Isevel udryddede ⟨את⟩ Jahves profeter, at Ovadja tog hundrede profeter og skjulte dem, halvtreds mand i ⟨en⟩ hule, og forsørgede dem med brød og vand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "da udryddede"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves profeter"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "profeter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadja"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeter"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "og skjulte dem"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mand"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "i en hule"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "og forsørgede dem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med brød"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:31:12.968914057Z",
+  "model": "glm-5.3"
+}

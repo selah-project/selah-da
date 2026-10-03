@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Men over Jisraels børn, dem der boede i Jehudas byer, over dem herskede Rechavam.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Men over ... børn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "dem der boede"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i ... byer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudas"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "herskede"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    }
+  ],
+  "timestamp": "2026-10-03T16:28:00.410815377Z",
+  "model": "glm-5.3"
+}

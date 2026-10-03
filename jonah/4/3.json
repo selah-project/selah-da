@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og nu, Jahve, tag dog ⟨את⟩ min sjæl fra mig; for min død er bedre end mit liv.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min sjæl"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "min død"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "end mit liv"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:39.003374716Z",
+  "model": "glm-5.3"
+}

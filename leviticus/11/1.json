@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Jahve talte til Moshe og til Aharon og sagde til dem:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "til dem"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:06.444587843Z",
+  "model": "glm-5.3"
+}

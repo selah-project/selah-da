@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Da bød Moshe ⟨את⟩ levitterne, ⟨את⟩ arken Jahves pagts bærere, og sagde:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Da bød"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitterne"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitterne"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bærere"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pagts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:35:10.060898621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Saftig ⟨står⟩ han foran solen, og over hans have går hans skud ud.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "saftig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "solen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "hans have"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "hans skud"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "går ud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:37:37.900632780Z",
+  "model": "glm-5.3"
+}

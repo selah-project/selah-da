@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 112,
+  "translation": "Han spredte ⟨ud⟩, gav til de fattige; hans tsedek står til evig tid; hans horn skal ophøjes i ære.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "spredte ⟨ud⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "til de fattige"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "hans tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "står"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til evig tid"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "hans horn"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "skal ophøjes"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "i ære"
+    }
+  ],
+  "timestamp": "2026-10-03T18:23:03.504741162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og han skal skære den i stykker, ⟨את⟩ dens stykker, og ⟨את⟩ dens hoved og ⟨את⟩ dens fedt, og præsten skal lægge ⟨את⟩ dem i orden på brændet, som er på ilden, som er på alteret.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "og han skal skære i stykker"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ den",
+      "marks": "dens stykker"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "i dens stykker"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens hoved"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dens hoved"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens fedt"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "dens fedt"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "og skal lægge i orden"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "brændet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "er på"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ilden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "er på"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    }
+  ],
+  "timestamp": "2026-10-03T14:51:15.560728320Z",
+  "model": "glm-5.3"
+}

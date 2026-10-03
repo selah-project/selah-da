@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "Og din tsedek, Elohim, når til ⟨det⟩ høje — du, som har gjort store ting! Elohim, hvem er som dig?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "og din tsedek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "når til"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "det høje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "du, som"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har gjort"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "store ting"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "er som dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:53.788745958Z",
+  "model": "glm-5.3"
+}

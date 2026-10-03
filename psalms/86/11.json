@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Lær mig din vej, Jahve; jeg vil vandre i din sandhed. Gør mit hjerte ét til at frygte dit navn.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "lær mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "din vej"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "jeg vil vandre"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "i din sandhed"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "gør ét"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "til at frygte"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navn"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:50.713252298Z",
+  "model": "glm-5.3"
+}

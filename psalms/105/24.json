@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Og han gjorde sit folk ⟨את⟩ overordentligt frugtbart og gjorde det stærkere end dets undertrykkere.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "gjorde frugtbart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit folk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "overordentligt"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "og gjorde det stærkere"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "end dets undertrykkere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:10.495813823Z",
+  "model": "glm-5.3"
+}

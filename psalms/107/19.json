@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 107,
+  "translation": "Da råbte de til Jahve i deres nød, og af deres trængsler frelste han dem.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "da råbte de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "i deres nød"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "af deres trængsler"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "frelste han dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:50.313592567Z",
+  "model": "glm-5.3"
+}

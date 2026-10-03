@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Og det skal behage Jahve bedre end en okse, en ungtyr med horn og klove.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Og det skal behage"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משור",
+      "gloss": "bedre end en okse"
+    },
+    {
+      "surface": "פר",
+      "gloss": "en ungtyr"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "med horn"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "med klove"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:59.465893800Z",
+  "model": "glm-5.3"
+}

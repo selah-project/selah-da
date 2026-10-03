@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han førte sit folk ud som får og vejledte dem som en hjord i ørkenen.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "og han førede ud"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "som får"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sit folk"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "og vejledte dem"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "som en hjord"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:26.881713662Z",
+  "model": "glm-5.3"
+}

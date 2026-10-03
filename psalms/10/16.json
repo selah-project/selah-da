@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Jahve er konge i evighed og evigt; folkene er omkommet fra hans land.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i evighed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og evigt"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "er omkommet"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "fra hans land"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:07.110480736Z",
+  "model": "glm-5.3"
+}

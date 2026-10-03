@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og Jaakov elskede ⟨את⟩ Rachel og sagde: Jeg vil tjene dig i syv år for Rachel, din yngste datter.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "og elskede"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "jeg vil tjene dig"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "år"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "for Rachel"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "din datter"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "den yngste"
+    }
+  ],
+  "timestamp": "2026-10-03T14:22:15.502132072Z",
+  "model": "glm-5.3"
+}

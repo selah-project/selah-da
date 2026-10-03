@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "En lægende tunge er et livets træ, men forvridning i den er brud i ruachen.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "lægende"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunge"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livets"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "men forvridning"
+    },
+    {
+      "surface": "בה",
+      "gloss": "i den"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "brud"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "i ruachen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:32:26.614873072Z",
+  "model": "glm-5.3"
+}

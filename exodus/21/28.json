@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og hvis en okse støder ⟨את⟩ en mand eller ⟨את⟩ en kvinde, så ⟨vedkommende⟩ dør, skal oksen helt sikkert stenes, og dens kød må ikke spises ⟨את⟩, men okseens ejer er uskyldig.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "støder"
+    },
+    {
+      "surface": "שור",
+      "gloss": "en okse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en mand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "או",
+      "gloss": "eller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en kvinde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "en kvinde"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "så ⟨vedkommende⟩ dør"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "stenes"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "helt sikkert stenes"
+    },
+    {
+      "surface": "השור",
+      "gloss": "oksen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må spises"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dens kød"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dens kød"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "men ejer"
+    },
+    {
+      "surface": "השור",
+      "gloss": "oksens"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "er uskyldig"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:11.146656463Z",
+  "model": "glm-5.3"
+}

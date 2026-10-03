@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og du skal skrive dem på dørstolperne i dit hus og på dine porte.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Og du skal skrive"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "dørstolperne"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dit hus"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "og på dine porte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:23:49.119082702Z",
+  "model": "glm-5.3"
+}

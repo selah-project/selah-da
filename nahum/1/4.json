@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Han skælder havet ud og tørrer det, og alle floderne gør han tørre; Bashan visner og Karmel, og Libanons blomst visner.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "skælder ud"
+    },
+    {
+      "surface": "בים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "og tørrer det"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "floderne"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "gør tørre"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "visner"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "og Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "og blomst"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanons"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "visner"
+    }
+  ],
+  "timestamp": "2026-10-03T17:58:23.997497095Z",
+  "model": "glm-5.3"
+}

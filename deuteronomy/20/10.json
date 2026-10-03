@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Når du nærmer dig en by for at kæmpe mod den, skal du byde den fred.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Når"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "du nærmer dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "en by"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "for at kæmpe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mod den"
+    },
+    {
+      "surface": "וקקראת",
+      "gloss": "skal du byde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "den"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T15:28:13.467895150Z",
+  "model": "glm-5.3"
+}

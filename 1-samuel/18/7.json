@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og kvinderne svarede hinanden, de som dansede, og sang: Shaul har slået sine tusinder, og David sine titusinder.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "og de svarede hinanden"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "kvinderne"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "de som dansede"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "og de sagde"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "har slået"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "sine tusinder"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "sine titusinder"
+    }
+  ],
+  "timestamp": "2026-10-03T16:03:45.340181988Z",
+  "model": "glm-5.3"
+}

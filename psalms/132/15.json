@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 132,
+  "translation": "Hendes proviant — velsigne vil jeg velsigne den, og hendes fattige vil jeg mætte med brød.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Hendes proviant"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "velsigne"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "vil jeg velsigne den"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "hendes fattige"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "vil jeg mætte"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "med brød"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:47.555331029Z",
+  "model": "glm-5.3"
+}

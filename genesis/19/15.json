@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og da morgenrøden steg op, skyndede englene på Lot og sagde: Stå op, tag ⟨את⟩ din hustru og ⟨את⟩ dine to døtre, som er her, for at du ikke skal blive fejet bort i byens synd.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "Og da"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "morgenrøden"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "skyndede"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "englene"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "på Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Stå op"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hustru"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "din hustru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dine to døtre"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "to"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "dine døtre"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "som er her"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ... ikke"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "skal blive fejet bort"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "i synden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byens"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:46.004201078Z",
+  "model": "glm-5.3"
+}

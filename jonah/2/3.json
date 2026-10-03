@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og han sagde: Jeg råbte af min trængsel til Jahve, og han svarede mig; fra Sheols liv råbte jeg — du hørte min røst.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jeg råbte"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "af min trængsel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨min⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "og han svarede mig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "fra ... liv"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheols"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "råbte jeg"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "du hørte"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "min røst"
+    }
+  ],
+  "timestamp": "2026-10-03T17:56:08.815846157Z",
+  "model": "glm-5.3"
+}

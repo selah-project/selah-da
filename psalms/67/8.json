@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 67,
+  "translation": "Elohim velsigner os, og alle jordens ender skal frygte ⟨את⟩ ham.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "velsigner os"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "og skal frygte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ender"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:25.586128137Z",
+  "model": "glm-5.3"
+}

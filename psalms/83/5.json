@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 83,
+  "translation": "De har sagt: Kom, lad os udrydde dem som et folk, så Jisraels navn ikke bliver husket længere.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "De har sagt"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "lad os udrydde dem"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "som et folk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "så ... ikke"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "bliver husket"
+    },
+    {
+      "surface": "שם",
+      "gloss": "navn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:26.952102255Z",
+  "model": "glm-5.3"
+}

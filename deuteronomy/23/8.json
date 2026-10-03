@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke væmmes ved en edomitt, for han er din broder; du må ikke væmmes ved en mitsritt, for du var fremmed i hans land.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "Du må væmmes ved"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "en edomitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "din broder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "Du må væmmes ved"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "en mitsritt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גר",
+      "gloss": "fremmed"
+    },
+    {
+      "surface": "היית",
+      "gloss": "du var"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "i hans land"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:17.444974976Z",
+  "model": "glm-5.3"
+}

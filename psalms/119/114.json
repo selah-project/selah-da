@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Mit skjulested og mit skjold ⟨er⟩ du; på dit ord har jeg ventet.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "mit skjulested"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "og mit skjold"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "på dit ord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "har jeg ventet"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:08.785976766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de slagtede ⟨את⟩ tyren og bragte ⟨את⟩ drengen ind til Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Og de slagtede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyren"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tyren"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "og bragte ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drengen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-03T15:56:52.650026980Z",
+  "model": "glm-5.3"
+}

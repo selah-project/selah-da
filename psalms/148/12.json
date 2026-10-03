@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "unge mænd og også jomfruer, gamle sammen med unge,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "unge mænd"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jomfruer"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "gamle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sammen med"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "unge"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.917406738Z",
+  "model": "glm-5.3"
+}

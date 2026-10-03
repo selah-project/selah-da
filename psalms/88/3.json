@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 88,
+  "translation": "Måtte min bøn komme for dit ansigt, bøj dit øre til mit råb!",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "måtte komme"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "for dit ansigt"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "min bøn"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "bøj"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "dit øre"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "til mit råb"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:35.947791251Z",
+  "model": "glm-5.3"
+}

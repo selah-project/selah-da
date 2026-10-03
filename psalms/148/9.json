@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 148,
+  "translation": "Bjerge og alle højder, frugttræer og alle cedre,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "bjerge"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "højder"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træer"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "frugt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:27:49.916785588Z",
+  "model": "glm-5.3"
+}

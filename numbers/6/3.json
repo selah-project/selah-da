@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "fra vin og stærk drik skal han holde sig adskilt; vin-edik og edik af stærk drik må han ikke drikke, og ingen druensaft må han drikke; og druer, friske eller tørrede, må han ikke spise.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "fra vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og stærk drik"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "skal han holde sig adskilt"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "edik"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "og edik"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "af stærk drik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "må han drikke"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "druensaft"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "må han drikke"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "og druer"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "friske"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "eller tørrede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "må han spise"
+    }
+  ],
+  "timestamp": "2026-10-03T15:06:08.105071497Z",
+  "model": "glm-5.3"
+}

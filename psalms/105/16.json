@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 105,
+  "translation": "Og han kaldte hungersnød over landet, alt brødstavens brød knuste han.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hungersnød"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stav"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "knuste"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:21.460495801Z",
+  "model": "glm-5.3"
+}

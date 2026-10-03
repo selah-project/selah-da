@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Den retfærdige glæder sig, for han ser hævnen; sine fødder vasker han i de gudløses blod.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "glæder sig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hævnen"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "sine fødder"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "vasker"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "i blodet"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "af de gudløse"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:19.053333742Z",
+  "model": "glm-5.3"
+}

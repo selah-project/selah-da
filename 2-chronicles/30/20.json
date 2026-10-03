@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 30,
+  "translation": "Og Jahve hørte Chizkiyahu, og han helbredte ⟨את⟩ folket.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og hørte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "og han helbredte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    }
+  ],
+  "timestamp": "2026-10-03T19:27:17.359608886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og jeg — se, jeg rejser min pagt med ⟨את⟩-jer og med ⟨את⟩ jeres sæd efter jer.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Og jeg"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "rejser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min pagt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min pagt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "med ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "jeres sæd"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "efter jer"
+    }
+  ],
+  "timestamp": "2026-10-03T14:13:26.785573519Z",
+  "model": "glm-5.3"
+}

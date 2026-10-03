@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og alle ⟨sjæle⟩, der udgik af Jaakovs lænd, var ⟨i alt⟩ halvfjerds sjæle; og Josef var i Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæle"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "der udgik"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lænd"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovs"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "halvfjerds"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sjæle"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "og Josef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "i Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:37.545516530Z",
+  "model": "glm-5.3"
+}

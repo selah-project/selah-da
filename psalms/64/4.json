@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 64,
+  "translation": "som har hvæsset deres tunge som et sværd, rettet deres pil — et bittert ord.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "har hvæsset"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "som et sværd"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "deres tunge"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "rettede"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "deres pil"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bittert"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:47.033557773Z",
+  "model": "glm-5.3"
+}

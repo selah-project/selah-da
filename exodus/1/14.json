@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og de gjorde deres liv bitre med hård trællagt, i ler og i mursten og i alt arbejde på marken; alt det arbejde, som de lod dem udføre ⟨i det⟩, var med hårdhed.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "gjorde ... bitre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres liv"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "deres liv"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "med trællagt"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hård"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "i ler"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "og i mursten"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og i alt"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "arbejde"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "på marken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt deres arbejde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "deres arbejde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "lod dem udføre"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i det"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "med hårdhed"
+    }
+  ],
+  "timestamp": "2026-10-03T19:30:47.976639782Z",
+  "model": "glm-5.3"
+}

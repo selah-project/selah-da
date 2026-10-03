@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Og jeg skal vandre i det rummelige, for jeg har søgt dine forskrifter.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Og jeg skal vandre"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "i det rummelige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "dine forskrifter"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "jeg har søgt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:32.973105388Z",
+  "model": "glm-5.3"
+}

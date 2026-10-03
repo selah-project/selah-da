@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Da Doeg edomæeren kom og meldte det til Shaúl og sagde til ham: David er kommet til Akhimeleks hus.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Da … kom"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomæeren"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og meldte det"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Shaúl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "בא",
+      "gloss": "er kommet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimeleks"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:39.428493843Z",
+  "model": "glm-5.3"
+}

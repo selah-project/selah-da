@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shaul slog ⟨את⟩ Amalek fra Chavila, på vejen til Shur, som ligger over for Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Og … slog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "fra Chavila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "på vejen til"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "על",
+      "gloss": "ligger over for"
+    },
+    {
+      "surface": "פני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:07.485291436Z",
+  "model": "glm-5.3"
+}

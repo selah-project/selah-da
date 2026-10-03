@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 145,
+  "translation": "Dit rige er et rige over alle evigheder, og dit herredømme ⟨varer⟩ gennem alle slægter.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "dit rige"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "et rige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "evigheder"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "og dit herredømme"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gennem alle"
+    },
+    {
+      "surface": "דור",
+      "gloss": "slægter"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "og slægter"
+    }
+  ],
+  "timestamp": "2026-10-03T18:28:11.630864604Z",
+  "model": "glm-5.3"
+}

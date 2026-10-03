@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 116,
+  "translation": "Og i Jahves navn påkaldte jeg: Åh, Jahve, fri min sjæl!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Og i navn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "påkaldte jeg"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Åh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "fri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:16.474984149Z",
+  "model": "glm-5.3"
+}

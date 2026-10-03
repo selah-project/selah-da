@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 74,
+  "translation": "Løft dine skridt hen til de evige ruiner — alt det onde, fjenden ⟨har gjort⟩ i helligdommen.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "løft"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "dine skridt"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "hen til ruinerne"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "evige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "det onde"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "i helligdommen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:06.028094836Z",
+  "model": "glm-5.3"
+}

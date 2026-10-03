@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Thi du gør ham til velsignelser for evigt; du glæder ham med glæde ⟨ved⟩ ⟨את⟩ dit ansigt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "gør du ham"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "til velsignelser"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "glæder du ham"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "med glæde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit ansigt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "dit ansigt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:22.989893172Z",
+  "model": "glm-5.3"
+}

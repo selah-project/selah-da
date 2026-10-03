@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Deres sværd skal trænge ind i deres eget hjerte, og deres buer skal knuses.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "deres sværd"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skal trænge ind"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "i deres hjerte"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "og deres buer"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "skal knuses"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:09.747905699Z",
+  "model": "glm-5.3"
+}

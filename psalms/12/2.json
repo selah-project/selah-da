@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Frels, Jahve, for den chasidiske ⟨fromme⟩ er endt, for de trofaste er svundet bort blandt menneskenes børn.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Frels"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "er endt"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "den chasidiske ⟨fromme⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "er svundet bort"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "de trofaste"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "blandt børnene af"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:51.668347500Z",
+  "model": "glm-5.3"
+}

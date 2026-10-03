@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Man skal ikke tage kværnsten — hverken den nederste eller øverste — i pant, for ⟨det⟩ er at tage et liv i pant.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "skal tage i pant"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "kværnsten"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "og den øverste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "et liv"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "at tage i pant"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:30.496263016Z",
+  "model": "glm-5.3"
+}

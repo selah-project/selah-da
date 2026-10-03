@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 121,
+  "translation": "Jahve vogter dig, Jahve er din skygge på din højre hånd.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "vogter dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "din skygge"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hånd"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "din højre"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:30.974498776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og David tøjlede ⟨את⟩ sine mænd med ord og gav dem ikke lov til at rejse sig mod Sha'ul; og Sha'ul stod op fra hulen og gik ad vejen.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Og … tøjlede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine mænd"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "sine mænd"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "med ord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "gav dem"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "at rejse sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "og Sha'ul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "stod op"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "fra hulen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ad vejen"
+    }
+  ],
+  "timestamp": "2026-10-03T16:06:02.707688877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Thi for ethvert ønske ⟨er der⟩ en tid og en dom; thi menneskets ondskab er stor over det.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for ethvert"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ønske"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er der"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og en dom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "menneskets"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "over det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:04.218719391Z",
+  "model": "glm-5.3"
+}

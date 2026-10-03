@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Med hele mit hjerte har jeg søgt dig; lad mig ikke fare vild fra dine bud.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mit hjerte"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "har jeg søgt dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lad ikke"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mig fare vild"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "fra dine bud"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:33.946375593Z",
+  "model": "glm-5.3"
+}

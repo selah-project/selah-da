@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og dette er navnene på Jisraels sønner, som kom til Mitsrajim: ⟨את⟩ Jaakov, hver mand og hans hus, kom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "navnene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "som kom"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "og hans hus"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:46.242658342Z",
+  "model": "glm-5.3"
+}

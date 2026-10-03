@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Således siger Jahve, ⟨dens⟩ skaber, Jahve, ⟨den⟩ som former ⟨את⟩ den for at grundfæste den — Jahve er ⟨hans⟩ navn:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "skaber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "som former"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "den (byen, det formede)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "for at grundfæste den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "er hans navn"
+    }
+  ],
+  "timestamp": "2026-10-03T17:22:31.108747802Z",
+  "model": "glm-5.3"
+}

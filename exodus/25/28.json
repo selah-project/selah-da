@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal gøre ⟨את⟩ stængerne af akacietræ og beklæde ⟨אתם⟩ med guld, og bordet skal bæres med dem ⟨את⟩ bordet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal gøre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stængerne"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stængerne"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af træ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacie"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "og du skal beklæde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "med guld"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og bordet skal bæres"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordet"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bordet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:42:52.032158080Z",
+  "model": "glm-5.3"
+}

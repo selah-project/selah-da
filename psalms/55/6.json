@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "translation": "Frygt og bæven kommer over mig, og gru har dækket mig.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "frygt"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "og bæven"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "בי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "og har dækket mig"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "gru"
+    }
+  ],
+  "timestamp": "2026-10-03T18:12:50.335101531Z",
+  "model": "glm-5.3"
+}

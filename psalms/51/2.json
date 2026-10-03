@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 51,
+  "translation": "Da profeten Natan kom til ham, efter at han var gået ind til Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "da … kom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "efter at"
+    },
+    {
+      "surface": "בא",
+      "gloss": "var gået ind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:22.771404345Z",
+  "model": "glm-5.3"
+}

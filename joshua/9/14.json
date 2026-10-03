@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og mændene tog af deres forråd, og Jahves ⟨את⟩ mund spurgte de ikke.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mændene"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "af deres forråd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves mund"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "spurgte"
+    }
+  ],
+  "timestamp": "2026-10-03T15:39:10.554536070Z",
+  "model": "glm-5.3"
+}

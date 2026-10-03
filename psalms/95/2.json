@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 95,
+  "translation": "Lad os træde frem for hans ansigt med tak, med salmer lad os raabe til ham.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "lad os træde frem"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "for hans ansigt"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "med tak"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "med salmer"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "lad os raabe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:22.472921822Z",
+  "model": "glm-5.3"
+}

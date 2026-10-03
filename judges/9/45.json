@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Avimelech kæmpede mod byen hele den dag, og han indtog byen og dræbte ⟨את⟩ folket, som var i den; og han rev byen ned og strøede salt på den.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Og Avimelech"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kæmpede"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mod byen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og han indtog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בה",
+      "gloss": "var i den"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dræbte"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "og han rev ned"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "byen"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "og strøede salt på den"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salt"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:50.544036796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Jahve skal føre dig ⟨את⟩ og din konge ⟨את⟩, som du sætter over dig, til et folk, du ikke kender, hverken du eller dine fædre; og dér skal du tjene andre guder, træ og sten.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "skal føre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "din konge"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "din konge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "du sætter"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over dig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "du kender"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "eller dine fædre"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "og du skal tjene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "træ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og sten"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:17.007757811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 79,
+  "translation": "Og giv vore naboer syvfold ind i deres barm den skam, som de har hånet dig med, Adonaj.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "og giv tilbage"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vore naboer"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "syvfold"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "deres barm"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "deres skam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "de hånte dig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:35.127776034Z",
+  "model": "glm-5.3"
+}

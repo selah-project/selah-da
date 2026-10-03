@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Hendes veje er ⟨veje⟩ af behag, og alle hendes stier ⟨er⟩ fred.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "hendes veje"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "veje"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "behag"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alle"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "hendes stier"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:18.381526723Z",
+  "model": "glm-5.3"
+}

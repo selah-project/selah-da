@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Men I gav ⟨את⟩ nasiræerne vin at drikke og bød profeterne og sagde: I må ikke profetere.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "og I gav at drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasiræerne"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nasiræerne"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeterne"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "bød I"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "I må profetere"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:33.149975043Z",
+  "model": "glm-5.3"
+}

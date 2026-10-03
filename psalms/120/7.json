@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 120,
+  "translation": "Jeg ⟨er⟩ fred; men når jeg taler, er de for krig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "men når"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "jeg taler"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "for krig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:42:50.914154128Z",
+  "model": "glm-5.3"
+}

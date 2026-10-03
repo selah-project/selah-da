@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 9:14",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og jeg vender ⟨את⟩ skæbnen for mit folk Jisrael, og de skal bygge ødelagte byer og bo ⟨deri⟩, og de skal plante vingårde og drikke ⟨את⟩ deres vin, og de skal anlægge haver og spise ⟨את⟩ deres frugt.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Og jeg vender"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skæbnen"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "skæbnen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "og de skal bygge"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "ødelagte"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og bo"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "og de skal plante"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vingårde"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "og drikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres vin"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "deres vin"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "og de skal anlægge"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "haver"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "og spise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres frugt"
+    },
+    {
+      "surface": "פריהם",
+      "gloss": "deres frugt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:54:46.404665842Z",
+  "model": "glm-5.3"
+}

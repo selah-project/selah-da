@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og de skal sætte deres håb i Elohim og ikke glemme Els gerninger, men holde hans bud.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "og de skal sætte"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "deres håb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "glemme"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "gerninger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "men hans bud"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "holde"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:15.454257706Z",
+  "model": "glm-5.3"
+}

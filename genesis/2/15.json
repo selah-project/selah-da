@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Jahve Elohim tog ⟨את⟩ mennesket og satte det i Edens have til at dyrke den og vogte den.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennesket"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennesket"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "og satte det"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "i have"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "til at dyrke den"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "og vogte den"
+    }
+  ],
+  "timestamp": "2026-10-03T14:12:21.835623385Z",
+  "model": "glm-5.3"
+}

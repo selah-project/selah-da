@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Gid'on, Jioashs søn, døde i en god alderdom og blev begravet i Jioashs, hans fars, grav i Ofra, ⟨beliggende⟩ i Abi-ha-Ezritis.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "døde"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Jioash"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "i en alderdom"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "god"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "og blev begravet"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "i graven"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Jioashs"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans far"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "i Ofra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abi-"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "ha-Ezritis"
+    }
+  ],
+  "timestamp": "2026-10-03T15:50:11.799142479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 90,
+  "translation": "Vore års dage er i dem halvfirs år, og hvis der ⟨er⟩ styrke, firs år; men deres pragt ⟨er⟩ møje og ondskab, for hurtigt flyver den af sted, og vi flyver bort.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "dage"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "vore års"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "i dem"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "halvfirs"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og hvis"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "der ⟨er⟩ styrke"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "firs"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "men deres pragt"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "møje"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "og ondskab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גז",
+      "gloss": "den flyger af sted"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "hurtigt"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "og vi flyver bort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:06.474274074Z",
+  "model": "glm-5.3"
+}

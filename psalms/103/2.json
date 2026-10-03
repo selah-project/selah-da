@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 103,
+  "translation": "Pris, min sjæl, ⟨את⟩ Jahve, og glem ikke alle hans velgerninger.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Pris"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "glem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "hans velgerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:46.502421382Z",
+  "model": "glm-5.3"
+}

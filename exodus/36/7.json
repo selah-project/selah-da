@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og ⟨materialet⟩ var nok til alt arbejdet med at lave ⟨את⟩ det — og der blev til overs.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Og arbejdet ⟨materialet⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "דים",
+      "gloss": "nok"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til alt"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "arbejdet"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "med at lave"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "det (arbejdet)"
+    },
+    {
+      "surface": "ו הותר",
+      "gloss": "og der blev til overs"
+    }
+  ],
+  "timestamp": "2026-10-03T14:49:15.472686725Z",
+  "model": "glm-5.3"
+}

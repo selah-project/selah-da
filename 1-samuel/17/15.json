@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og David gik og vendte tilbage fra Shaul for at vogte ⟨את⟩ sin fars får i Bet-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Og David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "for at vogte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin fars får"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "får"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sin far"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-10-03T16:02:56.759972407Z",
+  "model": "glm-5.3"
+}

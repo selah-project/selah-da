@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Og Avraham bad til Elohim, og Elohim helbredte ⟨את⟩ Avimelech og ⟨את⟩ hans hustru og hans trælkvinder, og de fødte børn.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "bad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "helbredte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "hans trælkvinder"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "fødte børn"
+    }
+  ],
+  "timestamp": "2026-10-03T14:18:12.835539548Z",
+  "model": "glm-5.3"
+}

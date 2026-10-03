@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og kongen sagde til de vise, som kendte tidene — for sådan var kongens ⟨skik⟩ over for alle, der kendte dat og dom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "til de vise"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "som kendte"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "tidene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kongens ⟨skik⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "over for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "der kendte"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "og dom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:31.297650693Z",
+  "model": "glm-5.3"
+}

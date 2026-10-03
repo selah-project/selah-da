@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og Parohs datter sagde til hende: Gå. Og pigen gik og kaldte på ⟨את⟩ barnets mor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לה",
+      "gloss": "til hende"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohs"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gå"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "pigen"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "og kaldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnets mor"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mor"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnets"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:04.873786717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Men alt dette er intet værd for mig, hver gang jeg ser ⟨את⟩ Mordechai jødæren sidde i kongens port.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "men alt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "er intet"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "værd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "עת",
+      "gloss": "gang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨når⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai jødæren"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "jødæren"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sidde"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "i porten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongens"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:33.208162092Z",
+  "model": "glm-5.3"
+}

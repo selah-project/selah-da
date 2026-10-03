@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og således gjorde han for alle sine fremmede hustruer, ⟨som⟩ brændte røgelse og ofrede til deres guder.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Og således"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde han"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sine hustruer"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "fremmede"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "brændte røgelse"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "og ofrede"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "til deres guder"
+    }
+  ],
+  "timestamp": "2026-10-03T19:37:16.522125890Z",
+  "model": "glm-5.3"
+}

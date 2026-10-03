@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og hvis din korban ⟨er⟩ en mincha på panden, ⟨skal den være⟩ soletmel blandet med olie, usyret skal den være.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "panden"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "din korban"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soletmel"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "blandet"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "med olie"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "usyret"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal den være"
+    }
+  ],
+  "timestamp": "2026-10-03T14:50:34.314081371Z",
+  "model": "glm-5.3"
+}

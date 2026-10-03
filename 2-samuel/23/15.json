@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og David længtes og sagde: Hvem vil give mig vand at drikke fra brønden i Bet-Lechem, den ved porten?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "og længtes"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvem"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "vil give mig at drikke"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "fra brønden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "den"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ved porten"
+    }
+  ],
+  "timestamp": "2026-10-03T16:20:37.649846246Z",
+  "model": "glm-5.3"
+}

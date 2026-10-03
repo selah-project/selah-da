@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Rådfør jer om en rådslagning, og den brydes; tal et ord, og det står ikke fast, for El ⟨er⟩ med os.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Rådfør jer"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "om en rådslagning"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "og den brydes"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "et ord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "står det fast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "med os"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T16:48:50.221072021Z",
+  "model": "glm-5.3"
+}

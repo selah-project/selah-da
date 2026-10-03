@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "og ⟨את⟩ Ajjalon med dens græsgange og ⟨את⟩ Gat-Rimmon med dens græsgange",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajjalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajjalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T19:12:36.962695824Z",
+  "model": "glm-5.3"
+}

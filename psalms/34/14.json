@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "Vogt din tunge fra ondt, og dine læber fra at tale svig.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Vogt"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "din tunge"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "fra ondt"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "og dine læber"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "fra at tale"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:35.476797599Z",
+  "model": "glm-5.3"
+}

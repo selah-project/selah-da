@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Og I skal holse ⟨⟨pagt⟩⟩ på at gøre, som Jahve Jeres Elohim har påbudt ⟨את⟩ Jer; I skal ikke vige af, hverken til højre eller til venstre.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og I skal holde"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "på at gøre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "har påbudt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Jeres Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "Jer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "I skal vige af"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "til højre"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "eller til venstre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:12.888028340Z",
+  "model": "glm-5.3"
+}

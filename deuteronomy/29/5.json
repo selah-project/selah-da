@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Brød har I ikke spist, og vin og stærk drik har I ikke drukket, for at I skal vide, at jeg er Jahve jeres Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "har I spist"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og stærk drik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "har I drukket"
+    },
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T15:32:29.644084567Z",
+  "model": "glm-5.3"
+}

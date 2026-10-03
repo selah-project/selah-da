@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Men du, Jahve, vær ikke fjern; min styrke, skynd dig til min hjælp.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "men du"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vær fjern"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "min styrke"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "til min hjælp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "skynd dig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:07:14.204594685Z",
+  "model": "glm-5.3"
+}

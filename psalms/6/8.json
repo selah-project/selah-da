@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Mit øje visner af sorg, det ældes over alle mine fjender.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "visner"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "af sorg"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ældes"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "over alle"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mine fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:45.104616687Z",
+  "model": "glm-5.3"
+}

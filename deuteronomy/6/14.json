@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "I skal ikke gå efter andre guder, blandt folkenes guder, som ⟨er⟩ rundt omkring jer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "I skal gå"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guder"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "blandt ... guder"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "folkenes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "rundt omkring jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:22:22.920404625Z",
+  "model": "glm-5.3"
+}

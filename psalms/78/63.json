@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Ild fortærede hans unge mænd, og hans jomfruer fik ingen bryllupssang.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "hans unge mænd"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "fortærede"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "og hans jomfruer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "fik nogen lovsang ⟨bryllupssang⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:43.637986396Z",
+  "model": "glm-5.3"
+}

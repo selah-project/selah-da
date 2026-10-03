@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Læg dig ikke i baghold, du røver, ved den retfærdiges bolig; ødelæg ikke hans hvilested.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "Læg dig i baghold"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du røver"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "ved ... bolig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "den retfærdiges"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "ødelæg"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "hans hvilested"
+    }
+  ],
+  "timestamp": "2026-10-03T18:34:40.742396424Z",
+  "model": "glm-5.3"
+}

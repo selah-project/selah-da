@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 101,
+  "translation": "Den som øver svig skal ikke sidde midt i mit hus; den som taler løgne skal ikke bestå foran mine øjne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "skal sidde"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mit hus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "den som øver"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "den som taler"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "løgne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "skal bestå"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "foran"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:21:51.130312693Z",
+  "model": "glm-5.3"
+}

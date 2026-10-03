@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 44,
+  "translation": "Thi du har frelst os fra vore modstandere, og dem der hader os, har du gjort til skamme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "du har frelst os"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "fra vore modstandere"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "og dem der hader os"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "har du gjort til skamme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:14.676422628Z",
+  "model": "glm-5.3"
+}

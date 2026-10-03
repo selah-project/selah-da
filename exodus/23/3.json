@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og en fattig skal du ikke vise ære i hans retssag.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "og en fattig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "skal du vise ære"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "i hans retssag"
+    }
+  ],
+  "timestamp": "2026-10-03T14:40:34.481616672Z",
+  "model": "glm-5.3"
+}

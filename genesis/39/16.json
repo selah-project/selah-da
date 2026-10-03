@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "translation": "Og hun lagde hans klædebon hos sig, indtil hans herre kom hjem til sit hus.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "Og hun lagde"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hans klædebon"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "hos sig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sit hus"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:21.113010998Z",
+  "model": "glm-5.3"
+}

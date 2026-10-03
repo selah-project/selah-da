@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 34,
+  "translation": "og ⟨את⟩ hele Naftali, og ⟨את⟩ Efraims og Menashhes land, og ⟨את⟩ hele Judas land helt til det bagerste hav,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Efraims land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraims"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "og Menashhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hele Judas land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "helt til"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "det bagerste"
+    }
+  ],
+  "timestamp": "2026-10-03T15:35:33.901028615Z",
+  "model": "glm-5.3"
+}

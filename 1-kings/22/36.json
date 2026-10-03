@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og råbet gik gennem lejren ved solnedgang: Hver mand til sin by, og hver mand til sit land!",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Og gik"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "råbet"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "gennem lejren"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ved"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solnedgang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "med ordene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sin by"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hver mand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sit land"
+    }
+  ],
+  "timestamp": "2026-10-03T16:35:23.831267382Z",
+  "model": "glm-5.3"
+}

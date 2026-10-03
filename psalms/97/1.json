@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 97,
+  "translation": "Jahve er blevet konge; jorden skal fryde sig, de mange øer skal glæde sig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "er blevet konge"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "skal fryde sig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "skal glæde sig"
+    },
+    {
+      "surface": "איים",
+      "gloss": "øer"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "de mange"
+    }
+  ],
+  "timestamp": "2026-10-03T18:20:43.514382787Z",
+  "model": "glm-5.3"
+}

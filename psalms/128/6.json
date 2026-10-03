@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 128,
+  "translation": "Og se dine børns børn — fred over Jisrael!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "børn"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "af dine børn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fred"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T18:25:35.791008989Z",
+  "model": "glm-5.3"
+}

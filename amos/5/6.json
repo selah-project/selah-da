@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Søg ⟨את⟩ Jahve, og I skal leve — for at ikke ild skal bryde ud i Josefs hus og fortære ⟨det⟩, uden at nogen slukker den, for Beit-Els skyld.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Søg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "og I skal leve"
+    },
+    {
+      "surface": "פן",
+      "gloss": "for at ikke"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "skal bryde ud"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "som ild"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefs"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og fortære"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og uden"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "slukker"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "for Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els skyld"
+    }
+  ],
+  "timestamp": "2026-10-03T17:54:52.377634604Z",
+  "model": "glm-5.3"
+}

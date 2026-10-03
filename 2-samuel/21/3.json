@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "og David sagde til gibeonitterne: Hvad skal jeg gøre for jer, og hvormed skal jeg skabe soning, så I velsigner ⟨את⟩ Jahves arvelod?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "gibeonitterne"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skal jeg gøre"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "og hvormed"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "skal jeg skabe soning"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "så I velsigner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves arvelod"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arvelod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    }
+  ],
+  "timestamp": "2026-10-03T16:18:55.545679024Z",
+  "model": "glm-5.3"
+}

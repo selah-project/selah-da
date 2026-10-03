@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 62,
+  "translation": "Alene ⟨er⟩ han min klippe og min frelse, min højborg; ikke rocker jeg meget.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "og min frelse"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "min højborg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "rocker jeg"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "meget"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:24.582611478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Du må ikke udlevere en træl til hans herre, ⟨han⟩ som er flygtet til dig fra sin herre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "Du må udlevere"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "en træl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hans herre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "er flygtet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til dig"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "fra"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sin herre"
+    }
+  ],
+  "timestamp": "2026-10-03T15:30:34.162416979Z",
+  "model": "glm-5.3"
+}

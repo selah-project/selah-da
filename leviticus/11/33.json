@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og hvert kar af ler, som noget af dem falder ned i dets indre, alt hvad der er i dets indre, skal være urent, og ⟨את⟩ det skal I slå i stykker.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og hvert"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "af ler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "falder"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "noget af dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ned i"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "dets indre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad der"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "i dets indre"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "skal være urent"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ det",
+      "marks": "det (lerkaret)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "skal I slå i stykker"
+    }
+  ],
+  "timestamp": "2026-10-03T14:53:41.375387032Z",
+  "model": "glm-5.3"
+}

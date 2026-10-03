@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og Salmon avlede ⟨את⟩ Boaz, og Boaz avlede ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Og Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "og Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:47:41.788488400Z",
+  "model": "glm-5.3"
+}

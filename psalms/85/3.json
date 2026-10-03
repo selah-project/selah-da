@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Du bar ⟨את⟩ dit folks skyld, du dækkede al deres synd. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Du bar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folks"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "du dækkede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "deres synd"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:05.954701562Z",
+  "model": "glm-5.3"
+}

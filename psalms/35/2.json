@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Grib skjold og skjolddæk, og stå op til min hjælp.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Grib"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjold"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "og skjolddæk"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "og stå op"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "til min hjælp"
+    }
+  ],
+  "timestamp": "2026-10-03T18:09:57.131333368Z",
+  "model": "glm-5.3"
+}

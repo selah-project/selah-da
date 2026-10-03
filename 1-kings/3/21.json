@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og jeg stod op om morgenen for at die min søn, og se, ⟨var han⟩ død; og jeg betragtede ham om morgenen, og se, det var ikke min søn, som jeg havde født.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "og jeg stod op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "for at die"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min søn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "מת",
+      "gloss": "død"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "og jeg betragtede"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "jeg havde født"
+    }
+  ],
+  "timestamp": "2026-10-03T16:22:11.455096026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og jeg, Daniel, så alene ⟨את⟩ synet, og mændene som var med mig, så ikke ⟨את⟩ synet; men en stor rædsel faldt over dem, og de flygtede, medens de skjulte sig.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "og så jeg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synet"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synet"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "og mændene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "היו",
+      "gloss": "var"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synet"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synet"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "men"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "en rædsel"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "faldt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "og de flygtede"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "medens de skjulte sig"
+    }
+  ],
+  "timestamp": "2026-10-03T19:00:47.334819032Z",
+  "model": "glm-5.3"
+}

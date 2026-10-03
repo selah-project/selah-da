@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 86,
+  "translation": "Der er ingen som dig blandt guder, Adonaj, og ingen gerninger som dine gerninger.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Der er ingen"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "som dig"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "blandt guder"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ingen"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "som dine gerninger"
+    }
+  ],
+  "timestamp": "2026-10-03T18:19:03.499522506Z",
+  "model": "glm-5.3"
+}

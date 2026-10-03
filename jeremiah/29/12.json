@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 29,
+  "translation": "Og I skal kaldе på mig ⟨את⟩, og I skal gå og bede til mig, og jeg vil høre jer.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Og I skal kalde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "og I skal gå"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "og bede"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "og jeg vil høre"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T17:20:20.558951141Z",
+  "model": "glm-5.3"
+}

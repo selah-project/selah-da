@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 58,
+  "translation": "Må de forsvinde som vand, må de løbe bort; når han spænder sine pile, må de blive som afskårne.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "må de forsvinde"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "må de løbe bort"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "når han spænder"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "sine pile"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "som"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "afskårne"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:47.346821393Z",
+  "model": "glm-5.3"
+}

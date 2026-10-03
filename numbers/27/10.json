@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "Og hvis han ikke har brødre, skal I give ⟨את⟩ hans arv til hans fars brødre.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og hvis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ikke har"
+    },
+    {
+      "surface": "לו",
+      "gloss": "han"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "brødre"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "skal I give"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hans arv"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hans arv"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "til brødre"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hans fars"
+    }
+  ],
+  "timestamp": "2026-10-03T15:16:01.760657014Z",
+  "model": "glm-5.3"
+}

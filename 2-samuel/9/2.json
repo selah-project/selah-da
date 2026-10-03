@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Shauls hus havde en træl, og hans navn var Tsiba; og de kaldte ham ind til David, og kongen sagde til ham: Er du Tsiba? Og han sagde: Din træl.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "Og Shauls hus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "træl"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "og hans navn"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "og de kaldte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Er du"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T16:12:46.666964405Z",
+  "model": "glm-5.3"
+}

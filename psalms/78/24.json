@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Og han lod man regne ned over dem at spise, og himlens korn gav han dem.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Og han lod regne"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over dem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "at spise"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "og korn"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himmels"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:07.872281822Z",
+  "model": "glm-5.3"
+}

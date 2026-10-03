@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og jeg gjorde en ark af shittim-træ, og jeg hug to stentavler som de første, og jeg steg op på bjerget med de to tavler i min hånd.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "og jeg gjorde"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af træ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "og jeg hug"
+    },
+    {
+      "surface": "שני",
+      "gloss": "to"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tavler"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sten-"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "som de første"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "og jeg steg op"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "på bjerget"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "med de to"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tavler"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i min hånd"
+    }
+  ],
+  "timestamp": "2026-10-03T15:24:54.786135486Z",
+  "model": "glm-5.3"
+}

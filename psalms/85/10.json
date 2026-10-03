@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 85,
+  "translation": "Ja, nær ⟨er⟩ hans frelse dem, der frygter ham, så herlighed kan bo i vort land.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nær"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "dem der frygter ham"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "hans frelse"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "så … kan bo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "herlighed"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "i vort land"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:50.469964872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 87,
+  "translation": "Jahve tæller, når han skriver folkene op: Denne er født dér. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "tæller"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "når han skriver op"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "folkene"
+    },
+    {
+      "surface": "זה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "er født"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:49.785573802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og Jehojakim lagde sig til hvile hos sine fædre, og hans søn Jehojakin blev konge i hans sted.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Og … lagde sig til hvile"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sine fædre"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og … blev konge"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "i hans sted"
+    }
+  ],
+  "timestamp": "2026-10-03T16:47:15.179910322Z",
+  "model": "glm-5.3"
+}

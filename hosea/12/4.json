@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "I modervommen holdt han ⟨את⟩ sin broder i hælen, og i sin kraft kæmpede han med ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "i modervommen"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "holdt han i hælen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin broder"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sin broder"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "og i sin kraft"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "kæmpede han"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "med Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T17:51:39.311613367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Thi de bøjede ondt imod dig; de udtænkte en ondsindet plan — de formår det ikke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "de bøjede"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "imod dig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "de udtænkte"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "en ondsindet plan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "de formår"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:50.921678376Z",
+  "model": "glm-5.3"
+}

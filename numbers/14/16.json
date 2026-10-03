@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "fordi Jahve ikke var i stand til at føre ⟨את⟩ dette folk ind i det land, han svor dem, derfor slagtede han dem i ødemarken.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "fordi ikke"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "var i stand til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "at føre ind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette folk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ind i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "han svor"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "derfor slagtede han dem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ødemarken"
+    }
+  ],
+  "timestamp": "2026-10-03T15:09:27.294978696Z",
+  "model": "glm-5.3"
+}

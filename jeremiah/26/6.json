@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "så giver jeg ⟨את⟩ dette hus som Shilo, og ⟨את⟩ denne by giver jeg til en forbandelse for alle jordens folkeslag.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "så giver jeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette hus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dette hus"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "som Shilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "denne by"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "denne by"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "denne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "giver jeg"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "til en forbandelse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jordens"
+    }
+  ],
+  "timestamp": "2026-10-03T17:18:38.921497230Z",
+  "model": "glm-5.3"
+}

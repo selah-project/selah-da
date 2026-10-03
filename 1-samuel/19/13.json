@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Mikal tog terafim ⟨את⟩ og lagde ⟨den⟩ på sengen, og et geddehårs-teknilde lagde hun ved hans hovedgærde og dækkede det med et klæde.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Og tog"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "og lagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "sengen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "geddehårs-teknilde"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "et vævet teknilde"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "af geder"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lagde hun"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ved hans hovedgærde"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "og dækkede"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "med et klæde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:04:09.540373517Z",
+  "model": "glm-5.3"
+}

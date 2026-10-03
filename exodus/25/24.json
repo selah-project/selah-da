@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal overtrække ⟨את⟩ det med rent guld, og du skal lave det en krans af guld rundt om.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Og du skal overtrække"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "det"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "guld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og du skal lave"
+    },
+    {
+      "surface": "לו",
+      "gloss": "det"
+    },
+    {
+      "surface": "זר",
+      "gloss": "en krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:12.490051356Z",
+  "model": "glm-5.3"
+}

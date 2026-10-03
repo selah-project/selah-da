@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Jehoachaz blødgjorde ⟨את⟩ Jahves ansigt, og Jahve hørte ham; for han så ⟨את⟩ Jisraels trængsel — thi kongen af Aram trængte ⟨את⟩ dem.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "og blødgjorde"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahves ansigt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hørte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "så"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels trængsel"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "trængsel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "trængte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-03T16:42:22.429474120Z",
+  "model": "glm-5.3"
+}

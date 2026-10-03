@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 1:35",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og I skal gå op efter ham, og han skal komme og sidde på min trone, og han skal regere i mit sted; ham har jeg befaling givet til at være fyrste over Jisrael og over Jehudah.",
+  "tokens": [
+    {
+      "surface": "ועליתם",
+      "gloss": "og I skal gå op"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "efter ham"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og han skal komme"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og han skal sidde"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "min trone"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og han"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "skal regere"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "i mit sted"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "og ⟨את⟩ ham",
+      "marks": "ham — genstand for befalingen"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "har jeg befalet"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "at være"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "fyrste"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og over"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    }
+  ],
+  "timestamp": "2026-10-03T16:21:45.455124887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 33,
+  "translation": "Og Moshe skrev deres udgange efter deres rejser, efter Jahves ord, og dette er deres rejser efter deres udgange.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Og ... skrev"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres udgange"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "deres udgange"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "efter deres rejser"
+    },
+    {
+      "surface": "על",
+      "gloss": "efter"
+    },
+    {
+      "surface": "פי",
+      "gloss": "... ord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "og dette er"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "deres rejser"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "efter deres udgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:18:56.591507178Z",
+  "model": "glm-5.3"
+}

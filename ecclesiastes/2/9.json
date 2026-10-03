@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og jeg blev stor, og jeg fik mere end alle ⟨der⟩ var før mig i Jerushalajim; også min visdom stod fast for mig.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "Og jeg blev stor"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "og jeg fik mere"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "end alle"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "der var"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "før mig"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "også"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "min visdom"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "stod fast"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:15.544639536Z",
+  "model": "glm-5.3"
+}

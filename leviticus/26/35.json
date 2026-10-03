@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Alle de dage, det ligger øde, skal det holde Shabbat, ⟨det⟩ ⟨את⟩ som det ikke fik hvilet i jeres Shabbatter, mens I boede på det.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "de dage"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "det ligger øde"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "skal holde Shabbat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "det som det ikke fik hvilet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "fik hvilet"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "i jeres Shabbatter"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "mens I boede"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "på det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:02:18.078601842Z",
+  "model": "glm-5.3"
+}

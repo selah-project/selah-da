@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 78,
+  "translation": "Men de bedrog ham med deres mund, og med deres tunge løj de for ham.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "men de bedrog ham"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "med deres mund"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "og med deres tunge"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "løj de"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:17:35.454216618Z",
+  "model": "glm-5.3"
+}

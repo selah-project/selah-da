@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og du skal lave to keruber af guld; hamret arbejde skal du lave ⟨את⟩ dem af, ved de to ender af kaporeten.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og du skal lave"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "to"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruber"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hamret arbejde"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal du lave"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem (keruberne)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ved de to"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ender"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "af kaporeten"
+    }
+  ],
+  "timestamp": "2026-10-03T14:43:36.373929374Z",
+  "model": "glm-5.3"
+}

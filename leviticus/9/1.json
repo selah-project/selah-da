@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og det skete på den ottende dag, at Moshe kaldte på Aharon og hans sønner og på Jisraels ældste.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på ⟨den⟩ dag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ottende"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "på Aharon"
+    },
+    {
+      "surface": "ו לבניו",
+      "gloss": "og på hans sønner"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "og på ældste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-03T14:54:23.612481463Z",
+  "model": "glm-5.3"
+}

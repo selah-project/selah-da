@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Lad dem lægges i ruiner som løn for deres skam, de som siger til mig: Hea, hea!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "lad dem lægges i ruiner"
+    },
+    {
+      "surface": "על",
+      "gloss": "som"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "løn for"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "deres skam"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "de som siger"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mig"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:58.806523509Z",
+  "model": "glm-5.3"
+}

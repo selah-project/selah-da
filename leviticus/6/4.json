@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "Og han skal afklæde sig ⟨את⟩ sine klæder og iføre sig andre klæder og bringe ⟨את⟩ asken ud uden for lejren, til et rent sted.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Og han skal afklæde sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sine klæder"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sine klæder"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "og iføre sig"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "klæder"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "andre"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "og bringe … ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asken"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "asken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "uden for"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lejren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "et sted"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rent"
+    }
+  ],
+  "timestamp": "2026-10-03T14:52:59.190336562Z",
+  "model": "glm-5.3"
+}

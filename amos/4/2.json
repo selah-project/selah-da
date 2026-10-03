@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Adonaj Jahve har svoret ved sin hellighed: Se, dage kommer over jer, og I skal løftes bort med kroge, og jeres sidste rest med fiskekroge.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "har svoret"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ved sin hellighed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over jer"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "skal løftes bort"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer (objekt for 'løftes bort')"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "med kroge"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "og jeres sidste rest"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "med fiskekroge"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "fiskekroge"
+    }
+  ],
+  "timestamp": "2026-10-03T17:53:35.635929918Z",
+  "model": "glm-5.3"
+}

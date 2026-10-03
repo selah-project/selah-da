@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Jeg ⟨siger⟩: Vogt på kongens mund, og ⟨det⟩ i henhold til eden fra Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongens"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "vogt på"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og i henhold til"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "på grund af"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "eden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "fra Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T18:52:42.756498348Z",
+  "model": "glm-5.3"
+}

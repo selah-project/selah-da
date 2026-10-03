@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "Mine ord — lyt, Jahve, forstå min hægen.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "mine ord"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "lyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "forstå"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "min hægen"
+    }
+  ],
+  "timestamp": "2026-10-03T18:04:26.781259928Z",
+  "model": "glm-5.3"
+}

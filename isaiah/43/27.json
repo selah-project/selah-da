@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 43,
+  "translation": "Din første fader syndede, og dine talsmænd gjorde oprør imod mig.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Din fader"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "første"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syndede"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "og dine talsmænd"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "gjorde oprør"
+    },
+    {
+      "surface": "בי",
+      "gloss": "imod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T17:01:34.111796956Z",
+  "model": "glm-5.3"
+}

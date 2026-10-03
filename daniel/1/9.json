@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Elohim gav ⟨את⟩ Daniel til chesed og til barmhjertighed for øje af høvdingen over hofmændene.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gav"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "til chesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "og til barmhjertighed"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "for øje af"
+    },
+    {
+      "surface": "שר",
+      "gloss": "høvdingen"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "over hofmændene"
+    }
+  ],
+  "timestamp": "2026-10-03T18:55:42.404053817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Dette husker jeg og udøser min sjæl over mig, hvordan jeg gik med skaren og trådte frem med dem til Elohims hus, med råb af jubel og tak, en mængde, der holdt højtid.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "husker jeg"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "og udøser"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hvordan"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "jeg gik"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "med skaren"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "trådte frem med dem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "med råb"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "af jubel"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "og tak"
+    },
+    {
+      "surface": "המון",
+      "gloss": "en mængde"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "der holdt højtid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:32.528170891Z",
+  "model": "glm-5.3"
+}

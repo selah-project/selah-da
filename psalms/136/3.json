@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 136,
+  "translation": "Lovpris Adonaj over herrene, thi til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Lovpris"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaj over"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "herrene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T19:43:27.133136579Z",
+  "model": "glm-5.3"
+}

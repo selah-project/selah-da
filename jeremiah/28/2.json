@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Således siger Jahve Tsevaot, Jisraels Elohim: Jeg har brudt ⟨את⟩ Babels konges åg.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "for at sige"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "har jeg brudt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babels konges åg"
+    },
+    {
+      "surface": "על",
+      "gloss": "åg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-10-03T17:21:23.861108947Z",
+  "model": "glm-5.3"
+}

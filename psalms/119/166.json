@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Jeg har ventet på din frelse, Jahve, og dine bud har jeg gjort.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "jeg har ventet"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "på din frelse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "og dine bud"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "har jeg gjort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:58.207621098Z",
+  "model": "glm-5.3"
+}

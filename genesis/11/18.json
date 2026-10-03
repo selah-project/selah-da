@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Peleg levede tredive år og avlede ⟨את⟩ Re'u.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Og Peleg levede"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tredive"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Re'u"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    }
+  ],
+  "timestamp": "2026-10-03T14:15:37.961620734Z",
+  "model": "glm-5.3"
+}

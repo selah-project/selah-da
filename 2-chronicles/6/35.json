@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "translation": "så skal du høre fra himlene ⟨את⟩ deres bøn og ⟨את⟩ deres plejen og skaffe dem ret.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "så skal du høre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "fra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres bøn"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "deres bøn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deres plejen"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "deres plejen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "deres ret"
+    }
+  ],
+  "timestamp": "2026-10-03T19:20:18.601755265Z",
+  "model": "glm-5.3"
+}

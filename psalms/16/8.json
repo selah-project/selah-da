@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "Jeg har stillet Jahve foran mig bestandigt; for fra min højre hånd vakler jeg ikke.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "jeg har stillet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "foran mig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "fra min højre hånd"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "vakler jeg"
+    }
+  ],
+  "timestamp": "2026-10-03T18:06:06.444835494Z",
+  "model": "glm-5.3"
+}

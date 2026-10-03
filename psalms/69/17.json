@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 69,
+  "translation": "Svar mig, Jahve, for din chesed er god; efter mangfoldigheden af dine barmhjertigheder vend dit ansigt til mig.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Svar mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "din chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "efter mangfoldigheden"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "af dine barmhjertigheder"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "vend"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dit ansigt til mig"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:47.415177005Z",
+  "model": "glm-5.3"
+}

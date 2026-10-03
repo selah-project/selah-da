@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 2,
+  "translation": "Og han sagde til sine døtre: Hvor er han? Hvorfor har I forladt manden ⟨את⟩? Kald på ham, så han kan spise brød.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "sine døtre"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Hvor er han"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hvorfor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "det"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "har I forladt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manden"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Kald"
+    },
+    {
+      "surface": "לו",
+      "gloss": "på ham"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "så han kan spise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:51.009027061Z",
+  "model": "glm-5.3"
+}

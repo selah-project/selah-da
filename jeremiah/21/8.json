@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og til dette folk skal du sige: Sådan siger Jahve: Se, jeg sætter foran jer ⟨את⟩ livets vej og ⟨את⟩ dødens vej.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "skal du sige"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, jeg"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sætter"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "foran jer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "livets vej"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "til livet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dødens vej"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vejen"
+    },
+    {
+      "surface": "המות",
+      "gloss": "til døden"
+    }
+  ],
+  "timestamp": "2026-10-03T17:17:18.810924294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og Moshe sagde: Jeg vil vende bort og se ⟨את⟩ dette store syn, hvorfor tornebusken ikke brænder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Jeg vil vende bort"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dog"
+    },
+    {
+      "surface": "וואראה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dette store syn"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "synet"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "store"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dette"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brænder"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "tornebusken"
+    }
+  ],
+  "timestamp": "2026-10-03T14:32:46.429736743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg sagde i mit hjerte: Den retfærdige og ⟨את⟩ den ugudlige skal Elohim dømme, for der er en tid for hvert ønske og for hver handling der.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "sagde jeg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "i mit hjerte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den retfærdige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "den ugudlige"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "den ugudlige"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "skal dømme"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עת",
+      "gloss": "en tid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for hvert"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ønske"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og for"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "handling"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-03T18:51:24.104146266Z",
+  "model": "glm-5.3"
+}

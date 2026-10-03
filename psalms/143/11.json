@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 143,
+  "translation": "For dit navns skyld, Jahve, skal du give mig liv; i din tsedek skal du føre min sjæl ud af trængsel.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for … skyld"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "dit navns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "skal du give mig liv"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "i din tsedek"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "skal du føre ud"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "af trængsel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T18:26:52.876955665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Halleluja! Pris Jah, bekend ⟨את⟩ Jahve, for han er god, for til evigheden ⟨varer⟩ hans chesed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halleluja! Pris"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bekend"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "god"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evigheden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hans chesed"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:41.533905454Z",
+  "model": "glm-5.3"
+}

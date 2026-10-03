@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 23:19",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Det første af førstegrøden af din jord skal du bringe til Jahve din Elohims hus. Du må ikke koge et kid i dets mors mælk.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Det første"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "af førstegrøden"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "af din jord"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "skal du bringe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "din Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "Du må ikke koge"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "et kid"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "i mælken"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "af dets mor"
+    }
+  ],
+  "timestamp": "2026-10-03T14:41:32.726211163Z",
+  "model": "glm-5.3"
+}

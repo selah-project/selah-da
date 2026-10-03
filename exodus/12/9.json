@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "I må ikke spise noget af det råt eller kogt, kogt i vand, men kun stegt over ild — dets hoved med dets ben og med dets indre.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "I må spise"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af det"
+    },
+    {
+      "surface": "נא",
+      "gloss": "råt"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "eller kogt"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "kogt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "i vand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "stegt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "over ild"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "dets hoved"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "dets ben"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og med"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "dets indre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:36:13.002523183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Ikke så! Gå nu, I mænd, og tjén ⟨את⟩ Jahve, for det er ⟨את⟩ ⟨det⟩, I søger. Og han drev dem ud fra ⟨את⟩ Faraos ansigt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ikke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "så"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nu"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "I mænd"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "og tjén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨det⟩",
+      "marks": "I søger"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "I"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "søger"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Og han drev ud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem",
+      "marks": "fra Faraos ansigt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "fra ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ansigt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T14:35:25.804933731Z",
+  "model": "glm-5.3"
+}

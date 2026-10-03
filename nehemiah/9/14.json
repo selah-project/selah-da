@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og ⟨את⟩ din hellige Shabbat gjorde du dem bekendt, og bud og vedtekter og Tora befalede du dem ved hånden af Moshe, din træl.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "din hellige Shabbat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "din hellige"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "gjorde du bekendt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "og bud"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "og vedtekter"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "og Tora"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "befalede du"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånden af"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "din træl"
+    }
+  ],
+  "timestamp": "2026-10-03T19:07:33.118579202Z",
+  "model": "glm-5.3"
+}

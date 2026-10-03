@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Og Josua gjorde mod dem, som Jahve havde sagt til ham: ⟨את⟩ deres heste gjorde han tjenestedygtige forgæves ⟨ved at skære senerne over⟩, og ⟨את⟩ deres vogne brændte han med ild.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og gjorde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mod dem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres heste"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "deres heste"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "skar senerne over på"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres vogne"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "deres vogne"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "med ild"
+    }
+  ],
+  "timestamp": "2026-10-03T15:40:49.868714753Z",
+  "model": "glm-5.3"
+}

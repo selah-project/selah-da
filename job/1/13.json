@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og der kom en dag, hvor hans sønner og hans døtre spiste og drak vin i deres bror den førstefødtes hus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og der kom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "og hans døtre"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "spiste"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "og drak"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "hos deres bror"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "den førstefødte"
+    }
+  ],
+  "timestamp": "2026-10-03T18:36:57.063547386Z",
+  "model": "glm-5.3"
+}

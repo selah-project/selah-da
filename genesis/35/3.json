@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 35:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 35,
+  "translation": "Og lad os stå op og stige op til Beit-El, og jeg vil lave dér et alter til El, ⟨ham⟩ som svarede mig på min trængsels dag, og ⟨som⟩ var med mig på den vej, jeg gik.",
+  "tokens": [
+    {
+      "surface": "ונקומה",
+      "gloss": "Og lad os stå op"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "og stige op"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "og jeg vil lave"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dér"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "et alter"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "til El"
+    },
+    {
+      "surface": "הענה",
+      "gloss": "⟨ham⟩ som svarede"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (objekt for 'svarede')"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "på"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "min trængsels dag"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og ⟨var⟩"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på den vej"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "jeg gick"
+    }
+  ],
+  "timestamp": "2026-10-03T14:25:47.619852589Z",
+  "model": "glm-5.3"
+}

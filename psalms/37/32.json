@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 37,
+  "translation": "Den gudløse vogter på den retfærdige og søger at slå ham ihjel.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "vogter på"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den gudløse"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "den retfærdige"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "og søger"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "at slå ham ihjel"
+    }
+  ],
+  "timestamp": "2026-10-03T18:10:23.556697326Z",
+  "model": "glm-5.3"
+}

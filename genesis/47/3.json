@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 47,
+  "translation": "Og Farao sagde til hans brødre: Hvad er jeres erhverv? Og de sagde til Farao: Dine tjenere er hyrder, både vi og vore fædre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Farao sagde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Og Farao sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvad"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "er jeres erhverv"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og de sagde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "er hyrder"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "er hyrder"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Dine tjenere"
+    },
+    {
+      "surface": "גם",
+      "gloss": "både"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "vore fædre"
+    }
+  ],
+  "timestamp": "2026-10-03T14:31:09.596077586Z",
+  "model": "glm-5.3"
+}

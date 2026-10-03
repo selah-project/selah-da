@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og vandene vendte tilbage fra jorden, ⟨de⟩ gik og vendte tilbage; og vandene svandt efter enden af halvtreds hundrede dage.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "og vendte tilbage"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "og svandt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "efter enden af"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "og hundrede"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dage"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:17.898081093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og jeg sælger ⟨את⟩ jeres sønner og ⟨את⟩ jeres døtre i Jehudas børns hånd, og de sælger dem til shabafolket, til et fjernt folk; for Jahve har talt.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "og jeg sælger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeres sønner"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jeres sønner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jeres døtre"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "jeres døtre"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børnene af"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "og de sælger dem"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "til shabafolket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fjernet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "har talt"
+    }
+  ],
+  "timestamp": "2026-10-03T17:52:57.249629444Z",
+  "model": "glm-5.3"
+}

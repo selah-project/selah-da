@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "translation": "Og han gjorde ⟨את⟩ brættet til Mishkan: tyve brætter for sydsiden, sydpå.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og han gjorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brættet"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "brættet"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "til Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tyve"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "brætter"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "for siden"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "syd"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sydpå"
+    }
+  ],
+  "timestamp": "2026-10-03T14:48:42.857401566Z",
+  "model": "glm-5.3"
+}

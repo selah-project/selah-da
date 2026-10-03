@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 67,
+  "translation": "Elohim være os nådig og velsigne os, lad sit ansigt lyse over os ⟨את⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "være os nådig"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "og velsigne os"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "lad lyse"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "os"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:42.289294393Z",
+  "model": "glm-5.3"
+}

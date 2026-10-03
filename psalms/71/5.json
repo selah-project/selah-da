@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 71,
+  "translation": "For du er mit håb, Adonaj Jahve, min tillid fra min ungdom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mit håb"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "min tillid"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "fra min ungdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:06.335534588Z",
+  "model": "glm-5.3"
+}

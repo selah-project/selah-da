@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 22,
+  "translation": "Og han sagde: Jahve ⟨er⟩ min klippe og min fæstning og min befrier for mig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og han sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "min klippe"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "og min fæstning"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og min befrier"
+    },
+    {
+      "surface": "לי",
+      "gloss": "for mig"
+    }
+  ],
+  "timestamp": "2026-10-03T16:19:06.761692540Z",
+  "model": "glm-5.3"
+}

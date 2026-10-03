@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "⟨את⟩ hele det ord, som jeg byder jer, det skal I vogte på at gøre; I må ikke føje noget til det og ikke trække noget fra det.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele det ord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "det ord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "byder"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ det"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skal I vogte"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "på at gøre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "må I føje til"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "til det"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "trække fra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fra det"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:26.208028238Z",
+  "model": "glm-5.3"
+}

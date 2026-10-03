@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Thi den fattige vil ikke ophøre midt i landet; derfor byder jeg dig og siger: Åbn, du skal åbne ⟨את⟩ din hånd for din broder, for din arme og for din fattige i dit land.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Thi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "vil ophøre"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "den fattige"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "midt i"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "על",
+      "gloss": "Derfor"
+    },
+    {
+      "surface": "כן",
+      "gloss": "derfor"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "byder dig"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og siger"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Åbn"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "du skal åbne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "din hånd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "din hånd"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "for din broder"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "for din arme"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "og for din fattige"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "i dit land"
+    }
+  ],
+  "timestamp": "2026-10-03T15:26:59.289304776Z",
+  "model": "glm-5.3"
+}

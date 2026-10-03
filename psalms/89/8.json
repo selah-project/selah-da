@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "El, frygtindgydende i de helliges råd, stor og ærefrygtindgydende over alt omkring ham.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "frygtindgydende"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "i rådet"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "af hellige"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "stor"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "og ærefrygtindgydende"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "omkring ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:59.818791068Z",
+  "model": "glm-5.3"
+}

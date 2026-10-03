@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Jeg kendte dig i ørkenen, i det tørstens land.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "kendte jeg dig"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "i ørkenen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "af tørst"
+    }
+  ],
+  "timestamp": "2026-10-03T19:41:00.710054726Z",
+  "model": "glm-5.3"
+}

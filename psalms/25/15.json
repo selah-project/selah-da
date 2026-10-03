@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Mine øjne ⟨er⟩ bestandigt mod Jahve, for han vil føre mine fødder ud af nettet.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mine øjne"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "bestandigt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "vil føre ud"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "af nettet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mine fødder"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:24.665573193Z",
+  "model": "glm-5.3"
+}

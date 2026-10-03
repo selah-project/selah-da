@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 89,
+  "translation": "Som månen skal den stå fast for evigt, og ⟨som⟩ et trofast vidne i skyhøjden. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "som månen"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "skal stå fast"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og ⟨som⟩ et vidne"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "i skyhøjden"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "trofast"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:18:52.133899020Z",
+  "model": "glm-5.3"
+}

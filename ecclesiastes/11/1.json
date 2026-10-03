@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 11,
+  "translation": "Send dit brød ud på vandenes flade, for efter mange dage skal du finde det igen.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Send ud"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "dit brød"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fladen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "i mængden ⟨af⟩"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dagene"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "skal du finde det"
+    }
+  ],
+  "timestamp": "2026-10-03T18:53:02.485115921Z",
+  "model": "glm-5.3"
+}

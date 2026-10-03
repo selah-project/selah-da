@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og vi tog på den tid ⟨את⟩ landet fra hånden af de to konger i emoriternes land, som ⟨lå⟩ på den anden side af Jordan, fra Arnon-floden til Hermon-bjerget.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "og vi tog"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "på"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den tid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landet"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "fra hånden af"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de to"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konger"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriternes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "på den anden side af"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordan"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "fra floden"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bjerg"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    }
+  ],
+  "timestamp": "2026-10-03T15:20:53.939387820Z",
+  "model": "glm-5.3"
+}

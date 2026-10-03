@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 65,
+  "translation": "Du kroner året med din godhed, og dine stier drypper fedme.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Du kroner"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "året"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "med din godhed"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "og dine stier"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "drypper"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "fedme"
+    }
+  ],
+  "timestamp": "2026-10-03T18:14:29.321928952Z",
+  "model": "glm-5.3"
+}

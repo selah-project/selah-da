@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og du gjorde ham lidt mindre end Elohim, med ære og pragt kronede du ham.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Og du gjorde ham mindre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lidt"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "end Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "med ære"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og pragt"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "kronede du ham"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:37.729609350Z",
+  "model": "glm-5.3"
+}

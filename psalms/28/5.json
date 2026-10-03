@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 28,
+  "translation": "Fordi de ikke agter Jahves gjerninger og ikke hans hænders værk — han nedbryder dem og opbygger dem ikke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "de agter"
+    },
+    {
+      "surface": "אל",
+      "gloss": "på"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "gjerninger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "værk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hans hænders"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "han nedbryder dem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "opbygger dem"
+    }
+  ],
+  "timestamp": "2026-10-03T18:08:40.570803312Z",
+  "model": "glm-5.3"
+}

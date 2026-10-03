@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "da",
+  "chapter": 4,
+  "translation": "Og derfra skal I søge ⟨את⟩ Jahve, jeres Elohim, og I skal finde ⟨ham⟩, når I søger ⟨ham⟩ med hele jeres hjerte og med hele jeres sjæl.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Og I skal søge"
+    },
+    {
+      "surface": "משם",
+      "gloss": "derfra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "og I skal finde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "I søger ham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "jeres hjerte"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og med hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jeres sjæl"
+    }
+  ],
+  "timestamp": "2026-10-03T19:33:10.883935296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 20,
+  "translation": "Da vendte han ⟨את⟩ sit ansigt mod væggen og bad til Jahve og sagde:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Da vendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sit ansigt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sit ansigt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "væggen"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "og bad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T16:45:10.186807780Z",
+  "model": "glm-5.3"
+}

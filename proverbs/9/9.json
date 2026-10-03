@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Giv til ⟨den⟩ vise, og han bliver endnu visere; gør det kendt for ⟨den⟩ tsedek, og han øger ⟨sin⟩ lærdom.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "giv"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "til ⟨den⟩ vise"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "og han bliver visere"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endnu"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "gør det kendt"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "for ⟨den⟩ tsedek"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "og han øger"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "lærdom"
+    }
+  ],
+  "timestamp": "2026-10-03T18:29:43.595642722Z",
+  "model": "glm-5.3"
+}

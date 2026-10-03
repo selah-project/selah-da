@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 40,
+  "translation": "Og Faraos bæger var i min hånd, og jeg tog ⟨את⟩ druerne og pressed ⟨את⟩ dem ud i Faraos bæger og gav ⟨את⟩ bægret på Faraos håndflade.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "og bæger"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i min hånd"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "og jeg tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "druerne"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "druerne"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "og pressed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "bæger"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "og gav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bægret"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "bægret"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כף",
+      "gloss": "håndflade"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraos"
+    }
+  ],
+  "timestamp": "2026-10-03T14:27:37.228795944Z",
+  "model": "glm-5.3"
+}

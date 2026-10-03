@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 12,
+  "translation": "Og støvet vender tilbage til jorden, som det var, og ruachen vender tilbage til Elohim, som gav den.",
+  "tokens": [
+    {
+      "surface": "וְיָשֹׁב",
+      "gloss": "og vender tilbage"
+    },
+    {
+      "surface": "הֶעָפָר",
+      "gloss": "støvet"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "כְּשֶׁהָיָה",
+      "gloss": "som det var"
+    },
+    {
+      "surface": "וְהָרוּחַ",
+      "gloss": "og ruachen"
+    },
+    {
+      "surface": "תָּשׁוּב",
+      "gloss": "vender tilbage"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הָאֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "som"
+    },
+    {
+      "surface": "נְתָנָהּ",
+      "gloss": "gav den"
+    }
+  ],
+  "timestamp": "2026-10-03T18:54:09.774172564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 27,
+  "translation": "En mæt sjæl tramper honningdråber ned, men for en sulten sjæl er alt bittert sødt.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sjæl"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "mæt"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "tramper ned"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "honningdråber"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "men for en sjæl"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "sulten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bittert"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sødt"
+    }
+  ],
+  "timestamp": "2026-10-03T18:35:41.351289528Z",
+  "model": "glm-5.3"
+}

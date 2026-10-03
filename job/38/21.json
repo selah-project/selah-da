@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 38:21",
+  "book": "job",
+  "lang": "da",
+  "chapter": 38,
+  "translation": "Du ved jo ⟨dengang⟩ — da blev du født, og tallet på dine dage er stort!",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Du ved"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨dengang⟩"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "blev du født"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "og tallet"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "på dine dage"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "er stort"
+    }
+  ],
+  "timestamp": "2026-10-03T18:45:11.374762711Z",
+  "model": "glm-5.3"
+}

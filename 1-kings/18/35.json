@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "Og vandet løb rundt om alteret, og også ⟨את⟩ grøften fyldte han med vand.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "løb"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandet"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og også"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "grøften"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "grøften"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyldte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "med vand"
+    }
+  ],
+  "timestamp": "2026-10-03T16:32:27.730625872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 19,
+  "translation": "Og Jahve sagde til ham: Gå, vend tilbage ad din vej til ørkensen ved Damasek; og når du kommer dertil, skal du salve ⟨את⟩ Chazaél til konge over Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gå"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vend tilbage"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ad din vej"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "til ørkensen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ved Damasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "og når du kommer"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "skal du salve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazaél"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaél"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til konge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-03T16:33:21.905462744Z",
+  "model": "glm-5.3"
+}

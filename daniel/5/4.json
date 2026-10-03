@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 5,
+  "translation": "De drak vin og priste guderne af guld og sølv, kobber, jern, træ og sten.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "de drak"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "og priste"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "guderne"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "af guld"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "og sølv"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "kobber"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "jern"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "træ"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "og sten"
+    }
+  ],
+  "timestamp": "2026-10-03T18:57:59.313730109Z",
+  "model": "glm-5.3"
+}

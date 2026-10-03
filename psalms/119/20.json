@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 119,
+  "translation": "Knust ⟨er⟩ min sjæl af længsel efter dine domme til enhver tid.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Knust"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "af længsel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "efter"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dine domme"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "til enhver"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    }
+  ],
+  "timestamp": "2026-10-03T18:24:22.430580280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 13,
+  "translation": "Og Jahves vrede optændtes mod Uzza, og han slog ham, fordi han rakte sin hånd ud mod arken; og han døde der foran Elohim.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "optændtes"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "mod Uzza"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "og slog ham"
+    },
+    {
+      "surface": "על",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "at"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "rakte ud"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sin hånd"
+    },
+    {
+      "surface": "על",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arken"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han døde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T19:14:32.498922870Z",
+  "model": "glm-5.3"
+}

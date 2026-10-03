@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Kushj avlede ⟨את⟩ Nimrod; han var den første til at være en gibbor i landet.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Og Kushj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "avlede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "החל",
+      "gloss": "var den første til"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "at være"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "en gibbor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    }
+  ],
+  "timestamp": "2026-10-03T14:14:18.254248079Z",
+  "model": "glm-5.3"
+}

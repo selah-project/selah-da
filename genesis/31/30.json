@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 31,
+  "translation": "Og nu — du er gået, fordi du længtes således efter din fars hus. Hvorfor stjal du ⟨את⟩ mine guder?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "du gik"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "er gået"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fordi"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "længtes"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "du længtes"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "efter huset"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din fars"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvorfor"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "stjal du"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine guder"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mine guder"
+    }
+  ],
+  "timestamp": "2026-10-03T14:24:31.942112957Z",
+  "model": "glm-5.3"
+}

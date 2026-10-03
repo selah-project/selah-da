@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 26,
+  "translation": "Og jeg vil sætte min Mishkan midt iblandt jer, og min sjæl skal ikke væmmes ved jer.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg vil sætte"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "min Mishkan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "midt iblandt jer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "skal væmmes"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jer"
+    }
+  ],
+  "timestamp": "2026-10-03T15:01:09.108130865Z",
+  "model": "glm-5.3"
+}

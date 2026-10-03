@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og Rechavam gik til Shékem, for til Shékem var hele Jisrael kommet for at gøre ⟨את⟩ ham til konge.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og gik"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "til Shékem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shékem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "var kommet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "for at gøre til konge"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "ham"
+    }
+  ],
+  "timestamp": "2026-10-03T19:21:38.658765077Z",
+  "model": "glm-5.3"
+}

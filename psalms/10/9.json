@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Han lurker i skjul som en løve i sin læ; han lurker for at gribe den arme; han griber den arme, når han drager ⟨ham⟩ ind i sit net.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "lurker"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "i skjul"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "som en løve"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "i sin læ"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "lurker"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "for at gribe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den arme"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "griber"
+    },
+    {
+      "surface": "עני",
+      "gloss": "den arme"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "når han drager ind"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "i sit net"
+    }
+  ],
+  "timestamp": "2026-10-03T18:05:38.850880704Z",
+  "model": "glm-5.3"
+}

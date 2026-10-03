@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 15,
+  "translation": "Og Shemuel sagde til ham: Jahve har i dag revet ⟨את⟩ Jisraels kongerige fra dig og givet den til din næste, som er bedre end du.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "har revet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraels kongerige"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kongerige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "fra dig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "i dag"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "og givet den"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "til din næste"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "som er bedre"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "end du"
+    }
+  ],
+  "timestamp": "2026-10-03T16:01:24.094502073Z",
+  "model": "glm-5.3"
+}

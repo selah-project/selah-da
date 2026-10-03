@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 68,
+  "translation": "Sangerne gik forrest, spille mændene bagefter, midt iblandt jomfruer, som slog på håndtrommer.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "gik forrest"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sangerne"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "bagefter"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "spillemændene"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midt iblandt"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "jomfruer"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "som slog på håndtrommer"
+    }
+  ],
+  "timestamp": "2026-10-03T18:15:54.890790198Z",
+  "model": "glm-5.3"
+}

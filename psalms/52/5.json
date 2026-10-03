@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 52,
+  "translation": "Du elsker ondt frem for ⟨det⟩ gode, løgn frem for at tale tsedek. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "elsker"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ondt"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "frem for ⟨det⟩ gode"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "løgn"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "frem for at tale"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T18:13:37.624429956Z",
+  "model": "glm-5.3"
+}

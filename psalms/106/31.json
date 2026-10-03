@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 106,
+  "translation": "Og det blev regnet ham til tsedek, fra slægt til slægt, til evigheden.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "og det blev regnet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "til tsedek"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fra slægt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "til slægt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evigheden"
+    }
+  ],
+  "timestamp": "2026-10-03T18:22:38.547138009Z",
+  "model": "glm-5.3"
+}

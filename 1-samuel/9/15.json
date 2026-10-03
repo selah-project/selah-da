@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Jahve havde afdækket ⟨את⟩ Shemuëls øre én dag før Shaúls komme, idet han sagde:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "havde afdækket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuëls øre"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "øre"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëls"
+    },
+    {
+      "surface": "יום",
+      "gloss": "én dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "før"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "komme"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúls"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "idet han sagde"
+    }
+  ],
+  "timestamp": "2026-10-03T15:59:45.286770847Z",
+  "model": "glm-5.3"
+}

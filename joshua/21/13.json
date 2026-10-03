@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "da",
+  "chapter": 21,
+  "translation": "Og Aharons sønner, præsten, gav de ⟨את⟩ tilflugtsbyen for drabsmanden, ⟨את⟩ Hevron og dens græsgange, og ⟨את⟩ Livna og dens græsgange.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Og Aharons sønner"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gav de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilflugtsbyen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "by"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "tilflugt"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "for drabsmanden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens græsgange"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "dens græsgange"
+    }
+  ],
+  "timestamp": "2026-10-03T15:44:13.536009620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 16:3",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 16,
+  "translation": "og sig: Således siger Adonaj Jahve til Jerushalajim: Din herkomst og din fødsel er fra kanaanæernes land; din far var en emoræer, og din mor en hittitisk kvinde.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "og sig"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Således"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "til Jerushalajim"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "Din herkomst"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "og din fødsel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "fra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanæernes land"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "din far"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "var en emoræer"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "og din mor"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "en hittitisk kvinde"
+    }
+  ],
+  "timestamp": "2026-10-03T17:34:32.998368445Z",
+  "model": "glm-5.3"
+}

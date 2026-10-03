@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 42,
+  "translation": "Til korlederen. En maskil af Korachs sønner.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til korlederen"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "en maskil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "af sønnerne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-10-03T18:11:12.376476238Z",
+  "model": "glm-5.3"
+}
