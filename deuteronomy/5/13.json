@@ -5,8 +5,33 @@
   "book": "deuteronomy",
   "lang": "da",
   "chapter": 5,
-  "translation": "Sechs Tage sollst du arbeiten und all dein Werk tun,",
-  "tokens": [],
-  "timestamp": "2026-10-03T15:22:24.156740552Z",
+  "translation": "Seks dage skal du arbejde og gøre alt dit arbejde.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "seks"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skal du arbejde"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gøre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "dit arbejde"
+    }
+  ],
+  "timestamp": "2026-10-03T20:30:38.183080963Z",
   "model": "glm-5.3"
 }

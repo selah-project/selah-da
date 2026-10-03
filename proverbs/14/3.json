@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "da",
+  "chapter": 14,
+  "translation": "I dårens mund er højmods ris, men de vises læber bevare dem.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "i munden"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dåren"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ris"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "højmods"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "men de vises læber"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "de vise"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "bevare dem"
+    }
+  ],
+  "timestamp": "2026-10-03T20:04:32.894666034Z",
+  "model": "glm-5.3"
+}

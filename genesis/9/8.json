@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 9,
+  "translation": "Og Elohim sagde til Noach og til hans sønner ⟨את⟩ ham ⟨את⟩ således:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hans sønner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "sønnerne — 'hos ham'"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "således"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:03.939271816Z",
+  "model": "glm-5.3"
+}

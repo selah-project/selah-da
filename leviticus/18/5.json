@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "da",
+  "chapter": 18,
+  "translation": "I skal holde ⟨את⟩ mine vedtægter og ⟨את⟩ mine domme, som et menneske skal gøre dem og leve ved dem; jeg er Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "I skal holde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mine vedtægter"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mine vedtægter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mine domme"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mine domme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skal gøre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "et menneske"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og leve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ved dem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:15.573735674Z",
+  "model": "glm-5.3"
+}

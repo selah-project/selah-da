@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "da",
   "chapter": 35,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T18:09:51.309548328Z",
+  "translation": "Må deres vej være mørke og glatte stier, og Jahves engel forfølge dem.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "må være"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "deres vej"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mørke"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "og glatte stier"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "og engel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "forfølge dem"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:39.240862013Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 24,
+  "translation": "Og han sendte ⟨את⟩ de unge mænd blandt Jisraels sønner, og de bar brændofre op og slagtede shlamim-ofre til Jahve, unge tyre.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og han sendte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "de unge mænd"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "de unge mænd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "og de bar op"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brændofre"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "og slagtede"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ofre"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shlamim-ofre"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "unge tyre"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:13.364863821Z",
+  "model": "glm-5.3"
+}

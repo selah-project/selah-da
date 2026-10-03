@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "da",
   "chapter": 11,
-  "translation": "Og alt bytte fra disse byer og kvæget røvede Jisraels sønner til sig; kun ⟨את⟩ alt mennesket slog de med sværdets egg, til de havde udryddet dem — dem efterlod de ikke, ikke én נeshama.",
+  "translation": "Og alt bytte fra disse byer og kvæget tog Jisraels sønner som rov for sig selv; kun ⟨את⟩ alle menneskene slog de med sværdets egg, indtil de havde udryddet dem; de lod ingen ånde ⟨את⟩ tilbage, som var i live.",
   "tokens": [
     {
       "surface": "וכל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הערים",
-      "gloss": "byerne"
+      "gloss": "fra disse byer"
     },
     {
       "surface": "האלה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בזזו",
-      "gloss": "røvede"
+      "gloss": "tog som rov"
     },
     {
       "surface": "להם",
-      "gloss": "til sig"
+      "gloss": "for sig selv"
     },
     {
       "surface": "בני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraels"
+      "gloss": "Jisrael"
     },
     {
       "surface": "רק",
@@ -50,15 +50,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alt mennesket"
+      "marks": "alle menneskene"
     },
     {
       "surface": "כל",
-      "gloss": "alt"
+      "gloss": "alle"
     },
     {
       "surface": "האדם",
-      "gloss": "mennesket"
+      "gloss": "menneskene"
     },
     {
       "surface": "הכו",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "til"
+      "gloss": "indtil"
     },
     {
       "surface": "השמדם",
@@ -82,7 +82,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ dem"
+      "gloss": "⟨את⟩ dem",
+      "marks": "dem"
     },
     {
       "surface": "לא",
@@ -90,7 +91,7 @@
     },
     {
       "surface": "השאירו",
-      "gloss": "efterlod de"
+      "gloss": "lod tilbage"
     },
     {
       "surface": "כל",
@@ -98,9 +99,9 @@
     },
     {
       "surface": "נשמה",
-      "gloss": "נeshama"
+      "gloss": "ånde"
     }
   ],
-  "timestamp": "2026-10-03T15:41:56.608102239Z",
+  "timestamp": "2026-10-03T20:03:04.907825086Z",
   "model": "glm-5.3"
 }

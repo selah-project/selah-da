@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og Noach var seks hundrede år, da vandfloden ⟨var⟩ vand på jorden.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Og Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var … år"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seks"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrede"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "da vandfloden"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨var⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:11.764330938Z",
+  "model": "glm-5.3"
+}

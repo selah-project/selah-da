@@ -5,15 +5,16 @@
   "book": "jeremiah",
   "lang": "da",
   "chapter": 27,
-  "translation": "Og alle folkeslagene skal tjene ⟨את⟩ ham og ⟨את⟩ hans søn og ⟨את⟩ hans søns søn, indtil hans lands tid kommer, også ⟨den⟩; og mange folkeslag og store konger skal gøre trællearbejde på ham.",
+  "translation": "Og alle folkeslagene skal tjene ham ⟨את⟩ og hans søn ⟨את⟩ og hans søns søn, indtil tiden for hans land kommer, også ⟨det⟩ for ham selv; og mange folkeslag og store konger skal gøre tjeneste hos ham.",
   "tokens": [
     {
       "surface": "ועבדו",
-      "gloss": "Og de skal tjene"
+      "gloss": "og skal tjene"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ham"
+      "gloss": "ham ⟨את⟩",
+      "marks": "ham"
     },
     {
       "surface": "כל",
@@ -25,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "hans søn"
     },
     {
@@ -34,7 +35,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "and ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "hans søns søn"
     },
     {
@@ -43,7 +44,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "søn"
+      "gloss": "hans søn"
     },
     {
       "surface": "עד",
@@ -59,7 +60,7 @@
     },
     {
       "surface": "ארצו",
-      "gloss": "hans lands"
+      "gloss": "for hans land"
     },
     {
       "surface": "גם",
@@ -67,15 +68,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "den"
+      "gloss": "⟨det⟩ ham selv"
     },
     {
       "surface": "ועבדו",
-      "gloss": "og de skal tjene"
+      "gloss": "og skal gøre tjeneste"
     },
     {
       "surface": "בו",
-      "gloss": "på ham"
+      "gloss": "hos ham"
     },
     {
       "surface": "גוים",
@@ -94,6 +95,6 @@
       "gloss": "store"
     }
   ],
-  "timestamp": "2026-10-03T17:19:45.236392581Z",
+  "timestamp": "2026-10-03T20:50:39.778216400Z",
   "model": "glm-5.3"
 }

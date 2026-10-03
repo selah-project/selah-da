@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "da",
   "chapter": 19,
-  "translation": "Og ⟨da⟩ han så det, stod han op og gik ⟨af sted for⟩ sit liv, og han kom til Be'er-Sheva, som hører til Juda, og han lod ⟨את⟩ sin tjener være der.",
+  "translation": "Og han frygtede, og han stod op og gik bort for sit livs skyld, og han kom til Beer-Sheba, som hører til Juda, og lod ⟨את⟩ sin dreng blive der.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Og han så"
+      "gloss": "og han frygtede"
     },
     {
       "surface": "ויקם",
-      "gloss": "stod op"
+      "gloss": "og han stod op"
     },
     {
       "surface": "וילך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "sit liv"
+      "gloss": "sit livs skyld"
     },
     {
       "surface": "ויבא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "באר",
-      "gloss": "Be'er"
+      "gloss": "Beer-"
     },
     {
       "surface": "שבע",
-      "gloss": "Sheva"
+      "gloss": "Sheba"
     },
     {
       "surface": "אשר",
@@ -45,26 +45,26 @@
     },
     {
       "surface": "ליהודה",
-      "gloss": "hörer til Juda"
+      "gloss": "hører til Juda"
     },
     {
       "surface": "וינח",
-      "gloss": "lod være"
+      "gloss": "og lod"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sin tjener"
+      "marks": "sin dreng"
     },
     {
       "surface": "נערו",
-      "gloss": "sin tjener"
+      "gloss": "sin dreng"
     },
     {
       "surface": "שם",
       "gloss": "der"
     }
   ],
-  "timestamp": "2026-10-03T16:33:40.554159482Z",
+  "timestamp": "2026-10-03T20:03:45.079978173Z",
   "model": "glm-5.3"
 }

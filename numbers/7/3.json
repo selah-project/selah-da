@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "da",
   "chapter": 7,
-  "translation": "og de bragte ⟨את⟩ deres offering frem for Jahves ansigt: seks overdækkede vogne og tolv stykker kvæg, én vogn for to af hövdingene og én okse for hver; og de bar ⟨את⟩ dem frem for Mishkans ansigt.",
+  "translation": "og de bragte ⟨את⟩ deres offergave frem for Jahves ansigt: seks overdækkede vogne og tolv stykker kvæg — én vogn til to af høvdingerne og én okse til hver enkelt — og de bar ⟨את⟩ dem frem for Mishkanens ansigt.",
   "tokens": [
     {
       "surface": "ויביאו",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "deres offering"
+      "marks": "deres offergave"
     },
     {
       "surface": "קרבנם",
-      "gloss": "deres offering"
+      "gloss": "deres offergave"
     },
     {
       "surface": "לפני",
-      "gloss": "for … ansigt"
+      "gloss": "for ansigtet af"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "tolv"
+      "gloss": "tyve → tolv"
     },
     {
       "surface": "בקר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "על",
-      "gloss": "for"
+      "gloss": "til"
     },
     {
       "surface": "שני",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "הנשאים",
-      "gloss": "af hövdingene"
+      "gloss": "af høvdingerne"
     },
     {
       "surface": "ושור",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "לאחד",
-      "gloss": "for hver"
+      "gloss": "til hver enkelt"
     },
     {
       "surface": "ויקריבו",
@@ -83,17 +83,17 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ dem",
-      "marks": "dem"
+      "marks": "dem (vognene og oksene)"
     },
     {
       "surface": "לפני",
-      "gloss": "for … ansigt"
+      "gloss": "for ansigtet af"
     },
     {
       "surface": "המשכן",
-      "gloss": "Mishkan"
+      "gloss": "Mishkanen"
     }
   ],
-  "timestamp": "2026-10-03T15:05:42.265655553Z",
+  "timestamp": "2026-10-03T20:03:26.358156348Z",
   "model": "glm-5.3"
 }

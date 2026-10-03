@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jehuda indtog ⟨את⟩ Aza og ⟨את⟩ dens område, og ⟨את⟩ Ashkelon og ⟨את⟩ dets område, og ⟨את⟩ Ekron og ⟨את⟩ dets område.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "og indtog"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens område"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dens område"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets område"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dets område"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "og ⟨את⟩",
+      "marks": "dets område"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "dets område"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:32.854900135Z",
+  "model": "glm-5.3"
+}

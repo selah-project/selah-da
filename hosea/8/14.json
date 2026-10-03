@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "da",
+  "chapter": 8,
+  "translation": "Og Jisrael glemte ⟨את⟩ sin skaber og byggede paladser, og Jehuda forøgede befæstede byer; men jeg vil sende ild ind i hans byer, og den skal fortære hans borge.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "og glemte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin skaber"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "sin skaber"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "paladser"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Jehuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "forøgede"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "byer"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "befæstede"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "men jeg vil sende"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ild"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ind i hans byer"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og den skal fortære"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "hans borge"
+    }
+  ],
+  "timestamp": "2026-10-03T20:04:04.934254922Z",
+  "model": "glm-5.3"
+}

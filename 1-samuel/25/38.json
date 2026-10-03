@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 25,
+  "translation": "Og det skete efter ti dage, at Jahve slog ⟨את⟩ Naval, og han døde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "efter ti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dage"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "slog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naval"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og han døde"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:11.638363297Z",
+  "model": "glm-5.3"
+}

@@ -5,33 +5,108 @@
   "book": "isaiah",
   "lang": "da",
   "chapter": 8,
-  "translation": "derfor, se, fører Adonaj op imod dem ⟨את⟩ vandene fra floden, de vældige og de mange, ⟨את⟩ kongen af Ashur og ⟨את⟩ hele hans herlighed; og den skal stige op over alle ⟨dens⟩ løb og gå over alle ⟨dens⟩ bredder.",
+  "translation": "Derfor, se, Adonaj fører op imod dem ⟨את⟩ vandene af floden, de vældige og mange, ⟨את⟩ kongen af Ashshur og ⟨את⟩ al hans herlighed; og den skal stige op over alle ⟨dets⟩ løb og gå over alle ⟨dets⟩ bredder.",
   "tokens": [
     {
-      "surface": "ויסף",
-      "gloss": ""
+      "surface": "ולכן",
+      "gloss": "Derfor"
     },
     {
-      "surface": "יהוה",
-      "gloss": ""
+      "surface": "הנה",
+      "gloss": "se"
     },
     {
-      "surface": "דבר",
-      "gloss": ""
+      "surface": "אדני",
+      "gloss": "Adonaj"
     },
     {
-      "surface": "אלי",
-      "gloss": ""
+      "surface": "מעלה",
+      "gloss": "fører op"
     },
     {
-      "surface": "עוד",
-      "gloss": ""
+      "surface": "עליהם",
+      "gloss": "imod dem"
     },
     {
-      "surface": "לאמר",
-      "gloss": "⟨את⟩"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandene af floden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandene"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "af floden"
+    },
+    {
+      "surface": "העצומים",
+      "gloss": "de vældige"
+    },
+    {
+      "surface": "והרבים",
+      "gloss": "og mange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kongen af Ashshur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "al hans herlighed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hans herlighed"
+    },
+    {
+      "surface": "ו עלה",
+      "gloss": "og den skal stige op"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אפיקיו",
+      "gloss": "dets løb"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "og gå"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גדותיו",
+      "gloss": "dets bredder"
     }
   ],
-  "timestamp": "2026-10-03T16:49:40.279449519Z",
+  "timestamp": "2026-10-03T20:03:49.919202420Z",
   "model": "glm-5.3"
 }

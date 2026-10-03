@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 17,
+  "translation": "Og ravnene bragte ham brød og kød om morgenen, og brød og kød om aftenen, og af vandløbet drak han.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "og ravnene"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "bragte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "og kød"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "om morgenen"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "og brød"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "og kød"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "om aftenen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og af"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "vandløbet"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "drak han"
+    }
+  ],
+  "timestamp": "2026-10-03T20:04:01.804297128Z",
+  "model": "glm-5.3"
+}

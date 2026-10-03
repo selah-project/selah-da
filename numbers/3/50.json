@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "da",
   "chapter": 3,
-  "translation": "Fra בכור-førstefødte blandt Jisraels sønner tog han ⟨את⟩ sølvet: fem og tres og tre hundrede og tusind shekel, efter helligdommens shekel.",
+  "translation": "Fra ⟨את⟩ førstefødte blandt Jisraels sønner tog han ⟨את⟩ sølvet, tusind tre hundrede fem og tres shekel efter helligdommens shekel.",
   "tokens": [
     {
       "surface": "מאת",
-      "gloss": "מאת ⟨fra⟩"
+      "gloss": "Fra ⟨את⟩"
     },
     {
       "surface": "בכור",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "sønner af"
+      "gloss": "sønner"
     },
     {
       "surface": "ישראל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "tog han"
+      "gloss": "tog"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואלף",
-      "gloss": "og tusind"
+      "gloss": "tusind"
     },
     {
       "surface": "בשקל",
@@ -65,6 +65,6 @@
       "gloss": "helligdommens"
     }
   ],
-  "timestamp": "2026-10-03T15:03:17.094573405Z",
+  "timestamp": "2026-10-03T20:03:16.159367648Z",
   "model": "glm-5.3"
 }

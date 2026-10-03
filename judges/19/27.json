@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "da",
   "chapter": 19,
-  "translation": "Og hendes herre stod op om morgenen og lukkede husets døre op og gik ud for at gå sin vej; og se, da lå kvinden, hans pilægske, faldet om ved indgangen til huset, og hendes händer lå på tærsklen.",
+  "translation": "Og hendes herre stod op om morgenen og åbnede husets døre og gik ud for at gå sin vej, og se, da lå kvinden, hans pilegesh, faldet ved husets indgang, og hendes hænder var på tærsklen.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ויפתח",
-      "gloss": "og lukkede op"
+      "gloss": "og åbnede"
     },
     {
       "surface": "דלתות",
-      "gloss": "dørene"
+      "gloss": "døre"
     },
     {
       "surface": "הבית",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "פילגשו",
-      "gloss": "hans pilægske"
+      "gloss": "hans pilegesh"
     },
     {
       "surface": "נפלת",
-      "gloss": "faldet om"
+      "gloss": "faldet"
     },
     {
       "surface": "פתח",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "הבית",
-      "gloss": "til huset"
+      "gloss": "husets"
     },
     {
       "surface": "וידיה",
-      "gloss": "og hendes händer"
+      "gloss": "og hendes hænder"
     },
     {
       "surface": "על",
@@ -80,6 +80,6 @@
       "gloss": "tærsklen"
     }
   ],
-  "timestamp": "2026-10-03T15:53:45.953927684Z",
+  "timestamp": "2026-10-03T20:03:03.993176704Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 7,
+  "translation": "Og det skete, da kongen sad i sit hus, og Jahve havde givet ham ro rundt om fra alle hans fjender,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "da"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sad"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "i sit hus"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "havde givet ro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra alle"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "hans fjender"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:11.362799544Z",
+  "model": "glm-5.3"
+}

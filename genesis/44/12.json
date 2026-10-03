@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "da",
   "chapter": 44,
-  "translation": "Og han ransagede; med den ældste begyndte han, og med den yngste endte han, og bägeret blev fundet i Binjamins sæk.",
+  "translation": "Og han ransagede; med ⟨den⟩ ældste begyndte han, og med ⟨den⟩ yngste sluttede han — og ⟨את⟩ begeret fandt man i Binjamins sæk.",
   "tokens": [
     {
       "surface": "ויחפש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בגדול",
-      "gloss": "med den ældste"
+      "gloss": "med ⟨den⟩ ældste"
     },
     {
       "surface": "החל",
@@ -21,19 +21,20 @@
     },
     {
       "surface": "ובקטן",
-      "gloss": "og med den yngste"
+      "gloss": "og med ⟨den⟩ yngste"
     },
     {
       "surface": "כלה",
-      "gloss": "endte han"
+      "gloss": "sluttede han"
     },
     {
       "surface": "וימצא",
-      "gloss": "og blev fundet"
+      "gloss": "og fandt man"
     },
     {
       "surface": "הגביע",
-      "gloss": "bägeret"
+      "gloss": "begeret",
+      "marks": "begeret"
     },
     {
       "surface": "באמתחת",
@@ -44,6 +45,6 @@
       "gloss": "Binjamins"
     }
   ],
-  "timestamp": "2026-10-03T14:28:37.425879207Z",
+  "timestamp": "2026-10-03T20:03:01.275392214Z",
   "model": "glm-5.3"
 }

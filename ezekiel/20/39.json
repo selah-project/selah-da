@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "da",
   "chapter": 20,
-  "translation": "Og I, Israels hus, sådan siger Adonaj Jahve: Gå, tjed hver sin afgud, men bagefter — hvis I ikke hører mig — skal I ikke vanhellige mit hellige ⟨את⟩ navn mere med jeres gaver og jeres afguder.",
+  "translation": "Og I, Jisraels hus, sådan siger Adonaj Jahve: Hver mand sine afgudsbilleder — gå, tjener ⟨dem⟩! Og bagefter, hvis I ikke hører mig, skal I ikke vanhellige ⟨את⟩ mit hellige navn mere med jeres gaver og med jeres afgudsbilleder.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israels"
+      "gloss": "Jisraels"
     },
     {
       "surface": "כה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "hver"
+      "gloss": "hver mand"
     },
     {
       "surface": "גלוליו",
-      "gloss": "sin afgud"
+      "gloss": "sine afgudsbilleder"
     },
     {
       "surface": "לכו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "tjed"
+      "gloss": "tjener ⟨dem⟩"
     },
     {
       "surface": "ואחר",
-      "gloss": "men bagefter"
+      "gloss": "og bagefter"
     },
     {
       "surface": "אם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שמעים",
-      "gloss": "hörer"
+      "gloss": "hører"
     },
     {
       "surface": "אלי",
@@ -73,7 +73,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "mit hellige navn"
     },
     {
       "surface": "שם",
@@ -101,9 +102,9 @@
     },
     {
       "surface": "ובגלוליכם",
-      "gloss": "og jeres afguder"
+      "gloss": "og med jeres afgudsbilleder"
     }
   ],
-  "timestamp": "2026-10-03T17:37:55.024660333Z",
+  "timestamp": "2026-10-03T20:03:58.248570350Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "da",
   "chapter": 2,
-  "translation": "Og det, der er tilbage af minchaen, tilhører Aharon og hans sønner; det er קodesh-kodashim, højhellig, af Jahves ildofre.",
+  "translation": "Og det, der er tilbage af minchaen, tilhører Aharon og hans sønner; det er helligest af hellige, af Jahves ildofre.",
   "tokens": [
     {
       "surface": "והנותרת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "hellig"
+      "gloss": "helligest"
     },
     {
       "surface": "קדשים",
-      "gloss": "højhellig (helliges hellige)"
+      "gloss": "af hellige"
     },
     {
       "surface": "מאשי",
@@ -44,6 +44,6 @@
       "gloss": "Jahves"
     }
   ],
-  "timestamp": "2026-10-03T14:50:39.640424991Z",
+  "timestamp": "2026-10-03T20:02:53.581536815Z",
   "model": "glm-5.3"
 }

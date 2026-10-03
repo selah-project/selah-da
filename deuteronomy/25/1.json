@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "da",
   "chapter": 25,
-  "translation": "Når der opstår en tvist mellem mænd, og de går til retten, og der dømmes over dem, skal de frikende den retfærdige og dømme den skyldige — וְהִצְדִּיקוּ ⟨את⟩ הַצַּדִּיק, וְהִרְשִׁיעוּ ⟨את⟩ הָרָשָׁע.",
+  "translation": "Når der er en tvist mellem mænd, og de træder frem til retten, og der fældes dom, skal de kendes ret ⟨את⟩ den retfærdige og kendes skyldig ⟨את⟩ den skyldige,",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "opstår"
+      "gloss": "er"
     },
     {
       "surface": "ריב",
-      "gloss": "en tvist"
+      "gloss": "tvist"
     },
     {
       "surface": "בין",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונגשו",
-      "gloss": "og de går"
+      "gloss": "og de træder frem"
     },
     {
       "surface": "אל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ושפטום",
-      "gloss": "og der dømmes"
+      "gloss": "og der fældes dom"
     },
     {
       "surface": "והצדיקו",
-      "gloss": "skal de frikende"
+      "gloss": "skal de kendes ret"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "והרשיעו",
-      "gloss": "og dømme"
+      "gloss": "og kendes skyldig"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "den skyldige"
     }
   ],
-  "timestamp": "2026-10-03T15:30:05.499020970Z",
+  "timestamp": "2026-10-03T20:02:55.621661948Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,61 @@
   "book": "1-kings",
   "lang": "da",
   "chapter": 21,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T16:33:44.492230087Z",
+  "translation": "Og Izebel, hans hustru, kom ind til ham, og hun talte til ham: Hvad er dette? Din ruach er gnaven, og ⟨du⟩ spiser ikke brød.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "og kom ind"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hans hustru"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "og hun talte"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til ham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er dette"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "din ruach"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "er gnaven"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "og du ikke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "spiser"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brød"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:34.010974398Z",
   "model": "glm-5.3"
 }

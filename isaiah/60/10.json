@@ -5,8 +5,53 @@
   "book": "isaiah",
   "lang": "da",
   "chapter": 60,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T17:06:06.869751210Z",
+  "translation": "Og fremmedes sønner skal bygge dine mure, og deres konger skal tjene dig; for i min vrede slog jeg dig, og i min velbehag forbarmede jeg mig over dig.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "og skal bygge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "af fremmede"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "dine mure"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "og deres konger"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "skal tjene dig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "i min vrede"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "slog jeg dig"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "og i min velbehag"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "forbarmede jeg mig over dig"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:54.908983950Z",
   "model": "glm-5.3"
 }

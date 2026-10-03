@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Og de holdt ⟨את⟩ festen Sukkot, som der ⟨er⟩ skrevet, og brændofret dag for dag i tallet, efter retten for hver dags sag på dens dag.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og de holdt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "festen Sukkot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "festen"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "som der er skrevet"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "og brændofret"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "for dag"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "i tallet"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "efter retten"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "af en dag"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "på dens dag"
+    }
+  ],
+  "timestamp": "2026-10-03T20:04:44.676764935Z",
+  "model": "glm-5.3"
+}

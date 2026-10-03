@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "da",
+  "chapter": 10,
+  "translation": "Og selv når dåren går på vejen, mangler hans hjerte ⟨forstand⟩, og han siger til alle, at han er en dåre.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "og selv"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "på vejen"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "når dåren"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "går"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hans hjerte"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mangler"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og han siger"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til alle"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "en dåre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han er"
+    }
+  ],
+  "timestamp": "2026-10-03T20:04:41.630596624Z",
+  "model": "glm-5.3"
+}

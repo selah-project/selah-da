@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 23,
+  "translation": "Og kongen sendte bud, og der samledes hos ham alle de ældste i Jehudah og Jerushalajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sendte bud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "og der samledes"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "de ældste i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "og Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-03T20:04:03.071737479Z",
+  "model": "glm-5.3"
+}

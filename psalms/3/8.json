@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Rejs dig, Jahve! Frels mig, min Elohim! For du har slået ⟨את⟩ alle mine fjender på kæben; de gudløses tænder har du knust.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rejs dig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Frels mig"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "min Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "For"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "har slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle mine fjender"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mine fjender"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "på kæben"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tænder"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de gudløses"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "har knust"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:55.990537596Z",
+  "model": "glm-5.3"
+}

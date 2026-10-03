@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 1,
+  "translation": "Og Jahve var med Jehuda, og han tog bjergegnen i besiddelse, men kunne ikke drive indbyggerne i dalen ud, for de havde stridsvogne af jern.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og … var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "med ⟨את⟩",
+      "marks": "Jehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "og han tog i besiddelse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bjergene"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bjergene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "kunne drive ud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indbyggerne"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggerne"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "i dalen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "stridsvogne"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "af jern"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de havde"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:32.855245108Z",
+  "model": "glm-5.3"
+}

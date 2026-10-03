@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 3,
+  "translation": "Jeg frygter ikke titusinder af folk, som rundt om har stillet sig imod mig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "frygter"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "titusinder"
+    },
+    {
+      "surface": "עם",
+      "gloss": "folk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "har stillet sig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "imod mig"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:55.990303469Z",
+  "model": "glm-5.3"
+}

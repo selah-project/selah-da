@@ -5,8 +5,53 @@
   "book": "psalms",
   "lang": "da",
   "chapter": 35,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T18:09:51.309917539Z",
+  "translation": "Møde ham skal ødelæggelse, ⟨som⟩ han ikke kender, og hans net, som han selv har gemt, skal fange ham; i ødelæggelsen skal han falde ned i den.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "møde ham skal"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ødelæggelse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kender"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "og hans net"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "har gemt"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "skal fange ham"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "i ødelæggelsen"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "skal han falde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ned i den"
+    }
+  ],
+  "timestamp": "2026-10-03T20:03:45.470561152Z",
   "model": "glm-5.3"
 }
