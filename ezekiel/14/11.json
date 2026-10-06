@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 14:11",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "overdreb",
+      "rationale": "פשע er oprør\/opstand mod Gud, ikke blot 'overtrædelse'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והיו\/אהיה",
+      "rationale": "gengældelses-chiasm: 'de skal være' \/ 'jeg vil være' — samme rod היה, spejlet i pagtsformlen"
+    },
+    {
+      "kind": "addition",
+      "subject": "men",
+      "rationale": "hebraisk bare waw; dansk kontrast konnektiv tilføjet"
+    }
+  ],
+  "translation": "For at Israels hus ikke skal forvilde sig mere bort fra mig, og ikke besmitte sig mere med alle deres overdreb, men de skal være mig til et folk, og jeg vil være dem til Elohim, siger Adonaj Jahve.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "2e491770eedeaafa8c9fbe59ce57e8c0a9ad370ffa444c2356bc0bd1e554833c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/ezekiel\/14\/11-11.1791272270391.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "for at"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "skal forvilde sig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "bart fra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "besmitte sig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "med alle"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "deres overdreb"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "men de skal være"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "til et folk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "vil være"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elohim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T07:37:50.392738920Z",
+  "model": "glm-5.3"
+}

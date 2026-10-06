@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד בא עת ארצו",
+      "rationale": "'Indtil hans lands tid kommer' — det hebraiske udtryk er dunkelt: KJV\/ASV 'the time of his own land', andre læser 'hans lands tid' som Babylons egen skæbnetime."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועבדו בו",
+      "rationale": "'Skal gøre tjeneste hos ham' — den samme rod עבד som i v. 7a; ASV\/JPS\/BSB vender betydningen til 'gøre ham til træl', hebraisk siger blot 'tjene i\/ved ham'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדו ... ועבדו",
+      "rationale": "Verset indrammes af samme verbum: folkeslagene tjener Babylon — så tjener mange folkeslag hos ham; vendingen i samme rod."
+    }
+  ],
+  "translation": "Og alle folkeslagene skal tjene ham ⟨את⟩, og hans søn ⟨את⟩ og sønnens søn ⟨את⟩, indtil hans lands tid kommer — også ham; og mange folkeslag og store konger skal gøre tjeneste hos ham.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "64437ac3c30c3321fde1f049f1d661ecac9454d72c8e7f3d1808e0c33bf21900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/jeremiah\/27\/7-7.1791272272204.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "og skal tjene"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ham",
+      "marks": "alle folkeslagene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "folkeslagene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hans søn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hans søn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sønnens søn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sønnens"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "søn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tid"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hans lands"
+    },
+    {
+      "surface": "גם",
+      "gloss": "også"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ham"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "og skal gøre tjeneste"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hos ham"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "folkeslag"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mange"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "og konger"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "store"
+    }
+  ],
+  "timestamp": "2026-10-06T07:37:52.206150115Z",
+  "model": "glm-5.3"
+}

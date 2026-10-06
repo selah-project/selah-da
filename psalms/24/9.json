@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עולם",
+      "rationale": "'evighedens døre' vs 'oldtidens\/forevige porte' — עולם betyder både fjernt fortid og evighed;Septantgíkk med 'aiōniou' (evige)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperativer",
+      "rationale": "verset er en direkte tiltale, en hymnisk opfordring til portene om at løfte sig"
+    },
+    {
+      "kind": "you",
+      "subject": "til portene",
+      "rationale": "det umættelige 'jer' i 'jeres hoveder' og 'løft jer' retter sig til byporte, personificeret"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i herligheden",
+      "rationale": "hebraisk konstrukt מלך הכבוד er 'herlighedens konge'; dansk gengivelse med præposition flytter bindingen"
+    }
+  ],
+  "translation": "Løft jeres hoveder, porte, og løft jer, evighedens døre, og kongen i herligheden skal komme ind.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "77c9aca6ea46f4842b878811edcc0aa6cb2be326f7f4c9fd459e8602238a407a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/24\/9-9.1791272270115.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "løft"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "porte"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "jeres hoveder"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "og løft jer"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "døre"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "evighedens"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og han skal komme ind"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "i herligheden"
+    }
+  ],
+  "timestamp": "2026-10-06T07:37:50.116109518Z",
+  "model": "glm-5.3"
+}
