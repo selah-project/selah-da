@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 1:11",
+  "book": "micah",
+  "lang": "da",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמדתו",
+      "rationale": "'Dens ståsted\/standsted' — oversætterne deler sig: 'dens beskyttelse\/støtte' (KJV\/BSB) mod bogstaveligt 'standpunkt'\/'ståsted'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צאנן\/יצאה",
+      "rationale": "Stednavnet Tsaanan lyder som 'udgang' (yetsa) — 'Tsaanan går ikke ud' — genklang tabt på dansk"
+    },
+    {
+      "kind": "you",
+      "subject": "til Shafirs og Tsaanans indbyggere",
+      "rationale": "Verset retter sig direkte til byernes beboere i bydende form"
+    }
+  ],
+  "translation": "Drag bort for jer, I som bor i Shafir — i nøgen skam; hun som bor i Tsaanan går ikke ud; Beit ha-Etsels klage skal tage fra jer dens ståsted.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "9cba3b9ab361bb03218312f2867b1562c917254f0fa9283217ccbb38b1f97666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/micah\/1\/10-11.1791264648315.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "drag bort"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "for jer"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "I som bor"
+    },
+    {
+      "surface": "שפיר",
+      "gloss": "i Shafir"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "i nøgenhed"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "skam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יוצאה",
+      "gloss": "går ud"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "hun som bor"
+    },
+    {
+      "surface": "צאנן",
+      "gloss": "i Tsaanan"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "klage"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "האצל",
+      "gloss": "ha-Etsel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "skal tage"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "fra jer"
+    },
+    {
+      "surface": "עמדתו",
+      "gloss": "dens ståsted"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:48.325649273Z",
+  "model": "glm-5.3"
+}

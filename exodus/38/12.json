@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "halvtreds alen, ti søjler",
+      "rationale": "verset opregner dompladsmål og søjletal for vestiden af forgården"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ophæng",
+      "rationale": "קלעים er 'kastet\/opslynget' — gardiner slynget hen mellem søjlerne"
+    }
+  ],
+  "translation": "Og mod siden mod vest ophæng halvtreds alen; deres søjler ti, og deres sokler ti; og søjlernes kroge og deres stænger sølv.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "c203899dfac3e2278fca5f99733941c99c6afe4e9e06f1194e1d69e4c127fafa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/exodus\/38\/11-12.1791264549212.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "og mod siden"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mod vest"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ophæng"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "halvtreds"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "deres søjler"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "og deres sokler"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "og kroge"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "søjlernes"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "og deres stænger"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:09.221017549Z",
+  "model": "glm-5.3"
+}

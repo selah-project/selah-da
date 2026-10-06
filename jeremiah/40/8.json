@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 40:8",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "navneliste",
+      "rationale": "Verset er en ren opremsning af høvdingenes navne og deres mænd."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עופי",
+      "rationale": "Efai forekommer kun her i Tanakh (sammen med Jer 41,1)."
+    },
+    {
+      "kind": "addition",
+      "subject": "bindestreg og kommaer",
+      "rationale": "Dansk tegnsætning tilføjet for at holde navnekæden læselig; hebraisk har ingen tegn."
+    }
+  ],
+  "translation": "Og de kom til Gedaljah i Mitspa: Jishmael, søn af Netanjah, og Jochanan og Jonathan, sønner af Koreach, og Serajah, søn af Tanchumet, og sønnerne af Efa⟨i⟩ netofatiten, og Jizanjah, søn af maakatiten — de og deres mænd.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "0c8a7504358acfc5550fbfbc7eb6e169181e6925a4d949c02b1dddce14e7b48d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/jeremiah\/40\/8-8.1791264567675.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "og de kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedaljah"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "i Mitspa"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "af Netanjah"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "og Jochanan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "og Jonathan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "af Koreach"
+    },
+    {
+      "surface": "וושריה",
+      "gloss": "og Serajah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "תנחמת",
+      "gloss": "af Tanchumet"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og sønnerne"
+    },
+    {
+      "surface": "עופי",
+      "gloss": "af Efai"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "netofatiten"
+    },
+    {
+      "surface": "ויזניהו",
+      "gloss": "og Jizanjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "af maakatiten"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "ואנשיהם",
+      "gloss": "og deres mænd"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:27.682771855Z",
+  "model": "glm-5.3"
+}

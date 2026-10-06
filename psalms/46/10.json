@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קצה \/ וקצץ",
+      "rationale": "ordleg: 'ende' (qetse) og 'hugge over' (qotsets) deler rod-lyd; tabt i dansk"
+    },
+    {
+      "kind": "crux",
+      "subject": "עגלות",
+      "rationale": "'vogne\/kron-vogne' (flertal) gengivet af BSB som 'skjolde'; KJV har ental 'chariot'"
+    },
+    {
+      "kind": "elision",
+      "subject": "משבית",
+      "rationale": "kausativ af שבת-roden ('lide Shabbat til hvile') — 'gør til at ophøre' taber hvile-billedet"
+    },
+    {
+      "kind": "you",
+      "subject": "til Israel",
+      "rationale": "verset beskriver Jahves gerning over for sit folk som tilhører"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד קצה הארץ",
+      "rationale": "rummelig måttestruktur: 'indtil jordens ende'"
+    }
+  ],
+  "translation": "Han gør krige til at ophøre indtil jordens ende; buen knækker han og hugger spyddet over, vogne brænder han i ilden.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "d9792045e4be63f77bf3b3fa58415909fa020e2bbd38660d00c2f2dc61c586f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/46\/10-10.1791264630313.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "gør … til at ophøre"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "krige"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "buen"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "knækker"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "og hugger over"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spyddet"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "vogne"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "brænder"
+    },
+    {
+      "surface": "באש",
+      "gloss": "i ilden"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:30.317397896Z",
+  "model": "glm-5.3"
+}

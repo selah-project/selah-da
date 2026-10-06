@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 20:34",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגעת עליהם הרעה",
+      "rationale": "bogstaveligt 'at det onde var kommet dem nær \/ rørte ved dem' — 'havde ramt dem' contra 'var nær dem' (KJV\/ASV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ulykken",
+      "rationale": "הרעה er 'det onde'; 'ulykken' vælges som dansk vanlige gengivelse i slagkontekst"
+    }
+  ],
+  "translation": "Og de kom imod Gibea, ti tusind udvalgte mænd fra hele Jisrael, og slaget blev tungt; men de vidste ikke, at ulykken havde ramt dem.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "f3078f56128acd13b245b2bb04aec1cd79ef5129af0babc4bfde22449f6ce0ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/judges\/20\/34-34.1791264540694.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og de kom"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "imod"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mænd"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "udvalgte"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fra hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ו המלחמה",
+      "gloss": "og slaget"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "blev tungt"
+    },
+    {
+      "surface": "והם",
+      "gloss": "men de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vidste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נגעת",
+      "gloss": "havde ramt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dem"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ulykken"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:00.699101938Z",
+  "model": "glm-5.3"
+}

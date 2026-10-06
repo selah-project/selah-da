@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הגד הגיד",
+      "rationale": "Infinitivus absolutus: 'fortalte fortalte' — gengivet med 'tydeligt' for at bevare forstærkningen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דודו",
+      "rationale": "Bogstaveligt 'sin onkel' (faderens bror); hebraisk דוד dækker både onkel og elsker."
+    }
+  ],
+  "translation": "Og Shaul sagde til sin onkel: Han fortalte os tydeligt, at æslerne var blevet fundet. Men ⟨את⟩ sagens ord om kongedømmet fortalte han ham ikke, det som Shemuel havde sagt.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "2bfb3eba07f6fcc62d93c2b998a9cac7c42dcf84224ce39a320ca10c4190a475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-samuel\/10\/16-16.1791264574267.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "sin onkel"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "tydeligt"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "os"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "var blevet fundet"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "æslerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sagens ord om kongedømmet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ord"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kongedømmets"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "fortalte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "det som"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "havde sagt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:34.275161253Z",
+  "model": "glm-5.3"
+}

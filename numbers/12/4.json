@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צאו\/ויצאו",
+      "rationale": "Befalingen 'gå ud' og efterkommanden 'og de gik ud' er samme rod — gentagelsen bevares i dansk."
+    },
+    {
+      "kind": "you",
+      "subject": "til Moshe, Aharon og Mirjam",
+      "rationale": "Direkte tiltale: Jahve byder de tre at gå ud til mødeteltet."
+    }
+  ],
+  "translation": "Og Jahve sagde pludselig til Moshe og til Aharon og til Mirjam: Gå ud, I tre, til mødeteltet. Og de tre gik ud.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "d6f7698d94a1231b94866950267e80b9a55a7427ba702e84db1faa97fe0b4ee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/numbers\/12\/4-4.1791264523518.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "pludselig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "gå ud"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "I tre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltet"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "møde-"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "og de gik ud"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "de tre"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:43.524566153Z",
+  "model": "glm-5.3"
+}

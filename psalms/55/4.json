@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימיטו",
+      "rationale": "Fra מוט 'vakle\/falde': 'de bringer til at vakle' — KJV 'cast', BSB 'release'; rodde-billedet er at få noget til at tippe ned over en."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hader",
+      "rationale": "שטם er egentlig 'lure på, forfølge'; dansk tradition siger 'hade' (jf. D3 שנא), men roden betyder forfølgelse."
+    },
+    {
+      "kind": "elision",
+      "subject": "און",
+      "rationale": "און er egentlig 'intethed, tomhed, ondskab'; gengivet som 'ondskab'."
+    }
+  ],
+  "translation": "For fjendens røst, for den ondes trængsel: thi de lader ⟨את⟩ ondskab vakle ned over mig, og i vrede hader de mig.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "d15f6b4a913a9b182681b1880de94e1cf3804f039cc65164cec04b8fe9e2a985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/55\/4-4.1791264615339.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "For fjendens røst"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjendens"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "trængsel"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "den ondes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "lader vakle ned"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "over mig"
+    },
+    {
+      "surface": "און",
+      "gloss": "ondskab"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "og i vrede"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "hader de mig"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:15.343593071Z",
+  "model": "glm-5.3"
+}

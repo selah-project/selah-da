@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 8:8",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמנו אל",
+      "rationale": "Immanuel — 'El med os' — et navn, der her tiltales; navnet opdeles i to tokener på hebraisk og gengives samlet som Immanuel"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטף ועבר",
+      "rationale": "flodbilledet fra v.7 fortsætter: skyller og går frem, Assyrien som oversvømmelse"
+    },
+    {
+      "kind": "you",
+      "subject": "Immanuel",
+      "rationale": "direkte tiltale: 'o Immanuel' — landets bredde kaldes 'dit land'"
+    }
+  ],
+  "translation": "Og den skyr gennem Jehudah, skyller over og går frem, når indtil halsen; og det skal ske: udspændingen af hans vinger fylder hele ⟨dit⟩ lands bredde, o Immanuel.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "f312b9a882bb4b756f5e34ac25731bcb6b83ed853157c64026a936f83b521e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/isaiah\/8\/8-8.1791264585218.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלף",
+      "gloss": "skyr gennem"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudah"
+    },
+    {
+      "surface": "שטף",
+      "gloss": "skyller over"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "går frem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indtil"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "halsen"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "når"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og det skal ske"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "udspændingen"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "af hans vinger"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fylder"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bredde"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "dit land"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "Immanuel (med-os)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Immanuel (El)"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:45.225985781Z",
+  "model": "glm-5.3"
+}

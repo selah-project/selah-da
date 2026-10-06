@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 6:17",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebraisk mangler kopula; dansk kræver 'er'"
+    },
+    {
+      "kind": "crux",
+      "subject": "bylder",
+      "rationale": "טחרי er postal bulges\/hemorroider; KJV 'emerods', dansk tradition 'bylder' eller 'kvægfoster'"
+    }
+  ],
+  "translation": "Og dette er de gyldne bylder, som filisterne gav tilbage som skyldoffer for Jahve: for Ashdod én, for Aza én, for Ashkelon én, for Gat én, for Ekron én.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "c814038142c5ec526d3329d22a772605bf3e5cc8df8153c04e6c715a4c7311b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-samuel\/6\/17-17.1791264564301.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og dette er"
+    },
+    {
+      "surface": "טחרי",
+      "gloss": "bylder"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "de gyldne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "gav tilbage"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "skyldoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "for Jahve"
+    },
+    {
+      "surface": "לאשדוד",
+      "gloss": "for Ashdod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לעזה",
+      "gloss": "for Aza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לאשקלון",
+      "gloss": "for Ashkelon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לגת",
+      "gloss": "for Gat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "לעקרון",
+      "gloss": "for Ekron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:24.306123361Z",
+  "model": "glm-5.3"
+}

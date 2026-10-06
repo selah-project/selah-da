@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Babylon, datter af kasdæerne",
+      "rationale": "Direkte tiltale til den babylonske 'datter' i anden person femininum."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ובאי",
+      "rationale": "Kan også læses som 'kom ind i' (jussiv af בוא) snarere end bydefor mann 'gå ind i'; betydningen er den samme."
+    },
+    {
+      "kind": "crux",
+      "subject": "גברת ממלכות",
+      "rationale": "'Herskerinde over kongeriger' — kvindelig form af גבר (styrke); 'dronning' (BSB) taber ordspillet på magt-ordet."
+    }
+  ],
+  "translation": "Sid stille og gå ind i mørket, datter af kasdæerne, for du skal ikke mere kaldes herskerinde over kongeriger.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "98bd5461ee6e3432e2749ddecad1c4701a03a42bd1cd19d8ef42836f77cd5ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/isaiah\/47\/5-5.1791264584876.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "sid"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "stille"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "og gå ind"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "i mørket"
+    },
+    {
+      "surface": "בת",
+      "gloss": "datter"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "af kasdæerne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "skal du mere"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "kaldes"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "herskerinde"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "over kongeriger"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:44.883770211Z",
+  "model": "glm-5.3"
+}

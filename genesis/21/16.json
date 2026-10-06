@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 21:16",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bue-skud",
+      "rationale": "כמטחוי קשת er bogstaveligt 'som et buen-strækkes' — en bueskydes rækkevidde, gengivet som mål-idiom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנגד ... מנגד",
+      "rationale": "Gentagelsen af 'på afstand' i begyndelsen og slutningen af verset rammer Hagars ensomme afstand; gentagelsen er bevaret."
+    },
+    {
+      "kind": "measurement",
+      "subject": "bue-skud",
+      "rationale": "Verset måler afstanden i en bues rækkevidde."
+    }
+  ],
+  "translation": "Og hun gik bort og satte sig for sig selv på afstand, langt borte, så langt som et bue-skud, for hun sagde: Må jeg ikke se barnets død. Og hun sad på afstand, og hun løftede ⟨את⟩ sin røst og græd.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "4a7a43ad4c37194110f522c14f42fe3796d9f5833e4280bea0253a45b3921d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/21\/16-16.1791264544898.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "og hun gik"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "og satte hun sig"
+    },
+    {
+      "surface": "לה",
+      "gloss": "for hende"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "på afstand"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "langt borte"
+    },
+    {
+      "surface": "כמטחוי",
+      "gloss": "så langt som et bue-skud"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sagde hun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "må ikke"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "jeg se"
+    },
+    {
+      "surface": "במות",
+      "gloss": "døden"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnets"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "og hun sad"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "på afstand"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "og hun løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin røst"
+    },
+    {
+      "surface": "קלה",
+      "gloss": "sin røst"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "og græd"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:04.903679569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dem",
+      "rationale": "Hebraisk mangler objektet; 'dem' = Jisrael, tilføjet i ⟨…⟩-ånd"
+    },
+    {
+      "kind": "elision",
+      "subject": "-ה i אשורה",
+      "rationale": "retningsendelse ('mod Ashshur') gengivet ved 'til'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נהר גוזן",
+      "rationale": "'floden Gozan' (byen) eller 'floden ved Gozan' — oversætterne deler sig"
+    }
+  ],
+  "translation": "Og kongen af Ashshur førte ⟨את⟩ Jisrael i landflygtighed til Ashshur og bosatte dem i Chalach og ved Chabor, floden ⟨ved⟩ Gozan, og i Medianes byer.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "9882b14144916a7ea03117e78437f32378c9d20fd0cb9fb3486d414a44341757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-kings\/18\/11-11.1791264563355.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "og førte i landflygtighed"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "af Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "til Ashshur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "og bosatte dem"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "i Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "og ved Chabor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "floden"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "og i byer"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medianes"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:23.366946265Z",
+  "model": "glm-5.3"
+}

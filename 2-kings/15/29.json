@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 15:29",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "stednavneliste",
+      "rationale": "Verset er en by-for-by-opregning af erobrede områder — otte navnede lokaliteter plus hele Naftalis land."
+    },
+    {
+      "kind": "addition",
+      "subject": "dem",
+      "rationale": "Hebraisk ויגלם har objektssuffixet 'dem' indbygget; dansk kræver et selvstændigt ord."
+    },
+    {
+      "kind": "substitution",
+      "subject": "i landflygtighed",
+      "rationale": "גלה betyder bogstaveligt 'at nøgen­gøre\/strippe' og deraf 'at føre i eksil'; 'landflygtighed' gengiver eksilet, ikke det billedlige grundlag."
+    }
+  ],
+  "translation": "I Pekachs dage, kongen af Jisraels, kom Tiglat-Pileser, kongen af Ashur, og tog ⟨את⟩ Ijon og ⟨את⟩ Abel Beit-Maakha og ⟨את⟩ Janoach og ⟨את⟩ Kedesh og ⟨את⟩ Chatsor og ⟨את⟩ Gilad og ⟨את⟩ Galilaja, hele Naftalis land, og førte dem i landflygtighed til Ashur.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a04161de6b738cdeff02e3d8c74fe102ad4d809ee05b3c111120a6e44a15cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-kings\/15\/29-29.1791264574298.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "i dage"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pekachs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Tiglat"
+    },
+    {
+      "surface": "פלאסר",
+      "gloss": "Pileser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijon"
+    },
+    {
+      "surface": "עיון",
+      "gloss": "Ijon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Abel Beit-Maakha"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Janoach"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "Janoach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Galilaja"
+    },
+    {
+      "surface": "הגלילה",
+      "gloss": "Galilaja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalis"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "og førte dem i landflygtighed"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "til Ashur"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:34.309637777Z",
+  "model": "glm-5.3"
+}

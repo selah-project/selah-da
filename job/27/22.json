@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 27:22",
+  "book": "job",
+  "lang": "da",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוח \/ יברח",
+      "rationale": "Ordspil: 'i ruach (vind\/storm)' og 'han flygter' lyder ens — ba-ruach \/ yi-brach; kan ikke gengives på dansk"
+    },
+    {
+      "kind": "crux",
+      "subject": "subjektet",
+      "rationale": "Hebraisk har intet udtrykt subjekt: er det stormen fra v. 21, Elohim eller 'den'? Oversættelserne er uenige (KJV: 'God', JPS: 'it')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dens⟩",
+      "rationale": "Dansk kræver possessor ved 'hånd'; hebraisks ידו er 3. person ental uden angivet ejer"
+    }
+  ],
+  "translation": "Den kaster ⟨את⟩ ham ⟨ned⟩ og skåner ikke; af ⟨dens⟩ hånd flygter han i storm — flygter bort.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "aa4cc71bbe240025e748c59f06137f7eb9632e3dca01edad3f0b958a9e94ec91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/job\/27\/22-22.1791264613355.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "Den kaster"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨ned⟩ på ham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "skåner"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "af ⟨dens⟩ hånd"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "i storm"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "flygter han — flygter bort"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:13.359338613Z",
+  "model": "glm-5.3"
+}

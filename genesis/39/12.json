@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 39:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותתפשהו … ויעזב",
+      "rationale": "Hun 'griber' (תפש), han 'slipper' (עזב) — greb mod løsladelse, klædebonnet som vendepunkt."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ud⟩",
+      "rationale": "ויצא החוצה er to led 'gik ud' + 'udad'; dansk har kun brug for én retningsangivelse."
+    }
+  ],
+  "translation": "Da greb hun ham i hans klædebon og sagde: Læg dig med mig! Men han lod sit klædebon blive i hendes hånd og flygtede og gik ud ⟨ud⟩.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a07171155c7129d34031b635109b831cce0ee11d373f8152f76a6e9a809ed81e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/39\/10-12.1791264555994.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתפשהו",
+      "gloss": "Da greb hun ham"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "i hans klædebon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "Læg dig"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "med mig"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "Men han lod"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "sit klædebon"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "i hendes hånd"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flygtede"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "⟨ud⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:16.007676104Z",
+  "model": "glm-5.3"
+}

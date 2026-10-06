@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 28:12",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סלם",
+      "rationale": "'trappe\/trappegang' (som i Neh 12,37 og 3 Mos 26应有的) mod traditionen 'stige'; roden c\/2492 betyder 'at hæve\/bunde', så en hældende trappe er mere præcis end en lodret stige."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סולם",
+      "rationale": "Ordet forekommer kun her i Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלאכי",
+      "rationale": "'sendebud' — מַלְאָךְ betyder budbringer; 'engle' er en senere rolletolkning."
+    },
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Dansk kræver kopula ved מֻצָּב, som hebraisk udtrykker som participium uden kopula."
+    }
+  ],
+  "translation": "Og han drømte, og se, en trappe var rejst på jorden, og dens hoved rørte ved himlene; og se, Elohims sendebud steg op og steg ned ad den.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "4d616e2ce1f239b9e74d9fc80968e88d855750eb824f11447e241743c8bd5a03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/28\/12-12.1791264542524.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "og han drømte"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "סלם",
+      "gloss": "en trappe"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "var rejst"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "på jorden"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "og dens hoved"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "rørte ved"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "himlene"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og se"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "sendebud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohims"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "steg op"
+    },
+    {
+      "surface": "וירדים",
+      "gloss": "og steg ned"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ad den"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:02.529751803Z",
+  "model": "glm-5.3"
+}

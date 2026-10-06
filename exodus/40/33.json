@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "forhænget",
+      "rationale": "מסך er et dække\/forhæng; 'ויתן' bogstaveligt 'gav\/satte' gengivet som 'hængte'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ved",
+      "rationale": "dansk fordrer en præposition ved 'שער החצר', hebraisk er en bundet konstruktion 'forgårdens port'"
+    }
+  ],
+  "translation": "Og han rejste ⟨את⟩ forgården rundt om Mishkanen og om alteret, og han hængte ⟨את⟩ forhænget ved forgårdens port; så fuldførte Moshe ⟨את⟩ arbejdet.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "32df6f2aee226a37de93fcf245040bec325e6b80676c3a40553b9c3df87f8674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/exodus\/40\/33-33.1791264529871.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "og han rejste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forgården"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgården"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanen"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "og om alteret"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og han hængte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forhænget"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhænget"
+    },
+    {
+      "surface": "שער",
+      "gloss": "port"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgårdens"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "så fuldførte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbejdet"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "arbejdet"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:49.878949717Z",
+  "model": "glm-5.3"
+}

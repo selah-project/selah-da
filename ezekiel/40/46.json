@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 40:46",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "liská",
+      "rationale": "לשכה er et rum til opbevaring eller ophold; gengivet med det hebraiske lødnavn 'liská' for at bevare formen"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨de som træder nær⟩",
+      "rationale": "Dansk kræver en relativ konnektiv foran 'til Jahve', som hebraisk udtrykker ved אל med verbalimplikation"
+    },
+    {
+      "kind": "measurement",
+      "subject": "templets rumfordeling",
+      "rationale": "Verset tildeler rum efter funktion og slægt — præsternes og Tsadoks sønners placering i templets mål"
+    }
+  ],
+  "translation": "Og liskáen, hvis ansigt vender mod nord, er for præsterne, vogterne af altersvagten; de er Tsadoks sønner, de nærmaanende blandt Levis sønner, ⟨de som træder nær⟩ til Jahve for at tjene ham.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "bb8c441aa8ee3c1f28313cb83dd9bf453707583167750f9916adbef8932d53f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/ezekiel\/40\/46-46.1791264581926.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלשכה",
+      "gloss": "Og liskáen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ansigt vender"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mod"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "for præsterne"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vogterne"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "altersvagten"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteret"
+    },
+    {
+      "surface": "המה",
+      "gloss": "de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoks"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "de nærmaanende"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "blandt sønnerne af"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "for at tjene ham"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:41.930887884Z",
+  "model": "glm-5.3"
+}

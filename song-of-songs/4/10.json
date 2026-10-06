@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דדיך",
+      "rationale": "'dina dads kærtegn\/kærlighedsgaver' — rod dod: elskov, elsker, kærtegn; gengivet som 'kærtegn' (pl.) mod 'kærlighed' (KJV\/JPS) eller 'elskere' (yoŋslinger af ​​intimitet)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה … מה",
+      "rationale": "Anafre: det udråbende 'hvor' gentages i parallelle led, bevaret i dansk"
+    },
+    {
+      "kind": "you",
+      "subject": "til bruden",
+      "rationale": "Direkte tiltale til den elskede, kaldt 'min søster, min brud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "end alle krydderier",
+      "rationale": "Hebraisk udelader verbet i sidste led; dansk supplerer 'bedre' fra parallelisme"
+    }
+  ],
+  "translation": "Hvor er dine kærtegn smukke, min søster, min brud! Hvor er dine kærtegn bedre end vin, og duften af dine salver bedre end alle krydderier!",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "9c2b7535aa8da12887a9ab49b7ccb953cdeb8cc7f28f5af47a78bc63e76b5dc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/song-of-songs\/4\/10-10.1791264604151.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "smukke"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "dine kærtegn"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "min søster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "min brud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "bedre"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "dine kærtegn"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "end vin"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "og duften"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "af dine salver"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "end alle"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "krydderier"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:04.156077148Z",
+  "model": "glm-5.3"
+}

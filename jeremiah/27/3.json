@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 27:3",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨de⟩",
+      "rationale": "Dansk kræver artikel\/pronomen foran sendebud; hebraisk har ingen"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ved hånd af",
+      "rationale": "Hebraisk ביד 'i\/ved hånd' = gennem, som middel; ordret 'hånd' bevares"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kongelisten",
+      "rationale": "Verset oplister fem kongeriger ved navn — en bevidst tælling af de små stater omkring Juda"
+    }
+  ],
+  "translation": "Og send dem til Edoms konge og til Moavs konge og til Ammons børns konge og til Tsors konge og til Tsidons konge, ved hånd af ⟨de⟩ sendebud, som kommer til Jerushalajim, til Tsidkija, Judas konge.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "9a609f9aa57bfcc95f10fa519caa06c7b2c06ccbeba56eef27e3fd97caba4fdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/jeremiah\/27\/3-3.1791264564949.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתם",
+      "gloss": "Og send dem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavs"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "børns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsors"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidons"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ved hånd af"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sendebud"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "som kommer"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkija"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konge"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judas"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:24.956601198Z",
+  "model": "glm-5.3"
+}

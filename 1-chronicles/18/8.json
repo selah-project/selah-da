@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kobberhavet",
+      "rationale": "ים הנחששת er 'kobberhavet', templets store kar; 'hav' er det hebraiske ords billede, ikke et geografisk hav"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kobber i overordentlig stor mængde",
+      "rationale": "verset tæller og vejer krigsbyttet op"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחשת",
+      "rationale": "ordet 'kobber' gentages tre gange i verset og binder Davids bytte sammen med Shlomos tempel"
+    }
+  ],
+  "translation": "Og fra Tibchat og fra Kun, Hadadezers byer, tog David kobber i overordentlig stor mængde; deraf gjorde Shlomo ⟨את⟩ kobberhavet og ⟨את⟩ søjlerne og ⟨את⟩ karrene af kobber.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "e8abd5652fb2c26d50875c99828c92e8afecc53f0b478ad4c31362c3a08c3857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-chronicles\/18\/8-8.1791264639024.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "og fra Tibchat"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "og fra Kun"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "byer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezers"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kobber"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "i stor mængde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "overordentlig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deraf"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjorde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobberhavet"
+    },
+    {
+      "surface": "ים",
+      "gloss": "havet"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kobber-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "søjlerne"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "søjlerne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "karrene"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "karrene"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "af kobber"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:39.050815111Z",
+  "model": "glm-5.3"
+}

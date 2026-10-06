@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Mishkan-tæpper",
+      "rationale": "Verset giver de nøjagtige mål for hvert tæppe: 28 × 4 alen, ét mål for alle."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tæppe",
+      "rationale": "hebraisk היריעה er 'det bævrende\/stærkende (klæde)', gengivet som tæppe (Mishkan-klædet)."
+    }
+  ],
+  "translation": "Længden af det ene tæppe var otte og tyve alen, og bredden af det ene tæppe fire alen — ét mål for alle tæpperne.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "d137da9e87cba2f82ff9eec6785f0d5b08d83a145b4c7573ea7666fbdb145328",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/exodus\/36\/9-9.1791264523168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "længden"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "af tæppet"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "otte"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tyve"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "og bredden"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fire"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tæppet"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "det ene"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mål"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ét"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "for alle"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tæpperne"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:43.173960211Z",
+  "model": "glm-5.3"
+}

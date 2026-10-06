@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "var gået op",
+      "rationale": "יָצָא betyder bogstaveligt 'gik ud'; om solen gengives naturligt 'gik op'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "ingen direkte genstandsmarkør i dette vers;oversættelsen følger den hebraiske ordstilling uden parentes"
+    }
+  ],
+  "translation": "Solen var gået op over ⟨את⟩ jorden, og Lot kom ind i Tsoar.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "21610548a75717a536a79fc27afa9deed11f69d63ffaa76d6f596b111b275829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/19\/23-23.1791264539868.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Solen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "var gået op"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "og Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom ind"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "i Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:59.871498510Z",
+  "model": "glm-5.3"
+}

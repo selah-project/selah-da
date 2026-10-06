@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 5:15",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה gengives med det hebraiske ord mincha, ikke 'madoffer' eller 'gave'"
+    },
+    {
+      "kind": "addition",
+      "subject": "er den",
+      "rationale": "Hebraisk mangler kopula ved הוא; dansk kræver udfyldning"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tiendedel af en efa",
+      "rationale": "Byggemellets mål er fastlagt: עשירית האיפה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכרון\/מזכרת",
+      "rationale": "Rodgentagelse af זכר (at minde): 'ihukommelse' og 'minder om' — gentagelsen bevares"
+    }
+  ],
+  "translation": "Og manden skal bringe ⟨את⟩ sin hustru til præsten og bringe ⟨את⟩ hendes offer for hende, en tiendedel af en efa bygmel; han skal ikke hælde olie på det og ikke lægge røgelse derpå, for det er en mincha af jalousi, en mincha til ihukommelse, som minder om skyld.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a789825e68c3bee3bd9a3fc32d708978c00a234f873950d25291cf7e38593340",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/numbers\/5\/15-15.1791264548729.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Og skal bringe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin hustru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sin hustru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "præsten"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "og bringe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendes offer"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "hendes offer"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "for hende"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "en tiendedel"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "af en efa"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "mel"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "byg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "skal hælde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på det"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "lægge"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "derpå"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "røgelse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "af jalousi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er den"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "til ihukommelse"
+    },
+    {
+      "surface": "מזכרת",
+      "gloss": "som minder om"
+    },
+    {
+      "surface": "עון",
+      "gloss": "skyld"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:08.742808301Z",
+  "model": "glm-5.3"
+}

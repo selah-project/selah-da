@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 27:37",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trælle",
+      "rationale": "עבדים gengivet som 'trælle' jf. disciplindokumentet; 'tjenere' er også muligt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "opretholdt",
+      "rationale": "סמכתיו er billedligt 'har jeg støttet\/oprettet ham'; ordets grundbetydning er at støtte\/læne mod"
+    },
+    {
+      "kind": "you",
+      "subject": "til Esav",
+      "rationale": "Jitschak svarer direkte og afvist søn med et spørgsmål"
+    }
+  ],
+  "translation": "Og Jitschak svarede og sagde til Esav: Se, ham har jeg sat til hersker over dig, og ⟨את⟩ alle hans brødre har jeg givet ham til trælle, og med korn og most har jeg opretholdt ham — og for dig, hvad skal jeg da gøre, min søn?",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "cfd4f924df2eb625020e5f762d325de74b13b39ecd9192019f0a26f6d4f3d274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/27\/37-37.1791264547502.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "og svarede"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "til Esav"
+    },
+    {
+      "surface": "הן",
+      "gloss": "se"
+    },
+    {
+      "surface": "גביר",
+      "gloss": "hersker"
+    },
+    {
+      "surface": "שמתיו",
+      "gloss": "har jeg sat ham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "over dig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alle hans brødre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hans brødre"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "har jeg givet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "til trælle"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "og med korn"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "og most"
+    },
+    {
+      "surface": "סמכתיו",
+      "gloss": "har jeg opretholdt ham"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "og for dig"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "da"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skal jeg gøre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "min søn"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:07.508273692Z",
+  "model": "glm-5.3"
+}

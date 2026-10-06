@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 2:28",
+  "book": "2-samuel",
+  "lang": "da",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יספו עוד להלחם",
+      "rationale": "Hebraisk 'tilføjede ikke mere at kæmpe' — gengivet som 'fortsatte ikke længere med at kæmpe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחרי ישראל",
+      "gloss": "'efter Jisrael' — hebraiskens 'jage bag efter' gengivet med dansk verbforsætning"
+    }
+  ],
+  "translation": "Da stødte Joav i shofaren, og hele folket standsede, og de forfulgte ikke længere Jisrael og fortsatte ikke længere med at kæmpe.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "939ecc62408197df551ec902c42716c32ba64f2ed9bdcb9cdfd3093f45b4125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-samuel\/2\/28-28.1791264572830.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "stødte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "i shofaren"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "standede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "forfulgte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "fortsatte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længere"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "med at kæmpe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:32.835458816Z",
+  "model": "glm-5.3"
+}

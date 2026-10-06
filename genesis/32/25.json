@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויאבק \/ יעקב",
+      "rationale": "Roden אבק (at brydes) ligner navnet Jaakov — ordspil mellem navnet og kampen, tabt på dansk."
+    },
+    {
+      "kind": "substitution",
+      "subject": "brydedes",
+      "rationale": "ויאבק er bogstaveligt 'at støve til' (bedust) — at brydes er den sædvanige gengivelse af brydekampen."
+    },
+    {
+      "kind": "addition",
+      "subject": "efterladt",
+      "rationale": "ויותר er intransitivt 'blev tilbage'; dansk kræver en fyldiggørelse, markeret med ⟨…⟩."
+    },
+    {
+      "kind": "mystery",
+      "subject": "en mand",
+      "rationale": "Verset identificerer ikke kæmperen — teksten er bevidst tilbageholdende med hvem 'en mand' er."
+    }
+  ],
+  "translation": "Og Jaakov blev ⟨efterladt⟩ alene, og en mand brydedes med ham, til ⟨opstigen af⟩ morgenrøden.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "4a591e006d7c1ad5aa5f306a424d0e5591c4fd07a0e0ae810cba32b6c28a4cbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/32\/25-25.1791264546807.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "blev ⟨efterladt⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alene"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "brydedes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "med ham"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "⟨opstigen af⟩"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "morgenrøden"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:06.811405068Z",
+  "model": "glm-5.3"
+}

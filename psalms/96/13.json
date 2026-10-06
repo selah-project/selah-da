@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Gentagelsen 'for han kommer, for han kommer' er bevidst messiansk }Jubel; den er bevaret bogstaveligt."
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "'Foran Jahve' hænger sammen med v. 12 (jublende foran Jahve); hebraisk har intet verballed her."
+    }
+  ],
+  "translation": "Foran Jahve, for han kommer, for han kommer for at dømme jorden; han dømmer ⟨את⟩ verden i tsedek og folkene i sin trofasthed.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/96\/13-13.1791264633266.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kommer"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "for at dømme"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "dømmer"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "i tsedek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "og folkene"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "i sin trofasthed"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:33.273525573Z",
+  "model": "glm-5.3"
+}

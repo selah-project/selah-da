@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "bogstaveligt 'fra ansigtet af'; gengivet med 'ved … ansigt' for at bevare billedet"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יענו\/ירבה",
+      "rationale": "parallellen 'jo mere de plagede — jo mere forøgedes' er hebraiskens kiasm-agtige tælleriem; dansk 'jo… jo' gengiver rytmen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יפרץ",
+      "rationale": "bogstaveligt 'brød igennem\/udbrød'; 'brød frem' bevarer den pludselige, sprængende kraft"
+    },
+    {
+      "kind": "addition",
+      "subject": "folket",
+      "rationale": "אתו peger på et entals-suffix ('det\/ham'); 'folket' gør referenten tydelig på dansk"
+    }
+  ],
+  "translation": "Men jo mere de plagede ⟨את⟩ folket, jo mere blev det forøget, og jo mere brød det frem; og de væmmedes ved Bnei Jisraels ansigt.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "3fe66a29febfb73b5881f986b1fabd5892e42853c1b5c59ecda5835bf29f5f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/exodus\/1\/12-12.1791264524049.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "men jo mere"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "plagede de"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "folket"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jo mere"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "blev det forøget"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "og jo mere"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "brød det frem"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "og de væmmedes"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ved … ansigt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bnei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraels"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:44.054097846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fyrre år",
+      "rationale": "Verset måler Shlomos regeringstid: fyrre år."
+    },
+    {
+      "kind": "substitution",
+      "subject": "de dage",
+      "rationale": "Hebraisk והימים 'dagene' bruges om en tidsperiode, ikke 'tiden' som flere oversættelser har."
+    }
+  ],
+  "translation": "Og de dage, Shlomo regerede i Jerushalajim over hele Jisrael, var fyrre år.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "3a9cad91e8ef461f7bb37c671f9a32988df669b085d4868cd14773dca26ab04f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-kings\/11\/42-42.1791264584451.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Og de dage"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "regerede"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fyrre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:44.456720871Z",
+  "model": "glm-5.3"
+}

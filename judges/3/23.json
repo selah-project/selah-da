@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 3:23",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המסדרונה",
+      "rationale": "søjlegangen — ordet forekommer kun her i Tanakh og er afledt af סדר, 'række', efter dets søjlerækker"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונעל",
+      "rationale": "rod 5274: egentlig 'at spænde\/lukke med rem' — 'gred til' (YLT 'bolted') mod 'låste' (KJV); ingen nøgle er nævnt"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sig⟩\/⟨ham⟩",
+      "rationale": "בעדו er præposition med suffiks, 'bag ham'; dansk kræver objektform oplyst"
+    }
+  ],
+  "translation": "Og Ehud gik ud gennem ⟨den⟩ søjlegang og lukkede overliggens døre bag ⟨sig⟩ og gred dem til.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "f2e2b578ba3b66db8df2e2a9240c04a3e32eee3a13cc46244613276f8a2d0874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/judges\/3\/23-23.1791264534065.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "og gik ud"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "המסדרונה",
+      "gloss": "gennem ⟨den⟩ søjlegang"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "og lukkede"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "døre"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "overliggens"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "bag ⟨ham⟩"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "og gred til"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:54.069051699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 25:17",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨der var⟩",
+      "rationale": "Hebraisk har ingen kopula ved ושבכה; dansk kræver en verbal sætning her"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kobber",
+      "rationale": "נחשת er kobber (eller bronze) — ikke messing, som ældre oversættelser har"
+    },
+    {
+      "kind": "measurement",
+      "subject": "søjlens mål",
+      "rationale": "verset målér søjlen: atten alen, kapitælet tre alen"
+    },
+    {
+      "kind": "alternative",
+      "subject": "על השבכה",
+      "rationale": "bogstavelig 'på gitterværket'; 'med gitterværket' følger det parallelle sted Jer 52,22"
+    }
+  ],
+  "translation": "Attende alen var højden af den ene søjle, og et kapitæl var på den, af kobber, og højden af kapitælet var tre alen; og ⟨der var⟩ gitterværk og granatæbler på kapitælet rundt om — det hele var kobber; og ligesom disse var den anden søjle, med gitterværket.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "56d11b1bf21c9f78ebaac32ba1404e2015f824719ef244f55c51e350d65671c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-kings\/25\/17-17.1791264575815.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמנה",
+      "gloss": "otte"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "højden"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "søjlen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "den ene"
+    },
+    {
+      "surface": "וכתרת",
+      "gloss": "og et kapitæl"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "på den"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kobber"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "og højden"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "kapitælet"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alen"
+    },
+    {
+      "surface": "ושבכה",
+      "gloss": "og gitterværk"
+    },
+    {
+      "surface": "ורמנים",
+      "gloss": "og granatæbler"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "kapitælet"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt om"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "det hele"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kobber"
+    },
+    {
+      "surface": "וכאלה",
+      "gloss": "og ligesom disse"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "til søjlen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "den anden"
+    },
+    {
+      "surface": "על",
+      "gloss": "med"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "gitterværket"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:35.820356199Z",
+  "model": "glm-5.3"
+}

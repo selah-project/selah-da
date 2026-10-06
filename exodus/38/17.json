@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 38:17",
+  "book": "exodus",
+  "lang": "da",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Hebræisk mangler kopula; de to første sætninger er navneordssætninger uden verbum"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "Aleph-tav foran ווי העמודים er gengivet med ⟨את⟩-markøren"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשוקים\/מחשקים",
+      "rationale": "Rodspil: stængerne (chashukim) og 'omspeateret' (mechushqim) — samme rod חשק gentaget, tabt på dansk"
+    }
+  ],
+  "translation": "Og socklerne til søjlerne var kobber, og søjlens kroge og deres stænger sølv, og beklædningen af deres hoveder sølv, og de var omspændt med sølv — alle forgårdens søjler.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "398a0ffd279ec351336131bdccbc9f83ba2aac655ea58b85154affe2e857b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/exodus\/38\/17-17.1791264524516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאדנים",
+      "gloss": "Og socklerne"
+    },
+    {
+      "surface": "לעמדים",
+      "gloss": "til søjlerne"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kobber"
+    },
+    {
+      "surface": "והעמודים",
+      "gloss": "Og søjlens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "søjlens kroge"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "og beklædningen"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "af deres hoveder"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sølv"
+    },
+    {
+      "surface": "והם",
+      "gloss": "og de"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "var omspændt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "med sølv"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "søjler"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "forgårdens"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:44.521172054Z",
+  "model": "glm-5.3"
+}

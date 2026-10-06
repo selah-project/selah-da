@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 1:9",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Salomo til Jahve",
+      "rationale": "Bøn henvendt direkte til Jahve Elohim."
+    },
+    {
+      "kind": "crux",
+      "subject": "יאמן",
+      "rationale": "Niphal af אמן: 'blive stadfæstet\/bevist' — nogle læser det som ønske ('lad det blive stadfæstet', KJV\/BSB) eller som udsagn ('er blevet stadfæstet')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם ... רב כעפר",
+      "rationale": "Sandhedslignelsen 'mange som jordens støv' gentager 1 Mos 13,16 og 2 Sam 7,10 over for Davids løfte."
+    }
+  ],
+  "translation": "Nu, Jahve Elohim, blive dit ord med David min far stadfæstet, for du har gjort mig til konge over et folk, der er ⟨som⟩ støvet på jorden, så talløst.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "aff2b930ee1ce585d5c0463d2902ee9de1c973c809da6fb42eb18a6e28df57c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-chronicles\/1\/9-9.1791264635874.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "blive stadfæstet"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "dit ord"
+    },
+    {
+      "surface": "עם",
+      "gloss": "med"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "min far"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "du"
+    },
+    {
+      "surface": "המלכתני",
+      "gloss": "har gjort mig til konge"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "עם",
+      "gloss": "et folk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talløst"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "som støvet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "på jorden"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:35.879720052Z",
+  "model": "glm-5.3"
+}

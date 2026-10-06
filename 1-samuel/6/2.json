@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "da",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til præsterne og spåmændene",
+      "rationale": "Filisternes direkte henvendelse: 'hvad skal vi gøre' og 'gør det os kendt' er tiltale med spørgsmål."
+    },
+    {
+      "kind": "substitution",
+      "subject": "spåmændene",
+      "rationale": "קוסמים er 'dem der spår ved lod eller tegn'; 'spåmænd' holder billedet, 'divinatorer' ville være stivt."
+    },
+    {
+      "kind": "crux",
+      "subject": "Jahves ark",
+      "rationale": "Kilden har ארון יהוה uden genitivmærke; 'Jahves ark' (ikonstruktion) er den bogstavelige læsning."
+    }
+  ],
+  "translation": "Og filisterne kaldte på præsterne og på spåmændene og sagde: Hvad skal vi gøre med Jahves ark? Gør det os kendt, med hvad vi skal sende den til dens sted.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a392ac1ff21de92c2b1f7f3452c931c1e9b529e99994d031b8fa56da3b5ae374",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-samuel\/6\/2-2.1791264563940.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "og kaldede"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filisterne"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "på præsterne"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "og på spåmændene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "skal vi gøre"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "med arken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "gør det os kendt"
+    },
+    {
+      "surface": "במה",
+      "gloss": "med hvad"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "skal vi sende den"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "til dens sted"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:23.951852758Z",
+  "model": "glm-5.3"
+}

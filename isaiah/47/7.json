@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 47:7",
+  "book": "isaiah",
+  "lang": "da",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד לא",
+      "rationale": "betydning 'således at... ikke' gengivet som 'således... ikke'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זכרת",
+      "rationale": "'komme i hu' for 'huske\/mindes' — dansk idiom for at bære noget i sinde"
+    },
+    {
+      "kind": "you",
+      "subject": "til Babel",
+      "rationale": "direkte tiltale til kvinden Babel, som Jahve dømmer"
+    }
+  ],
+  "translation": "Og du sagde: For evigt skal jeg være herskerinde — således satte du ikke disse ting på dit hjerte, du kom ikke i hu dens ende.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "8ba4e5a4185e9e7d823384d34df19d049696ccb852d67ba7c2ba9ec587a3fc3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/isaiah\/47\/7-7.1791264585348.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "Og du sagde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "for evigt"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "skal jeg være"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "herskerinde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "således"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "satte du"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse ting"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "dit hjerte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "kom du i hu"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "dens ende"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:45.351880119Z",
+  "model": "glm-5.3"
+}

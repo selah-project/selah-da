@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 19:10",
+  "book": "job",
+  "lang": "da",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "håb",
+      "rationale": "תִּקְוָה er bogstaveligt en cord\/snor (et tilliggende), overført forventning; 'håb' vælger den billedlige betydning"
+    },
+    {
+      "kind": "alternative",
+      "subject": "og han rykker op som et træ mit håb",
+      "rationale": "ordstillingen følger hebraisk: verbet נסע (at strike lejr) bærer billedet af teltpæle, der rykkes op"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויסע ... כעץ",
+      "rationale": "verbet er oprindeligt om at pull up teltpæle; kombineret med træ-billedet giver det én bevægelse: at blive rykket op med rode"
+    }
+  ],
+  "translation": "Han river mig ned rundt omkring, og jeg går bort, og han rykker op som et træ mit håb.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "87a29a0d0595f63b5c5837a2a02495353482b007993c0803e4b30f74bb650d3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/job\/19\/10-10.1791264604736.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתצני",
+      "gloss": "river mig ned"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rundt omkring"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "og jeg går bort"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "og han rykker op"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "som et træ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mit håb"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:04.739891288Z",
+  "model": "glm-5.3"
+}

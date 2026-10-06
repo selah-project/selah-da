@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 15:22",
+  "book": "1-kings",
+  "lang": "da",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין נקי",
+      "rationale": "betydningsladet udtryk: 'ingen er fri\/undtaget' (fra tvangstjeneste); gengivet bogstaveligt som 'ingen uskyldig'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨et bud⟩",
+      "rationale": "dansk kræver et objekt for 'lod høre'; hebraisk siger kun 'lod hele Juda høre'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "byggeri",
+      "rationale": "verset regner i materialer — sten og tømmer flyttet fra Rama til Geba og Mitspa"
+    }
+  ],
+  "translation": "Og kong Asa lod ⟨את⟩ hele Juda høre ⟨et bud⟩ — ingen uskyldig — og de løftede ⟨את⟩ stenene fra Rama og ⟨את⟩ dens tømmer, som Basha havde bygget ⟨med⟩, og med dem byggede kong Asa ⟨את⟩ Geba i Binjamin og ⟨את⟩ Mitspa.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "1692c1b915a45f899ce8b44973203735acb38afefcec277107f572670c531c7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-kings\/15\/22-22.1791264591402.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Og kongen"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "lod høre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hele Juda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingen"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "uskyldig"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "og de løftede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stenene fra Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stenene"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "fra Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens tømmer"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "dens tømmer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "havde bygget"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "og byggede"
+    },
+    {
+      "surface": "בם",
+      "gloss": "med dem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "i Binjamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Mitspa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:51.409900914Z",
+  "model": "glm-5.3"
+}

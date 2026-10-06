@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 25:14",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "at have",
+      "rationale": "Det danske tempus kræver et hjælpeverbium, som hebraisk infinitivkonstruktion ikke har."
+    },
+    {
+      "kind": "elision",
+      "subject": "מהכות",
+      "rationale": "Infinitivkonstruktionen 'fra slagen af' er gengivet med en dansk bisætning."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guder",
+      "rationale": "אלהי בני שעיר er 'Se'irs sønners elohim' — med lille g, for det er folkets guder, ikke Elohim."
+    }
+  ],
+  "translation": "Og det skete, efter at Amatsjah var kommet fra ⟨at have⟩ slået ⟨את⟩ edomæerne, at han bragte ⟨את⟩ Se'irs sønners guder og rejste dem for sig til guder, og foran dem bøjede han sig, og for dem brændte han røgelse.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "04ded40f17ffbcbad917520b9749ebcce98b40b2a65a3cf49dcabfaf3ee64447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-chronicles\/25\/14-14.1791264663213.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "efter"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "at komme"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjah"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "fra ⟨at have⟩ slået"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "edomæerne"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "edomæerne"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bragte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Se'irs sønners guder"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sønner"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "og rejste dem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for sig"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til guder"
+    },
+    {
+      "surface": "ולפניהם",
+      "gloss": "og foran dem"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "bøjede han sig"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "og for dem"
+    },
+    {
+      "surface": "יקטר",
+      "gloss": "brændte røgelse"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:03.218760947Z",
+  "model": "glm-5.3"
+}

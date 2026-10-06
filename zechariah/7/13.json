@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "da",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקראו",
+      "rationale": "Tempus uklart: 'de skal kalde' (fremtid) mod 'de kaldte' (fortid, som KJV\/Geneva læser det); hebraisk perfektum kan begge veje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרא\/שמע",
+      "rationale": "Kald\/hør-spejlingen — kaldt uden gehør, nu kald uden gehør — gensidig gengældelse (lex talionis i lyd), bevaret i ordstillingen."
+    }
+  ],
+  "translation": "Og det skete: Som han kaldte, og de ikke hørte, således skal de kalde, og jeg vil ikke høre, siger Jahve Tsevaot.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "1ec02b72e2cf66d0b36da0555656adad509c997d05a344771e9f5ce1a8bdc313",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/zechariah\/7\/13-13.1791264597719.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "som"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kaldte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "således"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "skal de kalde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "jeg vil høre"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:57.724468685Z",
+  "model": "glm-5.3"
+}

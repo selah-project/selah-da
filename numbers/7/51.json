@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "offerdyrene",
+      "rationale": "offerliste med tælling — én tyr, én vædder, ét lam, standardformelen i 4 Mos 7."
+    },
+    {
+      "kind": "alternative",
+      "subject": "søn af sit første år",
+      "rationale": "bokstaveligt 'en søn af dets år'; 'sønnedår'-konstruktionen er bibeholdt frem for en rollebetegnelse som 'etårig'."
+    }
+  ],
+  "translation": "én tyr, en søn af kvæget, én vædder, ét lam, en søn af sit første år, til brændoffer.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "1159b1e52c2f1875c4c4a6e09a9389bb05329fb2d5d380f37bb08451f46dc934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/numbers\/7\/51-51.1791264538078.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "tyr"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "af kvæget"
+    },
+    {
+      "surface": "איל",
+      "gloss": "vædder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "én"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ét"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en søn"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "af sit første år"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brændoffer"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:58.082299880Z",
+  "model": "glm-5.3"
+}

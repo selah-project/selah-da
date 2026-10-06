@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תרעלה",
+      "rationale": "Forekommer kun her i Tanakh; 'svimmelhed\/vaklen', fra roden רעל."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hårde ting",
+      "rationale": "קשה er adjektiv 'hårdt, strengt' — 'ting' er tilføjet for at ganne det adverbielle udtryk."
+    },
+    {
+      "kind": "crux",
+      "subject": "הראיתה עמך קשה",
+      "rationale": "Bogstaveligt 'du har vist dit folk hårdt' — nogle læser 'hård ting', andre 'har behandlet dit folk hårdt'."
+    }
+  ],
+  "translation": "Du har ladet dit folk se hårde ting; du har fået os til at drikke ⟨את⟩ vin af svimmelhed.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "faa5bf51822826c372b3bb13c7c1700c7bcf6c89bc58669132d025fbece5baa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/60\/5-5.1791264597254.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "du har ladet se"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dit folk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hårde ting"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "du har fået os til at drikke"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "af svimmelhed"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:57.259146405Z",
+  "model": "glm-5.3"
+}

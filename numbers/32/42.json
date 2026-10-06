@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "datterbyer",
+      "rationale": "בנתיה er bogstaveligt 'dens døtre'; hebraisk kalder omkringliggende byer for 'døtre'"
+    },
+    {
+      "kind": "addition",
+      "subject": "han",
+      "rationale": "Hebraisk har ikke subjektspronomonet; dansk kræver det efter 'kaldte'"
+    }
+  ],
+  "translation": "Og Novach gik og erobrede ⟨את⟩ Kenat og ⟨את⟩ dens datterbyer, og han kaldte den Novach efter sit navn.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "3cc88c8bf438112a27384ee29729be408dfeb0ee4a5b02920a32bd5a36c0d412",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/numbers\/32\/42-42.1791264535619.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Og Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gik"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og erobrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dens datterbyer"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dens datterbyer"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og han kaldte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "den"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "efter sit navn"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:55.622833699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 40:48",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל (אַיִל)",
+      "rationale": "אַיִל kan være 'pilaster\/stolpe' eller 'forhallens sidevæg'; KJV\/JPS 'post', BSB 'side pillars'."
+    },
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Hebraisk mangler kopula i 'portens bredde var tre alen'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "verset",
+      "rationale": "Tempelets mål: fem alen og tre alen, et af Ezekiels mange målingsvers."
+    }
+  ],
+  "translation": "Og han bragte mig til forhallen på huset, og han målte pilasteren på forhallen, fem alen herfra og fem alen herfra; og portens bredde var tre alen herfra og tre alen herfra.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "d48b7661b5b96702a67ea816c6ef965bf7f395fd1b5e6db06a4352f8fd4cb013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/ezekiel\/40\/48-48.1791264582444.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "og han bragte mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "forhallen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "på huset"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "og han målte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pilasteren"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "på forhallen"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alen"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "herfra"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alen"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "herfra"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "og bredden"
+    },
+    {
+      "surface": "השער",
+      "gloss": "af porten"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tre"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alen"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "herfra"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "og tre"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "alen"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "herfra"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:42.448800726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 6:28",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨den⟩\/⟨dem⟩",
+      "rationale": "Dansk kræver et subjekt eller genstandsord, hebraisk har kun כי יהיה ('når der er')"
+    },
+    {
+      "kind": "crux",
+      "subject": "שדפון וירקון",
+      "rationale": "To plantesygdomme: 'svidning og bleghed' (eller 'gulgryn') — nøjagtig art er omstridt"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי יצר לו",
+      "rationale": "Fra צור 'trænge\/besnære': 'når dets fjender trænger det i landet ved dets porte' — traditionelt 'besæger byerne'"
+    },
+    {
+      "kind": "elision",
+      "subject": "versets afslutning",
+      "rationale": "Hebraisk sætning står uden hovedverb (bøn begunnes først i v. 27\/29) —tankestreg markerer den åbne sætning"
+    }
+  ],
+  "translation": "Hungersnød, når der er ⟨den⟩ i landet, pest, når der er ⟨den⟩,扫gulgryn og bleghed, græshoppe og larve, når der er ⟨dem⟩, når dets fjender trænger det i landet ved dets porte, enhver plage og enhver sygdom —",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "76045ef8a115cc659e0b011088b3b539efdd06c2c72b6ae3f0542354ec41ba04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-chronicles\/6\/28-28.1791264602862.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעב",
+      "gloss": "Hungersnød"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "der er"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "der er"
+    },
+    {
+      "surface": "שדפון",
+      "gloss": "svidning"
+    },
+    {
+      "surface": "וירקון",
+      "gloss": "og bleghed"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "græshoppe"
+    },
+    {
+      "surface": "וחסיל",
+      "gloss": "og larve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "der er"
+    },
+    {
+      "surface": "כי",
+      "gloss": "når"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "trænger"
+    },
+    {
+      "surface": "לו",
+      "gloss": "det"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "dets fjender"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ved dets porte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enhver"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "plage"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og enhver"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sygdom"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:02.868292023Z",
+  "model": "glm-5.3"
+}

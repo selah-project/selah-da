@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "da",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er rettet",
+      "rationale": "Dansk kræver et verbum; hebraisk har kun 'og mod mig hans længsel'"
+    },
+    {
+      "kind": "you",
+      "subject": "bruden",
+      "rationale": "Kvinden taler direkte om sig selv og sin elskede — kærlighedssangens direkte tale"
+    }
+  ],
+  "translation": "Jeg tilhører min elskede, og hans længsel er rettet mod mig.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "2fbfdfd8c5c0519191b8242657f85ffaccfa4f5d64ffe37b3636ad2bef334009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/song-of-songs\/7\/11-11.1791264612928.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "tilhører min elskede"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "og mod mig"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "hans længsel"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:12.932111033Z",
+  "model": "glm-5.3"
+}

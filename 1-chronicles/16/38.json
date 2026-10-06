@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 16:38",
+  "book": "1-chronicles",
+  "lang": "da",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "antal",
+      "rationale": "otteogtres tælles op — navneliste med portvogtertal."
+    },
+    {
+      "kind": "alternative",
+      "subject": "deres brødre",
+      "rationale": "hebraisk 'deres' (flertal), selvom Oved-Edom er én — måske bygger på v. 37s 'sine brødre'; flertallet bevares."
+    }
+  ],
+  "translation": "og Oved-Edom og deres brødre, otteogtres; og Oved-Edom, søn af Jidutun, og Chosa som portvogtere.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "3545cb9943cc5bdc9ae198d2058d5217bc3ce5da43cebccbbf9cb11d4a6bd222",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/1-chronicles\/16\/38-38.1791264598143.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְעֹבֵ֥ד",
+      "gloss": "og Oved"
+    },
+    {
+      "surface": "אֱדֹ֛ם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וַאֲחֵיהֶ֖ם",
+      "gloss": "og deres brødre"
+    },
+    {
+      "surface": "שִׁשִּׁ֣ים",
+      "gloss": "tres"
+    },
+    {
+      "surface": "וּשְׁמוֹנָ֑ה",
+      "gloss": "og otte"
+    },
+    {
+      "surface": "וְעֹבֵ֨ד",
+      "gloss": "og Oved"
+    },
+    {
+      "surface": "אֱדֹ֧ם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יְדִית֛וּן",
+      "gloss": "af Jidutun"
+    },
+    {
+      "surface": "וְחֹסָ֖ה",
+      "gloss": "og Chosa"
+    },
+    {
+      "surface": "לְשֹׁעֲרִֽים",
+      "gloss": "som portvogtere"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:58.147904878Z",
+  "model": "glm-5.3"
+}

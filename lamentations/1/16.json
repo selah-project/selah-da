@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 1:16",
+  "book": "lamentations",
+  "lang": "da",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עיני עיני",
+      "rationale": "Gentagelsen 'mit øje, mit øje' er hebraisk klagesprog; gengivet ordret."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש er livskraft\/ånde; 'sjæl' er nærmeste danske ord, jf. reglen om sjæl\/liv."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משיב נפשי",
+      "rationale": "'den som vender min sjæl tilbage' — bibelsk idiom for at give livet tilbage; beholdt billedet frem for 'friske op'."
+    }
+  ],
+  "translation": "Over disse ting græder jeg, mit øje, mit øje, strømmer med vand, for langt væk fra mig er ⟨den⟩ som trøster, ⟨den⟩ som vender min sjæl tilbage; mine sønner er blevet øde, for fjenden har vist sig stærk.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "266720c813771bb430230c2dc6e9b0559dce4492e98e7586532ddd43baeb57dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/lamentations\/1\/16-16.1791264623909.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "disse ting"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "בוכיה",
+      "gloss": "græder"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mit øje"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "strømmer"
+    },
+    {
+      "surface": "מים",
+      "gloss": "med vand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "langt væk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fra mig"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "trøster"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "vend(er) tilbage"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "min sjæl"
+    },
+    {
+      "surface": "היו",
+      "gloss": "er blevet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mine sønner"
+    },
+    {
+      "surface": "שוממים",
+      "gloss": "øde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "har vist sig stærk"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fjenden"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:23.914109846Z",
+  "model": "glm-5.3"
+}

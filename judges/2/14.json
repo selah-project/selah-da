@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 2:14",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Hebraisk: 'næsen brændte' — vrede som fysisk billede; gengivet som 'vrede blussede op'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שסים \/ וישסו",
+      "rationale": "Rod-gentagelse: 'røvere, og de plyndrede' — samme rod שׁסה bevaret i dansk med 'røvere\/plyndrede'"
+    }
+  ],
+  "translation": "Og Jahves vrede blussede op mod Jisrael, og han gav dem i hånden på røvere, og de plyndrede ⟨את⟩ dem, og han solgte dem i hånden på deres fjender rundt omkring, og de kunne ikke længer stå foran deres fjender.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "21a223173555391cb7dda6b8f2983b9bb0f89e2af65716a10dd93239cc9de769",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/judges\/2\/14-14.1791264533735.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "blussede op"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mod Jisrael"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "og han gav dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånden på"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "røvere"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "og de plyndrede"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dem"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "og han solgte dem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i hånden på"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deres fjender"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rundt omkring"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kunne de"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "længer"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stå"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "foran"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "deres fjender"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:53.739591504Z",
+  "model": "glm-5.3"
+}

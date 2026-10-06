@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "נשמת רוח חיים er bogstaveligt 'åndedrag af livets ruach'; ruach bevares ifølge D2, ingen valg mellem ånd og vind"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשמת\/רוח",
+      "rationale": "dobbelt ånde-ord: hebraisk stabler to ord for pust (nishmat + ruach); dansk nøjes med 'åndedrag af livs-ruach'"
+    }
+  ],
+  "translation": "Alt i hvis næsebor der var åndedrag af livs-ruach, af alt hvad der var på det tørre land, døde.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a9bd20d7dd9d150928d5afdf8ca845710269d88b5edd9697139d80b901b5b18e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/7\/22-22.1791264527762.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "åndedrag"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "livs"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "i hvis næsebor"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af alt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvad"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "på det tørre land"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "døde"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:47.766608504Z",
+  "model": "glm-5.3"
+}

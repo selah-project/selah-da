@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 15:7",
+  "book": "judges",
+  "lang": "da",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'Hvis I gør sådan, dog\/sandelig' — det dobbelte אם ... כי אם kan læses betinget ('hvis') eller indrømmende ('skønt I har gjort dette', KJV\/Geneva)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם ... כי אם",
+      "rationale": "Gentagelsen af אם to gange er en retorisk spænding, delvist tabt i dansk."
+    }
+  ],
+  "translation": "Og Shimshon sagde til dem: Hvis I gør sådan, skal jeg hævne mig på jer, og bagefter holder jeg op.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "d4d283ba68c790428385583710117ebffc10da4bb37d1a6c05bfeb11e68dfa20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/judges\/15\/7-7.1791264539417.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "til dem"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvis"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "gør I"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "sådan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sandelig"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dog"
+    },
+    {
+      "surface": "נקמתי",
+      "gloss": "skal jeg hævne mig"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "på jer"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og bagefter"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "holder jeg op"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:59.425431734Z",
+  "model": "glm-5.3"
+}

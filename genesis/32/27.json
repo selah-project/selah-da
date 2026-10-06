@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebraisk 'for hvis ikke' gengivet som 'uden at \/ medmindre', Jaakovs betingelse."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Dansk kræver kopula ved 'morgenrøden er steget op'."
+    }
+  ],
+  "translation": "Og han sagde: Send mig bort, for morgenrøden er steget op. Og han sagde: Jeg sender dig ikke bort, uden at du velsigner mig.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "4aa263cc24ba5da77c17bd229458429241753eaf9966ad6b3006c0da8bf18e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/32\/27-27.1791264542547.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Send mig bort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "er steget op"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "morgenrøden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og han sagde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "jeg sender dig bort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uden at"
+    },
+    {
+      "surface": "אם",
+      "gloss": "medmindre"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "du velsigner mig"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:02.552628654Z",
+  "model": "glm-5.3"
+}

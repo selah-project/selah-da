@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Han",
+      "rationale": "Hebraisk udelader subjektspronomenet; dansk kræver det for, at sætningen skal stå"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש ... לבש",
+      "rationale": "Gentagelsen af 'iklædt sig' — i hebraisk en dobbelt iklædning (højhed, så styrke), som gentagelsen bærer"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלך",
+      "rationale": "Inceptiv 'er trådt frem som konge' vs. status 'er konge\/regerer' — roden kan betyde tronbestigelse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "'den beboede verden\/jordkredsen' — gengivet som jorden; det fugtige, beboede landblik går tabt"
+    },
+    {
+      "kind": "elision",
+      "subject": "תבל",
+      "rationale": "Substantivet står uden præposition som emne; placeret efter verbet, i dansk flyttet frem og markeret med ⟨…⟩"
+    }
+  ],
+  "translation": "Jahve er konge, ⟨Han⟩ har iklædt sig højhed, Jahve har iklædt sig styrke, ⟨Han⟩ har omgjordet sig ⟨dermed⟩; ja, ⟨jorden⟩ står fast, den kan ikke rokkes.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "c0a8724ce1e94ccba62f277d5f34a65730662cd9591a12fcba614c2c013019fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/93\/1-1.1791264606475.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "er konge"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "højhed"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "har iklædt sig"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "har iklædt sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrke"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "har omgjordet sig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "står fast"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨jorden⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kan rokkes"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:06.479509417Z",
+  "model": "glm-5.3"
+}

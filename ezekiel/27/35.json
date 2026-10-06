@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 27:35",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעמו פנים",
+      "rationale": "bogstaveligt 'deres ansigter tordner\/ramler'; gengivet som skælver voldsomt for at bevare billedet af voldsom uro"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעמו",
+      "rationale": "rod betyder at tumble\/komme i voldsom bevægelse (torden); gengivelser spænder fra 'kom i røre' til 'blev fortrødne' (Wycliffe) til 'forstyrrede i ansigtet'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שערו שער",
+      "rationale": "verbum og navneord af samme rod (שער) — 'gruer gru' bevarer rod-gentagelsen"
+    }
+  ],
+  "translation": "Alle øernes indbyggere er lamslåede over dig, og deres konger gruer gru — deres ansigter skælver voldsomt.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "b81b8a303234861688a88b40f8bc724760d82d0fab8ca1c4aa3bb0d47d92cbff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/ezekiel\/27\/35-35.1791264579183.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "indbyggere"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "øernes"
+    },
+    {
+      "surface": "שממו",
+      "gloss": "er lamslåede"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over dig"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "og deres konger"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "gruer"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gru"
+    },
+    {
+      "surface": "רעמו",
+      "gloss": "skælver voldsomt"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "deres ansigter"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:39.188637735Z",
+  "model": "glm-5.3"
+}

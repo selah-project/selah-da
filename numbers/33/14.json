@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 33:14",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sig",
+      "rationale": "Dansk kræver refleksivt pronomen ved 'lejrede sig'; hebraisk ויחנו har det ikke"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rejseoversigt",
+      "rationale": "4 Mos 33 er en optælling af stationer på ørkenvandringen — listen selv er en måling"
+    }
+  ],
+  "translation": "Og de brød op fra Alush og lejrede ⟨sig⟩ i Refidim, og der var ikke vand der ⟨til⟩ folket at drikke.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "5eed5099a74b28c661b52fae57906bca9f968d9b90c6fd41d4bdcc0319a8ce80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/numbers\/33\/14-14.1791264532998.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "og de brød op"
+    },
+    {
+      "surface": "מאלוש",
+      "gloss": "fra Alush"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "og lejrede ⟨sig⟩"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "i Refidim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vand"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "til folket"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "at drikke"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:53.002163249Z",
+  "model": "glm-5.3"
+}

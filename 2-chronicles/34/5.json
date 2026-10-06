@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "deres",
+      "rationale": "hebraisk מזבחותים har endelse, der angiver 'deres', men 'han' som subjekt er tilføjet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rensetede",
+      "rationale": "טהר er rituel renselse (kultisk uforurenet), ikke blot almindelig rengøring"
+    }
+  ],
+  "translation": "Og præsternes knogler brændte han på deres altre, og han rensetede ⟨את⟩ Juda og ⟨את⟩ Jerushalajim.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "43f6092657b1d409104f37e5b5052e8a0ba8138bdde60912bca741f781af5e3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-chronicles\/34\/5-5.1791264653522.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "Og knoglerne"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "præsternes"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brændte han"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "deres altre"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "og han rensetede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jerushalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:53.529654757Z",
+  "model": "glm-5.3"
+}

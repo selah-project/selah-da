@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 36:11",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebraisk mangler verbum i 'at jeg er Jahve'; dansk kræver kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mennesker og kvæg",
+      "rationale": "אדם og בהמה er kollektive singularis; dansk får flertal."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וידעתם כי אני יהוה",
+      "rationale": "'I skal vide, at jeg er Jahve' — Ezekiels faste erkendelsesformel, gentaget gennem bogen."
+    },
+    {
+      "kind": "you",
+      "subject": "Israels bjerge\/land",
+      "rationale": "Direkte tiltale til landet, som Jahve taler til i hele Ezekiel 36."
+    }
+  ],
+  "translation": "Og jeg vil mangfoldiggøre over jer mennesker og kvæg, og de skal blive mange og bære frugt; og jeg vil genbosætte jer ⟨את⟩ som jeres fordums tid, og jeg vil gøre godt mod jer, mere end ved jeres begyndelser, og I skal vide, at jeg er Jahve.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "61472ba9883ac90e04d30c6ed142f5cc40bbe7ceb8d9fccdefe0a192fef16e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/ezekiel\/36\/11-11.1791264592945.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "og jeg vil mangfoldiggøre"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "over jer"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mennesker"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "og kvæg"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "og de skal blive mange"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "og bære frugt"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "og jeg vil genbosætte"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩jer",
+      "marks": "som jeres fordums tid"
+    },
+    {
+      "surface": "כקדמותיכם",
+      "gloss": "som jeres fordums tid"
+    },
+    {
+      "surface": "והטבתי",
+      "gloss": "og jeg vil gøre godt"
+    },
+    {
+      "surface": "מראשתיכם",
+      "gloss": "mere end ved jeres begyndelser"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "og I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "er Jahve"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:52.950963575Z",
+  "model": "glm-5.3"
+}

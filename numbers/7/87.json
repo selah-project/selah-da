@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "numbers 7:87",
+  "book": "numbers",
+  "lang": "da",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "og-tyve",
+      "rationale": "Hebraisk siger 'to ti' — dansk ét ord 'tolv', så tallet splittes over to tokens"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה beholdes som mincha, ikke 'madoffer', i overensstemmelse med D2"
+    },
+    {
+      "kind": "measurement",
+      "subject": "alterindvielsen",
+      "rationale": "verset er en totalopgørelse af alle stammernes ofre: tolv af hvert dyr"
+    }
+  ],
+  "translation": "Al kvæget til brændofferet: tolv tyre, tolv væddere, tolv lam, etårige, tolv, og deres mincha; og bukkene af gederne tolv til syndoffer.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "5252678de93f6cafaa6c7bfb37be209c124406456251d3938aba516facfd971c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/numbers\/7\/87-87.1791264537670.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kvæget"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brændofferet"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨og-tyve⟩"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "tyre"
+    },
+    {
+      "surface": "אילם",
+      "gloss": " væddere"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨og-tyve⟩"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "etårige"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "år"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨og-tyve⟩"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "og deres mincha"
+    },
+    {
+      "surface": "ושעירי",
+      "gloss": "og bukkene"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "af gederne"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨og-tyve⟩"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "til syndoffer"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:57.673701095Z",
+  "model": "glm-5.3"
+}

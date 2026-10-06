@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joel 2:27",
+  "book": "joel",
+  "lang": "da",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebraisk mangler kopula ved אני; dansk kræver 'er'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nogen andre",
+      "rationale": "עוד betyder 'mere\/en anden'; dansk gengivet med tilføjet 'nogen'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני ... ואני",
+      "rationale": "Gentagelsen af 'jeg' understreger Jahves selverklæring; bibelsk hebraisk understregelsesmønster"
+    }
+  ],
+  "translation": "Og I skal vide, at jeg er i Jisraels midte, og jeg er Jahve, jeres Elohim, og der er ingen andre, og mit folk skal aldrig nogensinde blive til skamme, til evig tid.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "baae2c9835c2540a6b2d2affd85cb64dd2c5a498a3f3ba5c9fd183b329f94f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/joel\/2\/27-27.1791264591387.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Og I skal vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "at"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "i midten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jeg er"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og jeg er"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jeres Elohim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der er ikke"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nogen andre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ikke"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skal de blive til skamme"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mit folk"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til evig tid"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:51.391682071Z",
+  "model": "glm-5.3"
+}

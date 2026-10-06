@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "da",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגלגל",
+      "rationale": "Ordet betyder 'hjul\/hvirvel'; KJV læser 'himmelen', de fleste 'hvirvelvinden' — 'hvirvelvinden' følger den billedlige kerne."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Hebraisk har ingen את i denne verslinje; den viste ⟨את⟩ i oversættelsen er fejlagig og skal ikke være der — teksten lyder uden den."
+    }
+  ],
+  "translation": "Din tordens røst var i hvirvelvinden; lynene oplyste ⟨את⟩ verden; jorden skjalv og rystede.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "cbbfe77594087f160e9be9dcced32be502788246ec95ab8c8ed0d16b86e71526",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/psalms\/77\/19-19.1791264601874.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "røst"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "din tordens"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "i hvirvelvinden"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "oplyste"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "lynene"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "verden"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "skjalv"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "og rystede"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:01.878066150Z",
+  "model": "glm-5.3"
+}

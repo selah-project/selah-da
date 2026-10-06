@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "da",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebraisk mangler kopula; dansk kræver den"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אמת עשית",
+      "rationale": "Bogstaveligt 'du har gjort emet\/trofasthed'; gengivet som 'handlet i trofasthed'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשית \/ הרשענו",
+      "rationale": "Bekendelsens kontrast: samme verbum 'gøre' mod 'gøre ondt' — רשע står mod צדיק"
+    }
+  ],
+  "translation": "Og du er tsadik — retfærdig — over alt det, der er kommet over os; for du har handlet i emet — trofasthed — men vi har handlet ondt.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "dffad4a83a687c08bf30a18c5a53394f6f71821993b4d7df3787d341b120042d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/nehemiah\/9\/33-33.1791264633735.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "retfærdig"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "det, der er kommet"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "over os"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "i trofasthed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "har handlet"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "men vi"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "har handlet ondt"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:33.740332247Z",
+  "model": "glm-5.3"
+}

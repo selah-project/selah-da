@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 9:14",
+  "book": "2-kings",
+  "lang": "da",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "Hebraisk ' fra ansigtet af' = ' på grund af \/ over for'; gengivet bogstaveligt for at bevare billedet"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתקשר",
+      "rationale": "'bandt sig sammen' — sammensværgelse eller pagt; Wycliffe har 'swore together', KJV 'conspired'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שמר",
+      "rationale": "'vogtede\/holdt' Ramot — kan også betyde 'var i garnison i' (BSB: defending)"
+    }
+  ],
+  "translation": "Så sammensvor Jehu, søn af Jehosjafat, søn af Nimshi, sig mod Joram. (Og Joram vogtede Ramot i Gilad, han og hele Jisrael, for Chazaëls ansigt, kongen af Aram.)",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "815b58c9481952c88ef55ce1372f714bdafce0e7b97de5ccd0f4ea249392e4bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-kings\/9\/14-14.1791264590494.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקשר",
+      "gloss": "sammensvor sig"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "af Jehosjafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "søn"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "af Nimshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mod"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "ויורם",
+      "gloss": "Og Joram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vogtede"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "i Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "han"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "for ansigtet af"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "af Aram"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:50.499059911Z",
+  "model": "glm-5.3"
+}

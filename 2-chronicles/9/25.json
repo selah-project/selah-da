@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 9:25",
+  "book": "2-chronicles",
+  "lang": "da",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אֻרְיוֹת",
+      "rationale": "'stader\/foldedre' (hebraisk אֻרְוָה) mod 1 Kong 5,8 som har 40.000; her fire tusinde — talafvigelsen mellem de to beretninger er gammel kendt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פָּרָשִׁים",
+      "rationale": "ordet kan betyde både 'stride heste til vogne' og 'ryttere'; 'ryttere' valgt som i de ældre danske bibler"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fire tusinde … tolv tusinde",
+      "rationale": "verset er en ren opgørelse over Shelomos hestebesætning"
+    }
+  ],
+  "translation": "Og Shelomo havde fire tusinde stader til heste og vogne og tolv tusinde ryttere; og han anbragte dem i vogn-stæderne og hos kongen i Jerushalajim.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "e78faedd9a61cb4d463020f9c50f0f63b9a57e9ac496741e666be1d2758f14b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/2-chronicles\/9\/25-25.1791264657101.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og der var"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "til Shelomo"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "fire"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "stader"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "heste"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "og vogne"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og tolv"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tolv)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tusinde"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ryttere"
+    },
+    {
+      "surface": "ויניחם",
+      "gloss": "og han anbragte dem"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "i stæderne"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vogn-"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og hos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kongen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "i Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:57.108641960Z",
+  "model": "glm-5.3"
+}

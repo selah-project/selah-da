@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יום יום",
+      "rationale": "Bogstaveligt 'dag dag' = dag efter dag."
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא … לשכב \/ להיות",
+      "rationale": "Det ene לא rækker negationen ud over begge infinitiver; dansk gentager negationen 'ikke' for hver."
+    }
+  ],
+  "translation": "Og det skete, mens hun talte til Yosef dag efter dag, at han ikke hørte hende, ikke for at ligge hos hende, ikke for at være med hende.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a07171155c7129d34031b635109b831cce0ee11d373f8152f76a6e9a809ed81e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/39\/10-12.1791264555994.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "mens hun talte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "efter dag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "at han ikke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hørte"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hende"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ikke for at ligge"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "hos hende"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ikke for at være"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "med hende"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:16.001171691Z",
+  "model": "glm-5.3"
+}

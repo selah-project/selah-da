@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 45:5",
+  "book": "jeremiah",
+  "lang": "da",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Baruch",
+      "rationale": "Direkte tiltale til Baruch, Jahves ord til ham gennem Jeremia."
+    },
+    {
+      "kind": "addition",
+      "subject": "ting",
+      "rationale": "Hebraisk גדלות står alene ('storheder'); dansk kræver et hovedord."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dit liv",
+      "rationale": "נפשך er 'din nefesh' — din sjæl\/livskraft; 'liv' er den naturlige danske gengivelse her."
+    },
+    {
+      "kind": "elision",
+      "subject": "der",
+      "rationale": "Hebraisk שם ('der') gentager stedsangivelsen og er opfanget i 'hvor du går hen'."
+    }
+  ],
+  "translation": "Og du — søger du dig store ting? Søg ikke, for se, mig, jeg fører ulykke over alt kød, siger Jahve, og jeg giver dig ⟨את⟩ dit liv som bytte på alle de steder, hvor du går hen.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "e5c01bbf1dd183d1f7113d6dfb59a9cf823acf0a0e6d8f21f9f967197b3e53a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/jeremiah\/45\/5-5.1791264566160.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og du"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "søger"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "store ting"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ikke"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "søg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "se, mig"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "jeg fører"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ulykke"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kød"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "siger"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og jeg giver"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit liv"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "dit liv"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "som bytte"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "de steder"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hvor"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "du går hen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:26.165923391Z",
+  "model": "glm-5.3"
+}

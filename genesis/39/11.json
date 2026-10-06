@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 39:11",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהיום הזה",
+      "rationale": "Bogstaveligt 'som dagen denne' — 'på en dag som denne' eller 'omkring denne tid'; det hebraiske udtryk er dunkelt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית",
+      "rationale": "Ordet 'hus' står fire gange i verset og bærer scenen; gentagelsen bevares i dansk."
+    }
+  ],
+  "translation": "Og det skete en dag som den dag, at han kom ind i huset for at gøre sit arbejde, og der var ikke en mand af husets mænd der i huset.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "a07171155c7129d34031b635109b831cce0ee11d373f8152f76a6e9a809ed81e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/39\/10-12.1791264555994.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og det skete"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "en dag som"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "den dag"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "at han kom"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ind i huset"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "for at gøre"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "sit arbejde"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og der var ikke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "en mand"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "af husets mænd"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "husets"
+    },
+    {
+      "surface": "שם",
+      "gloss": "der"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i huset"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:16.004639305Z",
+  "model": "glm-5.3"
+}

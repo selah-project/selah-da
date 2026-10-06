@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "da",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Aramæisk hawat (הוית) er verbum, men dansk kræver en fastere kopulaform i sætningen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "frodig",
+      "rationale": "ra'anan (ורענן) betyder bogstaveligt 'grøn\/sprød' — billedligt 'blomstrende'; grøn-billedet er tabt på dansk"
+    }
+  ],
+  "translation": "Jeg, Nevukadnetsar, var i ro i mit hus og frodig i mit palads.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "1b1cacf3ab5effe026b2e6599108234b360cd64b058de8490486f4fb8f308eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/daniel\/4\/1-1.1791264623148.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Jeg"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "i ro"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "var"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "i mit hus"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "og frodig"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "i mit palads"
+    }
+  ],
+  "timestamp": "2026-10-06T05:30:23.152571666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 26:16",
+  "book": "ezekiel",
+  "lang": "da",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרדות ילבשו",
+      "rationale": "Bogstaveligt 'de skal iføre sig rystelser' — skælven som beklædning, klædt i frygt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרגעים",
+      "rationale": "Roden betyder et øjekast\/blink — 'et øjeblik', en meget kort stund."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וחרדו ... ושממו",
+      "rationale": "Assonans mellem verbformerne for skælven og forfærdelse, delvis bevaret i dansk."
+    }
+  ],
+  "translation": "Og alle havets høvdinger skal stige ned fra deres troner, og de skal tage deres kapper af og ⟨את⟩ deres broderede klæder skal de flå af; skælven skal de iføre sig, på jorden skal de sidde og skælve hvert øjeblik og være forfærdede over dig.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "30f8d0c4ff9fbe9664fa98d1f514eb3f753dc7d6ac59e47208497b347ba5c986",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/ezekiel\/26\/16-16.1791264576662.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "og de skal stige ned"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fra"
+    },
+    {
+      "surface": "כסאותם",
+      "gloss": "deres troner"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "høvdinger"
+    },
+    {
+      "surface": "הים",
+      "gloss": "havets"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "og de skal tage af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deres kapper"
+    },
+    {
+      "surface": "מעיליהם",
+      "gloss": "deres kapper"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "deres broderede klæder"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæder"
+    },
+    {
+      "surface": "רקמתם",
+      "gloss": "deres broderede"
+    },
+    {
+      "surface": "יפשטו",
+      "gloss": "skal de flå af"
+    },
+    {
+      "surface": "חרדות",
+      "gloss": "skælven"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "skal de iføre sig"
+    },
+    {
+      "surface": "על",
+      "gloss": "på"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jorden"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "skal de sidde"
+    },
+    {
+      "surface": "וחרדו",
+      "gloss": "og skælve"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "hvert øjeblik"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "og være forfærdede"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "over dig"
+    }
+  ],
+  "timestamp": "2026-10-06T05:29:36.670775943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "da",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הוא",
+      "rationale": "Hebraisk 'hun\/det er' — indskudt forklarende ord, gengivet med 'det er' som parentes"
+    },
+    {
+      "kind": "addition",
+      "subject": "over hende",
+      "rationale": "Hebraisk endelse -הּ i ולבכתה bærer 'hende', dansk kræver selvstændige ord"
+    }
+  ],
+  "translation": "Og Sarah døde i Kirjat-Arba — det er Chevron — i landet Kenaan; og Avraham kom for at holde klage over Sarah og for at græde over hende.",
+  "provenance": {
+    "system-sha256": "f5d1f841fc333434ed5456e8f7e508d11c6a9e52970e15ce230f5516efc1cf55",
+    "user-sha256": "303daa60e15c681d410688de20f2110176e3590bcd8de985ca4f1c94ddea5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/da\/genesis\/23\/2-2.1791264529798.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "og døde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "i Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "det er"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "i landet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "for at holde klage"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "over Sarah"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "og for at græde over hende"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:49.803254445Z",
+  "model": "glm-5.3"
+}
